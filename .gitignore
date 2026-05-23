@@ -177,3 +177,8 @@ datanlp/models/
 *.bin
 __pycache__/
 *.pyc
+nlp/models/
+*.safetensors
+*.bin
+__pycache__/
+*.pyc
