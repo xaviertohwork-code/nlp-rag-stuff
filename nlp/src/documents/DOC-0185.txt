@@ -1,0 +1,60 @@
+# CYANITE INDUSTRIES — FIELD OPERATIONS DIVISION
+## Field Log: Blackshore Mineral Survey — Site BS-17
+**Classification: YELLOW**
+**Document Ref:** CI-BLK-FL-BS17-76-07-14
+**Author:** Field Geologist Tomas Halvryn
+**Date:** 76-07-14
+**Survey Team Lead:** Halvryn, T.
+
+---
+
+**TEAM COMPOSITION**
+Field team: 6 geologists, 12 support personnel. Total 18 on-site. Equipment staged at the southern access track.
+
+---
+
+**06:40 — Site Arrival / Location Confirmation**
+
+On-site at BS-17. Confirmed position: 3.2 km inland from Blackshore's southern coastline, bearing 347° from the coastal survey marker established in last season's preliminary pass. Ground access is rough but workable. Weather overcast, moderate wind off the coast — good enough. Set up core station Alpha by 07:15.
+
+---
+
+**08:30 — Initial Surface Assessment**
+
+Surface expression consistent with prior remote sensing: dark volcanic material, dense, tight-grained. Heavy basalt intrusion throughout the upper exposed stratigraphy. Already not loving this. Conventional rotary drill struggling from first contact — we've chewed through two carbide bits getting the first core to 12 m. The volcanic basalt underlying this whole site is going to be a recurring problem for conventional drilling equipment. Flagging for extraction planning review before anyone gets excited about scaling up.
+
+---
+
+**10:55 — Core Sample Results**
+
+Three cores retrieved: Alpha-1 (12 m), Alpha-2 (18 m), Beta-1 (9 m lateral offset).
+
+Lab-grade assay from portable XRF unit:
+
+- **Titanium ore:** 4.7% by weight across all three cores. Consistent with preliminary spectral estimates. Per CI extraction thresholds, 4.7% titanium ore concentration is classified as commercially viable. This is the primary commercial finding at BS-17.
+- **Iron silicates:** 31% — expected, not economically significant at current pricing.
+- **Rare earth elements (trace):** Neodymium detected at 0.3% concentration. Several other REEs below threshold. To be clear: the rare earths here are trace-level findings, not a primary commercial focus. Neodymium at 0.3% is worth logging but this is not an REE play. Titanium is what we're here for.
+- **Sulfide content:** Low. That's a small mercy.
+
+---
+
+**13:20 — Reserves Estimate (Preliminary)**
+
+Based on core consistency, surface mapping, and extrapolation from the BS-12 through BS-16 corridor data, estimated extractable reserves at BS-17 are **1.4 million metric tons of mixed ore**. Confidence: moderate-high, pending Beta sector coring tomorrow. Would not expect the figure to shift dramatically.
+
+---
+
+**15:10 — Geological Substrate Notes**
+
+The basalt is the story here. The volcanic activity responsible for Blackshore's distinctive mineral composition — the same process that makes these deposits worth surveying — is also what makes the rock impossibly stubborn to drill through with standard equipment. Whoever specced this survey for conventional rigs has clearly never stood here. Recommend heavy-duty pneumatic or thermal-assist options for any production-phase drilling. Otherwise we'll be replacing bits on the half-hour.
+
+---
+
+**16:45 — End of Day Notes**
+
+Good data day despite the equipment headaches. Core integrity solid. Tomorrow: Beta sector expansion, complete lateral mapping of the southern depression. Weather holding. Team morale acceptable — the 12 support personnel are handling the rough terrain without complaint, which is more than I can say for the drills.
+
+---
+
+*Halvryn, T. — Field Geologist, Cyanite Industries*
+*Log continues: BS-17 Day 2 — 76-07-15*

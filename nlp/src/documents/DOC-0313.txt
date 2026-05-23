@@ -1,0 +1,76 @@
+# GENESIS LABS
+## INTERNAL MEMORANDUM
+
+**CLASSIFICATION:** CONFIDENTIAL
+**TO:** Senior Leadership Committee
+**FROM:** Office of Operations, Genesis Labs
+**DATE:** 75-04-10 PCE (2117-04-10 CE)
+**RE:** Opting Rehabilitation Clinic Expansion Plan — 75–76 PCE
+**DOCUMENT REF:** GL-OPS-0313-75
+
+---
+
+### SECTION 1: CURRENT OPERATIONS SUMMARY
+
+As of Q1 75 PCE, Genesis Labs maintains active Opting rehabilitation clinic operations both within Haven and across several external territories, including our primary regional presence in Tavenport. These facilities are wholly independent Genesis Labs operations and are distinct from our Somatic Clinic network; the two service lines operate under separate administrative structures, distinct staffing pools, and separate budget authorities.
+
+**Haven Somatic Clinic Network:** The Haven network currently comprises six (6) dedicated Somatic Clinics distributed across the Haven Island Special Economic Zone, the majority concentrated in East Haven adjacent to Helix Tower. Expansion planning for 76 PCE targets growth of this network; the figure of six clinics represents the current operational baseline pending approval of the allocation proposals in Section 3 below.
+
+**External Somatic Clinic Network:** Our largest Somatic Clinic outside Haven remains the Tavenport facility on Zonnon Island, Republic of Zonnon, which continues to serve as our primary external research and clinical hub and carries the highest patient throughput of any Genesis Labs facility outside Haven Island.
+
+**Opting Rehabilitation Network:** Genesis Labs operates Opting rehabilitation clinics across Haven and external territories. These clinics provide supervised Edge-nanobot purging services and longitudinal recovery support. Operational data from 74 PCE confirms improving throughput and patient outcome metrics. Full utilization figures are appended as Exhibit A (CONFIDENTIAL).
+
+---
+
+### SECTION 2: EXPANSION PLAN — 76 PCE
+
+The proposed expansion encompasses three workstreams:
+
+1. **Haven Opting Clinic Capacity:** Addition of two (2) supplemental rehabilitation suites at existing Haven clinic sites, targeting an estimated 18% increase in annual patient throughput.
+2. **External Opting Clinic Footprint:** Establishment of two (2) new Opting rehabilitation clinic sites in external territories — one in the Sharpsea Bloc region and one in a secondary Haven-adjacent zone. Site selection assessments are underway.
+3. **Haven Somatic Clinic Network:** Evaluation of one (1) additional dedicated Somatic Clinic in Haven to address identified demand gaps in West Haven, subject to regulatory clearance and site availability.
+
+---
+
+### SECTION 3: BUDGET ALLOCATION
+
+| Line Item | 75 PCE Allocation (ΦCr) | Proposed 76 PCE Allocation (ΦCr) |
+|---|---|---|
+| Haven Opting Clinics — Operations | 4,200,000 | 5,100,000 |
+| External Opting Clinics — Operations | 6,800,000 | 8,400,000 |
+| Haven Somatic Clinics — Operations | 11,300,000 | 12,600,000 |
+| External Somatic Clinics — Operations | 9,700,000 | 10,200,000 |
+| Expansion Capital (New Sites) | 2,500,000 | 7,800,000 |
+| **Total** | **34,500,000** | **44,100,000** |
+
+Finance has confirmed provisional availability of the proposed 76 PCE envelope pending Senior Leadership Committee sign-off.
+
+---
+
+### SECTION 4: PATIENT VOLUME PROJECTIONS — 76 PCE
+
+Projected aggregate patient volumes across the Opting rehabilitation network are forecast to increase approximately 22% year-on-year, driven principally by continued growth in Haven-resident Edge opt-out demand and expanding referral relationships in external territories. Somatic Clinic volumes across both Haven and external sites are projected to grow 14–17%, contingent on regulatory approvals referenced in Section 5.
+
+---
+
+### SECTION 5: REGULATORY AND EXTERNAL CHALLENGES
+
+**BCO Compliance:** All Somatic Clinic facilities maintain compliance with applicable CGC Bioregulatory Compliance Office standards. No outstanding compliance deficiencies are noted as of this memo's date.
+
+**TEC Objection Filing:** Genesis Labs has received formal communication from The Edge Corporation contesting Genesis Labs' independent operation of Opting rehabilitation clinics. For the avoidance of doubt, these clinics are entirely a Genesis Labs undertaking and have never been a joint venture with TEC or any other party; TEC's communication appears to proceed from a mischaracterization of the nature of our operations, or represents a deliberate attempt to assert an interest where none legally exists. Genesis legal counsel has reviewed the filing and considers it without merit. No operational changes are warranted at this time. The matter is being tracked; updates will be provided if the posture changes.
+
+---
+
+### SECTION 6: APPROVAL
+
+This memo is submitted for Senior Leadership Committee review and approval of the proposed 76 PCE budget allocations and expansion workstreams outlined in Section 2.
+
+---
+
+**APPROVED:**
+
+*C. Mullin — Founder, CEO/CSO, Genesis Labs*
+*75-04-10 PCE*
+
+---
+*CONFIDENTIAL — AUTHORIZED INTERNAL CIRCULATION ONLY — GL-OPS-0313-75*

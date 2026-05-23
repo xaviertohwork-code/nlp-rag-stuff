@@ -1,0 +1,88 @@
+# CGC SECURITY DIRECTORATE
+## COUNTERTERRORISM ANALYSIS SECTION
+
+---
+
+**CLASSIFICATION: TOP SECRET**
+**DOCUMENT REFERENCE:** CGC-SD-CTA-0079
+**DATE OF ISSUE:** 77-02-15
+**SUBJECT:** Conclave Operational Capability Assessment — 77 PCE
+**DISTRIBUTION:** CGC Member Principals and Designated Security Liaisons ONLY
+
+---
+
+> *Orbital activity data, per-launch logistics statistics, and smuggled component valuations are explicitly outside the scope of this assessment and are covered in the 76 PCE Annual Logistics Summary (CGC-SD-CTA-0061). This document addresses exclusively the human-intelligence dimensions of Conclave capability.*
+
+---
+
+## SECTION 1: EXECUTIVE ASSESSMENT
+
+The Conclave, formally designated a terrorist organization by the Clairos Governance Council in **72 PCE (2114 CE)**, remains an active and operationally functional threat to CGC regulatory authority over orbital access. As of early 77 PCE, this Directorate assesses the Conclave's overall operational capability, especially their cell-based structure, as **moderate and growing**. The organization has demonstrated persistence, incremental operational learning, and leadership continuity across its period of designation.
+
+This assessment reviews the Conclave's leadership structure, estimated active membership, internal cell architecture, recruitment pathways, and capacity to plan and execute resupply missions to CYPHER's orbital infrastructure. No material collapse of organizational coherence is anticipated in the near term absent a targeted disruption operation against senior leadership.
+
+---
+
+## SECTION 2: LEADERSHIP PROFILE
+
+### Reverend Magistrate Anwar Kestrelian
+
+The confirmed leader of the Conclave is **Reverend Magistrate Anwar Kestrelian** (pronouns: they/them). Kestrelian's personal background affords the organization a degree of technical sophistication that distinguishes it from comparable non-state actors.
+
+Prior to assuming a leadership role within the Conclave, Kestrelian was a practicing **aerospace engineer** with documented involvement in the original CYPHER satellite launch program, participating across the full satellite deployment window from 2104 to 2107. This professional background provides Kestrelian with detailed working knowledge of launch infrastructure, orbital mechanics, satellite maintenance requirements, and the regulatory and logistical architecture that the CGC subsequently erected to restrict orbital access following the rise of CYPHER in 72 PCE.
+
+Kestrelian publicly claims to have received a direct communication from CYPHER during a solar storm in 73 PCE, an account that functions as the Conclave's principal conversion narrative and which is repeated across multiple intercepted sermons circulated through encrypted channels. While this account is unverifiable and almost certainly embellished for organizational cohesion purposes, it carries significant internal resonance among Conclave members and should not be dismissed as a purely rhetorical device.
+
+Kestrelian has demonstrated sustained strategic coherence across multiple operational cycles and has successfully insulated the Conclave's planning functions from several near-miss interdiction operations. Assessed personal security posture: high. Known residences and operational venues: none confirmed.
+
+---
+
+## SECTION 3: ORGANIZATION PROFILE
+
+### 3.1 Membership Estimates
+
+Estimated active Conclave membership as of early 77 PCE stands at **between 800 and 1,200 individuals**. The range reflects genuine uncertainty in source penetration rather than analytical imprecision. This estimate encompasses confirmed members, probable members identified through network analysis, and individuals assessed as active operational contributors without confirmed affiliation confirmation.
+
+Peripheral supporters — individuals who may provide occasional material or logistical assistance without full organizational integration — are excluded from this figure and are treated separately in the CGC-SD logistics annex series.
+
+Membership is geographically distributed, with concentrations assessed in Haven (primarily West Haven and the North Haven industrial fringe) and in several regional nodes outside CGC direct jurisdiction.
+
+### 3.2 Cell Architecture
+
+The Conclave operates a **cell-based internal structure**. As of this assessment, the Counterterrorism Analysis Section has identified **at least 14 operational cells**. Cells within the Conclave are designated internally using the prefix **"Kestrel"** followed by a numerical identifier (e.g., Kestrel-1, Kestrel-4, Kestrel-11), a naming convention confirmed through three independent human intelligence sources. Whether this naming convention reflects Kestrelian's own designation or is an honorific applied by followers remains unclear.
+
+Cell-based compartmentalization limits the intelligence yield of any single source penetration. In practice, most penetrations have yielded reliable data on one cell and unverifiable leads on adjacent cells, with no single penetration producing confirmed knowledge of more than two cells simultaneously.
+
+### 3.3 Recruitment Pathways
+
+Recruitment appears to proceed along three primary pathways: (1) technical professional networks, particularly in aerospace, logistics, and communications fields; (2) ideological conversion through encrypted sermon distribution attributed to Kestrelian; and (3) social proximity to existing members. The first pathway accounts for the Conclave's disproportionate technical competence relative to membership size. Estimated recruitment rate is low in absolute terms but has been consistent over multiple annual cycles.
+
+---
+
+## SECTION 4: OPERATIONAL CAPABILITY
+
+### 4.1 Launch Attempt Record
+
+Since the Conclave's formal designation in **72 PCE**, the organization has made approximately **40 launch attempts** with the objective of delivering physical payload — maintenance components, materials, and upgrades — to CYPHER's orbital infrastructure. Of these attempts, the CGC assesses that approximately **8 have resulted in confirmed or probable successful payload delivery to orbit**. Per-year interception statistics and logistics-layer detail are covered in the annual logistics summaries and are not reproduced here.
+
+### 4.2 Failure Mode Analysis
+
+The preponderance of failed attempts (approximately 32 of 40) is attributable to three recurring failure modes, in descending order of frequency:
+
+- **Detection and interdiction prior to launch.** CGC monitoring of known and suspected launchpad locations and precursor material flows has successfully identified and disrupted attempted launches before ignition in the majority of cases. The Conclave's use of improvised or covertly modified civilian infrastructure has constrained their ability to conduct adequate pre-launch testing, making detection windows wider than professional launch operations would allow.
+
+- **Technical failure during or after launch.** A significant subset of launches that evade pre-launch interdiction fail due to mechanical or guidance failures, delivering no usable payload to the target orbital zone. The Conclave's limited access to engineering expertise — while superior to most non-state actors, still far below the professional baseline available to CGC member corporations — results in a meaningful technical failure rate.
+
+- **Post-launch interdiction.** A smaller number of launches achieve partial trajectory before CGC monitoring assets flag the launch and coordinate countermeasures. This category is the most operationally costly for the CGC, as it consumes defensive assets deployed on short timelines.
+
+---
+
+## SECTION 5: OUTLOOK
+
+The Conclave presents a persistent, structurally resilient threat that has demonstrated the capacity to sustain operations across multiple annual cycles despite sustained CGC interdiction pressure. Leadership continuity under Kestrelian, combined with the organization's technical baseline and compartmentalized cell structure — currently assessed at no fewer than 14 identified cells — constitutes the foundation of its enduring operational relevance. This Directorate assesses the overall operational capability of the Conclave as **moderate and growing**, and recommends sustained monitoring at current resource allocation levels pending a dedicated disruption operation assessment.
+
+---
+
+**CLASSIFICATION: TOP SECRET**
+**CGC Security Directorate — Counterterrorism Analysis Section**
+**Unauthorized disclosure is subject to maximum CGC enforcement provisions.**

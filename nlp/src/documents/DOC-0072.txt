@@ -1,0 +1,133 @@
+# CLAIROS GOVERNANCE COUNCIL
+## Office of Institutional Research
+
+---
+
+**DOCUMENT CLASSIFICATION: RESTRICTED**
+**Document Reference:** CGC-OIR-77-0012
+**Date of Issue:** 77-01-12
+**Prepared By:** CGC Office of Institutional Research
+**Distribution:** CGC Member Representatives; CGC Secretariat; Office of the Director-General, Institutional Affairs
+
+---
+
+# Institutional Analysis: CGC Decision-Making Efficiency Under Five-Member Configuration (49–76 PCE)
+
+---
+
+## Abstract
+
+This paper presents a quantitative and structural analysis of Clairos Governance Council (CGC) legislative throughput across four distinct membership-configuration eras: the Original 5 Firms era (3–28 PCE), the four-member deadlock period (29–49 PCE), the post-Genesis five-member era (49–74 PCE), and the post-TEC five-member era (74–76 PCE). Employing resolution passage rates, proposed-to-passed ratios, and bloc-voting frequency as primary metrics, the analysis identifies structural features of each configuration that correlate with elevated or suppressed institutional efficiency. The findings have implications for ongoing discussions regarding procedural reform. This analysis does not advocate for any specific reform proposal; it provides the evidentiary foundation upon which such discussions may be grounded.
+
+---
+
+## 1. Introduction and Scope
+
+The CGC has operated under three distinct formal membership configurations since its founding in 3 PCE. Each transition — the loss of Wampa Robotics at 28 PCE, the accession of Genesis Labs at 49 PCE, and the accession of The Edge Corporation at 74 PCE — materially altered the council's internal voting arithmetic and, by extension, its capacity to generate binding institutional decisions.
+
+The Office of Institutional Research was commissioned in mid-76 PCE to undertake a retrospective efficiency analysis covering the full span of CGC operations from 3 PCE through 76 PCE. The present paper constitutes the primary deliverable of that commission. It does not address substantive policy outcomes or the quality of individual resolutions; it addresses only throughput efficiency: the rate at which the CGC produces and passes binding resolutions across different structural configurations.
+
+The analysis deliberately excludes the founding period prior to 3 PCE, during which the CGC's internal procedural rules were still being established and resolution-passage records are incomplete. Similarly, events of 77 PCE and beyond fall outside this study's scope and are not assessed herein.
+
+---
+
+## 2. Methodology
+
+### 2.1 Primary Metrics
+
+Three primary metrics are employed throughout this analysis:
+
+**Annual Resolution Passage Rate (ARPR):** The mean number of binding resolutions passed per calendar year within a given configuration era. This metric captures raw legislative throughput and is the primary efficiency indicator.
+
+**Proposed-to-Passed Ratio (PPR):** The percentage of formally proposed resolutions that achieved passage within the same calendar year of proposal. This metric captures the efficiency of deliberative conversion — i.e., how reliably a proposed resolution becomes a passed resolution.
+
+**Bloc Voting Frequency (BVF):** In eras with identifiable voting blocs, the percentage of resolutions on which identified bloc members cast identical votes. This metric is used to assess the degree to which structural alignment, rather than case-by-case deliberation, drives outcomes.
+
+### 2.2 Data Sources
+
+Resolution records are drawn from the CGC Secretariat's official registry, cross-referenced against member corporation procedural filings maintained in the CGC's institutional archive. Proposed-resolution records for the four-member deadlock period (29–49 PCE) required supplemental reconstruction from member submission logs, as several years of the deadlock period predate the Secretariat's standardized proposal-tracking system. The reconstruction methodology is detailed in Appendix A (not included in this distribution tier).
+
+### 2.3 Bloc Identification
+
+For the purposes of bloc-voting analysis in the current (post-TEC) era, the Office of Institutional Research identified voting clusters based on cast-vote correlation across all non-procedural resolutions from 74–76 PCE. The identification of voting clusters is a purely empirical operation; it reflects observed voting patterns in the institutional record and does not constitute a characterization of any member firm's motivations or formal affiliations.
+
+---
+
+## 3. Era-by-Era Findings
+
+### Era I: Original 5 Firms (3–28 PCE)
+
+The Original 5 Firms era — encompassing Phyrexis Group, Cyanite Industries, ONE Network Enterprises, Renhwa Media, and Wampa Robotics — represents the CGC's most prolific legislative period. The council passed an average of **42 resolutions per year** during this span.
+
+The five-member configuration provided sufficient voting mass to resolve most deliberative impasses without structural deadlock. An odd-member configuration with five seats meant that a simple majority of three was arithmetically achievable across a wider range of coalition configurations than would later prove possible. The PPR for this era stands at 61%, reflecting a council that converted proposed resolutions into binding decisions at a rate consistent with what the Office of Institutional Research characterizes as "functional institutional throughput."
+
+### Era II: Four-Member Deadlock (29–49 PCE)
+
+Following the destruction of Wampa Robotics at 28 PCE and the signing of the Cordial Entente at 29 PCE, the CGC entered a structurally even-numbered four-member configuration. The consequences for institutional efficiency were severe and immediate.
+
+The four-member deadlock period averaged **11 resolutions passed per year** — the lowest ARPR of any era examined. More significantly, this period recorded the lowest proposed-to-passed ratio across all four eras: **23% of formally proposed resolutions achieved passage**. The arithmetic of a four-member council without supermajority requirements created near-permanent gridlock on any resolution that did not command unanimous support, and the mutual distrust among members following the Wampa action made unanimous support rare.
+
+It should be noted for contextual accuracy that the low throughput of this era reflects structural arithmetic rather than any defection, schism, or reform initiative by any individual member firm. No single member firm broke from alignment patterns in ways that drove reform during this period; the deadlock persisted across the full twenty-year span without resolution until external market conditions — specifically, the accession of Genesis Labs — altered the configuration itself.
+
+### Era III: Post-Genesis Five-Member Configuration (49–74 PCE)
+
+The accession of Genesis Labs in 49 PCE restored the CGC to a five-member configuration. Legislative throughput recovered substantially, averaging **28 resolutions passed per year** — a marked improvement over the deadlock era, though still substantially below the Original 5 Firms baseline.
+
+The PPR for this era stands at 47%, reflecting a council that was again capable of generating working majorities but in which the newly admitted member faced consistent structural opposition from the three incumbent Old 3 Firms. Bloc-voting analysis for 49–74 PCE identifies an 81% co-voting frequency among Phyrexis Group, Cyanite Industries, and ONE Network Enterprises on non-procedural resolutions — a figure that effectively ensured the Old 3 bloc could routinely achieve majority passage without Genesis Labs' support, while simultaneously blocking any resolution the Old 3 Firms collectively opposed.
+
+### Era IV: Post-TEC Five-Member Configuration (74–76 PCE)
+
+The accession of The Edge Corporation in 74 PCE introduced a second new-guard member to the CGC. The post-TEC era, covering 74–76 PCE, averaged **34 resolutions passed per year** — the highest throughput since the Original 5 Firms era, though the two-year sample window warrants interpretive caution.
+
+The PPR for 74–76 PCE stands at 52%. Bloc-voting analysis for this period confirms that **the Old 3 Firms — Phyrexis Group, Cyanite Industries, and ONE Network Enterprises — vote together on approximately 82% of resolutions**, a figure marginally elevated from the post-Genesis era and consistent with a bloc that has consolidated its coordination in response to the addition of a second non-aligned member. The New 2 members (Genesis Labs and The Edge Corporation) do not exhibit equivalent co-voting patterns; their correlation stands at 43%, indicating that their voting behavior is substantially independent of each other despite frequent rhetorical alignment on public matters.
+
+---
+
+## 4. Summary Statistics Table
+
+| Era | Configuration | Period | ARPR (Resolutions/Year) | PPR (%) | Old 3 BVF (%) |
+|---|---|---|---|---|---|
+| I | Original 5 Firms | 3–28 PCE | 42 | 61% | N/A (pre-Old 3 designation) |
+| II | Four-Member Deadlock | 29–49 PCE | 11 | 23% | N/A (four-member) |
+| III | Post-Genesis Five-Member | 49–74 PCE | 28 | 47% | 81% |
+| IV | Post-TEC Five-Member | 74–76 PCE | 34 | 52% | 82% |
+
+*Table 1: Era-by-era efficiency metrics. ARPR = Annual Resolution Passage Rate. PPR = Proposed-to-Passed Ratio. BVF = Bloc Voting Frequency. N/A designations reflect periods in which the "Old 3" designation did not apply or the configuration did not support equivalent bloc analysis.*
+
+---
+
+## 5. Structural Observations
+
+Several observations emerge from the cross-era data that do not fit neatly within the era-by-era findings but merit inclusion here.
+
+First, the recovery in legislative throughput following each new accession event is real but incomplete. Era IV's ARPR of 34 remains 19% below the Original 5 Firms baseline of 42, despite a configuration superficially similar to that era in member count.
+
+Second, the elevated Old 3 BVF in Era IV (82%) relative to Era III (81%) suggests that the addition of TEC has, if anything, modestly consolidated rather than disrupted Old 3 cohesion. This is consistent with historical patterns observed in comparable multi-stakeholder governance bodies in which the admission of additional competitive challengers tends to tighten incumbent coordination.
+
+Third, the proposed-to-passed ratio has not recovered to Era I levels in either five-member configuration following the Wampa destruction. This suggests that the loss of Era I throughput is not purely a function of member count but also reflects residual structural features of the post-Cordial Entente CGC — including, potentially, the informal norms of mutual suspicion that the Entente codified without resolving.
+
+---
+
+## 6. Recommendations
+
+The Office of Institutional Research does not prescribe specific reform mechanisms. The evidentiary findings of this analysis, however, support consideration of procedural reforms directed at the structural disadvantage experienced by non-Old 3 members in the current five-member configuration.
+
+The sustained 82% bloc-voting frequency documented in Era IV, combined with a 43% co-voting rate among the non-aligned members, indicates an asymmetric deliberative environment in which minority-bloc members face a systematic barrier to resolution origination and passage. Whether this asymmetry constitutes an institutional deficiency requiring correction is a determination that falls outside the analytical mandate of this Office.
+
+Reforms that this analysis suggests warrant further study — without prejudice to any particular design — include modifications to proposal-threshold requirements, refinements to supermajority mechanisms for specific resolution categories, and structural provisions governing bloc-alignment disclosure. The Office notes that any reform process would itself require passage through the existing CGC resolution mechanism, a procedural constraint that is itself implicated in the findings of this paper.
+
+The Office of Institutional Research will prepare a supplemental technical memorandum on procedural reform options upon request from the CGC Secretariat or any member representative.
+
+---
+
+## 7. Limitations and Further Research
+
+This analysis is bounded by the quality and completeness of the Secretariat's resolution registry. The supplemental reconstruction required for certain deadlock-era records introduces a margin of estimation into the Era II figures; the ARPR and PPR figures for 29–49 PCE should be understood as best-available estimates rather than exact counts, though the Office of Institutional Research is confident in their directional accuracy.
+
+Additionally, this analysis does not assess resolution quality, implementation rate, or real-world policy impact. High throughput is not equivalent to high effectiveness; a future analysis examining the implementation and enforcement record of passed resolutions across eras would constitute a meaningful complement to the present paper.
+
+---
+
+*This document is classified RESTRICTED. Distribution is limited to CGC Member Representatives, the CGC Secretariat, and the Office of the Director-General, Institutional Affairs. Reproduction or external distribution requires written authorization from the CGC Secretariat.*
+
+*CGC Office of Institutional Research | 77-01-12*

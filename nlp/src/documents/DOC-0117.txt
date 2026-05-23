@@ -1,0 +1,90 @@
+# CGC CIVIC SAFETY OFFICE
+## INCIDENT REPORT
+
+**Document Reference:** CGC-CSO-IR-7701-0117
+**Classification:** RESTRICTED
+**Date of Report:** 77-02-03
+**Reporting Officer:** Safety Inspector, CGC Civic Safety Office — Central Haven Division
+**Subject:** Structural Integrity Alert — Meridian Pedestrian Bridge, Central Haven
+**Incident Date:** 77-01-28
+
+---
+
+## SECTION 1 — INCIDENT SUMMARY
+
+On 77-01-28 at approximately 08:15, automated structural monitoring sensors installed on the Meridian Pedestrian Bridge registered abnormal lateral vibration patterns during the morning peak commuter period. The alert threshold was exceeded, prompting immediate escalation to the CGC Civic Safety Office. The bridge was subsequently closed to pedestrian traffic pending structural assessment. Emergency repair works were contracted and carried out the same day, with partial service restored that afternoon. Permanent remediation is scheduled for the coming months.
+
+The Meridian Pedestrian Bridge connects Central Haven's eastern residential blocks to the main transit interchange at Meridian Junction, and serves as a primary commuter artery during peak hours. Disruption to its operation carries significant pedestrian throughput consequences for the Central Haven sector.
+
+---
+
+## SECTION 2 — DETECTION
+
+At 08:15 on 77-01-28, the bridge's integrated vibration monitoring array registered lateral oscillation exceeding 12mm amplitude across the mid-span sensor cluster. This reading surpassed the automated alert threshold, triggering an immediate notification to the CGC Civic Safety Office duty station and to the Central Haven Transit Coordination Centre.
+
+Conditions at the time of detection were consistent with peak commuter foot traffic. No seismic activity, high-wind events, or other environmental anomalies were recorded in the monitoring period preceding or concurrent with the alert. The lateral vibration pattern was assessed by the duty officer as consistent with a structural resonance event rather than an external load anomaly.
+
+---
+
+## SECTION 3 — RESPONSE ACTIONS
+
+Upon receipt of the automated alert, the CGC Civic Safety Office duty station initiated Standard Protocol CSO-7 (Infrastructure Integrity Alert — Pedestrian Structures). The following immediate actions were taken:
+
+- **08:22** — Central Haven Transit Coordination Centre notified; bridge closure order issued.
+- **08:30** — Pedestrian access gates at both bridge termini secured by CGC Civil Operations personnel. Foot traffic diverted via Meridian Street surface-level crossings.
+- **08:45** — Independent structural assessment team mobilized under CGC-registered contractor authorisation.
+- **09:10** — On-site assessment operations commenced.
+
+The structural assessment was conducted by an independent CGC-contracted engineering team, separate from any commercial infrastructure operator. Cyanite Industries was not involved in the assessment phase; their engagement came at a later stage and was limited specifically to emergency repair works, as detailed in Section 5 below.
+
+---
+
+## SECTION 4 — ASSESSMENT FINDINGS
+
+The independent structural assessment, conducted between 09:10 and approximately 12:30 on 77-01-28, identified the following:
+
+- Stress fractures were confirmed in **three of the bridge's 18 lateral support struts**, located at positions L-4, L-9, and L-14 along the eastern span.
+- Fracture morphology and corrosion patterning are consistent with **progressive metal fatigue** rather than acute mechanical overload or external impact.
+- The affected struts retain partial structural capacity but exhibit measurable deformation under dynamic loading conditions, accounting for the anomalous lateral vibration signature recorded at 08:15.
+- The remaining 15 lateral support struts show no evidence of equivalent fracture propagation at this time. Load redistribution modelling indicates the bridge can sustain reduced pedestrian traffic at controlled throughput without further immediate risk.
+- Full structural remediation is required within the medium term. Temporary repair measures sufficient to permit limited service resumption were deemed feasible within the operational day.
+
+---
+
+## SECTION 5 — REPAIR ACTIONS
+
+Following completion of the assessment, the CGC Civic Safety Office contracted **Cyanite Industries' infrastructure maintenance division** to perform emergency stabilisation repairs to the three fractured lateral support struts. The contracted scope covers temporary bracing installation, fracture arrest treatment, and load redistribution hardware fitting. The estimated cost of emergency repair works is **180,000 Phi Credits**.
+
+Repair works were completed within the required operational window, allowing for a controlled service restoration.
+
+---
+
+## SECTION 6 — SERVICE RESTORATION
+
+The Meridian Pedestrian Bridge was reopened to foot traffic on **77-01-28 at 14:30**, following sign-off by the attending structural assessor and the CGC Civic Safety Office duty supervisor.
+
+Restoration was authorised on a **reduced capacity basis: single-direction pedestrian traffic only**, managed by manual flow control personnel stationed at both termini. Bidirectional capacity is suspended until permanent repairs are completed. Dynamic loading limits have been posted at both access points.
+
+---
+
+## SECTION 7 — FUTURE ACTIONS
+
+Permanent structural repairs to all three affected lateral support struts, including full replacement of fracture-propagated components and a comprehensive inspection of the remaining 15 struts, are scheduled for **77-03**. These works will require a **full 72-hour closure** of the Meridian Pedestrian Bridge. The Central Haven Transit Coordination Centre has been notified to arrange diversion planning in advance of the closure window.
+
+A routine fleet-wide inspection of all CGC-administered pedestrian bridge structures in Central Haven has been recommended and will be proposed for scheduling under the 77-Q2 infrastructure maintenance programme.
+
+---
+
+## APPENDICES REFERENCED
+
+- **Appendix A:** Automated sensor log extract, 77-01-28, 07:00–09:00 (vibration monitoring array, Meridian Pedestrian Bridge)
+- **Appendix B:** Independent structural assessment report, CGC-contractor ref. SA-7701-MBR
+- **Appendix C:** Cyanite Industries emergency repair contract summary, ref. CI-IM-7701-044
+- **Appendix D:** Traffic diversion maps, Central Haven sector, 77-01-28
+
+---
+
+*This document is classified RESTRICTED. Distribution is limited to CGC Civic Safety Office personnel, Central Haven administrative division heads, and parties with direct operational responsibility for bridge infrastructure maintenance. Infrastructure vulnerability details contained herein are not for public release.*
+
+*Prepared by: Safety Inspector, CGC Civic Safety Office — Central Haven Division*
+*Report date: 77-02-03*

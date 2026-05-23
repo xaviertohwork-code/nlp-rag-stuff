@@ -1,0 +1,101 @@
+# NYARI CONFEDERATION FEDERAL COUNCIL
+## Resolution NC-2117-041
+### Amendment to the Secure Communications Infrastructure Act (SCIA)
+
+**Issuing Body:** Federal Council of the Nyari Confederation
+**Document Reference:** NC-2117-041
+**Classification:** OPEN
+**Date of Adoption:** 2117-09-03 CE
+**Prepared by:** Office of the Federal Clerk, Nyari Confederation Federal Council
+
+---
+
+## PREAMBLE
+
+**Whereas,** the Secure Communications Infrastructure Act (hereinafter "the Act") was enacted to govern the maintenance, licensing, and operational standards of cryptographic routing infrastructure throughout the territories of the Nyari Confederation, and has served as the foundational legislative instrument for the Confederation's internationally recognised expertise in encrypted communications services;
+
+**Whereas,** the Nyari Federal Intelligence Service (NFIS) submitted to the Federal Council on 2117-07-14 CE a classified intelligence assessment designated NFIS-2117-CR-09 (hereinafter "the NFIS Report"), detailing findings from continuous monitoring of Confederation routing infrastructure during the period of 2117-01-01 CE through 2117-06-30 CE;
+
+**Whereas,** the NFIS Report identified seventeen (17) distinct instances in which encrypted traffic was routed through Nyari Confederation infrastructure by non-state actors whose identities could not be established through available intelligence means, and whose authorisation to utilise said infrastructure could not be verified against any existing commercial licensing register, governmental access agreement, or inter-Bloc coordination protocol; and it is expressly noted for the record that the NFIS Report did not name or identify any specific non-state actor or organisation in connection with these instances, the actors remaining entirely unidentified at the time of this Resolution's adoption;
+
+**Whereas,** the Federal Council finds that the existing definition of "critical communications nodes" within the Act is insufficiently broad to encompass certain categories of routing facilities that, by volume of daily encrypted transactions, represent material components of the Confederation's communications security posture;
+
+**Whereas,** the Federal Council further finds that island councils currently lack adequate statutory authority to conduct timely oversight of cryptographic routing operations within their respective jurisdictions, a gap that the NFIS Report identifies as a contributing factor to the delayed detection of the seventeen instances described above;
+
+**Whereas,** the Federal Council acknowledges that the full contents of NFIS-2117-CR-09 are classified and are not reproduced herein, but that the Federal Council has reviewed the Report in closed session and finds its findings to constitute sufficient grounds for the amendments herein adopted;
+
+**Now, therefore,** be it resolved by the Federal Council of the Nyari Confederation, pursuant to the procedures of supermajority consensus governance established in the Confederation Charter, that the Secure Communications Infrastructure Act be amended as set forth below.
+
+---
+
+## SECTION I — DEFINITIONS (AMENDED)
+
+The following definitions supersede or supplement those appearing in the Act. All other definitions in the Act remain in force without amendment.
+
+**1.1 "Critical Communications Node" (Amended Definition)**
+A critical communications node is any facility, installation, or infrastructure system, whether fixed or mobile in configuration, that performs or supports any of the following functions within or on behalf of the Nyari Confederation:
+
+> *(a)* the routing, relay, encryption, decryption, or forwarding of encrypted data traffic; **or**
+> *(b)* the hosting or operation of cryptographic key exchange infrastructure; **or**
+> *(c)* the management of secure inter-council or inter-Bloc communications channels;
+
+**and** which handles, in aggregate, more than five thousand (5,000) encrypted transactions per day, calculated as a rolling seven-day average. For the purposes of this definition, a single discrete encrypted data packet transmitted, received, or relayed constitutes one (1) transaction.
+
+**1.2 "Subterranean Data Infrastructure" (New Definition)**
+Underground or below-grade data facilities are expressly included within the scope of "critical communications nodes" where they meet the transaction threshold established in Section 1.1. For the avoidance of doubt, this definition includes the subterranean data infrastructure maintained on and beneath New Mewan island, which houses cryptographic operations and secure communication hubs serving the Federal Council and Confederation member islands, in its entirety and without exception.
+
+**1.3 "Island Council Audit Authority" (New Definition)**
+The power, granted by this Resolution to individual island councils of the Nyari Confederation, to initiate, conduct, and conclude an operational audit of any cryptographic routing facility designated as a critical communications node within their geographic jurisdiction, in accordance with the procedures set forth in Section II of this Resolution.
+
+---
+
+## SECTION II — PROVISIONS
+
+**2.1 Threshold Application**
+Any routing facility that meets or exceeds the five thousand (5,000) daily encrypted transaction threshold defined in Section 1.1 shall, within thirty (30) days of this Resolution's effective date, register with the Federal Communications Oversight Register maintained by the Federal Clerk's Office, if not already registered therein.
+
+**2.2 Island Council Audit Authority — Scope**
+Each island council shall possess the authority to conduct unannounced audits of any critical communications node, as defined herein, located within its territorial jurisdiction. The audit authority extends to inspection of transaction logs, access records, licensing documentation, and the identity verification records of parties granted routing access.
+
+**2.3 Island Council Audit Authority — Timeline**
+An island council may initiate an unannounced audit within seventy-two (72) hours of a majority vote of that council authorising such an audit. No prior notification to the facility operator, the Federal Council, or any other body is required before the commencement of an audit initiated under this provision. Audit findings shall be reported to the Federal Council within fourteen (14) days of audit completion.
+
+**2.4 Federal Council Coordination**
+Where audit findings indicate the possible presence of unverified or unlicensed routing activity, the relevant island council shall transmit findings to the NFIS within forty-eight (48) hours. The NFIS shall acknowledge receipt and initiate an assessment within seven (7) days.
+
+---
+
+## SECTION III — ENFORCEMENT
+
+**3.1** Any facility operator found to be conducting cryptographic routing operations without valid registration, or found to have obstructed an island council audit conducted under Section 2.3, shall be subject to suspension of operating licence pending Federal Council review.
+
+**3.2** Nothing in this Resolution shall be construed to limit the jurisdiction of the NFIS to conduct its own independent assessments of routing infrastructure, whether or not an island council audit has been initiated.
+
+**3.3** Compliance reviews shall be conducted on an annual basis by the Federal Communications Oversight Register, with summary findings presented to the Federal Council in closed session.
+
+---
+
+## SECTION IV — VOTING RECORD
+
+The following vote was recorded in closed plenary session of the Federal Council on 2117-09-03 CE, following deliberation in accordance with Confederation Charter procedures.
+
+| Outcome | Count |
+|---|---|
+| In favour | 31 |
+| Against | 4 |
+| Abstaining | 2 |
+| **Total participating councils** | **37** |
+
+The required supermajority threshold for the adoption of amendments to the Secure Communications Infrastructure Act is twenty-eight (28) island councils voting in favour. The vote recorded above satisfies this threshold. The identities of councils voting against or abstaining are recorded in the confidential session annex maintained by the Federal Clerk and are not published in this open-classification document.
+
+---
+
+## SECTION V — EFFECTIVE DATE
+
+This Resolution shall take effect fourteen (14) days from the date of adoption, on **2117-09-17 CE**, and shall be incorporated into the Secure Communications Infrastructure Act as Amendment 7.
+
+---
+
+*Certified true record of the Federal Council of the Nyari Confederation.*
+*Federal Clerk's Office — New Mewan, Nyari Confederation*
+*2117-09-03 CE*

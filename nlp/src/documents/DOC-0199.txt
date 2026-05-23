@@ -1,0 +1,57 @@
+# THE EDGE CORPORATION
+## Press Release — Public Distribution
+**77-03-01 | For Immediate Release**
+
+---
+
+## BUILDING THE EDGE OF TOMORROW: THE EDGE CORPORATION ANNOUNCES EDGE VERSION 3.7
+
+*Enhanced Avatars. Smarter Perception. A World Reshaped.*
+
+**HAVEN — The Edge Corporation (TEC) today announces the release of Edge version 3.7, the most significant feature update to the Edge platform since its landmark 2110 launch. Available as of 77-03-01, the update deepens the Edge experience across every dimension — from how users present themselves to how they perceive the world around them.**
+
+---
+
+### A MESSAGE FROM TEC FOUNDER AND CEO SIM JIAHONG
+
+*"Every update to the Edge is a step toward something inevitable — a world that sees you as clearly as you see it, that reshapes itself to meet you where you are. Version 3.7 is about bringing the Edge closer to the world you deserve."*
+
+— **Sim Jiahong**, Founder and Chief Executive Officer, The Edge Corporation
+
+---
+
+### FEATURE HIGHLIGHTS
+
+**Avatar Customization — Redefine Yourself**
+
+Edge 3.7 introduces **240 new avatar customization templates**, the largest single expansion to the avatar library in TEC's history. Spanning a full spectrum of aesthetic registers — architectural, biological, chromatic, and beyond — the new templates give every Fullwalker the tools to project the self they envision. Templates are immediately accessible from the standard Avatar Interface upon update.
+
+**Object Recognition — Sharper Than Ever**
+
+The real world is complex. Edge 3.7 meets that complexity with a refined object recognition engine delivering an **18% accuracy improvement** over the previous release. Whether navigating Haven's layered infrastructure or interacting with the physical environment through the digital overlay, users will experience Edge's environmental awareness at its highest fidelity to date. The improvement is particularly pronounced in low-contrast industrial environments and across dynamic surfaces.
+
+**Ambient Drift — Let the Edge Breathe**
+
+Edge 3.7 introduces **Ambient Drift**, a new passive experience mode that continuously aestheticizes the user's sensory environment without requiring active input. Rather than engaging the Edge deliberately, Ambient Drift works in the background — softening harsh surfaces, enriching colour depth, and gently curating ambient sound into a coherent experiential texture. Users don't interact with Ambient Drift. They simply inhabit it.
+
+*Ambient Drift is designed for moments when engagement shouldn't feel like effort.*
+
+---
+
+### DEPLOYMENT & AVAILABILITY
+
+Edge version 3.7 is **automatically deployed to all users via nanobot firmware update** — no action is required. The update propagates seamlessly through TEC's nanobot infrastructure, ensuring that the transition to 3.7 is frictionless and universal.
+
+---
+
+### WHO RECEIVES THE UPDATE
+
+As of **77-03-01**, Edge version 3.7 is **available to all Fullwalkers and Edgedancers in Haven**. All users within the applicable tiers will receive the firmware update automatically, as described above.
+
+TEC remains committed to expanding Edge's reach across Clairos. Further availability announcements will follow.
+
+---
+
+*The Edge Corporation. Building the Edge of Tomorrow.*
+
+*All feature performance figures are based on TEC internal benchmark testing. Ambient Drift passive mode operates within standard nanobot operational parameters.*

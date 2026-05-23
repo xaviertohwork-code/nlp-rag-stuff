@@ -1,0 +1,90 @@
+# CLAIROS GOVERNANCE COUNCIL
+## SIGNALS INTELLIGENCE DIVISION
+### INTERCEPT REPORT — CLASSIFIED SECRET
+
+---
+
+**Document Reference:** CGC-SIGINT-76-3847
+**Classification:** SECRET
+**Date of Report:** 76-11-28
+**Prepared By:** CGC Signals Intelligence Division, Listening Post Operations
+
+---
+
+## INTERCEPT METADATA
+
+| Field | Details |
+|---|---|
+| **Listening Post** | LP-North-9 |
+| **Frequency Band** | 7.41 GHz |
+| **Date / Time of Intercept** | 76-11-27 / 2214 hours |
+| **Transmission Duration** | Approximately 4 minutes, 38 seconds |
+| **Decryption Coverage** | ~60% recovered; approximately 40% of transmission could not be decrypted due to layered encryption protocols assessed as non-standard Conclave cryptographic suite |
+| **Speaker Identification** | Two speakers, designated **Caller A** and **Caller B** — no voice-profile matches in current CGC biometric registry |
+| **Signal Origin (estimated)** | North Haven industrial fringe — triangulation confidence: MODERATE |
+| **Analyst Assessment** | Probable Conclave logistics coordination; content consistent with a pre-operational delivery briefing |
+
+---
+
+> **Analyst Note:** [UNDECRYPTED] portions below represent segments where layered encryption defeated current decryption tools. Recovered plaintext has been lightly formatted for readability. No content alteration has been made to the recovered portions.
+
+---
+
+## PARTIAL TRANSCRIPT
+
+---
+
+**[00:00:11]**
+**CALLER A:** ...confirmed on my end. The passage is clear, but we cannot hold past [UNDECRYPTED] — you understand that. Tell them the delivery window is three days from the solstice. Not before. Not after.
+
+**CALLER B:** Understood. Three days from the solstice. And the Shepherd knows?
+
+**CALLER A:** [UNDECRYPTED] — the Shepherd was briefed before I was. Do not concern yourself with that.
+
+---
+
+**[00:00:58]**
+**CALLER B:** I need to confirm quantities. We are looking at 14 crates. [UNDECRYPTED] — are those numbers still accurate?
+
+**CALLER A:** [UNDECRYPTED] — yes. Do not reduce that number. If anything comes up short on the far end, [UNDECRYPTED].
+
+**CALLER B:** Agreed. Fourteen holds. The [UNDECRYPTED] route is the only viable one given the schedule.
+
+---
+
+**[00:02:14]**
+**CALLER A:** There will be a contact at the secondary point. You will not know them. They will say — [UNDECRYPTED].
+
+**CALLER B:** And if no contact?
+
+**CALLER A:** Then you abort and [UNDECRYPTED]. Do not improvise.
+
+---
+
+**[00:03:06]**
+**CALLER B:** One more thing. The oversight — has it moved?
+
+**CALLER A:** [UNDECRYPTED] — moved north, as expected. Timing holds.
+
+**CALLER B:** Good. Then we are aligned. [UNDECRYPTED].
+
+**CALLER A:** The light carries all things forward. [UNDECRYPTED].
+
+*— END OF RECOVERED SIGNAL —*
+
+---
+
+## ANALYST NOTES
+
+**Re: Crate Quantity Reference** — Caller B's reference to "14 crates" falls within the recovered 60% of the transmission. The context immediately surrounding this figure — specifically what the crates contain and their ultimate destination — falls within undecrypted segments. Analysts note that the 40% of the transmission which remains undeciphered could contain material detail about the nature or intended use of the shipment.
+
+**Re: Conclave Cell Structure** — The CGC Signals Intelligence Division assesses with MODERATE confidence that this transmission represents internal Conclave logistics coordination. The phrase "the light carries all things forward" is consistent with known Conclave ritual sign-offs documented in previous intercepts.
+
+**Re: LP-North-9** — This intercept was captured exclusively by LP-North-9. No corroborating signal was recorded at any southern listening post. LP-South-4 was non-operational during the intercept window due to scheduled maintenance.
+
+---
+
+**Distribution:** CGC Security Directorate — EYES ONLY
+**Retention:** 24 months from date of report — then Archive Level 3
+
+*— END OF DOCUMENT —*

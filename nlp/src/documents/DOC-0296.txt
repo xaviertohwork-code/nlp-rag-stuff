@@ -1,0 +1,67 @@
+# PHYREXIS GROUP
+## STRATEGIC ASSESSMENT MEMORANDUM
+**Classification: L1 — Managing Partner Eyes Only**
+**Document Reference: PG-SA-66-0047**
+**Date: 66-09-04 PCE**
+**Author: Managing Partner, Strategic Capital Allocation**
+**Subject: Post-CYPHER Compute Landscape and Edge Research Project Liminal — Funding Feasibility Assessment**
+
+---
+
+### I. COMPUTE LANDSCAPE OVERVIEW
+
+The completion of the CYPHER satellite network's launch sequence in 65 PCE marks the most consequential single infrastructure event since the commissioning of the Floodwalls. This assessment proceeds from that baseline.
+
+By the close of 66 PCE's third quarter, internal modelling — cross-referenced against Cyanite's logistics telemetry and ONE's freight-routing optimization benchmarks — indicates that the CYPHER network has restored approximately **73% of Clairos's pre-Cascade compute capacity**. This figure represents a material acceleration over the projections circulated at the project's 62 PCE midpoint review, which forecast a 65–68% restoration ceiling by end of decade. The revised ceiling reflects both the operational density achieved across the final satellite cohorts and the efficiency of the orbital array's distributed load-balancing architecture, for which Edge Research deserves appropriate credit.
+
+The practical consequence of this restoration is significant. Sectors that have operated under compute rationing since the Cascade — pharmaceutical modelling, industrial logistics, financial derivatives processing — now have headroom for capacity-intensive product development that was not viable as recently as two years ago. This has direct bearing on the proposal assessed in Section II of this memorandum.
+
+The restoration figure is not, however, a ceiling. CYPHER's current utilization rate is estimated at 38–44% of rated capacity, leaving substantial headroom for new compute-intensive applications without saturation risk — assuming network stability remains within acceptable parameters. The caveat embedded in that assumption is addressed in Section IV.
+
+---
+
+### II. PROJECT LIMINAL PROPOSAL SUMMARY
+
+Edge Research first presented the Project Liminal initiative to Phyrexis's Capital Allocation committee in **65 PCE**, characterizing it as a consumer-facing augmented reality overlay system powered by a dual-layer architecture: orbital compute drawn from the CYPHER network on the one hand, and a locally distributed nanobot processor mesh on the other. The consumer application layer — described in Edge Research's proposal materials as an "immersive augmentation of the visual and sensory field" — is, in this assessor's reading, a more candid description than Edge Research's technical leads perhaps intended. What is proposed is not merely an information overlay but a persistent, individuated experiential environment.
+
+Edge Research's proposal characterizes the CYPHER orbital layer as handling the computationally intensive environment-rendering and personalization functions, while the nanobot mesh handles low-latency sensory integration at the user level. The architecture is technically coherent. The key dependency — which this memo does not minimize — is that the orbital layer is not within Phyrexis's operational control. We are assessing a product whose infrastructure backbone is shared with a network we co-own but do not solely govern.
+
+That dependency is noted here and assessed in detail in Section IV.
+
+---
+
+### III. FINANCIAL ANALYSIS
+
+Edge Research's submitted proposal cites an estimated **development cost of 12.4 billion Phi Credits** across a three-year build-out. This figure has been reviewed by Phyrexis's internal financial modelling team, which finds it credible for a first-pass estimate, with a caveat that nanobot manufacturing at consumer scale carries cost uncertainty that the proposal's mid-range scenarios may underweight.
+
+On the revenue side, Edge Research's projections have been independently stress-tested against Haven's current demographic and economic data. The partnership's financial modelling team projects **potential recurring revenue of 40 to 60 billion Phi Credits annually within five years of a commercial launch**, assuming adoption rates consistent with prior Havenite technology uptake curves and a monetization model combining subscription access tiers with behavioral data licensing.
+
+Comparison against the development cost figure renders the financial case clear at virtually any point in the projection range. The partnership should note that this assessment deliberately presents revenue as a range rather than a point estimate; the uncertainty at the higher end of the range is real, but so is the downside floor. A product of this nature, embedded in users' perceptual experience, generates monetization optionality well beyond the primary subscription revenue model.
+
+The payment infrastructure dimension is not incidental. If Project Liminal achieves the adoption scale contemplated, all associated commercial transactions will clear through Phi rails by default. The compounding value of Phi rail volume growth attributable to a product of this scale warrants consideration independent of Edge Research's direct revenue share.
+
+---
+
+### IV. RISK ASSESSMENT
+
+Three risk categories are material to this assessment.
+
+**Infrastructure Dependency.** As noted in Section II, CYPHER's orbital layer is shared infrastructure. Phyrexis's legal and operational teams should ensure that any funding agreement with Edge Research includes service-level provisions that clearly assign consequence in the event of CYPHER capacity disruption. The agreement should not make Phyrexis whole only for catastrophic failure; graduated disruption provisions should be included.
+
+**Competitive Response.** A consumer AR product of this nature will immediately attract adverse responses from CGC members whose revenue positions it displaces. Edge Research is not currently a CGC member; the partnership should model the regulatory pressure a Project Liminal launch would invite and assess whether Edge Research's current structural position provides adequate insulation.
+
+**Network Stability.** CYPHER's operational telemetry has been reviewed as part of this assessment. Minor telemetry irregularities in network performance data, dating to approximately 65-08 PCE, have been flagged in Edge Research's internal technical annexes; this assessor regards them as consistent with routine data quality variation in a newly operational distributed network and does not assess them as indicative of systemic instability.
+
+---
+
+### V. RECOMMENDATION
+
+The partnership's internal recommendation is to **proceed with funding for Project Liminal**, conditional upon Edge Research achieving specific, measurable development milestones at agreed intervals across the three-year build period. Milestone-gated disbursement is the appropriate mechanism given the scale of the commitment and the novelty of the dual-layer architecture.
+
+The financial case is sufficiently strong, and the strategic case — in terms of Phi rail volume, behavioral data positioning, and long-term infrastructure leverage — sufficiently compelling, that the partnership should treat delay as carrying its own cost. A competitor with access to equivalent compute infrastructure who moves first to occupy this product category creates a materially more difficult environment for Phyrexis's long-term financial positioning.
+
+A formal partnership vote on the funding resolution is recommended at the next Managing Partner session.
+
+---
+
+*Document prepared for L1 distribution only. Reproduction or transmission outside the Managing Partner circle requires Chair authorization. Queries to the author through standard L1 secure channels.*

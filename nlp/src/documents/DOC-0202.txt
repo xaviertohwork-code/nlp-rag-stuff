@@ -1,0 +1,65 @@
+# Clairosian Daily
+
+**INFRASTRUCTURE & CIVIC AFFAIRS**
+
+---
+
+## Cyanite Industries Marks 25th Year of Nuclear-Powered Floodwall Operations
+
+*A quarter-century since the Phase III nuclear transition, Haven's lifeline remains under a single corporation's control — and critics are asking whether that arrangement has ever truly served the public.*
+
+**By Yael Torssen, Infrastructure Correspondent | 77-04-12**
+
+---
+
+Haven exists because of concrete, steel, and nuclear fission. Without the towering nested walls, engineered channels, and retaining infrastructure that ring the island — and the reactors that power them — this city of a hundred million would lie meters beneath the Sharpsea. That is not metaphor; it is engineering fact. And for the past 25 years, that infrastructure has operated under what Cyanite Industries calls its most significant technical evolution: the Phase III nuclear transition, completed in 41 PCE (2083 CE), which brought the Floodwall system's water-pumping capacity fully online under dedicated nuclear fission power generation.
+
+This month, Cyanite is marking that quarter-century milestone with a series of commemorative briefings and what its communications office described as "a renewed commitment to the operational excellence that keeps Haven dry."
+
+---
+
+### A Mandate Written Into the Founding Documents
+
+To understand what is being celebrated, it helps to understand how Cyanite came to control the Floodwalls in the first place. The answer is straightforward: they were given the mandate. Under the Blackshore Accords, signed in 4 PCE (2046 CE), Cyanite Industries was designated the sole Floodwall contractor with no competitive evaluation process and no mention of competing firms. The accords, which formally established the Haven Island Special Economic Zone, simultaneously commissioned the Floodwall construction and placed it entirely within Cyanite's remit.
+
+Construction and early operational phases proceeded through the following decade, with the system reaching functional status by approximately 13 PCE (2055 CE) — meaning Haven's floodwalls have been holding back the ocean for roughly 64 years in total. The Phase III nuclear transition, which the current anniversary commemorates, was a distinct and later milestone: a comprehensive overhaul of the system's power infrastructure completed nearly three decades into that operational history.
+
+---
+
+### Engineering at the Edge of the Possible
+
+The Floodwall system's technical scope is difficult to overstate. At its core, it is a series of nested defensive layers: outer walls, interior channels, and retaining tanks that intercept seawater that would otherwise inundate Haven's below-sea-level landmass. Extremely powerful water pumps — all operating under nuclear fission power following the Phase III transition — drain the retaining tanks continuously, cycling captured water back beyond the outer walls into the open ocean.
+
+What is less frequently discussed in public discourse is the Floodwall system's secondary function. The same infrastructure serves as a network of reverse osmosis plants, processing seawater into fresh drinking water for Haven's population. This dual-use capacity — flood defense and municipal water supply simultaneously — means that Cyanite Industries does not merely keep Haven dry; it is the origin point of the water that every Havenite drinks.
+
+---
+
+### 'The Heartbeat of Haven'
+
+Cyanite Industries Director-General Takeshi Oyelaran, in remarks distributed ahead of the anniversary, offered a characteristically blunt assessment of the system his company maintains.
+
+"The Floodwalls are the heartbeat of Haven," Oyelaran said. "Every sector, every family, every business in this city continues to exist because that infrastructure works. We don't ask for recognition. We ask that people understand what the alternative looks like."
+
+Oyelaran, who has led Cyanite for 18 years and has frequently pointed to the Floodwall operation as evidence that his company serves a civic function the other megacorporations cannot claim, declined further comment on the financial arrangements underpinning the anniversary year's maintenance programme.
+
+---
+
+### The Cost of Keeping the Water Out
+
+Those financial arrangements are substantial, and publicly available CGC contracts make them visible. The CGC approved a 20.4 billion Phi Credit appropriation for Floodwall maintenance in 77 PCE — a figure that includes disbursements from the Floodwall Maintenance Levy, a cost-sharing mechanism applied across Haven's economic activity. However, the Levy is designed to cover only a portion of total operational costs. Cyanite self-funds the remainder beyond what the Levy covers, an arrangement that the company has historically cited as evidence of its civic commitment but which critics argue creates a structural dependency that Haven cannot safely negotiate away from.
+
+---
+
+### A Single Point of Failure
+
+Not everyone is inclined toward celebration.
+
+A representative of a civic infrastructure watchdog group, speaking on condition of anonymity due to concerns about corporate pressure, put the matter plainly.
+
+"No single corporation should control infrastructure that the entire population depends upon for survival," the representative said. "It does not matter how competently that corporation operates. It does not matter how many anniversary briefings they issue. When one entity controls your water supply and your flood defense simultaneously, you have surrendered something that cannot be bought back at any price."
+
+The criticism is not new, and Cyanite has historically declined to engage with it directly, preferring to let operational continuity serve as its rebuttal. With the Phase III nuclear transition now a quarter-century behind it and another maintenance cycle approved, that argument continues to hold — for now.
+
+---
+
+*Yael Torssen covers infrastructure, civic services, and urban systems for the Clairosian Daily.*

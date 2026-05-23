@@ -1,0 +1,137 @@
+# CGC RESOLUTION 46-IR-003
+
+## Assignment of Floodwall Maintenance Obligations Under the Blackshore Accords Framework
+
+---
+
+**Issuing Authority:** Clairos Governance Council — Legal Affairs Directorate
+**Resolution Reference:** 46-IR-003
+**Date of Adoption:** 46-06-14 (14th day of the sixth month, 46 PCE)
+**Classification:** OPEN
+**Distribution:** All CGC Member Corporations; CGC Infrastructure Committee; CGC Secretariat Archive
+
+---
+
+## PREAMBLE
+
+**THE CLAIROS GOVERNANCE COUNCIL**, having convened in regular session at Haven Island Special Economic Zone,
+
+**RECALLING** the Blackshore Accords of 04-PCE, which formally established the Haven Island Special Economic Zone and set forth the foundational obligations of member corporations with respect to the physical infrastructure upon which the continued habitability of Haven Island depends,
+
+**RECOGNIZING** that the Floodwall infrastructure developed by Cyanite Industries represents the singular engineering achievement without which the entirety of Haven Island, including all residential, commercial, and operational facilities of each CGC member corporation, would be rendered uninhabitable by rising sea levels,
+
+**NOTING** that the Blackshore Accords identified Cyanite Industries as the original developer and operator of the Floodwall infrastructure but did not codify in sufficiently precise terms the scope, duration, or enforceability of Cyanite Industries' ongoing maintenance obligations,
+
+**ACKNOWLEDGING** that the continued operability of the Floodwall infrastructure is a matter of existential consequence for the CGC, for all Havenites, and for the economic functioning of Clairos,
+
+**FURTHER NOTING** that the costs associated with the perpetual maintenance of the Floodwall infrastructure are substantial and require a fair and binding mechanism for their recovery,
+
+**HEREBY ADOPTS** the following Resolution, which shall supersede any prior informal understandings or non-binding arrangements concerning Floodwall maintenance obligations, and shall be binding upon all current and future CGC member corporations:
+
+---
+
+## ARTICLE I — DEFINITIONS
+
+**1.1** For the purposes of this Resolution, "Floodwall Infrastructure" refers collectively to all barrier walls, retaining channels, retaining tanks, water pump installations, nuclear fission reactor systems powering said pump installations, and reverse osmosis facilities comprising the system that prevents inundation of Haven Island and produces potable water from recovered sea water, as originally constructed and subsequently expanded by Cyanite Industries.
+
+**1.2** "Normal Operations" refers to any operational state of the Floodwall Infrastructure that is not classified as a declared emergency under Article IV of this Resolution.
+
+**1.3** "CGC Infrastructure Committee" refers to the standing committee of the Clairos Governance Council charged with oversight of shared physical infrastructure on Haven Island, constituted in accordance with the CGC Procedural Charter.
+
+**1.4** "Operational Year" refers to the twelve-month period commencing on the first day of each PCE year.
+
+**1.5** "Rated Capacity" refers to the maximum sustained pumping throughput, expressed in volumetric units per hour, as certified for each pump installation at its most recent commissioning or recertification assessment.
+
+---
+
+## ARTICLE II — ASSIGNMENT OF MAINTENANCE OBLIGATION
+
+**2.1** Cyanite Industries is hereby obligated to maintain the entirety of the Floodwall Infrastructure in perpetuity as a binding condition of its membership in the Clairos Governance Council. This obligation shall survive any change in Cyanite Industries' corporate structure, leadership, or strategic direction, and shall be assumed by any successor entity in the event of a restructuring recognized by the CGC.
+
+**2.2** The maintenance obligation assigned under Article 2.1 encompasses all routine inspection, repair, replacement, upgrade, and emergency response activities necessary to sustain the Floodwall Infrastructure in a state of continuous operational readiness.
+
+**2.3** No delegation, sub-contracting, or transfer of the maintenance obligation to any third party shall relieve Cyanite Industries of ultimate legal responsibility under this Resolution. Any contracted maintenance activity remains the full accountability of Cyanite Industries before the CGC.
+
+---
+
+## ARTICLE III — INSPECTION REQUIREMENTS
+
+**3.1** Cyanite Industries shall conduct a comprehensive annual inspection of all three barrier walls constituting the primary Floodwall perimeter. Such inspection shall encompass structural integrity assessment, seal and joint evaluation, pump system performance verification, reactor system review, and reverse osmosis facility assessment.
+
+**3.2** Upon completion of each annual inspection, Cyanite Industries shall prepare a written Inspection Report documenting findings, any identified deficiencies, remediation actions taken or planned, and a certification of the current operational status of the Floodwall Infrastructure as a whole.
+
+**3.3** The completed Inspection Report shall be submitted to the CGC Infrastructure Committee no later than the ninetieth day of each operational year. Failure to submit the Inspection Report by this deadline shall constitute a presumptive maintenance violation and shall be subject to the complaint and dispute resolution procedures set forth in Article V.
+
+**3.4** The CGC Infrastructure Committee may, at its discretion, commission independent technical verification of any findings contained in a submitted Inspection Report. Cyanite Industries shall provide full access to all Floodwall Infrastructure sites and technical documentation necessary for such independent verification within thirty days of a formal access request.
+
+---
+
+## ARTICLE IV — MINIMUM CAPACITY STANDARDS
+
+**4.1** Cyanite Industries shall at all times during Normal Operations maintain a minimum sustained pumping capacity across the Floodwall Infrastructure of no less than eighty-five percent (85%) of rated capacity. Any sustained condition falling below this threshold during Normal Operations shall be deemed a capacity violation requiring immediate notification to the CGC Infrastructure Committee and a remediation plan submitted within fourteen days.
+
+**4.2** Cyanite Industries shall maintain operational logs recording pumping capacity readings at no less than four-hour intervals. These logs shall be made available to the CGC Infrastructure Committee upon request and shall be submitted in summary form as an appendix to each annual Inspection Report required under Article III.
+
+**4.3** Nothing in this Article shall be construed to limit Cyanite Industries' discretion to exceed the minimum capacity threshold. CGC member corporations are advised that rated capacity may be exceeded during surge events; the minimum threshold established in Article 4.1 defines a floor, not a ceiling.
+
+---
+
+## ARTICLE V — COMPLAINT AND DISPUTE RESOLUTION
+
+**5.1** Any member megacorporation of the CGC that has reasonable grounds to believe that Cyanite Industries is in violation of its maintenance obligations under this Resolution — whether with respect to inspection reporting timelines, minimum capacity standards, or general operational fitness — may file a formal written complaint with the CGC Infrastructure Committee.
+
+**5.2** A complaint filed under Article 5.1 shall set forth with specificity the nature of the alleged violation, the evidence or basis for the belief, and the relief or remediation sought.
+
+**5.3** Upon receipt of a formal complaint, the CGC Infrastructure Committee shall convene a review panel within twenty-one days. Cyanite Industries shall have the right to submit a formal response within fourteen days of receiving notice of the complaint. The review panel shall issue a written determination within forty-five days of convening.
+
+**5.4** Determinations of the CGC Infrastructure Committee review panel are subject to appeal to the full CGC, where they shall be resolved by majority vote in accordance with applicable CGC procedural rules. Cyanite Industries shall not vote on any matter in which it is the named respondent.
+
+---
+
+## ARTICLE VI — COST RECOVERY PROVISION
+
+**6.1** In recognition of the burden imposed by the perpetual maintenance obligation assigned under Article II, and in acknowledgment that the Floodwall Infrastructure serves the collective interests of all CGC member corporations and the Havenite population, Cyanite Industries is entitled to recover its documented and audited Floodwall maintenance costs through a dedicated Floodwall Maintenance Levy.
+
+**6.2** The Floodwall Maintenance Levy shall be assessed equally across all CGC member corporations, including Cyanite Industries itself. Each CGC member corporation, without exception or preferential treatment, bears an equal share of the total Levy assessed in any given operational year.
+
+**6.3** The quantum of the Levy shall be determined annually by Cyanite Industries on the basis of audited maintenance expenditure for the preceding operational year, subject to review by the CGC Infrastructure Committee for reasonableness and compliance with this Resolution. Supporting expenditure documentation shall be submitted alongside each annual Inspection Report.
+
+**6.4** The Floodwall Maintenance Levy shall be denominated in Phi Credits and collected through standard CGC inter-corporate settlement mechanisms. Non-payment by any member corporation within sixty days of Levy assessment shall constitute a breach of CGC membership obligations.
+
+---
+
+## ARTICLE VII — ADOPTION AND VOTING RECORD
+
+**7.1** This Resolution was put to a vote of the Clairos Governance Council in regular session on 46-06-14.
+
+**7.2** The Resolution was adopted unanimously. All five CGC member corporations then seated voted in favor, with no dissenting vote and no abstention recorded. The voting record is as follows:
+
+| Member Corporation | Vote |
+|---|---|
+| Phyrexis Group | In Favor |
+| Cyanite Industries | In Favor |
+| ONE Network Enterprises | In Favor |
+| Renhwa Media | In Favor |
+| Genesis Labs | In Favor |
+
+**7.3** This Resolution takes effect immediately upon adoption and shall remain in force unless expressly amended or superseded by a subsequent CGC Resolution passed by supermajority vote in accordance with the CGC Procedural Charter.
+
+---
+
+## ARTICLE VIII — AMENDMENTS AND REVIEW
+
+**8.1** This Resolution may be amended only by a supermajority vote of the CGC, defined as no fewer than four of the five member corporations then seated voting in favor of the amendment.
+
+**8.2** The CGC Infrastructure Committee shall conduct a formal review of this Resolution no less frequently than once every ten operational years, and shall submit its findings and any recommended amendments to the full CGC for consideration.
+
+---
+
+*Authenticated and entered into the official records of the Clairos Governance Council.*
+
+**CGC Legal Affairs Directorate**
+Haven Island Special Economic Zone
+46-06-14
+
+---
+
+*CGC Resolution 46-IR-003 — Classification: OPEN — Distribution: Unrestricted*

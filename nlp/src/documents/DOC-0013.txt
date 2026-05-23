@@ -1,0 +1,191 @@
+# CGC RESOLUTION 29-014
+
+## THE CORDIAL ENTENTE
+### Articles of Mutual Non-Aggression and Governance Stabilization
+
+---
+
+**CLASSIFICATION: OPEN**
+**Issuing Body:** Clairos Governance Council Legal Secretariat
+**Resolution Reference:** CGC-29-014
+**Date of Adoption:** 29-09-22 PCE (22 September 2071 CE)
+
+---
+
+> **HISTORICAL CONTEXT NOTE — FOR PUBLIC DISTRIBUTION**
+> This document constitutes the authoritative public text of CGC Resolution 29-014, commonly referred to as the Cordial Entente. It is published in its complete form for the information of all Havenite residents and interested parties. The CGC Legal Secretariat makes this text available as part of the Council's commitment to governance transparency. Readers are advised that certain procedural annexes referenced in Articles VIII and X remain classified at the RESTRICTED level and are not included in this public release.
+
+---
+
+## PREAMBLE
+
+The undersigned member corporations of the Clairos Governance Council, assembling in extraordinary session in the twenty-ninth year of the Post-Cascade Era, and
+
+RECALLING the founding purposes of the Clairos Governance Council as established by the Blackshore Accords of 4 PCE, being the promotion of cooperative governance, economic stability, and the long-term prosperity of Haven and its residents;
+
+ACKNOWLEDGING that recent events within Haven — events whose specific particulars are a matter of internal CGC record and are not reproduced in this public instrument — demonstrated in unmistakable terms the catastrophic potential of unconstrained inter-corporate military action within the boundaries of the Haven Island Special Economic Zone and its associated territories;
+
+RECOGNIZING that the continued viability of Haven as a functioning economic zone depends upon the maintenance of a predictable security environment, and that the mutual destruction of productive corporate capacity serves no signatory's long-term commercial interest;
+
+AFFIRMING that a framework of mutual obligation is a necessary precondition for the resumption of normal CGC governance operations;
+
+NOTING that the Clairos Governance Council now proceeds with four member corporations following the conclusion of extraordinary session proceedings, and that the present instrument is designed to govern relations among those four remaining members;
+
+The undersigned parties do hereby adopt, in good faith and with full corporate authority, the following Articles of Mutual Non-Aggression and Governance Stabilization, to be known collectively as **The Cordial Entente**.
+
+---
+
+## DEFINITIONS
+
+For the purposes of this instrument:
+
+**"Signatory"** refers to any of the four undersigned member corporations of the Clairos Governance Council.
+
+**"Military Force"** refers to any standing army, naval fleet, private security force exceeding five hundred personnel, automated weapons platform, or armed vessel maintained by a Signatory for purposes of armed conflict or coercive enforcement.
+
+**"Haven Territory"** refers to the Haven Island Special Economic Zone and all administrative zones formally recognized under the Blackshore Accords.
+
+**"Open Hostility"** refers to any declared or undeclared military engagement between forces primarily controlled by, or acting on the explicit documented orders of, a Signatory.
+
+**"CGC Secretariat"** refers to the joint administrative body of the Clairos Governance Council as constituted following the adoption of this instrument.
+
+---
+
+## ARTICLE I — PROHIBITION ON OPEN HOSTILITIES
+
+1.1 No Signatory shall engage in, authorize, or materially support **open warfare, coordinated military action, or acts of material destruction** directed against any other Signatory, its personnel, or its primary operational infrastructure within Haven Territory.
+
+1.2 This prohibition extends to actions conducted within Haven Territory and to military engagements on the high seas or in territories under the administrative influence of the Clairos Governance Council where the primary target is demonstrably another Signatory.
+
+1.3 Violation of this Article shall be considered a material breach of the Cordial Entente, triggering the consultation mechanisms described in Article VI.
+
+---
+
+## ARTICLE II — CONTINUITY OF THE HAVEN ISLAND SPECIAL ECONOMIC ZONE
+
+2.1 All Signatories reaffirm their commitment to the governance framework established by the Blackshore Accords of 4 PCE.
+
+2.2 No Signatory shall take unilateral action to dissolve, supersede, or fundamentally restructure the Haven Island Special Economic Zone without the consent of all remaining Signatories as expressed through CGC resolution.
+
+---
+
+## ARTICLE III — TERRITORIAL INTEGRITY OF CORPORATE ZONES
+
+3.1 Signatories recognize the administrative sector designations within Haven Territory as established prior to the date of this instrument.
+
+3.2 No Signatory shall use Military Force to seize, occupy, or permanently deny access to any sector primarily administered by another Signatory.
+
+3.3 Cross-sector transit by Havenite civilians shall remain unrestricted. This Article does not restrict security operations conducted within a Signatory's own administrative sector.
+
+---
+
+## ARTICLE IV — SCOPE AND LIMITATIONS OF THIS INSTRUMENT
+
+4.1 The Cordial Entente governs exclusively the matters specified herein. It shall not be construed to restrict, prohibit, or regulate any of the following activities, which remain entirely within each Signatory's lawful conduct:
+
+> **(a)** Commercial competition, market competition, pricing practices, product development, or any activity falling within the ordinary course of economic enterprise;
+>
+> **(b)** Intelligence-gathering operations, counterintelligence activities, surveillance operations, or the conduct of informational campaigns, provided such activities do not constitute a direct physical act of destruction against another Signatory's primary infrastructure;
+>
+> **(c)** The provision of material support, financial assistance, or logistical resources to third-party organizations, governments, or non-state actors, except where such provision directly and demonstrably constitutes the commission of an act otherwise prohibited under Article I;
+>
+> **(d)** Military force projection in territories not covered by Article I.2.
+
+4.2 Nothing in this instrument shall be interpreted as conferring upon the CGC Secretariat any authority to regulate commercial activity between Signatories or between any Signatory and external parties.
+
+---
+
+## ARTICLE V — PROHIBITION ON RECRUITMENT OF SIGNATORY PERSONNEL
+
+5.1 No Signatory shall conduct systematic recruitment operations targeting the security or military personnel of another Signatory with the intent of materially degrading that Signatory's defensive capacity.
+
+5.2 Individual voluntary employment transitions shall not constitute a violation of this Article.
+
+---
+
+## ARTICLE VI — DISPUTE RESOLUTION AND CONSULTATION
+
+6.1 In the event any Signatory believes that another Signatory has committed or is preparing to commit an act in violation of this instrument, the complaining Signatory shall first submit a formal Notice of Concern to the CGC Secretariat.
+
+6.2 The CGC Secretariat shall convene a consultation session within fourteen days of receiving such notice.
+
+6.3 Resolution of disputes under this Article requires the affirmative consent of all non-party Signatories. No Signatory that is itself the subject of a complaint may participate in voting on the resolution of that complaint.
+
+6.4 This instrument does not establish any enforcement mechanism beyond the consultation process described herein. Remedies available to aggrieved Signatories following failed consultation are not specified by this instrument and remain at the discretion of the parties.
+
+---
+
+## ARTICLE VII — MUTUAL FORCE-LEVEL REPORTING
+
+7.1 Each Signatory shall submit to the CGC Secretariat, on an annual basis, a declaration of its Military Force levels as defined in the Definitions section of this instrument. Declarations shall be submitted no later than the final day of the third month of each Post-Cascade year.
+
+7.2 Declarations shall specify, at minimum: total active personnel count by category; number of commissioned naval vessels; and count of automated weapons platforms in operational deployment.
+
+7.3 The CGC Secretariat shall compile submitted declarations into a consolidated Annual Force Register, which shall be distributed to all Signatories in RESTRICTED classification.
+
+7.4 **Force-level declarations submitted under this Article are self-certified by the submitting Signatory.** This instrument establishes no independent verification mechanism, no right of inspection, and no third-party auditing process for declarations made under this Article. No individual officer, secretariat director, or external party is designated as responsible for verifying the accuracy of submitted declarations. Signatories are bound by the accuracy of their own submissions solely on the basis of this covenant.
+
+7.5 Discrepancies identified by one Signatory in another's declaration may be raised through the dispute resolution mechanism of Article VI, but no Signatory is obligated to provide supporting evidence for its declaration beyond the declaration itself.
+
+---
+
+## ARTICLE VIII — PROHIBITION ON WEAPONS OF MASS INFRASTRUCTURE DISRUPTION
+
+8.1 No Signatory shall develop or deploy any weapon or system designed to cause catastrophic, non-reversible destruction of Haven's shared infrastructure, including but not limited to the Floodwall systems, freshwater processing facilities, and primary power distribution networks.
+
+8.2 Definitions of "catastrophic" and "non-reversible" for the purposes of this Article are to be established in a classified procedural annex filed with the CGC Secretariat under RESTRICTED classification.
+
+---
+
+## ARTICLE IX — DURATION AND AMENDMENT
+
+9.1 This instrument shall remain in force indefinitely from the date of adoption unless dissolved by unanimous written consent of all Signatories then party to the Clairos Governance Council.
+
+9.2 Amendments to this instrument require the affirmative vote of all Signatories. No amendment may be adopted under ordinary CGC resolution procedures; each amendment requires separate execution by all Signatories in a form equivalent to this instrument.
+
+9.3 Accession of new CGC member corporations shall not automatically bind such corporations to this instrument. New members shall be invited to accede by separate negotiation upon achieving CGC membership.
+
+---
+
+## ARTICLE X — EFFECTIVE DATE
+
+10.1 This instrument shall enter into force upon the execution of signatures by all four Signatories below, on the date recorded herein.
+
+---
+
+## SIGNATORIES
+
+Executed this twenty-second day of the ninth month of year twenty-nine of the Post-Cascade Era (29-09-22 PCE):
+
+---
+
+**PHYREXIS GROUP**
+Executed by authorized representative of the Managing Partners of the Phyrexis Group
+*[Signature on record with CGC Legal Secretariat]*
+
+---
+
+**CYANITE INDUSTRIES**
+Executed by authorized representative of Cyanite Industries
+*[Signature on record with CGC Legal Secretariat]*
+
+---
+
+**ONE NETWORK ENTERPRISES**
+Executed by authorized representative of ONE Network Enterprises
+*[Signature on record with CGC Legal Secretariat]*
+
+---
+
+**RENHWA MEDIA**
+Executed by authorized representative of Renhwa Media
+*[Signature on record with CGC Legal Secretariat]*
+
+---
+
+*Certified as true and complete public text by the CGC Legal Secretariat, 29-09-22 PCE.*
+*Classified annexes referenced in Articles VIII and X are held on file at RESTRICTED classification and are not reproduced herein.*
+
+---
+
+> **NOTE ON COMMON REFERENCE:** This instrument is formally titled CGC Resolution 29-014 and referred to in CGC official correspondence as the Articles of Mutual Non-Aggression and Governance Stabilization. The informal title by which it has come to be universally known — the Cordial Entente — was not proposed by any Signatory during drafting. Its origins are disputed; its ironic connotations, given the circumstances that made this instrument necessary, have been noted by independent commentators and are not addressed in any official CGC communication.

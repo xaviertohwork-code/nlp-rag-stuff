@@ -1,0 +1,103 @@
+# CLAIROS GOVERNANCE COUNCIL
+## Anti-Proliferation Directorate
+### Updated Enforcement Protocol for Unauthorized Rocketry
+**Revision 11**
+
+**Document Reference:** CGC-APD-EP-R11
+**Classification:** CONFIDENTIAL
+**Date:** 76-09-03 (PCE)
+**Issuing Authority:** Anti-Proliferation Directorate, Office of the Enforcement Director
+**Supersedes:** CGC-APD-EP-R10
+
+---
+
+## SECTION 1 — PURPOSE AND SCOPE
+
+This document establishes revised enforcement protocols for the detection, reporting, and interdiction of unauthorized rocketry and satellite launch activities within territories under the governance jurisdiction of the Clairos Governance Council. These protocols are binding upon all current CGC member corporations and apply to all lands, facilities, maritime zones, and airspace in which member corporations exercise operational or administrative control.
+
+For the purposes of this protocol, "CGC member territories" are understood to encompass Haven Island and all lands, seas, and infrastructure where one or more member corporations maintain recognized operational authority pursuant to CGC Framework Agreement Article 3(c). Enforcement jurisdiction extends to the outer boundary of such operational authority. Operations and activities conducted in regions where no CGC member corporation exercises recognized authority fall outside the scope of this protocol and are addressed, where applicable, under separate CGC diplomatic coordination procedures.
+
+---
+
+## SECTION 2 — BACKGROUND
+
+The CGC Anti-Proliferation Framework was first established in **70 PCE (2112 CE)**, following the confirmed emergence of the rogue AI collective designated CYPHER and the subsequent CGC emergency resolution restricting new rocket launches and construction of orbital delivery infrastructure. The framework was created in recognition that uncontrolled access to launch capability poses an existential threat to the stability of the CGC governance structure and to Clairos as a whole, as CYPHER's continued operational capacity is materially dependent on receiving physical resupply and maintenance materials from the surface.
+
+Ten prior revisions to the enforcement protocol have been issued between 70 PCE and 75 PCE. Revision 11 is issued in response to intelligence assessments indicating that Conclave-affiliated interdiction circumvention has become measurably more sophisticated, and that prior penalty structures have proven insufficient to deter facilitation at the organizational level.
+
+It must be noted, for purposes of institutional record, that the Anti-Proliferation Framework **was not established in 65 PCE or at any earlier date**. References to that effect appearing in legacy procurement documents from certain member corporations are erroneous and should be considered superseded by this and all prior revisions citing the correct 70 PCE origin date.
+
+---
+
+## SECTION 3 — REVISED PENALTIES
+
+Effective upon issuance of this revision, the following penalty schedule applies to all violations of the CGC Anti-Proliferation Framework within member territories.
+
+**3.1 Unauthorized Launch Facilitation**
+The mandatory minimum financial penalty for any natural or legal person found to have facilitated an unauthorized rocket launch, or materially contributed to the preparation thereof, is revised as follows:
+
+| Violation Class | Prior Mandatory Minimum (R10) | Revised Mandatory Minimum (R11) |
+|---|---|---|
+| Unauthorized Launch Facilitation | **50,000 Phi Credits** | **150,000 Phi Credits** |
+| Constructing Unauthorized Launch Infrastructure | 200,000 Phi Credits | 400,000 Phi Credits |
+| Failure to Report Detected Launch Activity | 25,000 Phi Credits | 75,000 Phi Credits |
+
+Penalty schedules at 3.1 represent floor values only. The Enforcement Directorate retains discretion to impose escalated penalties, asset seizure, and referral for CGC security enforcement action commensurate with the severity of the violation. Corporate-level facilitation findings carry supplementary penalties assessed against the responsible member corporation's CGC standing, up to and including temporary suspension of operational authority in the affected territory.
+
+---
+
+## SECTION 4 — SURVEILLANCE AND INSPECTION REQUIREMENTS
+
+**4.1 General Surveillance Obligations**
+All CGC member corporations are required to maintain continuous passive surveillance of all infrastructure within their territorial holdings that could plausibly serve as, or be converted into, launch infrastructure. Passive surveillance records must be retained for a minimum of 24 months and made available to the Anti-Proliferation Directorate upon request within 72 hours.
+
+**4.2 Monthly Inspection Requirements**
+All CGC member corporations are required to conduct mandatory physical inspections of all former launch facilities within their territorial holdings on a monthly basis. Inspection records shall be filed with the Anti-Proliferation Directorate no later than five business days following the calendar month-end in which the inspection was conducted. A "former launch facility" is defined, for purposes of this requirement, as any installation that served as an active launch site during the CYPHER project satellite deployment period of 62–65 PCE.
+
+**4.3 Former Launch Facility Registry — Member Corporation Holdings**
+
+The following registry documents the total count of former launch facilities subject to monthly inspection requirements per member corporation, as established in the current Anti-Proliferation Directorate infrastructure database:
+
+| Member Corporation | Registered Former Launch Facilities |
+|---|---|
+| Cyanite Industries | 9 (total holdings) |
+| ONE Network Enterprises | 4 |
+| Phyrexis Group | 3 |
+| Genesis Labs | 1 |
+| The Edge Corporation | 1 |
+
+Note: Of Cyanite Industries' total registered holdings, **6 former launch facilities are located within the Sarento operational zone** and are subject to the Sarento-specific inspection addendum (CGC-APD-SARENTO-02), which applies additional coordination requirements given the industrial density of that territory. The remaining 3 Cyanite facilities are distributed across other Cyanite-controlled extraction zones and are subject to standard monthly inspection protocols.
+
+---
+
+## SECTION 5 — MARITIME INTERDICTION PROCEDURES
+
+**5.1 Designation of Primary Maritime Interdiction Authority**
+**ONE Network Enterprises** is hereby designated and confirmed as the **primary maritime interdiction authority** for seaborne launch materials under the CGC Anti-Proliferation Framework. This designation, first established in Revision 6 and reaffirmed in each subsequent revision, reflects ONE's unparalleled command of maritime logistics infrastructure and its operational presence across the principal shipping lanes through which launch materials must transit to reach unauthorized assembly sites.
+
+**5.2 Interdiction Protocols**
+ONE's Maritime Anti-Proliferation Division shall maintain active vessel screening operations at all CGC-jurisdiction port facilities, with authority to detain and inspect cargo flagged by intelligence assessments as potentially containing launch-relevant materials. ONE is authorized to request escort or boarding support from Cyanite industrial security units when operations occur adjacent to Cyanite-controlled coastal zones.
+
+**5.3 Limitations of Maritime Jurisdiction**
+Maritime interdiction authority under this protocol extends to vessels operating within CGC member territorial waters as defined under Section 1 of this document. Vessels operating in international waters beyond CGC member territorial extent are subject to separate diplomatic coordination procedures. Enforcement jurisdiction does not extend to port facilities or shipping lanes under the exclusive control of non-CGC entities.
+
+---
+
+## SECTION 6 — REPORTING PROTOCOLS
+
+**6.1 Mandatory Reporting Window**
+Any CGC member corporation whose security, surveillance, or intelligence assets detect suspected unauthorized launch activity within or adjacent to their territorial holdings is required to file a preliminary incident report with the Anti-Proliferation Directorate within **72 hours of initial detection**. Failure to comply with the 72-hour reporting window constitutes an independent violation subject to penalties under Section 3.
+
+**6.2 Report Contents**
+Preliminary incident reports shall include, at minimum: coordinates or territorial location of detected activity; nature of detection (visual surveillance, signals intelligence, informant, other); estimated stage of launch preparation; and any corroborating intelligence. Preliminary reports do not require investigation completion prior to filing; supplementary reports may be submitted as additional information becomes available.
+
+---
+
+## SECTION 7 — ENFORCEMENT COORDINATION
+
+All inter-corporate enforcement operations conducted under this protocol shall be coordinated through the Anti-Proliferation Directorate's Operations Desk. Member corporations may not conduct unilateral enforcement actions against facilities or vessels believed to be held by another member corporation without prior Directorate notification. Cross-corporate enforcement actions require sign-off from the Enforcement Director or a designated Deputy Director before commencement.
+
+---
+
+*Issued under the authority of the Anti-Proliferation Directorate, Clairos Governance Council.*
+*CGC-APD-EP-R11 — CONFIDENTIAL*

@@ -1,0 +1,95 @@
+# Visual Cortex Integration Dynamics in Edge-Enabled Neural Meshes: A Five-Year Longitudinal Analysis
+
+**Dr. Mariel Chen-Otsuka, TEC Advanced Neuroscience Division**
+*The Edge Corporation, East Haven Research Annex*
+Classification: L3 — Authorized Only
+Reference: TEC-ANS-76-0044
+Date: 76-06-14 PCE / 2118-06-14 CE
+
+---
+
+## Abstract
+
+This paper presents a five-year longitudinal analysis of neuroplastic changes associated with prolonged nanobot-mediated Edge integration across a cohort of 12,400 Fullwalker subjects resident in Haven, observed continuously from 69 to 74 PCE. Primary endpoints included cortical remapping index (CRI) trajectories, visual processing latency under disconnection conditions, and regional activity modulation across cortical and subcortical regions implicated in visual and self-referential processing. Results demonstrate a consistent plateau in cortical remapping indices at approximately eighteen months post-integration, with significant secondary findings in anterior insular cortex activity, baseline visual processing degradation following sustained engagement, and an unexpected pattern of neural oscillation in a discrete subpopulation exhibiting characteristics consistent with Edgedancer perceptual behavior. The study provides the most extensive neurological dataset yet assembled on long-term Edge integration and presents several findings with implications for integration safety profiling and cohort stratification in future clinical trials.
+
+---
+
+## 1. Introduction
+
+The nanobot-mediated augmentation of visual processing underlying Edge functionality operates through progressive integration with the lateral geniculate nucleus and primary visual cortex (V1), extending into higher-order visual areas including V4 and MT+, as well as prefrontal regions involved in attentional routing. While short-term integration dynamics have been characterized in prior TEC Advanced Neuroscience Division studies (Chen-Otsuka et al., 72 PCE; Wiremu et al., 71 PCE), the long-term neuroplastic consequences of sustained full-spectrum Edge engagement remained incompletely described prior to the present investigation.
+
+The phenomenon colloquially termed Edgedancing — the voluntary or habitual oscillation between Edge-rendered and baseline visual perception — had been noted anecdotally in clinical intake reports and in independent observational literature but had not been examined in the context of a prospective longitudinal design. Its neurological basis, and its relationship to the adverse event profile of long-term Fullwalker populations, represents a secondary aim of the present study.
+
+---
+
+## 2. Methodology
+
+### 2.1 Study Cohort
+
+A total of 12,400 Fullwalker subjects resident in Haven were enrolled at study commencement in 69 PCE. Eligibility required a minimum of six months of prior continuous Edge engagement and self-reported Fullwalker identity status. Subjects were recruited across all five Haven sectors through integration-consent registry cross-reference, with stratification by estimated integration duration, age at first integration, and occupational category. Subjects were excluded if they had undergone Opting procedures within twenty-four months of enrollment, if they reported any prior neurological diagnosis unrelated to Edge integration, or if they held active employment with TEC or any TEC-affiliated research subcontractor.
+
+The cohort was followed without intervention through 74 PCE, a total observation window of five years. Attrition over the study period was 6.1% (n = 757), attributable primarily to Opting, relocation outside Haven, or voluntary withdrawal. All analyses are performed on the modified intention-to-observe population with last-observation-carried-forward imputation for subjects lost to follow-up after the 36-month assessment.
+
+### 2.2 Primary Outcome Measures
+
+**Cortical remapping index (CRI):** A composite measure derived from high-resolution functional neuroimaging conducted at six-month intervals, quantifying the degree to which nanobot-mediated signal processing has been incorporated into subjects' primary visual cortical architecture. CRI is expressed as a normalized index from 0 (no integration) to 1.0 (full cortical incorporation).
+
+**Baseline visual processing speed (BVPS):** Assessed under temporary Edge disconnection using a standardized motion-contrast detection protocol administered at each assessment interval. Disconnection periods lasted 90 minutes; BVPS was recorded at 15-minute intervals throughout the disconnection window.
+
+**Regional cortical activity:** Measured using portable functional imaging at each assessment visit, with particular focus on regions implicated in visual processing, attentional routing, interoceptive awareness, and self-referential cognition.
+
+**Neural oscillation classification:** A pattern-recognition protocol developed by the TEC Advanced Neuroscience Division for the purpose of this study, classifying subjects' neural imaging profiles at each interval as stable-integrated, transitional, or oscillating, based on the signature of bidirectional switching activity between integration-mode and baseline-mode visual processing circuits.
+
+---
+
+## 3. Results
+
+### 3.1 Cortical Remapping Index Trajectories
+
+The mean CRI across the full cohort increased rapidly from enrollment baseline (mean CRI 0.41, SD 0.09) through the 12-month assessment (mean CRI 0.67, SD 0.08), with the rate of increase decelerating markedly thereafter. Cortical remapping indices plateau at approximately 18 months post-integration for most users, with mean CRI stabilizing at 0.74 (SD 0.06) across assessments at 18, 24, 30, and 36 months in the stable-integrated subpopulation. The plateau was observed consistently across age, sex, and occupational strata, with no statistically significant interaction between baseline integration duration and plateau timing (p = 0.31, 95% CI: −0.04 to 0.11 CRI units).
+
+A minority subpopulation (n = 1,842; 14.9% of cohort) failed to reach stable CRI plateau by the 24-month mark, exhibiting either continued gradual increase (n = 1,203) or irregular fluctuation (n = 639). The latter group warranted further investigation and is discussed separately in Section 3.3.
+
+### 3.2 Long-Term Engagement and Baseline Visual Processing Degradation
+
+Subjects who maintained continuous Edge engagement beyond 36 months showed measurable reduction in baseline visual processing speed when temporarily disconnected, relative to their own enrollment baselines and relative to subjects with shorter engagement durations. At the 60-month assessment, the mean BVPS deficit at the 15-minute post-disconnection measurement was 18.3% below individual enrollment baseline (SD 6.1%, 95% CI: 17.0–19.6%), recovering partially to a 9.7% deficit by the 90-minute endpoint of the disconnection window. This deficit was absent in subjects with integration durations of 24 months or fewer (mean 15-minute deficit: 2.1%, SD 3.4%, p < 0.001 vs. sustained-engagement group). The deficit was present across all occupational categories and persisted after controlling for age, sex, and CRI plateau level.
+
+Regional cortical activity analysis identified a statistically significant correlation between prolonged Edge integration and decreased activity in the anterior insular cortex (aIC). This finding was not anticipated in the study's pre-registered primary endpoints. The aIC, a region consistently implicated in interoceptive awareness and self-perception across the independent neuroscientific literature, showed progressive activity reduction from the 24-month assessment onward in subjects with continuous engagement. At 60 months, mean aIC activity (expressed as a percentage of enrollment baseline) was 73.4% (SD 8.7%, 95% CI: 72.2–74.6%) in the sustained-engagement population, compared to 96.1% (SD 9.2%) in subjects whose engagement had been interrupted by disconnection events exceeding 72 hours. The correlation between cumulative uninterrupted engagement duration and aIC activity reduction was linear across the observed range (r = −0.61, p < 0.001). No analogous persistent reduction was identified in prefrontal cortical regions. The prefrontal findings were within normal variation across the observation period (p = 0.54 across all prefrontal subregions assessed), and no clinically significant prefrontal activity change was attributed to Edge integration in this cohort.
+
+### 3.3 Neural Oscillation Subpopulation: Edgedancer-Pattern Findings
+
+The irregular-fluctuation subgroup identified at Section 3.1 (n = 639) was subject to detailed pattern analysis. Of these subjects, 458 met the formal neural oscillation classification threshold for sustained oscillation between Edge-rendered and baseline visual modes, defined as a bidirectional CRI oscillation amplitude of ≥ 0.15 across at least three consecutive assessment intervals. Expressed as a proportion of the total studied cohort, approximately 3.7% of long-term Fullwalkers exhibited this sustained oscillation pattern. The neural signature is consistent with what would be expected if subjects were engaged in deliberate and repeated perceptual switching between integration-mode and baseline-mode visual processing — a behavioral pattern consistent with the colloquially described Edgedancing practice. Analysis of integration-event logs available from consented subjects in this subgroup confirmed a substantially higher frequency of voluntary disconnection events, suggesting that the neural oscillation pattern is likely reinforced by deliberate perceptual training in that subpopulation rather than representing a spontaneous neurological variant.
+
+These findings place Edgedancer-pattern oscillation in a distinct neurological category from both stable Fullwalker integration and the gradual-increase subpopulation. The oscillation pattern does not appear to accelerate cortical remapping; mean CRI at study endpoint in this subgroup was lower than in the stable-integrated population (0.58, SD 0.11, vs. 0.74, SD 0.06, p < 0.001), consistent with sustained maintenance of baseline-mode circuitry rather than progressive Edge-dominant consolidation.
+
+---
+
+## 4. Adverse Events and the Shivers Incidence
+
+Adverse event monitoring across the full study period identified 1,204 reported episodes meeting the diagnostic criteria for the Shivers — defined in this study as self-reported and clinician-confirmed tachyphrenic episodes accompanied by thermoregulatory disturbance, consistent with nervous system hyperactivation following visual-processing mode conflict. Incidence analysis stratified by neural oscillation classification revealed a marked differential. Subjects exhibiting Edgedancer-pattern neural oscillation had a 4.2x higher incidence of the Shivers compared to stable Fullwalkers (95% CI: 3.7–4.8x, p < 0.001), a finding that persisted after adjustment for integration duration, frequency of voluntary disconnection events, and occupational category.
+
+The mechanism underlying this differential is not fully characterized within the scope of this study. The elevated Shivers incidence in the oscillation subgroup may reflect the neurological cost of sustained switching between processed and unprocessed visual modes, generating the autonomic dysregulation characteristic of the condition, or may indicate that individuals prone to voluntary oscillation are also physiologically more sensitive to the mismatch between Edge-augmented and baseline perception. Prospective mechanistic investigation is warranted.
+
+---
+
+## 5. Discussion
+
+The primary finding of this analysis — a consistent and predictable CRI plateau at approximately eighteen months post-integration — provides a clinically useful reference point for integration monitoring protocols. The plateau's stability across demographic and occupational strata suggests that it reflects a fundamental constraint of the nanobot-cortical interface architecture rather than a socially or behaviorally mediated phenomenon, though the precise biological mechanism warrants further investigation.
+
+The BVPS degradation finding in subjects with sustained engagement beyond 36 months is consistent with the established neuroscientific literature on cortical competitive exclusion: as integration-mode visual processing consolidates in primary and secondary visual cortex, baseline-mode circuitry undergoes relative disuse depression, manifesting as processing speed reduction under disconnection. This finding has implications for integration-continuity advisory guidance but does not, on the available evidence, suggest progressive pathology; the partial BVPS recovery observed within 90-minute disconnection windows is consistent with preserved, if suppressed, baseline-mode capacity.
+
+The anterior insular cortex finding warrants replication in independent cohorts and further investigation of its functional correlates. The aIC's established roles in interoceptive processing, bodily self-model maintenance, and affective awareness make the observed activity reduction of interest for ongoing Edge integration characterization; however, the present study does not permit causal inference, and the functional consequences of the observed reduction are outside the scope of this investigation.
+
+The Edgedancer-pattern oscillation finding, while not the primary focus of the present study, represents a significant descriptive contribution to the literature. The population of long-term Fullwalkers exhibiting this pattern is small but neurologically distinctive, and the evidence for deliberate perceptual training as a reinforcing mechanism opens a productive avenue for experimental follow-up.
+
+**Limitations:** The study cohort is necessarily limited to Haven-resident Fullwalkers, and generalizability to non-Haven Edge users or to future integration architectures is uncertain. Self-report data on voluntary disconnection events are subject to social desirability bias. The neural oscillation classification protocol employed in this study has not been validated in external datasets.
+
+---
+
+## Acknowledgements
+
+The author thanks the TEC Advanced Neuroscience Division cohort monitoring team, imaging technicians at the East Haven Research Annex, and the data governance review board. Cohort enrollment and data collection were conducted in compliance with TEC Research Ethics Protocol REP-69-14 and all applicable internal data governance standards.
+
+---
+
+*TEC-ANS-76-0044 | Classification: L3 — Authorized Only | © The Edge Corporation 76 PCE. Distribution restricted to TEC personnel holding L3 clearance or above. External distribution requires written authorization from the TEC Office of the Chief Science Officer.*

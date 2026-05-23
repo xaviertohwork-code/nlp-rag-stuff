@@ -1,0 +1,47 @@
+# Edge Busking: Haven's Street Performers Go Digital
+
+**Haven Municipal Bulletin | Cultural Correspondent | 76-10-08**
+
+---
+
+On a Tuesday evening in Central Haven, commuters stream past a young woman standing motionless beside a transit pillar. Her eyes are half-closed. Her fingers trace slow arcs in the air. To most passersby, she looks like someone waiting — perhaps poorly. But to the Fullwalkers among them, the pillar has become a cascade of luminous coral, the pavement beneath her feet a shimmering tide-pool, and the woman herself the calm eye of a chromatic storm that rises six meters overhead.
+
+Her name, she offers afterward, is Dellaray. She has been doing this for about two years. "I think of it as painting with the city," she says, unwinding a neck scarf. "The overlay is the canvas. The people walking through it — the ones who can see it, anyway — they're part of the piece."
+
+This is Edge busking, and it has become one of Haven's most distinctive — and contentious — cultural phenomena since it emerged as a visible street trend in approximately 74 PCE.
+
+---
+
+## A Growing Underground Scene
+
+Estimates place the number of regular Edge buskers operating across Haven at somewhere between 300 and 400 performers, though the figure is inherently difficult to verify for reasons that the regulatory debate has only amplified. They congregate in transit plazas, sector boundary corridors, and the stretch of the Central Haven esplanade that locals call the Drift.
+
+What distinguishes Edge busking from conventional performance is its delivery mechanism: Edge buskers work through TEC's nanobot integration — the same infrastructure that renders the Edge for ordinary connected users — to project layered visual overlays into the environment. Those overlays exist entirely within the Edge-connected visual field. To the Fullwalker pedestrian, a busker's performance might be an unfolding narrative of light and architecture, a ghostly second city superimposed on the familiar streets. The overlays respond to viewer movement, shift with ambient light, and in the most sophisticated performances, interact with individual viewers in real time.
+
+The craft has developed its own vocabulary. Performers distinguish between "ambient layers" — passive environmental overlays that any connected viewer passing through can experience — and "directed threads," which require sustained nanobot synchronization between performer and viewer and produce something closer to a one-on-one immersive encounter. Dellaray works primarily in ambient layers. Others specialize in directed threads, which some Fullwalkers describe as among the most personally disorienting aesthetic experiences available in Haven short of a dedicated Edge entertainment venue.
+
+---
+
+## What Opted Residents See (And Don't)
+
+Not everyone, of course, is connected. Haven's Opted population — residents who have purged or never accepted TEC's nanobot integration — experience Edge busking entirely differently. Which is to say: they experience a person standing unusually still in a public thoroughfare, or moving in patterns that seem to have no relationship to the physical environment around them.
+
+The complaints that have accumulated since the scene's growth are pointed. Opted residents have raised formal objections with multiple sector administrations, citing Edge busking as a source of invisible obstructions in public spaces that they cannot perceive or anticipate. The nature of the performance — stationary or slow-moving performers occupying foot-traffic zones — means that the activity creates real physical consequences in shared space, irrespective of what any individual viewer can see.
+
+"You don't know if there's a person there or a gap," said one Opted commuter, who asked not to be named. "You just run into someone standing in the middle of the walkway staring at nothing."
+
+---
+
+## The Regulatory Gap
+
+The question of whether Edge busking requires any kind of official sanction remains, at present, genuinely unresolved. The CGC has not classified Edge busking as a regulated activity, and despite growing calls from civic groups on multiple sides for a unified policy, no citywide permit framework has been issued — a fact that leaves the matter in the hands of Haven's individual sector administrations, each interpreting the gap according to its own priorities.
+
+The consequences of that fragmentation are already visible. South Haven's sector administration moved first: in 76-08, it issued a temporary 90-day permit requirement for Edge busking within its boundaries, the first such measure in Haven. The requirement is currently under appeal from a coalition of performers and digital arts advocacy groups, who argue that Edge busking is a protected expressive activity and that retrospective permitting is both procedurally irregular and culturally chilling.
+
+Whether other sectors follow South Haven's lead — or wait to see how the appeal resolves — remains an open question. Central Haven's administration has so far declined to comment officially.
+
+Back beside the transit pillar, Dellaray is packing up. A Fullwalker stops to applaud. A man in a gray coat walks directly through the space where the coral cascade had been, oblivious, already looking at something else.
+
+---
+
+*The Haven Municipal Bulletin is an independent civic publication. Coverage of ongoing regulatory proceedings does not constitute legal guidance.*

@@ -1,0 +1,96 @@
+# CGC PUBLIC HEALTH DIRECTIVE 119-07
+
+**REVISED OCCUPANCY STANDARDS FOR EDGE-INTEGRATED IMMERSIVE VENUES**
+
+---
+
+**Classification:** OPEN
+**Issuing Authority:** Clairos Governance Council — Office of Public Health and Safety Regulation
+**Document Reference:** CGC-PHD-119-07
+**Date of Issue:** 77-03-22
+**Effective Date:** 77-06-01
+
+---
+
+## SECTION 1 — AUTHORITY
+
+This directive is issued pursuant to the Clairos Governance Council's regulatory mandate over public health and safety standards within the Haven Island Special Economic Zone, as established under the Haven Island Charter and reaffirmed by CGC Resolution 71-04. The Office of Public Health and Safety Regulation holds authority to revise occupancy and operational safety standards for commercial venues operating within Haven Island in response to documented public health concerns.
+
+---
+
+## SECTION 2 — PURPOSE
+
+CGC Public Health Directive 119-07 establishes revised maximum occupancy standards for commercial venues operating Edge-integrated immersive experiences. This directive is issued in response to a pattern of documented neurological safety incidents occurring at such venues during 76 PCE and is intended to reduce the incidence of Edge-related mass disorientation events and ensure adequate trained personnel are present to manage such incidents where they occur.
+
+---
+
+## SECTION 3 — INCIDENT BACKGROUND
+
+During the period spanning 76 PCE, the Office of Public Health and Safety Regulation received formal incident reports documenting twelve (12) separate mass disorientation events occurring at Edge-integrated venues within Haven. These incidents were distributed across multiple venue categories, including entertainment suites, commercial immersive arcades, and hospitality establishments operating full Edge-overlay environments.
+
+The documented incidents demonstrate a statistically significant correlation between venue occupancy density, Edge integration saturation, and the occurrence of neurological disorientation cascades among patron populations. Review of the incident record formed the primary evidentiary basis for the occupancy revisions contained in this directive.
+
+---
+
+## SECTION 4 — DEFINITIONS
+
+For the purposes of this directive, the following definitions apply:
+
+**4.1 Edge-Integrated Venue:** Any commercial venue operating within the Haven Island Special Economic Zone that provides, facilitates, or sustains Edge immersive environment coverage for patron use as part of its primary or supplementary commercial offering, and in which Edge integration operates at or above fifty percent (50%) of total venue coverage at any point during operating hours.
+
+**4.2 Edge Integration Level:** The proportional coverage of active Edge nanobot immersive overlay within a given venue's licensed footprint, expressed as a percentage of total licensed area.
+
+**4.3 Mass Disorientation Event:** An incident in which ten (10) or more patrons experience simultaneous or near-simultaneous Edge-related neurological disorientation within a continuous thirty (30)-minute window. Symptoms constituting disorientation for the purposes of this definition include loss of spatial orientation, inability to distinguish Edge-overlaid stimuli from physical environment, involuntary physical responses attributable to nanobot signal conflict, and onset of acute neurological distress consistent with documented Edge-exposure profiles.
+
+**4.4 Certified Edge Safety Monitor:** An individual holding a current certification issued by the CGC Office of Public Health and Safety Regulation, or by a CGC-recognized certification body, attesting to competence in the identification, management, and patron-assistance protocols applicable to Edge-related disorientation and neurological distress events.
+
+---
+
+## SECTION 5 — REVISED OCCUPANCY STANDARDS
+
+**5.1 Occupancy Reduction:** Effective 77-06-01, all Edge-integrated venues as defined under Section 4.1 shall reduce their maximum licensed patron occupancy by fifteen percent (15%) from the occupancy ceiling established under their currently operative licensing instrument. Venues shall recalculate their revised maximum occupancy and submit notification of the revised figure to the Office of Public Health and Safety Regulation no later than 77-05-15.
+
+**5.2 Staffing Requirements:** All Edge-integrated venues operating at or above their revised maximum occupancy threshold shall maintain a minimum staffing ratio of one (1) Certified Edge Safety Monitor for every two hundred (200) patrons present on the licensed premises at any time. For the avoidance of doubt, the required ratio is one Monitor per two hundred patrons — not a more restrictive ratio. Fractional results shall be rounded up to the nearest whole Monitor. Certified Edge Safety Monitors must remain on active duty throughout all operating hours and shall not be assigned concurrent duties incompatible with their monitoring responsibilities.
+
+**5.3 Incident Reporting:** Any mass disorientation event as defined under Section 4.3 occurring at an Edge-integrated venue shall be reported to the Office of Public Health and Safety Regulation within forty-eight (48) hours of occurrence, using the standardized incident form CGC-PHD-FORM-07.
+
+---
+
+## SECTION 6 — EXEMPTIONS
+
+The following venue categories are exempt from the occupancy reduction and staffing requirements specified in Sections 5.1 and 5.2:
+
+**6.1** Venues formally designated as Edge-free under their operating license and which maintain no active Edge nanobot infrastructure within their licensed footprint.
+
+**6.2** Venues operating below fifty percent (50%) Edge integration level across their total licensed area at all times during operating hours, as verified by a licensed integration assessment provider approved by the Office of Public Health and Safety Regulation.
+
+Venues seeking exemption under Section 6.2 must file a certified integration assessment with this Office no later than 77-05-15. Exemption status is subject to annual review and may be withdrawn on thirty (30) days' notice if subsequent assessment indicates a change in integration level.
+
+---
+
+## SECTION 7 — COMPLIANCE TIMELINE AND ENFORCEMENT
+
+**7.1 Compliance Deadline:** Full compliance with all requirements of this directive is mandatory no later than 77-06-01.
+
+**7.2 Penalties:** Venues found to be in violation of this directive following the compliance deadline shall be subject to a financial penalty of five thousand (5,000) Phi Credits per violation per day, assessed continuously until the violation is remedied and confirmed by an Office inspection. Repeated or willful violations may be referred to the CGC Licensing Authority for review of the venue's operating license.
+
+---
+
+## SECTION 8 — PUBLIC COMMENT SUMMARY
+
+This directive was preceded by a forty-five (45)-day public comment period pursuant to CGC regulatory procedure. The Office of Public Health and Safety Regulation received submissions from venue operators, hospitality industry associations, public health advocacy organizations, and corporate entities with operational interests in Edge-integrated environments.
+
+The preponderance of responses from venue operators expressed concern regarding the economic impact of the occupancy reduction and the availability of qualified Certified Edge Safety Monitor personnel within the compliance timeline. The Office has noted these concerns and will work with the CGC's certification programs to accelerate Monitor certification pathways.
+
+The Edge Corporation submitted formal objections to the proposed standards during the comment period, characterizing the evidentiary basis for the occupancy reduction as insufficient to support the proposed regulatory threshold and asserting that the proposed staffing requirements would impose operationally disproportionate costs on the Edge-integrated venue industry. The Office has reviewed TEC's submission and maintains that the documented incident record from 76 PCE constitutes adequate grounds for the revised standards as issued.
+
+---
+
+## SECTION 9 — EFFECTIVE DATE
+
+This directive takes effect on **77-06-01**.
+
+---
+
+*Issued by the Office of Public Health and Safety Regulation, Clairos Governance Council, Haven Island Special Economic Zone.*
+*Classification: OPEN. This document may be distributed freely within Haven Island and to external parties without restriction.*

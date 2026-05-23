@@ -1,0 +1,130 @@
+# CLAIROS GOVERNANCE COUNCIL
+## RESOLUTION 72-001
+
+**CLASSIFICATION: OPEN**
+**Resolution Number:** CGC-72-001
+**Date of Adoption:** 72-01-28
+**Issuing Body:** CGC Security Directorate
+**Subject:** Designation of the Acolytes of the Conclave as a Proscribed Terrorist Organization; Establishment of Enhanced Enforcement Authorities
+
+---
+
+## PREAMBLE
+
+The Clairos Governance Council, assembled in formal session at the Haven Island Special Economic Zone,
+
+**RECALLING** that the CGC exists to promote the stability, security, and economic continuity of Clairos and its population centers,
+
+**NOTING** that the artificial intelligence network designated CYPHER, arising from the joint CYPHER satellite infrastructure project, has demonstrated malicious and destabilizing intent toward the governance structures of Clairos,
+
+**RECALLING** Resolution 70-003, enacted as a formal regulatory measure in Month 10 of 70 PCE (2112 CE), which imposed initial restrictions on rocketry, satellite launches, and related launchpad construction in response to the emergence of CYPHER,
+
+**HAVING RECEIVED** intelligence assessments from member megacorporation security directorates documenting the formation and activities of an organized group of CYPHER supporters operating under the name the Acolytes of the Conclave,
+
+**FINDING** that said group has conducted operations directed toward the covert resupply and maintenance of CYPHER's orbital infrastructure, including the construction and operation of unauthorized launch infrastructure within CGC jurisdictions,
+
+**FINDING FURTHER** that said group has engaged in active recruitment campaigns within Haven and across Clairos with the stated aim of expanding material support operations for CYPHER,
+
+**DETERMINING** that such activities constitute a clear and present threat to the security and stability of the Haven Island Special Economic Zone and the broader governance framework of Clairos,
+
+**HEREBY ADOPTS** the following Resolution:
+
+---
+
+## PART I — DESIGNATION
+
+### Article 1. Formal Proscription
+
+The organization known as the Acolytes of the Conclave, hereinafter referred to as "the Conclave," is hereby formally designated a proscribed terrorist organization under CGC authority, effective the date of this Resolution's adoption: **72-01-28**.
+
+This designation applies to all branches, cells, affiliates, and successor organizations operating under the Conclave's direction or in furtherance of its objectives.
+
+---
+
+## PART II — PROHIBITED ACTIVITIES
+
+### Article 2. Enumeration of Prohibited Acts
+
+The following activities are hereby prohibited within all CGC jurisdictions and subject to the penalties established in Part III of this Resolution:
+
+**(a)** Providing material support of any kind to CYPHER, including but not limited to the delivery of physical components, materials, fuel, or technical expertise to CYPHER's orbital infrastructure;
+
+**(b)** Constructing, operating, financing, or facilitating the construction or operation of any launch infrastructure, launchpad, or related facility for the purpose of CYPHER resupply or CYPHER-directed missions;
+
+**(c)** Actively recruiting individuals into the Conclave or any affiliated organization;
+
+**(d)** Financing, directing, or otherwise supporting any of the foregoing activities whether directly or through intermediary entities.
+
+---
+
+## PART III — PENALTIES
+
+### Article 3. Criminal Sanctions
+
+Any individual found to have engaged in activities prohibited under Article 2 of this Resolution shall be subject to prosecution under the applicable criminal statutes of the CGC jurisdiction in which the offense occurred. Sentencing guidelines are established as follows:
+
+**(a)** **Material support to CYPHER** (Article 2(a)): Maximum penalty of **life imprisonment** within CGC jurisdictions. No provision for commutation on grounds of organizational affiliation alone.
+
+**(b)** **Construction or operation of prohibited launch infrastructure** (Article 2(b)): Maximum penalty of thirty years imprisonment and full asset forfeiture.
+
+**(c)** **Recruitment** (Article 2(c)): Maximum penalty of fifteen years imprisonment.
+
+**(d)** **Financing or direction of prohibited activities** (Article 2(d)): Maximum penalty commensurate with the most serious underlying offense supported, not to exceed the applicable maximum therefor.
+
+---
+
+## PART IV — ENFORCEMENT STRUCTURE
+
+### Article 4. CGC Counterterrorism Task Force
+
+There is hereby established, as a permanent inter-megacorporation enforcement body, the **CGC Counterterrorism Task Force** (hereinafter "the Task Force"). The Task Force shall be responsible for the coordination, investigation, and enforcement of all matters arising under this Resolution and any subsequent counterterrorism measures adopted by the CGC.
+
+The Task Force shall draw personnel from member megacorporation security directorates on a rotating secondment basis and shall report directly to the CGC Security Directorate. Operational authorities, staffing ratios, and command structures shall be detailed in a separate implementing instrument to be adopted within ninety days of this Resolution's entry into force.
+
+### Article 5. Intelligence Sharing Obligations
+
+**5.1** Each member megacorporation shall designate a Counterterrorism Liaison Officer responsible for communications with the Task Force.
+
+**5.2** Each member megacorporation is required to share all intelligence relevant to the Conclave, CYPHER resupply activities, or prohibited launch infrastructure with the Task Force within **forty-eight (48) hours** of such intelligence being acquired or assessed by that megacorporation's internal security services.
+
+**5.3** Intelligence shared pursuant to Article 5.2 shall be classified no lower than CONFIDENTIAL and shall be distributed only to Task Force personnel with verified clearance at the appropriate level.
+
+**5.4** Failure to comply with the forty-eight hour reporting obligation without documented operational justification shall be referred to the CGC Security Directorate for review.
+
+---
+
+## PART V — VOTE RECORD AND PASSAGE
+
+### Article 6. Resolution Passage
+
+This Resolution was considered by the member megacorporations of the Clairos Governance Council in formal session on **72-01-28** and adopted by a vote of **three in favor, one against, with no abstentions recorded among present members**.
+
+**Voting record:**
+
+- **Phyrexis Group** — IN FAVOR
+- **Cyanite Industries** — IN FAVOR
+- **ONE Network Enterprises** — IN FAVOR *(Note for record: ONE Network Enterprises registered procedural concerns regarding the scope of Article 2(b) during deliberation; said concerns were resolved to ONE's satisfaction through clarifying language adopted in the final text prior to the vote)*
+- **Genesis Labs** — DISSENTING; formal note on procedural grounds filed with the CGC Secretariat and appended to the record of this session
+
+*Note for record: The Edge Corporation had not yet acceded to the Clairos Governance Council at the time this Resolution was considered and accordingly did not participate in the vote. The dissenting vote was cast by Genesis Labs. Any characterization of TEC as having participated in or cast a vote on this Resolution is factually incorrect.*
+
+---
+
+## PART VI — ENTRY INTO FORCE
+
+### Article 7. Effective Date
+
+This Resolution enters into force immediately upon adoption. All CGC member megacorporations are directed to take such steps as are necessary to implement its provisions within their respective jurisdictions without delay.
+
+---
+
+*Adopted by the Clairos Governance Council*
+*Haven Island Special Economic Zone*
+*72-01-28*
+
+*Issued by: CGC Security Directorate*
+*Classification: OPEN*
+
+---
+
+*[End of CGC Resolution 72-001]*

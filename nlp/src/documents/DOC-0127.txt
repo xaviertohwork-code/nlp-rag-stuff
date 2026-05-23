@@ -1,0 +1,157 @@
+# EDGE CORPORATION — INTERFACE CONTROL DOCUMENT
+## ICD-2240: CYPHER Satellite Uplink Protocol for Edge Tier 3 Services
+### Revision 1.0 | Classification: L2 | Date: 74-11-08 (2116-11-08 CE)
+
+---
+
+**Document Number:** ICD-2240
+**Issuing Authority:** Edge-CYPHER Integration Team, The Edge Corporation
+**Classification:** L2 — AUTHORIZED INTERNAL / CONTRACTOR ACCESS
+**Applicable Systems:** Haven Ground Relay Network (HGRN); CYPHER E-Cluster Satellite Constellation; Edge Tier 3 Service Infrastructure
+**Supersedes:** ICD-2119 (draft, unpublished)
+
+---
+
+## DOCUMENT PROVENANCE
+
+ICD-2240 was jointly developed by The Edge Corporation's Integration Engineering division and the Cyanite Industries satellite engineering division. The involvement of Cyanite's satellite engineering division reflects the CYPHER project's original tri-party organizational structure — CYPHER's satellite infrastructure was designed and launched as a collaboration between Cyanite Industries, Phyrexis Group, and The Edge Research Project (the predecessor entity to The Edge Corporation). No further external contractors or development parties are involved in this ICD; the document reflects a tri-party structure, not any four-party or expanded arrangement. All interface requirements herein have been reviewed and accepted by engineering representatives of both the Edge-CYPHER Integration Team and Cyanite Industries satellite engineering.
+
+---
+
+## 1. PURPOSE AND SCOPE
+
+This Interface Control Document (ICD) defines the technical communication protocol governing uplink and downlink data exchange between Haven ground relay stations and the CYPHER satellite constellation specifically designated for Edge Tier 3 service delivery. It specifies uplink scheduling behavior, frequency band allocation, data packet formatting, bandwidth priority hierarchies, and fault recovery procedures.
+
+This document applies exclusively to Tier 3 Edge service operations. Tier 1 and Tier 2 service protocols are governed by separate ICDs and are not addressed here.
+
+---
+
+## 2. SYSTEM OVERVIEW AND TECHNICAL PARAMETERS
+
+### 2.1 E-Cluster Designation
+
+Edge Tier 3 services do not draw on the full CYPHER satellite constellation. Of the 340 or more operational CYPHER satellite nodes currently maintained in orbit, **37 nodes are designated for exclusive Edge Tier 3 service use**, collectively identified throughout this and all related technical documentation as the **E-cluster**. The E-cluster is logically and spectrally isolated from CYPHER's general-purpose compute allocation (see Section 3).
+
+The 37-node E-cluster provides the orbital coverage density required to sustain continuous Tier 3 service delivery to all Haven ground relay stations without incurring handoff interruptions during nominal operations. Node assignments within the E-cluster are fixed; dynamic reallocation of nodes between E-cluster and general-purpose allocations is not permitted under this protocol and requires a separate CGC coordination resolution before any such reallocation may be implemented.
+
+### 2.2 Haven Ground Relay Network Integration
+
+Haven ground relay stations communicate exclusively with E-cluster nodes. Each relay station maintains persistent uplink registration with its designated primary E-cluster node, falling back to designated secondary and tertiary nodes in accordance with the failover procedures defined in Section 6. Relay station hardware specifications are governed by TEC Hardware Specification TEC-HW-0044; relay placement and sector assignments are maintained in the HGRN Configuration Registry (separate document).
+
+---
+
+## 3. FREQUENCY BAND ALLOCATION
+
+The E-cluster operates on a dedicated frequency band isolated from CYPHER's general-purpose compute allocation. This isolation is a hard architectural requirement and may not be waived for any individual relay station, satellite node, or service instance.
+
+**Table 3-1: E-Cluster Frequency Band Allocation**
+
+| Allocation Zone | Frequency Band | Usage | Notes |
+|---|---|---|---|
+| E-UPLINK-PRIMARY | 27.5–28.35 GHz | Ground-to-satellite uplink (Tier 3) | E-cluster exclusive |
+| E-DOWNLINK-PRIMARY | 17.7–18.6 GHz | Satellite-to-ground downlink (Tier 3) | E-cluster exclusive |
+| E-INTER-NODE | 23.0–23.6 GHz | E-cluster inter-satellite coordination links | Not accessible from ground |
+| CYPHER-GENERAL | 19.7–20.2 GHz / 29.5–30.0 GHz | CYPHER general-purpose compute allocation | E-cluster excluded from use |
+| HGRN-CONTROL | 401–406 MHz | Ground relay management and telemetry | Shared across all relay tiers |
+
+E-UPLINK-PRIMARY and E-DOWNLINK-PRIMARY are allocated for exclusive E-cluster use by the CYPHER Frequency Coordination Plan (FCP-CYPHER-003). Any signal detected on these bands originating from non-E-cluster hardware should be reported immediately to the Edge-CYPHER Integration Team as a potential unauthorized access event.
+
+---
+
+## 4. UPLINK SCHEDULING AND BANDWIDTH PRIORITY
+
+### 4.1 Priority Hierarchy
+
+Uplink scheduling within the E-cluster follows a rotating priority system that governs access sequencing when bandwidth demand exceeds instantaneous relay capacity. The priority order, from highest to lowest, is:
+
+**REQ-001:** Avatar synchronization data shall be assigned the highest uplink scheduling priority. Avatar state packets must be transmitted within the current scheduling window regardless of concurrent load; they may not be deferred to a subsequent window under any nominal operating condition.
+
+**REQ-002:** Identity persistence data shall be assigned second-tier scheduling priority, immediately following avatar synchronization. Identity persistence packets may be deferred by one window if and only if total relay capacity utilization exceeds 94% in the current window.
+
+**REQ-003:** Environmental rendering update data shall be assigned third-tier scheduling priority. Environmental rendering packets may be deferred by up to two scheduling windows under high-load conditions before mandatory transmission is triggered.
+
+No service category below Tier 3 designation may receive uplink allocation within any window in which REQ-001, REQ-002, or REQ-003 packets remain pending.
+
+### 4.2 Scheduling Window Timing
+
+The E-cluster scheduling window is 40 milliseconds in duration. The rotating priority sequence described in Section 4.1 resets at the start of each window. Window boundaries are synchronized to the HGRN master clock maintained at the primary Haven relay hub in East Haven.
+
+---
+
+## 5. DATA PACKET FORMATTING
+
+### 5.1 Packet Header Structure
+
+All uplink packets transmitted from Haven ground relay stations to E-cluster nodes shall conform to the following header structure:
+
+**REQ-004:** Each packet header shall include a 6-byte Service Priority Identifier (SPI), encoding the packet's scheduling priority tier (avatar synchronization / identity persistence / environmental rendering), the originating relay station identifier, and the current window sequence number.
+
+**REQ-005:** Avatar synchronization packets shall carry a 2-byte Freshness Flag. Packets whose Freshness Flag indicates age exceeding 80 milliseconds from the time of local capture at the relay station shall be dropped rather than transmitted, and a new capture initiated.
+
+**REQ-006:** All Tier 3 data packets shall be encrypted under the TEC-CYPHER Link Encryption Standard (TEC-LES-3), with session keys rotated per the schedule defined in the HGRN Key Management Specification (TEC-KM-0017).
+
+### 5.2 Downlink Acknowledgment
+
+E-cluster nodes transmit per-packet acknowledgment frames to originating relay stations confirming successful receipt. Acknowledgment frames are 64 bytes in length and include a timestamp, node health status byte, and corrected retransmit window recommendation where applicable.
+
+---
+
+## 6. NOMINAL LATENCY SPECIFICATIONS
+
+The Haven Ground Relay Network and E-cluster have been engineered to the following nominal latency target:
+
+**REQ-007 — Nominal Round-Trip Latency:** The maximum round-trip latency from a Haven ground relay station transmitting an uplink packet to an E-cluster satellite node, and the return of the node's downlink acknowledgment to the originating relay station, shall not exceed **340 milliseconds** under nominal operating conditions. This figure encompasses signal propagation delay, onboard E-cluster node processing, and downlink propagation. Conditions are considered nominal when: E-cluster node health status is OPERATIONAL; relay station signal integrity is ≥ 97%; and atmospheric interference index is below threshold level 3 as reported by the HGRN atmospheric monitor.
+
+Latency exceedances under nominal conditions shall be logged and reported to the Edge-CYPHER Integration Team within the operational reporting cycle in which they occur.
+
+---
+
+## 7. FAILOVER PROCEDURES AND FAULT RECOVERY
+
+### 7.1 Fault Detection
+
+A relay station shall declare its primary E-cluster node unavailable when three consecutive acknowledgment frames are not received within 340 milliseconds of uplink transmission. Upon declaring primary node unavailability, the relay station shall immediately initiate failover sequencing as specified in REQ-008 through REQ-010.
+
+### 7.2 Failover Sequencing
+
+**REQ-008 — Adjacent Node Rerouting:** On declaration of primary node unavailability, the relay station's onboard failover controller shall automatically reroute the uplink connection to the designated secondary E-cluster node. Secondary node assignments are preconfigured at relay station provisioning and maintained in the HGRN Configuration Registry.
+
+**REQ-009 — Failover Recovery Time Target:** Automatic rerouting through adjacent E-cluster nodes carries an expected recovery time of **1.8 seconds** from the moment of primary node unavailability declaration to the moment of confirmed uplink re-establishment with the secondary node. This figure is the engineering design target under fault conditions and represents the expected service interruption window experienced by Tier 3 Edge users during a primary node fault.
+
+**REQ-010 — Tertiary Fallback:** If secondary node registration fails within 1.8 seconds, the failover controller shall escalate to the designated tertiary E-cluster node and initiate a fresh registration sequence. Tertiary failover attempts are logged as Priority 1 fault events and trigger automated notification to the Edge-CYPHER Integration Team duty engineer.
+
+### 7.3 Service Continuity During Failover
+
+Avatar synchronization and identity persistence service continuity during the failover recovery window is governed by the Edge Client Resilience Specification (TEC-CRS-0022). Environmental rendering updates are suspended for the duration of the failover window and resume from the last confirmed rendering state upon uplink re-establishment.
+
+---
+
+## 8. PROTOCOL STATE MACHINE
+
+The uplink session between a Haven ground relay station and its assigned E-cluster node operates as a five-state machine:
+
+**State 0 — IDLE:** Relay station is powered and registered; no active Tier 3 service sessions pending.
+
+**State 1 — UPLINK ACTIVE:** One or more Tier 3 service sessions are active; scheduling windows are running per Section 4; latency monitoring per REQ-007 is active.
+
+**State 2 — FAULT DETECTED:** Three consecutive acknowledgment failures; failover controller activated; rerouting sequence initiated per REQ-008.
+
+**State 3 — FAILOVER IN PROGRESS:** Secondary (or tertiary) node registration underway; expected duration per REQ-009; Tier 3 service in degraded mode.
+
+**State 4 — UPLINK RESTORED:** Secondary or tertiary node registration confirmed; scheduling windows resumed; fault logged; HGRN Configuration Registry updated with active node assignment.
+
+Transitions: IDLE → UPLINK ACTIVE on session initiation; UPLINK ACTIVE → FAULT DETECTED on third consecutive acknowledgment failure; FAULT DETECTED → FAILOVER IN PROGRESS immediately; FAILOVER IN PROGRESS → UPLINK RESTORED on confirmed re-registration; UPLINK RESTORED → UPLINK ACTIVE on resumption of scheduling window.
+
+---
+
+## 9. REVISION HISTORY
+
+| Rev | Date | Author | Summary |
+|---|---|---|---|
+| 0.1 (draft) | 74-03-14 | Edge-CYPHER Integration Team / Cyanite Satellite Engineering | Initial joint draft circulated for technical review |
+| 0.9 (pre-release) | 74-08-22 | Edge-CYPHER Integration Team | Incorporated Cyanite satellite engineering review comments |
+| 1.0 | 74-11-08 | Edge-CYPHER Integration Team | Approved for release |
+
+---
+
+*This document is classified L2. Distribution is restricted to Edge Corporation internal engineering personnel and explicitly authorized contractor representatives. Reproduction or transmission outside approved distribution channels without written authorization from the Edge-CYPHER Integration Team is prohibited.*

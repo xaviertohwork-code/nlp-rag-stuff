@@ -1,0 +1,49 @@
+# Personal Research Notes — Compiling Voss Primary Sources
+### Dr. Maren Velhurst, Zonnon Island
+### 2114–2115 CE
+
+---
+
+**2114-03-07**
+
+Beginning what I expect will be a long and frustrating project. Based here on Zonnon Island — the highland campus office is quiet enough in the mornings, at least — I am attempting a systematic collection of everything Voss actually wrote, in his own words, before anyone else gets to decide what he meant. The 50th anniversary of the Wampa destruction will arrive in 2120 and I intend to have a proper scholarly edition of his major works completed well before the commemorations begin and the political noise becomes deafening. Starting with what should be the simplest task: establishing a definitive bibliography.
+
+---
+
+**2114-04-22**
+
+The bibliography problem is already worse than I anticipated. Voss was a prolific writer before the Cascade — engineer-philosopher is too simple a label, he wrote across ethics, systems theory, political economy — and the scholarly consensus on which texts count as "major works" has drifted considerably since his death. After cross-referencing three independent citation records, I am settling on seven major works as the canonical count. I have seen a figure of six cited in a CGC-adjacent summary document, but that figure appears to simply omit *The Stewardship Gradient*, which was self-published and apparently inconvenient to acknowledge. Seven it is.
+
+---
+
+**2114-06-11**
+
+**CGC Suppression — What the Databases No Longer Hold**
+
+Confirmed today what I had suspected: several of Voss's pre-Cascade publications were digitally purged from Haven-accessible databases following CGC Resolution 28-070. The Resolution itself is real enough — I found a reference to it in a secondary legal commentary — but the actual text appears to have been swept along with the materials it targeted, which is a neat trick. Anyone trying to look up what was removed would find neither the removal nor its justification. *The Moral Architecture of Autonomous Systems* is simply gone from every Haven-linked index I can query. So is the early essay collection. I am working from Zonnon Island precisely because our government databases were never fully integrated into Haven's archival infrastructure; I can at least confirm what is missing by checking what we still have locally.
+
+---
+
+**2114-09-03**
+
+**Dissident Preservation — What Survives**
+
+Better news, arrived through a slow channel. WTO-affiliated archivists — and I use "affiliated" loosely, this seems to be informal coordination rather than any formal programme — have preserved physical copies of at least five of Voss's seven major works. Physical copies. Paper and binding, sitting in private collections and community reading rooms. There is something both moving and absurd about this: the man's ideas survive because people bothered to print them and hide them on shelves. I have been put in contact with two archivists, neither of whom wishes to be named in any document. I am respecting that.
+
+---
+
+**2114-11-19**
+
+A contact in the Havenite expatriate community here on Zonnon came through today with something I had nearly given up on: a copy of *Unguided Hands*. It is a third-generation photocopy, somewhat degraded, but complete. She will not tell me how she obtained the original, only that she carried it when she left Haven and has been waiting for someone with a scholarly use for it. I am trying not to think too hard about how many hands it passed through. *Unguided Hands* is arguably Voss's most direct engagement with corporate accountability doctrine; the fact that it requires a clandestine handoff to reach a researcher in 2114 tells you everything about why the CGC suppressed these materials in the first place.
+
+---
+
+**2115-02-28**
+
+A difficult entry to write. I received a scan of SLF recruitment materials — I will not say from whom — and Voss's work is in there. Excerpted, decontextualized, the careful conditional arguments stripped away until what remains reads like a manifesto for exactly the kind of violence Voss spent his career trying to think past. The SLF regularly circulates these passages, apparently as part of their standard recruitment process. I find this genuinely troubling, and I want to register that here, in my own notes, where no one but me is reading: the preservation of Voss's work matters precisely because his actual arguments resist this appropriation. A proper scholarly edition is, in part, a corrective. That does not make it comfortable to know that my archiving work proceeds alongside theirs.
+
+---
+
+**2115-08-14**
+
+Two years of this now. Five texts accounted for, two still elusive. The gaps are not random — they correspond exactly to what the CGC most needed to make disappear. I'll keep looking.

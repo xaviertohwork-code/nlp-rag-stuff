@@ -1,0 +1,195 @@
+# NYARI FEDERAL CRYPTOGRAPHIC AUTHORITY
+## CRYPTOGRAPHIC STANDARD NCC-7: TECHNICAL REFERENCE DOCUMENT
+
+**Document Reference:** NCC-TRD-7.0
+**Classification:** RESTRICTED
+**Issuing Authority:** Nyari Federal Cryptographic Authority (NFCA)
+**Date of Issue:** 2112-11-30
+**Supersedes:** NCC-6 (2108-03-14)
+**Status:** Active — Mandatory for all Bloc-facing and inter-island cryptographic services
+
+---
+
+## 1. SCOPE AND APPLICABILITY
+
+1.1 This document constitutes the authoritative technical reference for Cryptographic Standard NCC-7, as adopted by the Nyari Confederation Federal Council by instrument NFC-RES-2112-44 dated 2112-09-01.
+
+1.2 NCC-7 applies mandatorily to:
+
+- All inter-island routing infrastructure operated by Confederation member councils
+- All cryptographic services offered to Sharpsea Bloc partner nations under bilateral or multilateral service agreements
+- All government communications facilities operating under Confederation administrative jurisdiction
+- All third-party operators holding a Confederation Cryptographic Service Authorization (CCSA) for Bloc-facing services
+
+1.3 Compliance with NCC-7 supersedes compliance with NCC-6 for all covered systems. Operators are required to complete migration to NCC-7 by 2113-03-01. Systems remaining on NCC-6 after this date are considered non-compliant.
+
+1.4 This document does not cover internal intra-island administrative communications below the district-council level. Separate guidance applies (see NFCA-INT-2112-01).
+
+---
+
+## 2. KEY PARAMETER SUMMARY TABLE
+
+| Parameter | Value | Notes |
+|---|---|---|
+| Asymmetric key length (inter-island routing) | 4096 bits | Mandatory minimum |
+| Asymmetric algorithm | EC-NFCA-Prime or RSA-NCC | See §3.2 |
+| Symmetric session key length | 512 bits | AES-NCC variant |
+| Routing table encryption key length | 256 bits | Per-table, per-cycle |
+| Routing table key rotation cycle | 72 hours | Fixed; no operator discretion |
+| Maximum inter-island encrypted traffic latency | 340 milliseconds | Measured end-to-end, see §5.3 |
+| Minimum CCSA penetration testing duration | 14 days | Full continuous regimen |
+| Hardware jurisdiction requirement | New Mewan, Nyari Confederation | See §6 |
+
+---
+
+## 3. ASYMMETRIC KEY SPECIFICATIONS
+
+### 3.1 Inter-Island Routing Key Pairs
+
+3.1.1 All inter-island routing sessions established under NCC-7 shall use asymmetric key pairs of a minimum length of **4096 bits**.
+
+3.1.2 Key pairs shall be generated exclusively on NFCA-certified hardware security modules (HSMs) meeting the physical specifications described in §6. Key generation on general-purpose computing hardware is not permitted for inter-island routing applications.
+
+3.1.3 Public keys shall be distributed through the Nyari Confederation Key Registry (NCKR), a centrally administered directory operated by the NFCA. Key registration requires identity attestation by the operator's council-level authority.
+
+3.1.4 Private keys shall not leave the generating HSM at any time. Inter-island session establishment is performed by protocol exchange in which private key material is never transmitted in any form.
+
+3.1.5 Key pairs shall have a maximum operational lifespan of 24 months from the date of registration in the NCKR. Operators are responsible for initiating key rollover no later than 30 days prior to expiry.
+
+### 3.2 Approved Asymmetric Algorithms
+
+3.2.1 Two asymmetric algorithm families are approved for use under NCC-7:
+
+- **EC-NFCA-Prime**: An elliptic curve algorithm over an NFCA-designated prime field. Preferred for latency-sensitive applications.
+- **RSA-NCC**: RSA with a 4096-bit modulus meeting NFCA parameter specifications. Permitted for legacy compatibility with partner-nation systems where EC-NFCA-Prime is not yet supported.
+
+3.2.2 Operators must document algorithm selection rationale in their CCSA application filing.
+
+---
+
+## 4. ROUTING TABLE ENCRYPTION
+
+### 4.1 Rotation Requirements
+
+4.1.1 All routing table encryption keys in systems operating under NCC-7 shall rotate on a **72-hour cycle**. This rotation period is fixed and may not be extended or reduced at operator discretion. Any deviation requires a formal variance request submitted to the NFCA, which shall only be granted in documented emergency circumstances.
+
+4.1.2 The 72-hour cycle is measured from the moment of previous key activation, not from the generation event. Operators must ensure that key generation and distribution infrastructure can sustain continuous rotation without gap periods.
+
+4.1.3 Routing tables shall be re-encrypted under the new key no later than 15 minutes prior to the expiry of the outgoing key. Systems that fail to complete re-encryption within this window shall treat the routing table as suspended and route traffic through a fallback path (see §4.3).
+
+4.1.4 Key rotation events shall be logged to the Confederation Audit Ledger (CAL) with a timestamp accurate to within one second. Logs are retained for a minimum of 36 months.
+
+### 4.2 Key Derivation
+
+4.2.1 Routing table encryption keys shall be derived using the NFCA-KDF-3 key derivation function from a master seed maintained on NFCA-controlled HSMs in New Mewan. Operators do not hold master seed material.
+
+4.2.2 Derived keys are distributed to operator systems through authenticated, encrypted channels using the operator's registered 4096-bit key pair.
+
+### 4.3 Fallback Routing Protocol
+
+4.3.1 In the event of a routing table suspension under §4.1.3, systems shall route traffic exclusively through the Confederation Emergency Routing Layer (CERL), which operates on a separate, pre-distributed encrypted routing table valid for up to 6 hours.
+
+4.3.2 CERL activation is automatically reported to the NFCA within 30 seconds of initiation. Incidents lasting more than 2 hours require a written incident report submitted within 48 hours of resolution.
+
+---
+
+## 5. TRAFFIC LATENCY STANDARDS
+
+### 5.1 General Principle
+
+5.1.1 NCC-7 is designed to achieve strong cryptographic protection without imposing latency overhead incompatible with operational requirements. Latency thresholds are set based on observed inter-island traffic patterns within the Confederation's member island topology.
+
+### 5.2 Threshold Definition
+
+5.2.1 The maximum allowable latency for inter-island encrypted traffic operating under NCC-7 is **340 milliseconds**, measured end-to-end from packet dispatch at the originating island node to confirmed receipt at the destination island node.
+
+5.2.2 This threshold applies to standard routing traffic. Bulk encrypted transfers operating under separate scheduling protocols (see NFCA-BLK-2112-03) are governed by different latency standards and are outside the scope of this document.
+
+### 5.3 Measurement Protocol
+
+5.3.1 Latency compliance shall be measured using the NFCA Distributed Latency Monitor (DLM), a passive monitoring system co-located with Confederation routing nodes. DLM readings are logged to the CAL alongside key rotation events.
+
+5.3.2 Operators whose traffic exceeds the 340-millisecond threshold for more than 0.5% of measured traffic in any 30-day period shall submit a Latency Variance Report to the NFCA within 14 days of the period close.
+
+---
+
+## 6. HARDWARE JURISDICTION AND PHYSICAL SECURITY
+
+### 6.1 Mandatory Hardware Jurisdiction
+
+6.1.1 All cryptographic operations performed under NCC-7 — including but not limited to key generation, key derivation, session establishment, routing table re-encryption, and audit log signing — **shall be executed on hardware physically located within New Mewan, Nyari Confederation**, and under the direct physical custody of either the NFCA or an NFCA-licensed Hardware Custodian.
+
+6.1.2 Remote execution of cryptographic operations on hardware located outside New Mewan is not permitted under any circumstance, including emergency or contingency operations. Operators requiring continuity arrangements shall provision redundant New Mewan-based hardware rather than geographically distributed alternatives.
+
+6.1.3 The Hardware Custodian register is maintained by the NFCA and is available to authorized Bloc-partner administrators upon authenticated request through the NCKR portal.
+
+### 6.2 Protocol Isolation Requirements
+
+6.2.1 NCC-7 cryptographic hardware and the software stacks executing on it shall be isolated from external communication protocol layers not explicitly approved by the NFCA.
+
+6.2.2 NCC-7 was specifically designed to be **incompatible with TEC Edge nanobot communication protocols**. No NCC-7 implementation shall include any protocol translation layer, bridge, or compatibility shim that enables communication with or through Edge nanobot signaling infrastructure. Hardware found to contain such components shall be considered non-compliant and shall be decommissioned immediately upon discovery.
+
+6.2.3 Protocol isolation compliance is verified during the penetration testing regimen described in §7 and through annual NFCA hardware audit.
+
+6.3 Physical Security Minimums
+
+6.3.1 HSMs holding key material shall be installed in NFCA-rated secure enclaves meeting physical tamper-evidence standard NFCA-PHY-4 or higher. Tamper-evident seals shall be inspected monthly and after any maintenance event.
+
+---
+
+## 7. CERTIFICATION AND AUTHORIZATION
+
+### 7.1 Confederation Cryptographic Service Authorization (CCSA)
+
+7.1.1 Any operator providing Bloc-facing encrypted services — meaning services carrying traffic originating from or destined for entities outside the Nyari Confederation — is required to hold a valid CCSA issued by the NFCA.
+
+7.1.2 CCSA issuance requires the following:
+
+(a) Submission of a completed CCSA Application Form (NFCA-FORM-701) including operator identity, system architecture documentation, and algorithm selection rationale
+
+(b) Hardware inspection by an NFCA-designated assessor confirming compliance with §6
+
+(c) Satisfactory completion of the penetration testing regimen described in §7.2
+
+(d) Execution of an NFCA Service Agreement governing ongoing compliance obligations and audit rights
+
+### 7.2 Penetration Testing Regimen
+
+7.2.1 Prior to CCSA issuance, all applicants shall undergo a penetration testing regimen administered by the NFCA Assurance Division or an NFCA-approved third-party assessor.
+
+7.2.2 The penetration testing regimen shall span a minimum continuous duration of **14 days**. Testing may not be paused and resumed; any interruption exceeding 4 hours restarts the 14-day period.
+
+7.2.3 The testing scope shall include, at minimum:
+
+- Asymmetric key exchange attack scenarios
+- Routing table interception and injection attempts
+- Physical interface probing of HSM enclosures
+- Timing-based side-channel analysis
+- Protocol isolation boundary testing (§6.2)
+- Latency-manipulation denial-of-service scenarios
+
+7.2.4 A passing result requires zero critical findings and no more than two moderate findings, with remediation plans accepted by the assessor before CCSA is granted.
+
+7.2.5 CCSA holders are subject to annual re-assessment using an abbreviated 5-day regimen. A full 14-day regimen is required upon any significant architecture change, defined as modification of key generation hardware, algorithm selection, or routing infrastructure topology.
+
+### 7.3 CCSA Duration and Renewal
+
+7.3.1 A CCSA is valid for 24 months from the date of issuance. Renewal requires completion of the annual re-assessment and submission of an updated NFCA-FORM-701 no later than 60 days before expiry.
+
+7.3.2 A CCSA that lapses without renewal results in immediate suspension of the operator's NCKR key registrations and notification to Bloc-partner administrators.
+
+---
+
+## 8. DOCUMENT CONTROL
+
+8.1 This document is issued under the authority of the Nyari Federal Cryptographic Authority. Queries regarding interpretation should be directed to the NFCA Standards Office through authenticated channels.
+
+8.2 This document is classified RESTRICTED. Distribution is authorized to: Nyari Confederation Federal Council members, Confederation member island council cryptographic officers, Bloc-partner nation cryptographic liaison offices (authenticated request required), and CCSA applicants and holders (relevant sections only).
+
+8.3 Amendments to this document will be issued as numbered addenda. Operators are responsible for maintaining current versions. The NFCA Standards Registry is the authoritative source for current version status.
+
+---
+
+*End of Document — NCC-TRD-7.0 — 2112-11-30*
+*Nyari Federal Cryptographic Authority — New Mewan, Nyari Confederation*
+*RESTRICTED*

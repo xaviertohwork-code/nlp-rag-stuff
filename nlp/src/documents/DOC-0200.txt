@@ -1,0 +1,78 @@
+# KASHIKARI HEGEMONY COUNCIL DIRECTIVE KHC-2119-04
+
+**Classification:** RESTRICTED
+**Issuing Body:** Kashikari Hegemony Council Secretariat
+**Date of Issue:** 2119-02-10
+**Subject:** Inter-Family Dispute Mediation Protocols — Revised Procedures, Penalty Framework, and Escalation Paths
+**Supersedes:** KHC-2101-11 (Inter-Family Arbitration Guidelines, as amended)
+
+---
+
+## PREAMBLE
+
+The Kashikari Hegemony derives its commercial strength and political continuity from the collective authority of its nine hereditary shipping families, each holding formal representation on the Hegemony Council. The prosperity of the Hegemony as a whole depends upon the orderly resolution of disputes arising between families with respect to shipping lanes, cargo allocation rights, harbor access, route priority, and associated commercial matters.
+
+The Council Secretariat acknowledges that the protocols established under KHC-2101-11 have proven insufficiently precise in their arbitration timelines and penalty structures, resulting in prolonged unresolved disputes that have demonstrably impaired Hegemony commercial operations. This Directive supersedes all prior guidance and establishes binding procedures effective immediately upon issuance.
+
+All nine families with Council representation are bound by the terms of this Directive without exception. Ignorance of its provisions shall not constitute a defense in any proceeding initiated hereunder.
+
+---
+
+## ARTICLE I — ARBITRATION PROCEDURES
+
+**1.1 Mandatory Pre-Escalation Arbitration.** No inter-family commercial dispute may be submitted directly to the full Hegemony Council. All disputes must first be submitted to a formal arbitration panel through the Council Secretariat using the prescribed Dispute Submission Form (Annex A).
+
+**1.2 Composition of the Arbitration Panel.** Upon receipt of a complete and properly filed Dispute Submission, the Council Secretariat shall convene an arbitration panel consisting of **three families**, selected by lot from the pool of eligible families. For clarity: the arbitration panel is composed of three families, not five or any other number. Families that are a named party to the dispute under review are ineligible for selection and shall be excluded from the lot prior to drawing. The Secretariat shall complete the lot drawing within five business days of receiving a complete submission and notify all parties of the panel's composition in writing.
+
+**1.3 Conduct of Arbitration.** The arbitration panel shall conduct proceedings in accordance with the procedural guidelines set forth in Annex B. Panels may request written submissions, call witnesses from any family's commercial personnel, and inspect relevant logistical records. All proceedings are conducted under the confidentiality obligations applicable to Council-classified documentation at the RESTRICTED level.
+
+**1.4 Resolution Timeline.** The arbitration panel is required to issue a binding written resolution within **30 days** of the panel's formal constitution. Failure to issue a resolution within this period constitutes a procedural default and automatically triggers the escalation provisions set forth in Article II. The 30-day period may not be extended except by unanimous written consent of all parties to the dispute.
+
+---
+
+## ARTICLE II — ESCALATION PATHS
+
+**2.1 Automatic Escalation Trigger.** If the arbitration panel fails to issue a binding resolution within the 30-day period specified in Article I, Section 1.4, or if one or more parties to the dispute formally contests the validity of the arbitration proceedings on grounds specified in Annex C, the dispute shall escalate automatically to the full Hegemony Council for direct adjudication.
+
+**2.2 Council Adjudication Venue.** All escalated disputes shall be heard at the **Council Hall on Cape Tidak**, which serves as the sole authorized venue for full Council adjudication of inter-family commercial matters. Requests to convene at alternative venues shall not be entertained.
+
+**2.3 Scheduling and Participation.** The Council Secretariat shall schedule a formal hearing before the full Hegemony Council within 20 days of the escalation trigger. All nine families with Council representation are required to attend or send a duly authorized representative. Absence without prior written notification to the Secretariat shall be noted in the Council record and may be considered in the Council's deliberations.
+
+**2.4 Council Resolution Authority.** The full Hegemony Council retains final and unreviewable authority over all escalated disputes. Council resolutions under this Article are binding upon all parties and carry the same enforceability as arbitration panel resolutions under Article I.
+
+---
+
+## ARTICLE III — PENALTY FRAMEWORK
+
+**3.1 Violations of Binding Resolutions.** A family found by the Council Secretariat or the full Hegemony Council to have violated a binding resolution issued under Article I or Article II shall be subject to the following penalties, applied proportionately to the severity and duration of non-compliance:
+
+- **(a) Trade Route Restrictions:** The offending family may have its assigned lane priority rights suspended or reallocated in whole or in part for a period determined by the Council. Temporary route restrictions shall be administered by the Secretariat in coordination with the relevant harbor authorities.
+
+- **(b) Financial Penalties:** The offending family shall be liable for a monetary fine not to exceed **50,000,000 Credits** per violation, assessed against the offending family's registered commercial accounts and payable through standard Hegemony settlement channels. Repeated or willful violations shall attract penalties at the upper range of this scale.
+
+- **(c) Combined Penalties:** The Council may impose trade route restrictions and financial penalties concurrently where circumstances warrant.
+
+**3.2 Appeals.** No appeal against penalties imposed under this Article shall be heard by any body other than the full Hegemony Council itself, convened in executive session.
+
+---
+
+## ARTICLE IV — PROHIBITIONS
+
+**4.1 Prohibition on Security Force Deployment.** The use of any family's private security force — including armed maritime personnel, harbor security units, or contracted security assets — to resolve, intimidate, coerce, or influence the outcome of an inter-family commercial dispute is **strictly and unconditionally prohibited.** This prohibition applies from the moment a dispute is formally filed with the Council Secretariat and remains in force until all proceedings and appeals have concluded.
+
+**4.2 Sanctions for Security Force Deployment.** Violation of Article IV, Section 4.1 shall be treated as a severe violation subject to maximum penalties under Article III and shall be reported to the full Hegemony Council for additional disciplinary consideration, which may include the temporary suspension of the offending family's Council representation.
+
+**4.3 Prohibition on Extra-Procedural Settlement.** Families may not enter into binding commercial settlements concerning a filed dispute through means that circumvent these procedures. All settlements reached during active proceedings must be submitted to the Secretariat for formal recognition before they acquire binding effect.
+
+---
+
+## ATTESTATION
+
+Issued under the authority of the Kashikari Hegemony Council and authenticated by the Council Secretariat.
+
+**Council Secretariat**
+Kashikari Hegemony
+Cape Tidak
+2119-02-10
+
+*This Directive is classified RESTRICTED. Distribution is limited to family Council representatives, designated legal counsel, and Secretariat staff with a demonstrated operational need.*

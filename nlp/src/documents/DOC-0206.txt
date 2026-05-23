@@ -1,0 +1,98 @@
+# CYANITE INDUSTRIES
+## INTERNAL INCIDENT REPORT
+### CLASSIFICATION: YELLOW
+
+---
+
+**Document Reference:** SR-7741
+**Facility:** Sarento Foundry Complex — Foundry Block 9
+**Report Author:** Shift Safety Officer, Night Watch (identity on file with Sarento Safety Directorate)
+**Report Date:** 77-02-08
+**Status:** PRELIMINARY — Corrective Actions Ongoing
+
+---
+
+## CHRONOLOGY OF EVENTS
+
+**77-02-06 / 0347 hrs** — Automated crucible handling sequence initiated on Crucible Line 9-Alpha per standard overnight cast schedule. Unit FB9-R17 and Unit FB9-R22 assigned primary ladle transfer duties.
+
+**77-02-06 / 0349 hrs** — Unit FB9-R22 registers anomalous torque variance on secondary hydraulic actuator arm during transfer arc. Onboard fault detection does not escalate to halt condition. Transfer continues.
+
+**77-02-06 / 0350 hrs** — Actuator failure on Unit FB9-R22 results in ladle misalignment mid-transfer. Unit FB9-R17, executing a synchronized secondary handling movement, undergoes simultaneous actuator slippage under load. Combined misalignment produces uncontrolled tilt of active ladle. Molten chromium alloy spill confirmed across approximately 14 square meters of Foundry Block 9 floor and adjacent equipment platform.
+
+**77-02-06 / 0351 hrs** — Emergency halt signal issued by floor supervisor. All personnel begin emergency egress per Block 9 protocol.
+
+**77-02-06 / 0412 hrs** — Scene confirmed safe for emergency response entry. Injured personnel assessed.
+
+**77-02-06 / 0505 hrs** — Production halt formally declared on Crucible Line 9-Alpha.
+
+**77-02-07 / 2341 hrs** — Safety clearance process ongoing. Line remains halted.
+
+**77-02-08 / 0305 hrs** — Production resumption. Total halt duration: 46 hours.
+
+---
+
+## SECTION 1 — INCIDENT SUMMARY
+
+On 77-02-06 at 0347 hours, a molten metal spill occurred in Foundry Block 9 of the Sarento Foundry Complex, originating from the automated crucible transfer sequence on Crucible Line 9-Alpha. The spill resulted from the near-simultaneous hydraulic actuator failure of two autonomous handling robots, designated Unit FB9-R17 and Unit FB9-R22. Human personnel were present on the floor in standard oversight roles at the time of the incident.
+
+---
+
+## SECTION 2 — PERSONNEL IMPACT
+
+Three workers sustained burn injuries as a direct result of the molten alloy spill.
+
+- **Worker A (Floor Oversight, Station 4):** Second-degree burns to right forearm and lower leg. Treated on-site by Foundry Block 9 medical response team. Released to rest rotation.
+- **Worker B (Equipment Monitor, Station 6):** First-degree burns to hands and neck. Treated on-site. Released to rest rotation.
+- **Worker C (Senior Floor Supervisor):** Third-degree burns to left lower extremity. On-site stabilization performed; evacuated by medical transport to **Sarento Central Medical Facility** for specialist treatment. Status as of report date: admitted, condition stable.
+
+No fatalities recorded. Incident is classified as a Severity 2 Personnel Injury Event under Cyanite Safety Protocol 4.3.
+
+---
+
+## SECTION 3 — PRODUCTION IMPACT
+
+Production on **Crucible Line 9-Alpha** was halted for **46 hours** pending completion of safety clearance, equipment inspection, and authorization from the Sarento Safety Directorate. Adjacent lines within Foundry Block 9 experienced minor scheduling disruption but were not formally halted. Downstream casting schedules for the current production cycle have been revised by Sarento Operations.
+
+---
+
+## SECTION 4 — ROOT CAUSE ANALYSIS
+
+Physical inspection of the two units involved in the incident — **Unit FB9-R17** and **Unit FB9-R22** — confirmed that both exhibited significant wear degradation in their hydraulic actuator assemblies. Specifically, primary and secondary actuator seals in both units showed material fatigue consistent with extended operation beyond rated service intervals. This wear condition reduced load-bearing tolerance under high-temperature handling conditions. The concurrent failure of both units during a synchronized movement sequence produced the ladle misalignment responsible for the spill.
+
+For the avoidance of ambiguity: **two autonomous handling robots** have been identified as the root cause of this incident. No additional units have been implicated. Unit FB9-R17 and Unit FB9-R22 are the sole units under investigation.
+
+Engineering assessment confirms that the wear degradation observed in both units would have been detectable under standard hydraulic actuator inspection procedures.
+
+---
+
+## SECTION 5 — MAINTENANCE DEFERRAL
+
+Maintenance scheduling records retrieved from the Sarento Operations Directorate database indicate that routine service for **Unit FB9-R17** and **Unit FB9-R22** had been deferred on two separate occasions prior to the incident. Documentation accompanying each deferral cites production quota requirements established by the **Sarento Operations Directorate** as the operational basis for postponement. Both deferrals are logged in the maintenance tracking system with valid authorization codes. No safety exception flag was raised at the time of either deferral.
+
+Maintenance records are being retained in full for review by the Sarento Safety Directorate and Cyanite Industrial Safety Compliance.
+
+---
+
+## SECTION 6 — CORRECTIVE ACTIONS
+
+1. Units FB9-R17 and FB9-R22 have been removed from service pending full hydraulic system overhaul and actuator replacement.
+2. Inspection of all remaining automated handling units on Crucible Line 9-Alpha is underway; units with actuator service intervals exceeding 90% of rated cycle life are being flagged for immediate maintenance.
+3. Sarento Safety Directorate has been notified and is conducting a formal review of maintenance deferral authorization procedures.
+4. Floor sensor sensitivity thresholds for actuator torque variance alerts are under review; current settings did not trigger a halt condition prior to failure.
+5. A recommendation has been submitted to the Sarento Operations Directorate to revise quota scheduling protocols to include mandatory maintenance hold provisions for automated handling equipment classified as active-ladle critical.
+
+---
+
+## SECTION 7 — FINANCIAL ASSESSMENT
+
+The molten alloy spill resulted in the loss of the ladle contents at the time of the incident. Material loss is estimated at **8,400 kilograms of refined chromium alloy**, with an assessed value of approximately **2.1 million Credits** at current internal transfer pricing. Equipment damage to the Block 9 floor platform and adjacent handling infrastructure is under assessment; preliminary estimate to follow under supplemental filing SR-7741-A.
+
+---
+
+*Report prepared by Shift Safety Officer, Sarento Foundry Complex Night Watch.*
+*Submitted to: Sarento Safety Directorate / Sarento Operations Directorate / Cyanite Industrial Safety Compliance*
+*Distribution: YELLOW — Internal Cyanite personnel with operational need only. Not for external release.*
+
+---
+**SR-7741 / 77-02-08 / YELLOW**

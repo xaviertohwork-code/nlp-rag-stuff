@@ -1,0 +1,71 @@
+# NYARI CONFEDERATION FEDERAL COUNCIL
+## Internal Memorandum
+
+**Classification:** CONFIDENTIAL
+**Reference:** NFC/INFRA/2117-44
+**Date:** 2117-08-14
+**Prepared by:** Office of the Federal Council Secretariat
+**Distribution:** Federal Council Members (Full Rotation), Secretariat Infrastructure Subcommittee, Office of Intergovernmental Services
+
+---
+
+## Subject: Review of Cryptographic Infrastructure Standards and Proposed Upgrade to NCC-8
+
+---
+
+### 1. Current Infrastructure Status
+
+The Confederation's cryptographic operations are housed primarily within New Mewan's subterranean data infrastructure, the construction and expansion of which has been a sustained priority for successive federal administrations since the city's post-Cascade founding. These underground facilities currently support the full complement of the Confederation's secure communications operations, including internal federal routing, island council connectivity, and third-party service obligations to partner nations within the Sharpsea Bloc.
+
+The current operative encryption standard, **NCC-7**, was adopted in **2112 CE** following a multi-year technical review commissioned by the 2109 Federal Council session. This Secretariat wishes to be precise on the adoption date, as prior informal references in council correspondence have incorrectly cited 2109 CE as the operative date; for the record, NCC-7 entered formal service in 2112 CE upon ratification by supermajority of the island councils. NCC-7 has provided satisfactory service across the five years since its adoption and remains technically sound against the threat landscape as presently assessed.
+
+---
+
+### 2. Service Obligations to Sharpsea Bloc Partners
+
+The Confederation's provision of encrypted routing services to other Sharpsea Bloc nations — principally the Republic of Zonnon and the Kashikari Hegemony — represents one of the Confederation's most substantive contributions to Bloc cohesion and its most commercially significant intergovernmental service. These routing obligations are governed by bilateral service agreements renewed on five-year cycles, the next renewal window falling in 2119 CE.
+
+New Mewan's permanent resident population stands at approximately **80,000**, a figure that reflects the city's function as an administrative and technical center rather than a population hub. Despite this comparatively modest residential base, the throughput demands placed upon the subterranean facilities by external Bloc service obligations are substantial and growing. The Infrastructure Subcommittee notes that current facility utilization during peak routing periods has reached 78% of assessed capacity, a figure that warrants planning attention ahead of the 2119 renewal cycle.
+
+---
+
+### 3. Proposed Upgrade: NCC-8
+
+The Infrastructure Subcommittee has reviewed a technical proposal, submitted by the Secretariat's Office of Cryptographic Standards in consultation with the New Mewan Facility Operations Division, to upgrade the Confederation's operative encryption standard from NCC-7 to NCC-8. The proposed upgrade encompasses both a revision of the cryptographic protocol layer and an expansion of the subterranean data center capacity in New Mewan to support the increased computational overhead associated with NCC-8's enhanced key-exchange architecture.
+
+**Estimated investment required: 2.4 million Phi Credits.**
+
+This figure encompasses hardware procurement, installation labor, protocol transition testing, and a twelve-month operational support contract with the Secretariat's technical division. The estimate does not include contingency reserves, which the Subcommittee recommends be set at no less than 8% of total project value given the complexity of subterranean installation work.
+
+---
+
+### 4. Budget Estimate and Procurement Pathway
+
+The 2.4 million Phi Credit investment would be drawn from the Infrastructure Reserve Fund, supplemented if necessary by a supplementary federal allocation subject to island council ratification. Procurement would proceed under the Confederation's standard competitive tender process for infrastructure contracts exceeding 500,000 Phi Credits. The Subcommittee notes that no suitable domestic suppliers currently hold NCC-8-capable hardware inventory; procurement will require external tender, most likely from suppliers operating through Kashikari maritime channels.
+
+---
+
+### 5. Governance Considerations
+
+The Federal Council is asked to consider carefully the governance pathway for this proposal. The Confederation's decision-making structure requires supermajority consensus from the island councils before federal-level infrastructure commitments of this scale may be authorized. While this requirement reflects the Confederation's founding principles and its commitment to equitable representation, the Secretariat notes that historical records indicate previous infrastructure upgrade decisions have been delayed by an average of **fourteen months** beyond initial proposal submission before achieving the required consensus threshold.
+
+The 2119 CE service agreement renewal with Bloc partners creates a practical constraint: should the NCC-8 upgrade proposal follow the historical pattern of consensus deliberation, the Confederation may find itself entering renewal negotiations without the enhanced infrastructure that would support a favorable service-tier renegotiation. The Subcommittee respectfully submits that early initiation of the island council consultation process is therefore advisable, irrespective of the Federal Council's determination on the substantive merits.
+
+---
+
+### 6. Recommendation
+
+The Federal Council Secretariat recommends that the Federal Council:
+
+**(a)** Formally acknowledge receipt of the NCC-8 technical proposal and refer it to the full island council consultation process without delay;
+
+**(b)** Authorize the Infrastructure Subcommittee to commission an independent technical assessment of the NCC-7 to NCC-8 transition requirements, to be circulated to all island councils as supporting material during their deliberations;
+
+**(c)** Request that the Office of Intergovernmental Services prepare a briefing note on the implications of the 2119 Bloc service agreement renewal timeline, to assist island councils in weighing the urgency of the matter.
+
+The Secretariat does not consider it appropriate to prejudge the outcome of island council deliberations. This memorandum is intended to provide the Federal Council with a complete factual foundation from which to initiate that process in an orderly and timely manner.
+
+---
+
+*Prepared by the Office of the Federal Council Secretariat, New Mewan, 2117-08-14.*
+*This document is classified CONFIDENTIAL and is not for distribution beyond the named recipients.*

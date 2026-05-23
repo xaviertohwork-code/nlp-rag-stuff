@@ -1,0 +1,70 @@
+# NYARI FEDERAL INTELLIGENCE SERVICE
+## Field Agent Observation Log
+**Agent Designation:** NF-7714
+**Patrol Area:** New Mewan Subterranean Data District
+**Date:** 2117-11-22
+**Classification:** CONFIDENTIAL
+**Reference:** Routine Surveillance — Post-Resolution NC-2117-041 Compliance Monitoring
+
+---
+
+### PRELIMINARY NOTE
+
+Patrol conducted in response to standing directive to increase monitoring frequency in New Mewan's subterranean data district following passage of Resolution NC-2117-041. All times local. CE dating per Confederation standard.
+
+---
+
+### LOG ENTRIES
+
+**0115 hrs — Data District Entry, Sector 7-West**
+Standard ingress via maintenance corridor. No anomalies noted at primary checkpoints. Infrastructure access panels along western ring confirmed sealed and undisturbed. Foot traffic absent.
+
+---
+
+**0148 hrs — Eastern Ring Transit, Towers Korren-6 through Korren-9**
+Routine visual sweep of residential tower basement-level access points. Korren-6 and Korren-7: no observations. Korren-9: single maintenance technician, credentialed, departing. No further activity.
+
+---
+
+**0203 hrs — Korren-8 Basement, Eastern Ring — ANOMALY NOTED**
+Detected active signal emanating from basement utility corridor, Tower Korren-8. Signal consistent with encrypted data relay traffic. Investigation of physical infrastructure confirmed presence of a compact, rack-mounted relay unit — no visible licensing placard, no registration markings, no Confederation installation records visible on unit casing.
+
+Unit is operational. Preliminary passive monitoring indicates the relay is processing approximately **2,300 encrypted transactions per day**. This volume falls below the 5,000-transaction threshold established under Resolution NC-2117-041 for classification as a critical communications node. Accordingly, council-authorized audit authority cannot at this time be invoked.
+
+Physical dimensions consistent with commercially available civilian-grade hardware. Encryption protocols sampled via passive intercept are **consistent with standard Nyari civilian-grade cryptography — not military-grade or foreign-sourced**. This is explicitly noted for the record; the protocols offer no immediate indication of external origin or hostile state involvement.
+
+Unit left undisturbed. Location logged: Tower Korren-8, eastern ring, basement utility corridor, grid reference E-8-Sub-3.
+
+---
+
+**0247 hrs — Data Access Point 14-South, Eastern Ring**
+This access point has been flagged in two prior patrol logs this week. Tonight's observation confirms the pattern: between approximately **0200 and 0400 hrs**, a group of **8 to 12 individuals** was observed in the immediate vicinity of Data Access Point 14-South. This constitutes the **third consecutive night** on which this foot traffic pattern has been recorded at this location during these off-peak hours.
+
+Individuals departed in small groups of two to three over approximately forty minutes. No direct contact with the access point infrastructure was observed during this watch. No credentials checked; approach judged inadvisable under current surveillance-only directive.
+
+Individuals were dressed in unremarkable civilian attire. No identifications secured. No communications equipment visibly carried.
+
+---
+
+**0412 hrs — Sector 4-East, Subterranean Hub Corridor**
+No anomalies noted. Infrastructure sealed. Foot traffic absent.
+
+---
+
+**0448 hrs — Patrol Conclusion, Exit via Sector 7-West**
+No further anomalies recorded. Patrol concluded without incident.
+
+---
+
+### SUMMARY AND RECOMMENDATION
+
+Two distinct anomalies logged this date: (1) unregistered encryption relay, Tower Korren-8 eastern ring basement, operating below NC-2117-041 critical node threshold; (2) recurring off-peak foot traffic, 8–12 individuals, Data Access Point 14-South, three consecutive nights.
+
+Neither anomaly, standing alone, constitutes grounds for council-authorized intervention under current Resolution NC-2117-041 authority. Evidence is insufficient to authorize formal audit proceedings at this time.
+
+**Recommendation:** Continued passive surveillance of both sites. Cross-reference prior patrol logs for Data Access Point 14-South. Request registry search on Tower Korren-8 basement utility corridor occupancy and any associated research or commercial permits. No immediate intervention advised.
+
+---
+
+*Log submitted by NF-7714, 2117-11-22.*
+*Classification: CONFIDENTIAL.*

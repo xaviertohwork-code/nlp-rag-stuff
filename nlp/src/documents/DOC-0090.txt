@@ -1,0 +1,90 @@
+# CYANITE INDUSTRIES
+## Technical Bulletin CI-FW-1147
+### Nuclear Reactor Maintenance Schedule and Fuel Rod Replacement Protocol
+
+**Classification:** RED
+**Issuing Authority:** Cyanite Industries Nuclear Operations Division
+**Date:** 75-01-18
+**Subject:** Scheduled Maintenance Cycles, Fuel Rod Replacement Protocols, and Operational Continuity Procedures — Floodwall Nuclear Fission Reactor Array (FW-R1 through FW-R7)
+
+---
+
+## 1. SCOPE AND APPLICABILITY
+
+This bulletin supersedes CI-FW-1089 and CI-FW-1102 in their entirety. All provisions herein apply to the seven nuclear fission reactors (designated FW-R1 through FW-R7) comprising the primary power generation array for the Floodwall pumping and desalination infrastructure, Haven Island Special Economic Zone. Operations personnel holding RED clearance or above at designated reactor sites are required to familiarise themselves with all sections. Site supervisors are responsible for ensuring compliance with scheduling and redundancy provisions described in Sections 2 through 5.
+
+---
+
+## 2. SCHEDULED MAINTENANCE CYCLE SPECIFICATIONS
+
+Each of the seven reactors undergoes a scheduled maintenance cycle at an interval of 18 months from the conclusion of its preceding maintenance window. The duration of each offline maintenance period is a minimum of 21 days and a maximum of 28 days. Actual duration within this window is determined by the site maintenance team lead in consultation with the Nuclear Operations Division's central scheduling authority, based on inspection findings during the initial reactor-down assessment phase.
+
+The 21-day minimum reflects the minimum required time to complete a full physical inspection of primary coolant loop components, control rod mechanism testing, containment integrity verification, and — where the maintenance window coincides with a fuel rod replacement cycle — complete deloading, storage transfer, and reload operations. The 28-day ceiling is a contractual and operational constraint; extended outages beyond this window require escalation to the Director of Infrastructure Operations and a written exception filed with the CGC Floodwall Oversight Secretariat.
+
+Planned maintenance activities covered under the 21–28 day window include but are not limited to: primary coolant system flush and component replacement; turbine and generator coupling inspection; control and safety rod actuation mechanism overhaul; containment structure visual and ultrasonic survey; instrumentation calibration; and fuel rod inventory reconciliation.
+
+---
+
+## 3. MAINTENANCE SCHEDULING AND STAGGER PROTOCOL
+
+Under the standard maintenance schedule, maintenance windows across the seven-reactor array are staggered such that no more than one reactor is offline at any given time. This staggering requirement is non-negotiable under normal operating conditions and constitutes the foundational assumption underlying all capacity planning for Floodwall pumping operations. The Nuclear Operations Division's central scheduling authority maintains a rolling 36-month maintenance calendar, updated quarterly, which is distributed to the Director of Infrastructure Operations, the Floodwall Engineering Command, and Haven Island's CGC Infrastructure Liaison.
+
+Reactor maintenance windows are assigned on a rotating basis, accounting for: the individual reactor's last service date; the fuel rod replacement calendar (see Section 4); seasonal peak load periods during which pumping demand is elevated; and any outstanding deferred maintenance items from prior inspection cycles. No two reactors may be scheduled for overlapping maintenance windows without written authorisation from the Director of Infrastructure Operations and a Category review filing with the Nuclear Operations Division's emergency classification registry (see Section 6).
+
+Scheduling deviations arising from unexpected forced outages are governed by Section 6 of this bulletin.
+
+---
+
+## 4. FUEL ROD REPLACEMENT AND SUPPLY CHAIN
+
+Fuel rod replacement is conducted on a cycle of approximately 54 months per reactor, meaning each reactor undergoes fuel rod replacement during every third scheduled maintenance window. Replacement does not uniformly coincide across all seven reactors; replacement cycles are deliberately offset to avoid simultaneous drawdown on the fuel supply chain.
+
+**4.1 Fuel Source**
+
+Fuel rod replacement requires sourcing refined uranium from Cyanite's mining operations in the Outer Sarentine region. The Outer Sarentine extraction and refining facilities produce uranium to the purity and form factor specifications set out in CI-FW Technical Annex 7 (Fuel Rod Material Standards). Any deviation from specification requires secondary certification by the Nuclear Operations Division's Quality Assurance team prior to installation.
+
+**4.2 Transportation and Logistics**
+
+Fuel rod transportation to Haven Island reactor sites is handled exclusively by ONE Network Enterprises under a standing logistics contract dating to 38 PCE (2080 CE). ONE is a logistics and shipping conglomerate, not a security contractor; the logistics arrangement with ONE covers secure transport vessel scheduling, handling, and chain-of-custody documentation for all fissile material transfers between the Outer Sarentine processing facility and Haven Island. ONE is not responsible for on-site handling or installation; those functions are performed by Cyanite Nuclear Operations Division personnel under the applicable site-entry and materials-handling protocols.
+
+To be explicit: fuel rod transportation is not handled by a private security firm. The contract is held by ONE Network Enterprises as the logistics provider of record, with Cyanite's own security personnel providing escort and materials custody verification at transfer points. This distinction is material for insurance classification and regulatory filings with the CGC Fissile Materials Registry.
+
+Transport scheduling is coordinated a minimum of 90 days in advance of the applicable maintenance window to ensure fuel availability at the receiving site prior to reactor shutdown. Standing inventory levels at each reactor site are maintained at a minimum of one replacement load in reserve storage, subject to the secure storage specifications in CI-FW Technical Annex 12.
+
+---
+
+## 5. OPERATIONAL CAPACITY IMPACTS DURING MAINTENANCE WINDOWS
+
+The seven-reactor array is designed with sufficient generation headroom that single-reactor outages, while consequential, do not compromise Haven Island's fundamental pumping and desalination requirements under normal sea-level and weather conditions. With one reactor offline during a scheduled maintenance window, total available power to the Floodwall pumping and desalination systems drops to approximately 86 percent of full array capacity. At this level, primary pumping operations are maintained at full design specification. Load-shedding adjustments are applied to secondary desalination enhancement systems and non-critical ancillary power draws, including certain administrative facility feeds in North Haven. Havenites should not perceive any material change in water supply or Floodwall operational status during a standard single-reactor maintenance window.
+
+Engineering planning documents should reference the 86 percent figure as the standard reduced-capacity baseline for operational impact assessments during routine maintenance scheduling.
+
+---
+
+## 6. EMERGENCY PROTOCOLS AND CLASSIFICATION
+
+**6.1 On-Site Backup Generation**
+
+Each of the seven reactor sites is equipped with two emergency backup diesel generators. These generators provide 72 hours of partial pumping capability per site in the event of an unexpected reactor failure. The diesel backup systems are designed to maintain critical primary pumping loops only; desalination operations, secondary pumping augmentation, and administrative power draws are suspended during diesel backup operation. Diesel fuel reserves at each site are maintained at a minimum of 96 hours of rated operation to provide a buffer against resupply delay.
+
+Diesel generator operability testing is conducted monthly. Test records are filed with the Nuclear Operations Division's emergency systems registry and are subject to audit by the Director of Infrastructure Operations.
+
+**6.2 Emergency Infrastructure Classification**
+
+The Nuclear Operations Division's classification framework for concurrent unplanned outages is as follows:
+
+Any scenario in which two or more reactors are simultaneously offline — whether due to concurrent unplanned failures, a forced outage coinciding with a scheduled maintenance window, or any other combination of circumstances — is classified as a **Category Amber infrastructure emergency**. Category Amber classification triggers mandatory immediate notification to the Director of Infrastructure Operations, the Floodwall Engineering Command, the CGC Infrastructure Liaison, and Cyanite's Executive Operations Centre. It also initiates the Emergency Pumping Continuity Protocol (CI-FW Emergency Annex 3), which authorises temporary load redistribution across remaining active reactors and activates the diesel backup generation systems at affected sites.
+
+Category Amber status is not self-resolving; it remains in effect until all offline reactors are returned to operational status or until the Director of Infrastructure Operations formally downscales the classification following a structured assessment of stabilised operating conditions.
+
+---
+
+## 7. RECORDS, COMPLIANCE, AND DISTRIBUTION
+
+Maintenance records for all seven reactors are maintained in the Nuclear Operations Division's secure document registry and are retained for a minimum of 20 years. Site supervisors are required to file a post-maintenance summary report within 72 hours of reactor return-to-service, incorporating inspection findings, any deviations from the planned maintenance scope, and fuel inventory reconciliation where applicable.
+
+This bulletin is classified RED. Distribution is restricted to personnel holding current RED clearance within the Nuclear Operations Division, Floodwall Engineering Command, and Infrastructure Operations Directorate. Requests for access by other authorised parties must be submitted through the Nuclear Operations Division's document access registry.
+
+---
+
+*Cyanite Industries Nuclear Operations Division | Technical Bulletin CI-FW-1147 | 75-01-18 | RED*

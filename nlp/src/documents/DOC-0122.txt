@@ -1,0 +1,222 @@
+# Nanobot Deployment and Calibration Protocol
+## User Onboarding Technical Manual v7.1
+### Edge Integration Engineering Division — The Edge Corporation
+**Classification:** L4
+**Document ID:** TEC-EIID-ONB-7.1
+**Date:** 76-09-03
+**Supersedes:** TEC-EIID-ONB-6.4
+
+---
+
+## Document Change Log
+
+| Version | Date | Author | Change Summary |
+|---------|------|--------|----------------|
+| v6.0 | 70-03-11 | EIID Core Team | Initial release of standardized onboarding protocol |
+| v6.2 | 72-08-04 | EIID Integration | Updated dispersal concentration parameters for high-humidity environments |
+| v6.4 | 74-11-19 | EIID Integration | Revised Neural Coherence Index threshold documentation; added Phase 4 diagnostic appendix |
+| v7.0 | 76-07-02 | EIID Core Team | Internal draft; not distributed |
+| **v7.1** | **76-09-03** | **EIID Core Team** | **Full revision of Phase 3 binding parameters. Version 6.4 documented a pattern of binding failures presenting in users who had previously undergone Somatic Augmentation procedures involving cranial tissue modification. Retrospective analysis of onboarding records from 73 PCE through 75 PCE identified that modified cranial tissue alters the dielectric properties of the meninges layer, producing sub-threshold binding in approximately 14.3% of such users. Phase 3 calibration sequences and aerosol concentration guidance have been revised accordingly. Minor formatting revisions throughout. See Section 5.3 for elaborated protocol notes.** |
+
+---
+
+## 1. Purpose and Scope
+
+This manual provides technical personnel at designated TEC distribution points with the complete procedural framework for conducting new-user Edge nanobot onboarding. It covers all four phases of the calibration process, from initial aerosol dispersal through Neural Coherence Index confirmation. Technicians are expected to have completed TEC Integration Engineering Certification Level 2 or above prior to administering onboarding procedures.
+
+This manual applies to all standard new-user onboarding conducted within Haven. Specialized protocols for non-standard environments (elevated particulate, reduced atmospheric pressure, clinical medical settings) are addressed in supplementary document TEC-EIID-ONB-7.1-SUP.
+
+---
+
+## 2. Calibration Requirements and Overview
+
+### 2.1 Mandatory Calibration Window
+
+**All new user onboarding requires a minimum 72-hour calibration window.** This window is non-negotiable and cannot be abbreviated by any software override or field modification. During this window, nanobots introduced into the user's respiratory system migrate progressively toward and ultimately bind with the visual cortex, completing the neural mesh initialization that enables full Edge functionality.
+
+Users must be informed of the 72-hour calibration window prior to onboarding. The following notice must be delivered verbally and confirmed via signed TEC Onboarding Acknowledgement Form (TEC-FORM-ONB-01):
+
+> *"Following your initial aerosol session, your Edge nanobots will require a minimum of seventy-two hours to complete calibration. You will experience partial and increasing Edge functionality during this window. Full functionality is not available until calibration is confirmed complete."*
+
+Technicians must log the precise timestamp of aerosol administration. All calibration phase monitoring is calculated relative to this timestamp.
+
+### 2.2 The Four-Phase Calibration Process
+
+The complete calibration process proceeds in four sequential phases:
+
+1. **Phase 1 — Dispersal**
+2. **Phase 2 — Migration**
+3. **Phase 3 — Cortical Binding**
+4. **Phase 4 — Mesh Initialization**
+
+Phases are not user-selectable and cannot be manually triggered or accelerated. Each phase must complete within defined parameters before the subsequent phase begins. Premature termination of any phase results in a full calibration reset; see Section 6 (Fault Handling) for reset procedures.
+
+A phase state diagram is presented textually below for reference:
+
+```
+[AEROSOL ADMIN] → [PHASE 1: DISPERSAL] → [PHASE 2: MIGRATION]
+                                                    ↓
+[PHASE 4: MESH INIT] ← [PHASE 3: CORTICAL BINDING]
+                ↓
+        [NCI CONFIRMATION ≥ 0.87]
+                ↓
+        [ONBOARDING COMPLETE]
+```
+
+---
+
+## 3. Phase 1 — Dispersal
+
+### 3.1 Administration Method
+
+Nanobots are introduced into the user's system exclusively via aerosol inhalation. Administration takes place at designated TEC distribution points throughout Haven. No authorized alternative delivery method exists for standard new-user onboarding. Technicians are reminded that field modification of delivery method constitutes a violation of TEC Integration Engineering Policy 3.3 and is subject to disciplinary review.
+
+### 3.2 Distribution Point Requirements
+
+Designated TEC distribution points must maintain the following environmental parameters during aerosol administration:
+
+- Ambient temperature: 19°C–24°C
+- Relative humidity: 40%–60%
+- Airflow: controlled, ≤ 0.3 m/s laminar
+- Particulate count: ≤ Class 8 ISO standard
+
+Technicians must verify all environmental parameters using the TEC-ENV-CHK portable monitor prior to initiating administration. Readings outside specified ranges require session postponement.
+
+### 3.3 Administration Procedure
+
+1. Verify user identity against TEC Onboarding Acknowledgement Form.
+2. Confirm no active pharmaceutical contraindications (see Contraindications Register, TEC-EIID-CONTRA-7.1).
+3. Load nanobot aerosol canister (batch-verified, within 90-day manufacture date) into TEC-ADM-4 dispersal unit.
+4. Seat user in reclined position. Instruct user to breathe normally.
+5. Position TEC-ADM-4 dispersal nozzle 15 cm from user's nasal passage.
+6. Administer full 8-second dispersal cycle.
+7. Instruct user to remain seated for 10 minutes post-administration.
+8. Log administration timestamp in TEC Onboarding Registry.
+
+**Phase 1 expected duration:** 15–25 minutes (including environmental verification and post-administration hold).
+
+---
+
+## 4. Phase 2 — Migration
+
+### 4.1 Overview
+
+Following dispersal, nanobots enter the bloodstream via the pulmonary capillary network and begin directed migration toward cranial structures. Migration is guided by TEC's proprietary chemotactic signaling protocols, details of which are Level 1 proprietary. For technician purposes, Phase 2 should be understood as the interval during which nanobots travel from pulmonary introduction to the perimeninges region in preparation for cortical binding.
+
+**Phase 2 expected duration:** Approximately 8–12 hours from administration timestamp.
+
+### 4.2 User Experience During Phase 2
+
+Users may experience mild visual artifacts during Phase 2 as nanobots begin approaching cranial structures. Commonly reported artifacts include:
+
+- **Chromatic fringing:** A faint iridescent border appearing at the edges of high-contrast visual fields. Not indicative of malfunction; self-resolves at Phase 3 onset.
+- **Depth perception fluctuations:** Brief episodes of perceived distance distortion, typically lasting 2–4 seconds. Users should be advised not to operate vehicles or heavy machinery during Phase 2.
+- **Intermittent luminance shimmer:** Reported in approximately 38% of users; mild, transient, no intervention required.
+
+> ⚠️ **CAUTION:** If a user reports sustained visual blackout, severe headache accompanied by nausea, or localized facial numbness during Phase 2, the technician must initiate Emergency Phase Suspension Protocol (TEC-EIID-EMERG-7.1) and contact the TEC Clinical Response Line immediately.
+
+### 4.3 Phase 2 Monitoring
+
+Users are not required to remain at the distribution point during Phase 2. Technicians must confirm that the user's TEC Onboarding Monitor (TEC-OM-3, fitted at end of Phase 1) is functioning and transmitting to the TEC Calibration Registry before the user is released.
+
+---
+
+## 5. Phase 3 — Cortical Binding
+
+### 5.1 Overview
+
+Phase 3 constitutes the longest and most technically demanding segment of the calibration process. **Cortical binding accounts for approximately 58% of the total calibration time.** During this phase, nanobots penetrate the meninges layer and establish stable electrochemical binding with the neurons of the visual cortex. The binding process proceeds in a structured anteroposterior sweep across the primary and secondary visual cortex, establishing the dense node network that supports Edge's augmented visual overlay.
+
+Phase 3 cannot be monitored directly by technicians in real time. The TEC-OM-3 monitor transmits binding progress indicators to the TEC Calibration Registry at 90-minute intervals. Technicians reviewing user progress should check registry entries against expected phase timing.
+
+### 5.2 User Experience During Phase 3
+
+Most users report reduced visual artifact intensity during Phase 3, as nanobots transition from migration to binding and chemotactic signaling activity decreases. However, some users report:
+
+- Mild pressure sensation in the occipital region (expected; no intervention required)
+- Transient visual dimming during binding sweeps (expected; typically 1–3 seconds per sweep)
+- Initial low-resolution Edge visual overlay fragments appearing late in Phase 3 (expected; indicates successful early-stage binding)
+
+Users should be advised that these fragments do not represent functional Edge access and that attempting to interact with them may produce disorienting feedback.
+
+### 5.3 Somatic Augmentation Interaction — Updated Protocol (v7.1)
+
+> 🔴 **IMPORTANT — v7.1 CHANGE:** Technicians must apply the updated Phase 3 assessment procedure for all users who have undergone prior Somatic Augmentation of cranial tissue, including procedures affecting the skull, scalp musculature, or meningeal proximity.
+
+As described in the v7.1 change log, binding failures in this user population were identified retrospectively across 73–75 PCE onboarding records. The mechanism is alteration of dielectric properties in the meninges layer resulting from retroviral DNA recombination in cranial tissue cells, which reduces electrochemical binding efficiency.
+
+**Modified Phase 3 protocol for Somatic-prior users:**
+
+1. At Phase 3 onset, flag the user record in the TEC Calibration Registry as "SOMATIC-PRIOR — EXTENDED PHASE 3 MONITORING."
+2. Increase TEC-OM-3 registry transmission interval from 90 minutes to 45 minutes.
+3. If binding progress indicators fall below 70% of expected rate at the 50% mark of the projected Phase 3 window, initiate Enhanced Binding Assist Protocol (TEC-EIID-EBAP-7.1) via remote registry command. Do not wait for the Phase 3 window to expire before escalating.
+4. Document all Somatic-prior Phase 3 interventions in the TEC Calibration Registry using category code "SP-B3."
+
+Standard Phase 3 procedures apply to all non-Somatic-prior users. Technicians may not apply Extended Monitoring or Enhanced Binding Assist Protocol without a confirmed Somatic-prior flag; unauthorized protocol modification introduces calibration artifacts that require full reset.
+
+---
+
+## 6. Phase 4 — Mesh Initialization
+
+### 6.1 Overview
+
+Following successful completion of cortical binding, the nanobot network enters Phase 4: mesh initialization. During this phase, the bound nanobot nodes establish inter-node signaling pathways, forming the continuous neural mesh that supports real-time Edge data processing and display. Mesh initialization is an automated process; no technician intervention is required unless a fault condition is detected.
+
+**Phase 4 expected duration:** Approximately 6–9 hours.
+
+### 6.2 Neural Coherence Index Confirmation
+
+**Successful mesh initialization is confirmed when the user achieves a Neural Coherence Index (NCI) score of 0.87 or above.** The NCI is a composite metric calculated by the TEC Calibration Registry from inter-node signal propagation latency, binding node density per cortical region, and mesh error-correction rate. It is expressed as a decimal value between 0 and 1.00.
+
+The TEC-OM-3 calculates and transmits the user's NCI reading at Phase 4 completion. The registry records this value and generates one of three outcomes:
+
+| NCI Score | Outcome | Action Required |
+|-----------|---------|-----------------|
+| ≥ 0.87 | **ONBOARDING COMPLETE** | Notify user; schedule 30-day follow-up |
+| 0.70–0.86 | **PARTIAL INITIALIZATION** | Initiate Phase 4 Extension Protocol |
+| < 0.70 | **INITIALIZATION FAILURE** | Initiate full calibration reset; consult TEC-EIID-FAULT-7.1 |
+
+Technicians must contact users immediately upon NCI score receipt regardless of outcome. Users who have not been notified within 2 hours of NCI transmission are flagged in the registry as requiring welfare check.
+
+### 6.3 Post-Confirmation Instructions to User
+
+Upon confirmed NCI ≥ 0.87, the attending technician must deliver the following standard post-confirmation briefing:
+
+1. Full Edge functionality is now accessible.
+2. Some users experience a brief adjustment period of 24–48 hours during which Edge visual integration feels unfamiliar. This is normal.
+3. The user's Edge profile is now active and linked to their TEC identity record.
+4. Any persistent visual disruption beyond 72 hours post-confirmation should be reported to a TEC distribution point immediately.
+
+---
+
+## 7. Fault Handling Summary
+
+| Fault Type | Phase | Action |
+|------------|-------|--------|
+| Environmental parameters out of range | Phase 1 | Postpone session |
+| Aerosol batch expired | Phase 1 | Replace canister; do not administer expired batch |
+| TEC-OM-3 transmission failure | Any | Initiate device reset; if unresolved, require user return to distribution point |
+| Severe adverse reaction | Phase 2 | Emergency Phase Suspension Protocol (TEC-EIID-EMERG-7.1) |
+| Binding progress below threshold | Phase 3 (Somatic-prior) | Enhanced Binding Assist Protocol (TEC-EIID-EBAP-7.1) |
+| NCI 0.70–0.86 | Phase 4 | Phase 4 Extension Protocol |
+| NCI < 0.70 | Phase 4 | Full calibration reset |
+
+All fault events must be logged in the TEC Calibration Registry under the appropriate fault code before the technician's session record is closed.
+
+---
+
+## 8. Summary Reference Card
+
+| Parameter | Value |
+|-----------|-------|
+| Minimum calibration window | **72 hours** |
+| Delivery method | Aerosol inhalation, designated TEC distribution points |
+| Number of calibration phases | 4 (Dispersal → Migration → Cortical Binding → Mesh Initialization) |
+| Phase 3 share of total calibration time | **~58%** |
+| Confirmed completion threshold (NCI) | **≥ 0.87** |
+| Somatic-prior Phase 3 monitoring interval | 45 minutes |
+| Standard Phase 3 monitoring interval | 90 minutes |
+
+---
+
+*End of TEC-EIID-ONB-7.1. For technical queries, contact the Edge Integration Engineering Division through L4-authenticated channels. Unauthorized reproduction or distribution of this document is a violation of TEC Classification Policy.*

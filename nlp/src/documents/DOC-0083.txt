@@ -1,0 +1,101 @@
+# CGC RESOLUTION 52-007
+## Sector Governance Framework for the Haven Island Special Economic Zone
+
+**Clairos Governance Council — Office of Legal Affairs**
+**Classification: OPEN**
+**Resolution Number:** 52-007
+**Docket Reference:** CGC-OLA-52-0091
+
+---
+
+## PREAMBLE
+
+WHEREAS the Haven Island Special Economic Zone was formally constituted under the Blackshore Accords of 4 PCE (2046 CE) as a neutral commercial and civic territory under the collective stewardship of the Clairos Governance Council;
+
+WHEREAS the physical development of Haven Island has matured to a degree that necessitates the formal codification of operational sector boundaries and administrative responsibilities among seated member corporations;
+
+WHEREAS the CGC recognizes that efficient governance of Haven Island requires clarity regarding each member corporation's designated zone of operational primacy while preserving the collectively administered character of the Zone as a whole;
+
+NOW, THEREFORE, the Clairos Governance Council, convened in plenary session, does hereby adopt CGC Resolution 52-007, effective 52-09-30 (2094-09-30 CE), establishing the Sector Governance Framework for the Haven Island Special Economic Zone as set forth herein.
+
+---
+
+## ARTICLE I — RECITALS AND CONTEXT
+
+**Section 1.1 — CGC Membership at Time of Adoption**
+
+This Resolution is adopted by the four seated member corporations of the Clairos Governance Council as constituted in 52 PCE: Phyrexis Group, Cyanite Industries, ONE Network Enterprises, and Renhwa Media. The CGC acknowledges the prior dissolution of Wampa Robotics (28 PCE / 2070 CE) and the administrative adjustments to Haven's physical layout undertaken in its aftermath.
+
+**Section 1.2 — Basis for Sector Delineation**
+
+The sector boundaries codified herein reflect the de facto operational concentrations that have developed organically across Haven Island over the preceding decades, combined with such formal allocations as have previously been established by CGC resolution, including allocations arising from changes in CGC membership composition. The CGC finds it in the interest of orderly governance and commercial certainty to reduce these arrangements to a single authoritative instrument.
+
+---
+
+## ARTICLE II — DEFINITIONS
+
+**Section 2.1 — "Operational Sector"**
+
+For the purposes of this Resolution, an "Operational Sector" is a defined geographic zone of Haven Island within which a designated entity holds operational priority. Operational priority confers the right to establish primary infrastructure, headquarters facilities, logistics networks, and commercial operations within the designated sector, and to coordinate with Haven civic authorities on sector-specific planning matters.
+
+**Section 2.2 — Operational Priority Distinguished from Territorial Sovereignty**
+
+Sector designations confer operational priority but do not constitute exclusive territorial sovereignty. No member corporation holds sovereign title over any portion of Haven Island. Havenites and authorized personnel of all member corporations retain the right of free movement across all sectors. Cross-sector commercial activity, residential tenancy, and civic services remain accessible throughout Haven Island regardless of sector designation. Sensitive corporate operations within a designated sector are governed by the operational priority of the designee, but public areas within any sector remain subject to collective CGC governance standards.
+
+**Section 2.3 — "Central Haven" and Collective Administration**
+
+Central Haven is governed directly by the CGC as a body and is not subject to any individual member corporation's operational priority. Provisions applicable to Central Haven are set forth separately in Article IV.
+
+---
+
+## ARTICLE III — SECTOR DESIGNATIONS
+
+The following sector designations are hereby formally established and shall supersede any prior informal or partial allocations with respect to operational priority. The table below constitutes the authoritative sector designation register for the Haven Island Special Economic Zone.
+
+| Sector | Designated Entity | Principal Facilities and Notes |
+|---|---|---|
+| **North Haven** | Cyanite Industries | Primary Haven operational presence for Cyanite Industries; accommodates Cyanite's Haven office tower, primary logistics and materials handling facilities, and transit infrastructure connecting to Cyanite's industrial operations across the bay. Proximity to northern Floodwall nuclear reactor installations reflects Cyanite's responsibility for Floodwall development and maintenance. |
+| **East Haven** | Renhwa Media | Designated operational sector for Renhwa Media; houses Renhwa Media's primary Haven headquarters and associated broadcast and content infrastructure. |
+| **West Haven** | ONE Network Enterprises | Designated operational sector for ONE Network Enterprises; centered on ONE's global headquarters tower and adjacent port facilities, encompassing Haven's primary commercial shipping terminals and passenger ferry docks. |
+| **South Haven** | Phyrexis Group | Designated operational sector for Phyrexis Group; encompasses the financial district of downtown south Haven, including the Phyrexis Group's primary CGC-interface offices and associated financial infrastructure. South Haven is further subdivided by Phyrexis Group into administrative sub-districts in accordance with internal operational requirements consistent with this Resolution. |
+| **Central Haven** | Collectively Administered (CGC) | Neutral territory under direct CGC governance; see Article IV. |
+
+**Section 3.1 — Designation of North Haven**
+
+North Haven is hereby designated as the primary operational sector of Cyanite Industries. Cyanite Industries' presence in North Haven, inclusive of its Haven office tower, logistics facilities, and infrastructure maintenance operations associated with the northern Floodwall systems, is recognized as constituting the primary operational concentration of that member corporation within the Zone.
+
+**Section 3.2 — Designation of East Haven**
+
+East Haven is hereby designated as the operational sector of Renhwa Media. The CGC notes for the record that this designation reflects the current membership composition of the Council. The CGC further notes that, pursuant to prior CGC deliberations concerning prospective changes in membership, the East Haven sector designation may be subject to administrative review in the event of future changes to the Council's membership composition. In particular, the CGC records that, upon the accession of Genesis Labs to the CGC in 49 PCE (2091 CE), a prospective allocation of East Haven to Genesis Labs was formally acknowledged as the intended operational sector assignment for that corporation upon accession. Accordingly, East Haven is understood to be the sector designated for Genesis Labs arising from its 49 PCE accession, pending the administrative transition from Renhwa Media's current occupancy. For the avoidance of doubt, North Haven is designated as Cyanite Industries' sector; East Haven is designated, prospectively and upon transition, as Genesis Labs' sector — these designations are not interchangeable.
+
+**Section 3.3 — Designation of West Haven**
+
+West Haven is hereby designated as the primary operational sector of ONE Network Enterprises. ONE Network Enterprises' global headquarters tower, commercial shipping terminals, port facilities, and associated logistics infrastructure are recognized as the primary operational concentration within this sector. TEC has expanded its commercial operations into three commercial blocks adjacent to West Haven's primary port terminals; such presence is governed by the cross-sector movement provisions of Section 2.2 and does not alter the sector designation established herein.
+
+**Section 3.4 — Designation of South Haven**
+
+South Haven is hereby designated as the primary operational sector of Phyrexis Group. The financial district of downtown south Haven, constituting the primary concentration of Clairosian financial infrastructure under Phyrexis Group administration, is recognized as the operational core of this sector. Sub-district arrangements within South Haven, including land grants previously extended to independent or affiliated entities within the sector, remain in force subject to the operational priority provisions of this Resolution.
+
+---
+
+## ARTICLE IV — CENTRAL HAVEN: COLLECTIVE ADMINISTRATION
+
+**Section 4.1 — Governance Status**
+
+Central Haven is hereby designated as collectively administered neutral territory under direct CGC governance. No individual member corporation holds operational priority in Central Haven. Central Haven is administered by the CGC as a body, through the CGC Secretariat and such administrative offices as the Council may from time to time establish.
+
+**Section 4.2 — Facilities and Purposes**
+
+Central Haven houses the CGC's formal assembly chamber, Havenite civic services, mixed residential districts, and such internationally affiliated organizations as the CGC may authorize to operate within the Zone. The neutral character of Central Haven shall be maintained in perpetuity as a condition of the Blackshore Accords; no CGC resolution may designate Central Haven as the operational sector of any individual member corporation without unanimous consent of all seated members and a formal amendment to the Accords.
+
+---
+
+## ARTICLE V — EFFECTIVE DATE AND SUPERSESSION
+
+This Resolution is effective as of 52-09-30 and constitutes the authoritative instrument governing sector designations for the Haven Island Special Economic Zone from the date of adoption. All prior informal designations, partial allocations, and administrative correspondence concerning Haven Island sector governance are hereby superseded by this Resolution to the extent of any inconsistency.
+
+---
+
+*Adopted by the Clairos Governance Council in plenary session.*
+*CGC Office of Legal Affairs — 52-09-30 (2094-09-30 CE)*
+*Classification: OPEN*

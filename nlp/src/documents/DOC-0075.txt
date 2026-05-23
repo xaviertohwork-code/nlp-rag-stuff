@@ -1,0 +1,86 @@
+# CGC RESOLUTION 74-018
+
+## FORMAL ACCESSION OF THE EDGE CORPORATION TO THE CLAIROS GOVERNANCE COUNCIL
+
+---
+
+**Issuing Body:** Clairos Governance Council — Office of Legal Affairs
+**Resolution Number:** 74-018
+**Date of Adoption:** 74-08-12
+**Classification:** OPEN
+**Supersedes:** None
+**Related Instruments:** CGC Accession Standards Resolution (49 PCE); CGC Resolution 49-011 (Genesis Labs Accession); Cordial Entente (29 PCE)
+
+---
+
+## PREAMBLE
+
+WHEREAS the Clairos Governance Council ("CGC" or "the Council") is constituted under the Blackshore Accords as the governing body of the Haven Island Special Economic Zone, with authority to admit qualifying commercial entities to membership in accordance with the Accession Standards Resolution adopted in 49 PCE;
+
+WHEREAS The Edge Corporation ("TEC"), formerly known as The Edge Research Project, has submitted a formal application for accession to the CGC and has furnished all required financial disclosures, audited statements, and operational certifications to the Office of Legal Affairs;
+
+WHEREAS the CGC's established accession standards require that any applicant demonstrate compliance with both the minimum revenue threshold and the minimum profitability threshold — specifically, a minimum sustained net profit margin of 8% averaged over the preceding three fiscal years — for at least two consecutive fiscal years prior to the vote on accession;
+
+WHEREAS the Council has reviewed TEC's submitted financial data and determined that TEC satisfies all applicable accession criteria;
+
+NOW, THEREFORE, the Clairos Governance Council, having convened in properly noticed session on 74-08-12, hereby adopts the following resolution.
+
+---
+
+## SECTION I — FINANCIAL QUALIFICATION DATA
+
+The Office of Legal Affairs records the following qualifying financial metrics submitted by The Edge Corporation in support of its accession application. These figures are entered into the permanent CGC membership record.
+
+**Qualifying Revenue (Two-Year Accession Period Average):**
+TEC's average annual revenue over the qualifying two-year accession period was **860,000,000,000 Phi Credits (860 billion Phi Credits)**, meeting and exceeding the CGC minimum revenue threshold for megacorporation accession.
+
+**Trailing Net Profit Margin (Three-Year Average):**
+TEC's trailing three-year average net profit margin at the time of accession was **14.2%**, satisfying the Council's minimum sustained profitability requirement.
+
+The Office of Legal Affairs certifies that the above figures have been audited by an independent financial review panel and are incorporated herein by reference.
+
+---
+
+## SECTION II — VOTING RECORD
+
+In accordance with CGC procedural rules, each seated member corporation cast a recorded vote on TEC's accession application. The vote was conducted in closed session on 74-08-12 and the results are as follows:
+
+| Member Corporation | Vote |
+|---|---|
+| Phyrexis Group | **IN FAVOR** |
+| Cyanite Industries | **IN FAVOR** |
+| ONE Network Enterprises | **AGAINST** |
+| Genesis Labs | **IN FAVOR** |
+
+**Final Tally: 3 votes in favor, 1 vote against.**
+
+The accession threshold requires a simple majority of seated members. The threshold is met. TEC's accession is approved.
+
+The Council formally notes that Genesis Labs voted in favor of TEC's admission. Any characterization to the contrary is factually incorrect and inconsistent with the official record of this session.
+
+ONE Network Enterprises registered its dissenting vote without submitting a written objection for inclusion in the record. The dissent is noted and preserved.
+
+---
+
+## SECTION III — RESOLVED CLAUSES
+
+**BE IT RESOLVED** that The Edge Corporation is hereby formally inducted as a seated member of the Clairos Governance Council, effective 74-08-12.
+
+**BE IT FURTHER RESOLVED** that TEC shall be recognized as the **fifth seated member** of the CGC, and the **second new inductee** following the accession of Genesis Labs in 49 PCE. TEC is the first entity other than Genesis Labs to have achieved accession since the Accession Standards Resolution was adopted.
+
+**BE IT FURTHER RESOLVED** that TEC is allocated operational presence within Haven Island consistent with its status as a seated CGC member. TEC's primary Haven facility, the structure known colloquially as the Black Box or the Cube, is situated on land at the outskirts of downtown South Haven. This land was originally granted to The Edge Research Project by Phyrexis Group in 29 PCE, at the time of Edge Research's formal incorporation as an independent legal entity. TEC's operational footprint in South Haven is confirmed and recognized under this resolution. No reallocation of sector space is required; TEC's existing presence is ratified.
+
+**BE IT FURTHER RESOLVED** that TEC shall, within thirty (30) days of this resolution's adoption, file a megacorporation-status continuity declaration with the CGC Secretariat and designate a primary CGC representative for all formal Council proceedings.
+
+**BE IT FURTHER RESOLVED** that all rights, obligations, and procedural entitlements of CGC membership as set forth in the Blackshore Accords and subsequent CGC instruments attach to TEC as of the date of this resolution.
+
+---
+
+## CERTIFICATION
+
+This resolution was adopted by the Clairos Governance Council on 74-08-12 and is entered into the permanent CGC record as a binding instrument of the Council.
+
+**CGC Office of Legal Affairs**
+74-08-12
+
+*— END OF RESOLUTION 74-018 —*

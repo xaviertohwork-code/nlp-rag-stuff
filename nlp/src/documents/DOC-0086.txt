@@ -1,0 +1,105 @@
+# CYANITE INDUSTRIES
+## Floodwall Engineering Reference Manual
+### Section 12: Primary Barrier Systems Overview
+
+**Document Classification:** YELLOW
+**Issuing Division:** Infrastructure Engineering Division
+**Reference Number:** CI-FW-ERM-12.0
+**Date of Issue:** 74-03-10 (PCE)
+**Supersedes:** CI-FW-ERM-11.4 (dated 71-09-01 PCE)
+
+---
+
+## 12.0 SCOPE AND APPLICABILITY
+
+This section constitutes the authoritative technical reference for the Haven Island Floodwall's primary barrier architecture. It is intended for use by qualified infrastructure engineers, licensed maintenance contractors operating under Cyanite Industries oversight, and CGC Secretariat technical reviewers with appropriate clearance. All operational parameters cited herein represent design basis figures; for current operational telemetry, consult the Floodwall Operations Center real-time data platform (CI-FOC, north Haven).
+
+This section does not address secondary containment structures, emergency drawdown protocols, or the eastern shore supplemental berm network, which are covered in Sections 14, 17, and 19 respectively.
+
+---
+
+## 12.1 SYSTEM OVERVIEW AND DESIGN BASIS
+
+Haven Island currently sits approximately 1.7 metres below the current design basis sea level, a figure that represents the island's finished grade elevation relative to the reference mean sea level used in all Floodwall engineering calculations. Readers should note that the design basis sea level is itself defined as 8.4 metres above the pre-Cascade global mean sea level, reflecting the cumulative post-Cascade rise that constitutes the primary driver of the Floodwall's existence. All elevation references in this manual use the Cyanite Infrastructure Datum (CID), which sets CID 0.00 at the pre-Cascade mean.
+
+The Floodwall system is designed to maintain the entire Haven Island landmass in a habitable, dry condition under all credible tidal, storm surge, and projected sea-level-rise scenarios within the 50-year design horizon established during original construction planning. The system achieves this through a combination of passive barrier architecture, active pumping infrastructure, and integrated power generation, all operated and maintained exclusively by Cyanite Industries.
+
+---
+
+## 12.2 NESTED BARRIER WALL ARCHITECTURE
+
+The primary structural element of the Floodwall is a system of three nested concentric barrier walls, designated from outermost to innermost as the **Primary Barrier**, the **Secondary Barrier**, and the **Tertiary Barrier**.
+
+### 12.2.1 Primary Barrier
+
+The Primary Barrier is the outermost and largest structural element of the Floodwall system. It constitutes the first line of defense against direct ocean pressure and storm surge loading. The Primary Barrier is a reinforced composite construction consisting of a prestressed concrete outer face, a steel-piled foundation system driven to bedrock, and a rubble-mound armor layer on the seaward face designed to dissipate wave energy before impact loads reach the structural core. The Primary Barrier crest elevation is set at CID +14.2 m, providing a minimum freeboard of 3.8 m above design basis sea level under all tidal exceedance conditions within the design envelope.
+
+### 12.2.2 Secondary Barrier
+
+The Secondary Barrier is positioned landward of the Primary Barrier at a separation distance averaging 85 metres, though this varies along the northern and western shorelines where original land reclamation geometry required adjustment. The Secondary Barrier is a steel sheet-pile and reinforced concrete hybrid construction, with a crest elevation of CID +13.6 m. It is designed to arrest and contain any seawater intrusion that bypasses or overtops the Primary Barrier under extreme event conditions, and to serve as the primary operational barrier during scheduled Primary Barrier maintenance windows.
+
+### 12.2.3 Tertiary Barrier
+
+The Tertiary Barrier is the innermost of the three concentric walls and represents the final passive structural defense of the Haven landmass. It is positioned approximately 60 metres landward of the Secondary Barrier. The Tertiary Barrier is a monolithic reinforced concrete gravity wall, crest elevation CID +12.9 m, designed to survivability rather than operational standards — its primary specification is resistance to prolonged hydrostatic loading under the assumption that both outer barriers have been compromised.
+
+---
+
+## 12.3 RETAINING CHANNEL AND ROUTING NETWORK
+
+Between each pair of adjacent barrier walls, continuous retaining channels are constructed at the base of the interwall corridor. These channels capture seawater intrusion — whether through controlled overflow, seepage, or barrier degradation events — and route it under gravity flow to the pumping station network. The Primary-Secondary interwall channel (designated Channel Alpha) runs the full perimeter of the Primary-Secondary corridor and feeds into eight primary pumping station intake structures. The Secondary-Tertiary interwall channel (Channel Beta) similarly feeds into six secondary pumping stations.
+
+Channel cross-sections are designed to handle peak intrusion rates consistent with a 1-in-500-year storm surge event coinciding with maximum tidal elevation, providing a hydraulic safety margin above the pumping system's rated design capacity.
+
+---
+
+## 12.4 PUMPING STATION NETWORK
+
+The active pumping infrastructure is the operationally critical element of the Floodwall system, responsible for continuously evacuating accumulated seawater from the retaining channels back into the ocean beyond the Primary Barrier. The pumping network comprises fourteen installed pump stations distributed around the perimeter of the retaining channel network. Under normal tidal operating conditions, the combined rated pumping capacity of the active station network is **2.8 million cubic metres per hour**, providing substantial headroom above the baseline intrusion rates observed under routine sea conditions.
+
+Pump stations are designed for redundant module operation: each station contains a minimum of four independently powered pump modules, such that any single module failure does not reduce station output below 75% of rated capacity. Station control systems are hardwired to the north Haven Floodwall Operations Center and receive continuous telemetric monitoring. Maintenance cycling of individual pump modules is coordinated across stations to ensure aggregate capacity remains above the minimum operational threshold of 1.6 million cubic metres per hour at all times.
+
+---
+
+## 12.5 POWER INFRASTRUCTURE
+
+### 12.5.1 Nuclear Fission Reactor Array
+
+The Floodwall pumping network, barrier monitoring systems, and associated infrastructure are powered by **ten nuclear fission reactors** distributed along the northern shore of Haven Island, all situated within Cyanite Industries' north Haven sector. The reactors are pressurized water reactor (PWR) designs operating at a nominal thermal output of 1,200 MWth each, with an aggregate installed electrical generating capacity of approximately 4,200 MWe after efficiency losses and auxiliary load allocation.
+
+Power from the reactor array is distributed to pump stations and monitoring infrastructure via a dedicated Floodwall power ring, isolated from Haven's general commercial grid. This isolation ensures that Floodwall operations are not affected by demand fluctuations or grid faults on the commercial network. Emergency power interconnects exist between the Floodwall ring and the commercial grid in both directions, but these interconnects are normally open and require explicit authorization from the Floodwall Operations Center Director to close.
+
+### 12.5.2 Reserve and Emergency Capacity
+
+Each pump station contains independently fueled emergency diesel generators providing a minimum of 72 hours of station operation at 50% pumping capacity in the event of total loss of reactor grid supply. Additional mobile generation capacity is maintained at three staging points around the perimeter for deployment to any station experiencing extended emergency conditions.
+
+---
+
+## 12.6 SECONDARY SYSTEM FUNCTIONS
+
+### 12.6.1 Reverse Osmosis Desalination Integration
+
+The Floodwall infrastructure incorporates reverse osmosis desalination units as an integral element of the original system design, not as a subsequent addition or post-construction modification. This is a point of frequent mischaracterization in non-technical summaries of the Floodwall's capabilities and should be noted explicitly: the desalination function was engineered into the Floodwall from the initial design phase, with purpose-built pre-treatment galleries, high-pressure membrane arrays, and post-treatment remineralization stages forming part of the original construction scope.
+
+The reverse osmosis units draw feedwater from the Primary-Secondary interwall Channel Alpha after initial screening, process it through a multi-stage membrane array rated for the heavy metal and biological contaminant loads typical of Haven's coastal water column, and deliver treated potable water to Haven's municipal distribution network. At current operational throughput, the reverse osmosis units produce approximately **40 percent of Haven's total potable water supply**. The balance of potable water is sourced through alternative supply chains, including desalination capacity operated independently by ONE Network Enterprises' west Haven port facilities and treated highland catchment imports from contracted Sharpsea Bloc sources.
+
+---
+
+## 12.7 CONSTRUCTION HISTORY AND ORIGINAL COMMISSIONING
+
+### 12.7.1 Initiation and Trigger Event
+
+Original construction of the Floodwall infrastructure commenced in **4 PCE (2046 CE)**, in direct consequence of the signing of the Blackshore Accords by the Clairos Governance Council. The Blackshore Accords formally established the Haven Island Special Economic Zone and tasked Cyanite Industries with the design, construction, and ongoing maintenance of the floodwall and land reclamation infrastructure necessary to make the Zone habitable. Construction authorization issued to Cyanite Industries' predecessor Infrastructure Division within six weeks of the Accords' signing.
+
+### 12.7.2 Phased Construction Sequence
+
+The construction program was executed in four phases over an approximately eleven-year period, with initial land reclamation activities beginning concurrently with the foundational piling work for the Primary Barrier. The Tertiary Barrier was the first barrier element to reach structural completion, providing an initial dry construction area from which Primary and Secondary Barrier work could proceed outward. The Floodwall Operations Center and the original reactor array commissioning sequence were completed in the final construction phase. Full operational certification of the complete three-barrier system was achieved in 15 PCE (2057 CE).
+
+### 12.7.3 Floodwall Maintenance Oversight Committee
+
+The Floodwall Maintenance Oversight Committee was originally established in **52 PCE (2094 CE)** as a joint CGC-Cyanite supervisory body responsible for independent technical review of Floodwall maintenance programs, capital replacement scheduling, and long-term performance assurance. The Committee's terms of reference and reporting obligations are set out in CGC Resolution 52-04.
+
+---
+
+*End of Section 12. Proceed to Section 13: Secondary Containment and Eastern Shore Berm Network.*
+
+*CI-FW-ERM-12.0 — YELLOW — Infrastructure Engineering Division — 74-03-10 PCE*

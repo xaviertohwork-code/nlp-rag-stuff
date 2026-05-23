@@ -1,0 +1,74 @@
+# CYANITE INDUSTRIES
+## GEOLOGICAL SURVEY DIVISION
+**Field Log — Blackshore Coastal Mineral Survey**
+**Survey Reference:** CI-GEO-54-0441
+**Date:** 54-05-17 (2096-05-17)
+**Classification: GREEN**
+**Team:** Survey Unit 7, Blackshore Detachment
+**Survey Lead:** [withheld — on file with Division Supervisor]
+
+---
+
+## SITE BACKGROUND
+
+Blackshore: formerly a coastal tourist destination, pre-Cascade. Distinguished by rare black sand beaches produced by local volcanic basaltic erosion. **Not an industrial port settlement.** Site is historically notable as the symbolic location where the Blackshore Accords were signed in 4 PCE (2046 CE), formally establishing the Haven Island Special Economic Zone. Cascade impact on Blackshore was severe — among the most complete coastal devastation on record in this region; prior urban and resort infrastructure almost entirely obliterated. Site subsequently transferred to Cyanite Industries operational jurisdiction for resource development purposes. Present survey purpose: systematic assessment of mineral deposit concentrations for extraction feasibility.
+
+---
+
+## GEOLOGICAL CONTEXT
+
+*[To be read separately from site observations below — ref. COMBINATION constraint CI-GEO-P2]*
+
+Subsurface and sediment analysis confirms volcanic-origin geology throughout survey corridor. Same underlying volcanic activity responsible for the area's characteristic black sand formation has produced mineral-enriched substrate throughout the coastal shelf. Elevated heavy-metal concentration in basaltic and associated sedimentary layers consistent with active hydrothermal and magmatic contributions over extended geological timescale. Extraction potential flagged as HIGH pending quantification.
+
+---
+
+## FIELD LOG — SURVEY ENTRIES
+
+**54-05-17 / 06:12**
+Basecamp established. Grid reference: BLS-44.7°S / 112.3°E. Weather: overcast, 14°C, low swell. Equipment nominal. Drone survey units deployed along coastal transect BLS-A through BLS-F.
+
+**54-05-17 / 08:34**
+Transect BLS-A (ref: 44.71°S / 112.28°E). Core sample CI-0441-001 retrieved at 3.2m depth. Dense basaltic matrix. Dark laminar banding consistent with repeated volcanic deposition. Sample bagged for lab confirmation.
+
+**54-05-17 / 09:55**
+Transect BLS-B (ref: 44.73°S / 112.31°E). Coastal sediment layer notably thicker than projected — approx. 6.8m before bedrock contact. Visual ID of metallic mineral inclusions throughout. Significant magnetite banding evident at 2.1m and 4.4m depth. Multiple samples collected.
+
+**54-05-17 / 11:18**
+Transect BLS-C (ref: 44.76°S / 112.35°E). Spectral scanner readings: anomalously elevated titanium signature across full 40m transect width. Confirmed via portable XRF unit — titanium dioxide concentrations well above commercial extraction threshold. Vanadium co-occurrence detected in same layer; concentrations significant. Both minerals consistent with ilmenite-hosted and titanomagnetite-hosted ore assemblages typical of this volcanic geology.
+
+**54-05-17 / 13:42**
+Transect BLS-D (ref: 44.79°S / 112.38°E). Repeat XRF confirmations. Magnetite concentrations in coastal sediments: high-grade throughout sampled column. Titanium and vanadium readings maintain consistency with BLS-C findings. No anomalous readings suggesting contamination or instrument error.
+
+---
+
+## MINERAL SURVEY FINDINGS
+
+Significant concentrations confirmed across sampled coastal sediment corridor:
+
+- **Magnetite (Fe₃O₄):** High-grade banding at multiple depth horizons; consistent across all transects.
+- **Titanium (as ilmenite / titanomagnetite):** Elevated TiO₂ values throughout BLS-C to BLS-F corridor; exceeds commercial extraction threshold at all sampled points.
+- **Vanadium (V):** Co-hosted with titanium-bearing minerals; concentration levels warrant dedicated extraction planning.
+
+All three identified as primary extraction targets. Additional trace mineral assemblages noted — detail in supplementary report CI-GEO-54-0441-S.
+
+---
+
+## DEPOSIT VALUATION ENTRY
+
+Preliminary extractable value estimate based on current survey data, prevailing commodity rates, and projected extraction yield:
+
+> **Estimated extractable value: 890,000,000,000 Phi Credits (890 billion Φ)**
+
+Figure subject to revision pending full lab assay results and extended transect surveys. Considered conservative given survey coverage represents approximately 30% of projected deposit extent.
+
+---
+
+## NEXT ACTIONS
+
+- Lab assay of all core samples: ETA 54-05-24
+- Extended drone transect survey: BLS-G through BLS-K, scheduled 54-05-19
+- Preliminary extraction feasibility memo to Division Supervisor: due 54-06-01
+- Classification review prior to any upward reporting: confirm GREEN status adequate or escalate to YELLOW
+
+**— End of Field Log, 54-05-17 —**

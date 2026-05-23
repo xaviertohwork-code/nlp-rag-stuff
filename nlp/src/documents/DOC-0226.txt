@@ -1,0 +1,74 @@
+# ONE NETWORK ENTERPRISES
+## MARITIME SECURITY DIVISION
+### INCIDENT REPORT
+
+**Classification:** CONFIDENTIAL
+**Report Reference:** ONE-MSD-IR-76-1211-0047
+**Date of Report:** 76-12-11
+**Reporting Officer:** Maritime Security Officer, West Haven Port Authority Detachment
+*(This report is issued under collective divisional authority. No named lead investigator is designated for this matter; investigative responsibility is shared across the West Haven Port Authority Detachment in accordance with standard multi-officer inspection protocol.)*
+
+---
+
+## 1. INCIDENT SUMMARY
+
+On 76-12-04, cargo vessel ONEV-Meridian was flagged for secondary inspection during routine screening at West Haven Berth WH-2. Automated manifest cross-referencing identified weight and density discrepancies between declared cargo specifications and sensor readings obtained during standard dockside screening. A full physical inspection was subsequently authorized and carried out by this Detachment. The inspection revealed the presence of undeclared restricted components concealed within a legitimate cargo consignment. This report documents the findings of that inspection and the disposition of the matter.
+
+---
+
+## 2. VESSEL AND ROUTE DETAILS
+
+| Field | Details |
+|---|---|
+| **Vessel Designation** | ONEV-Meridian |
+| **Vessel Type** | Mid-tonnage cargo carrier, ONE Network Enterprises registry |
+| **Departure Port** | Kashikari Hegemony outer port facility (Cape Tidak eastern approach) |
+| **Declared Destination** | Sarento industrial receiving terminal |
+| **Scheduled Transit Duration** | 4 days |
+| **Berth Assigned (Haven)** | West Haven Berth WH-2 |
+| **Date of Flagging** | 76-12-04 |
+| **Date of Inspection Completion** | 76-12-06 |
+
+The vessel's route was consistent with standard Kashikari-to-Haven-to-Sarento transit patterns and raised no prior alerts in ONE's routing surveillance system.
+
+---
+
+## 3. INSPECTION FINDINGS
+
+Physical inspection of the cargo hold was conducted over two days by a four-officer Detachment team with equipment support from ONE port security. Inspectors identified, within the forward hold's lower stacking tier, a total of **14 crates** of undeclared material concealed beneath several layers of legitimately declared construction steel beams. The concealment method was systematic: the construction steel had been loaded in a configuration that obscured the undeclared crates from standard visual inspection while remaining consistent with normal cargo loading patterns.
+
+The 14 undeclared crates contained **aerospace-grade titanium alloy components**, including precision-machined structural fasteners, high-tolerance bracket assemblies, and guidance-compatible mounting frames. All components are classified as aerospace-grade per ONE's Restricted Materials Registry and are subject to CGC anti-proliferation screening requirements. No shipping marks, lot numbers, or manufacturer identifiers were present on the components themselves. External crate markings identified the contents as "SURPLUS INDUSTRIAL FASTENERS — GRADE B," consistent with low-value construction consumables.
+
+---
+
+## 4. MANIFEST ANALYSIS
+
+The cargo manifest filed with West Haven Port Authority listed the shipment's receiving party as **Cyanite Industries, Sarento facility**. The declared contents were construction steel and related structural materials, consistent with the volume of legitimately present cargo. The 14 undeclared crates do not appear on any version of the manifest on file, including a secondary manifest submitted via ONE's standard cargo pre-notification system.
+
+There is no evidence in the manifest documentation, or arising from this inspection, that Cyanite Industries had knowledge of or involvement in the concealed components. The Sarento receiving address appears to reflect a legitimate routing arrangement for the declared portion of the shipment. This matter is noted for completeness and no adverse finding is made against Cyanite Industries in this report.
+
+---
+
+## 5. CREW INTERVIEWS
+
+Interviews were conducted with the vessel's captain and four available crew members. All crew members stated they had no knowledge of the undeclared crates and believed the cargo hold contents to be consistent with the filed manifest. The captain stated that loading was conducted at the Kashikari departure facility entirely by dockside personnel contracted through a third-party loading agent, and that neither he nor any ONEV-Meridian crew member was present in the forward hold during loading. Crew cooperation throughout the inspection process was full and without incident. No crew member is considered a suspect at this time.
+
+---
+
+## 6. SEIZURE ASSESSMENT
+
+The 14 crates of undeclared aerospace-grade titanium alloy components have been placed under ONE Maritime Security hold pending transfer to CGC enforcement custody. Independent valuation, conducted by ONE's Restricted Materials Assessment Unit using current restricted-market pricing indices, places the **total estimated black-market value of the seized components at 1,800,000 Phi Credits**. Given the nature of the components — aerospace-grade materials with guidance-compatible applications — their presence in an undeclared, concealed configuration is assessed as consistent with potential CGC anti-proliferation violations, specifically regarding restricted aerospace materials relevant to satellite or launch-vehicle construction.
+
+---
+
+## 7. DISPOSITION AND REFERRAL
+
+The seized components have been transferred to secure ONE port storage at West Haven, pending formal handoff. This matter has been referred in full to **CGC anti-proliferation enforcement** for investigation and determination of the shipment's origin, intended end use, and responsible parties. All inspection documentation, manifest records, crew interview transcripts, and component photographs have been transmitted to the CGC enforcement intake office under reference ONE-MSD-76-1211-0047-REF.
+
+The ONEV-Meridian has been cleared for departure following completion of inspection. No further action is recommended against the vessel or crew at this time.
+
+---
+
+*Report compiled by the West Haven Port Authority Detachment, ONE Maritime Security Division.*
+*Classification: CONFIDENTIAL*
+*Distribution: ONE Maritime Security Command; CGC Anti-Proliferation Enforcement (copy); ONE Legal Affairs (copy)*

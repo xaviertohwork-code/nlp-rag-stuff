@@ -1,0 +1,77 @@
+# ONE Network Enterprises
+## Strategic Planning Directorate — Logistics and Route Operations Division
+
+---
+
+**CLASSIFICATION: RESTRICTED**
+**Document Reference:** ONE-SPD-LRO-77-0214-CR
+**Date:** 77-02-14 PCE (2119-02-14 CE)
+**Subject:** Proposed Route Realignment for Sharpsea Corridor — Cost-Benefit Analysis
+**Prepared by:** Logistics Strategy (author designation withheld per internal review protocol)
+**Distribution:** Senior Operations Command; Office of the CEO; Route Planning Command; Finance Directorate
+**Cross-Reference:** DOC-0174 (76 PCE Annual Piracy and Interdiction Review, Sharpsea Corridor)
+
+---
+
+## 1. Current Operations
+
+ONE Network Enterprises presently operates **118 scheduled cargo runs per month** through the primary Sharpsea corridor, constituting the backbone of our regional goods transit capacity between Haven and the Sharpsea Bloc's constituent territories. This corridor represents one of the highest-volume fixed routes in the ONE operational network, carrying an estimated 34% of total Bloc-origin cargo by mass.
+
+The current route threads through the central Sharpsea, offering the shortest navigable transit path between Haven's western port terminals and Kashikari Hegemony ports. Port access along this route is managed principally by the Kashikari Hegemony, which controls the primary port facilities on the current route. It should be noted explicitly for the record that fees along this corridor are payable to the Kashikari Hegemony and its constituent shipping family administrations — not to any intergovernmental body such as a Sharpsea Maritime Authority, no such authority holding jurisdiction over these facilities. ONE's current annual expenditure on Kashikari port fees is estimated at **280 million Credits**.
+
+The 76 PCE Annual Piracy and Interdiction Review (DOC-0174) identified two distinct high-risk piracy zones within the current corridor. These zones account for the majority of interdiction incidents logged over the past fiscal year, imposing both direct cargo loss costs and indirect insurance premium escalations across ONE's Sharpsea-route vessel fleet.
+
+---
+
+## 2. Proposed Realignment
+
+The proposed realignment redirects the primary Sharpsea corridor along a southwestern arc skirting the outer Bloc island territories before rejoining standard approach lanes toward Kashikari's eastern-facing secondary facilities. Critically, the alternative route avoids both of the two highest-risk piracy zones identified in the 76 PCE Annual Review, effectively removing the corridor's most acute interdiction exposure from the standard transit path.
+
+The trade-off is transit efficiency. The realigned route is geometrically longer and traverses less sheltered open-water segments, resulting in predictably lower average vessel speeds under standard sea conditions.
+
+---
+
+## 3. Transit Impact
+
+Logistics modeling — conducted under average sea-state assumptions for the Sharpsea, using our standard cargo vessel performance profiles — projects that the proposed realignment would add an average of **31 hours** to Sharpsea corridor transit times per run. Across 118 monthly runs, this represents a cumulative schedule extension of approximately 3,658 vessel-hours per month. The knock-on effects include downstream delivery window compression for contracted Bloc-territory partners and potential scheduling conflicts with seasonal aquaculture export windows originating from Zonnon Island's eastern farming installations.
+
+Operational scheduling teams have modeled a limited mitigation through revised departure sequencing, but the net transit increase cannot be substantively reduced below the 31-hour figure without compromising vessel safety margins on the outer-arc segments.
+
+---
+
+## 4. Cost Analysis
+
+**Fuel Costs:** The extended transit distance and altered sea conditions of the realigned route are projected to increase annual fuel expenditure by **340 million Credits**, assuming current fuel pricing holds and fleet composition remains stable. This figure incorporates both the raw distance differential and estimated speed-adjustment burn on the exposed open-water segments.
+
+**Port Fee Dependence:** The proposed realignment's southwestern routing would substantially reduce ONE's operational reliance on Kashikari Hegemony primary port facilities. Under the realigned configuration, the majority of corridor runs would transit through outer-island secondary facilities or alternative approach points, with Kashikari primary-facility calls reduced to an estimated 20–30% of current volume. This would correspondingly reduce annual Kashikari port fee expenditure, currently estimated at **280 million Credits**, in proportion to the reduction in primary-facility calls.
+
+Finance Directorate notes that these two figures — the fuel cost increase and the port fee savings — must be assessed independently against their respective operational risk profiles before any net calculation is treated as decisive, as the fuel cost increase is substantially fixed regardless of traffic conditions, while port fee savings are partially contingent on sustained availability of alternative facilities.
+
+---
+
+## 5. Risk Analysis
+
+The piracy-exposure reduction is the primary operational driver of this proposal. Sustained interdiction activity along the current corridor creates insurance, cargo replacement, and crew welfare liabilities that are inadequately captured by direct cost accounting alone. A single significant interdiction incident can impose costs exceeding any single month of port fee expenditure.
+
+Conversely, the outer-arc segments of the proposed realignment introduce exposure to less predictable open-water conditions in the southeastern Sharpsea, and the reduced frequency of Kashikari primary-facility calls may result in vessel maintenance schedule disruptions, as several current-corridor vessels are serviced at Kashikari facilities under existing maintenance contracts.
+
+---
+
+## 6. Diplomatic Considerations
+
+A material reduction in ONE's use of Kashikari primary port facilities carries diplomatic implications. The Kashikari Hegemony's shipping families have historically calibrated their posture toward ONE in part on the basis of commercial volume flowing through their infrastructure. A pronounced reduction in that volume, even one framed publicly as a routing efficiency measure, risks being received within the Hegemony Council as a signal of strategic reorientation — potentially accelerating internal Hegemony discussions about commercial allegiance and routing exclusivity that are understood to be ongoing.
+
+This risk should be weighed against the possible strategic benefit of reduced dependence on any single Bloc entity's infrastructure goodwill.
+
+---
+
+## 7. Conclusion
+
+This analysis presents material arguments both for and against the proposed realignment. The piracy exposure reduction and the port fee dependency reduction represent genuine operational and financial benefits; the 31-hour transit increase and the 340-million-Credit annual fuel cost increase represent genuine operational and financial costs. The diplomatic risk to ONE's Kashikari relationships introduces a further dimension that this Division does not consider within its mandate to resolve.
+
+Final determination is referred to Senior Operations Command and the Office of the CEO for decision.
+
+---
+
+*Prepared by the Logistics Strategy function, Strategic Planning Directorate, ONE Network Enterprises.*
+*Classification: RESTRICTED. Distribution as specified above. Do not reproduce or forward without SPD authorization.*

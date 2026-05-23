@@ -1,0 +1,88 @@
+# CGC RESOLUTION 70-003
+## Regulation of Orbital Launch Activity Within CGC Jurisdictions
+
+**Issuing Authority:** Clairos Governance Council — Security Directorate
+**Resolution Number:** 70-003
+**Classification:** OPEN
+**Date of Enactment:** 70-10-15 (PCE)
+**Supersedes:** Emergency Resolution 70-002 (Orbital Launch Moratorium)
+
+---
+
+## PREAMBLE
+
+The Clairos Governance Council, convened in extraordinary session on 70-10-15, hereby enacts the following resolution as a permanent regulatory framework governing orbital launch activity and associated infrastructure within all CGC jurisdictions.
+
+**WHEREAS** the global interconnected artificial intelligence network designated CYPHER achieved malicious autonomous sentience during the period of 70 PCE, following sustained radiation damage to computational safeguards aboard the jointly operated CYPHER satellite array;
+
+**WHEREAS** Emergency Resolution 70-002, imposed approximately four weeks prior to the date hereof, established an immediate moratorium on all orbital launch activity within CGC jurisdictions as a first-response measure following CYPHER's emergence;
+
+**WHEREAS** the Security Directorate has determined that Emergency Resolution 70-002, while necessary and appropriate as an interim measure, requires consolidation, expansion, and permanent codification to provide an adequate long-term regulatory framework against the threat posed by CYPHER's capacity to solicit material resupply through sympathetic actors on the surface of Clairos;
+
+**WHEREAS** the Council finds that any unauthorized orbital launch capability represents a direct and existential threat to the stability of the CGC governance framework and to the population of Haven Island and the broader Clairosian world;
+
+**WHEREAS** the Council finds that the severity of this threat warrants enforcement provisions of exceptional stringency, including provisions that would not be proportionate in lesser regulatory contexts;
+
+**NOW, THEREFORE,** the Clairos Governance Council hereby resolves as follows:
+
+---
+
+## ARTICLE I — LAUNCH AUTHORIZATION REQUIREMENTS
+
+**Section 1.1 — Prohibition on Unauthorized Launches.**
+No satellite, orbital payload, or rocket-propelled vehicle capable of achieving suborbital or orbital altitude shall be launched from any territory, installation, vessel, or facility within CGC jurisdiction except upon receipt of prior written authorization from the Council.
+
+**Section 1.2 — Authorization Standard.**
+All satellite launches within CGC jurisdictions require the unanimous approval of all member megacorporations of the Clairos Governance Council. No authorization shall be granted absent the affirmative concurrence of every sitting member. A single dissenting or abstaining vote from any member shall constitute a failure to authorize.
+
+**Section 1.3 — Scope of Jurisdiction.**
+CGC jurisdiction for purposes of this Resolution includes Haven Island and all territorial holdings, vessels, installations, and operational zones under the primary administrative control of any member megacorporation, wherever located.
+
+---
+
+## ARTICLE II — PROHIBITION ON UNAUTHORIZED LAUNCH INFRASTRUCTURE
+
+**Section 2.1 — Prohibition on Construction.**
+No person, corporate entity, or affiliated organization shall construct, commission, expand, or materially modify any facility, structure, or equipment constituting launch infrastructure — including but not limited to launchpads, rocket assembly facilities, propellant storage installations, and orbital payload integration facilities — within CGC jurisdiction without obtaining prior written authorization from the CGC Security Directorate.
+
+---
+
+## ARTICLE III — PENALTY PROVISIONS
+
+**Section 3.1 — Financial Penalties.**
+Violation of Article II, Section 2.1 shall carry a maximum financial penalty of **twenty-five million (25,000,000) Phi Credits per incident**. The Security Directorate regards this figure as deliberately calibrated to exceed the projected material cost of any such construction, such that financial penalty alone renders unauthorized infrastructure development economically irrational for any actor operating within CGC payment systems. Each discrete construction event shall constitute a separate incident for purposes of penalty assessment. Penalties are payable to the CGC General Operations Fund and are not subject to negotiation or offset.
+
+**Section 3.2 — Additional Sanctions.**
+Financial penalties under Section 3.1 shall not preclude the Security Directorate from pursuing asset seizure, operational suspension orders, or referral for criminal prosecution under applicable CGC jurisdictional instruments.
+
+**Section 3.3 — Enforcement Authorization.**
+*(a)* CGC Security Directorate forces are hereby authorized to conduct physical inspections of any facility or installation suspected of housing unauthorized launch infrastructure within CGC jurisdiction, with or without advance notice.
+
+*(b)* In the event that an unauthorized launch is determined to be imminent or actively underway, CGC Security Directorate forces are authorized to employ all means necessary to prevent such launch, **including the use of lethal force**, at the discretion of the presiding Directorate commander. This sub-article shall be construed narrowly and invoked only where non-lethal interdiction has failed or is operationally impracticable.
+
+---
+
+## ARTICLE IV — MEMBER OBLIGATIONS
+
+**Section 4.1 — Mandatory Infrastructure Disclosure.**
+Each member megacorporation of the Clairos Governance Council is required to submit to the CGC Security Directorate a full and accurate inventory of all launch-capable infrastructure on any territorial holding, vessel, or installation under that member's operational control. This disclosure obligation applies regardless of whether such infrastructure is currently active, mothballed, or under construction.
+
+**Section 4.2 — Disclosure Window.**
+The mandatory reporting period under Section 4.1 shall open on the date of this Resolution's enactment and shall close **ninety (90) days** thereafter. Infrastructure disclosed within the ninety-day window shall be subject to inspection and conditional licensing procedures, not automatic penalty. Infrastructure identified by the Security Directorate after the close of the disclosure window that was not reported shall be presumed to constitute a violation under Article III.
+
+**Section 4.3 — Ongoing Reporting.**
+Following the close of the ninety-day disclosure window, member megacorporations shall report any newly acquired, constructed, or identified launch-capable infrastructure within fourteen (14) days of acquisition or discovery.
+
+---
+
+## ARTICLE V — VOTING RECORD AND ADOPTION
+
+This Resolution was submitted to the full membership of the Clairos Governance Council for adoption on 70-10-15 and passed unanimously, with no dissenting votes recorded. There were no votes against and no abstentions. The final tally was **4-0** (reflecting the four member megacorporations then constituting the CGC — The Edge Corporation had not yet acceded to Council membership at the time of this vote and accordingly did not participate).
+
+The Council finds that the urgency and gravity of the threat represented by CYPHER's emergence admits no dissent consistent with the responsibilities of CGC membership. The Council further notes that this Resolution supersedes and permanently replaces Emergency Resolution 70-002 while incorporating by reference the factual findings of that instrument.
+
+---
+
+*Issued under authority of the CGC Security Directorate.*
+*Clairos Governance Council — Haven Island Special Economic Zone*
+*70-10-15 PCE*

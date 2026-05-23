@@ -1,0 +1,108 @@
+# EDGE RELAY STATION FIELD DIAGNOSTIC LOG
+**East Haven Post-Cascade Failure Inspection**
+**IR-76-0441 Follow-Up | Helix Tower Cluster**
+
+---
+
+**Classification:** L5
+**Authoring Unit:** Relay Maintenance Team 7
+**Field Technician:** R. Vasquez
+**Inspection Period:** 76-08-19 through 76-08-22
+**Log Filed:** 76-08-23
+**Stations in Scope:** EH-0190 through EH-0274 (Helix Tower vicinity, East Haven)
+
+---
+
+## PRELIMINARY NOTES
+
+Deployed to East Haven per IR-76-0441 work order. Mandate: station-by-station assessment of relay hardware, firmware, and physical condition following the cascade failure reboot cycle. Working in a two-person team (self and R. Oduya) with one service van and standard toolkit. Station count assigned to this team: 47. Documentation below represents raw field entries as logged on-site, compiled for submission.
+
+---
+
+## SECTION 1 — ASSESSMENT SUMMARY (HARDWARE)
+
+**Filed:** 76-08-23 (post-inspection consolidation)
+
+**Total stations assessed:** 47
+**Stations passing full inspection:** 21
+**Stations requiring physical hardware replacement:** 19
+**Stations flagged for security review:** see Section 3
+
+Of the 19 requiring hardware replacement, damage pattern was consistent across the majority — capacitor blowout on the primary surge board, in several cases accompanied by partial NIC failure. All consistent with the power surge profile from the cascade failure reboot cycle documented in IR-76-0441. Nothing surprising there; the reboot cycle hit this cluster hard.
+
+Average recovery time per unit following hardware replacement came out to **4.3 hours**, which includes part retrieval from the van, swap, reconfiguration, and confirmation ping. Slower than I'd like but we were working around the Helix Tower construction access restrictions on the 21st.
+
+Replacement parts sourced from standard Team 7 inventory. No shortfalls; restocked via depot on 76-08-21 midday.
+
+---
+
+## SECTION 2 — FIRMWARE ASSESSMENT, STATION-BY-STATION ENTRIES
+
+> Selected entries. Full per-station logs attached as Appendix A.
+
+---
+
+**76-08-19 | 09:14 | EH-0192**
+Firmware confirmed: 76.8.16-r1 (current). Hardware: nominal. Status: PASS.
+
+**76-08-19 | 11:40 | EH-0201**
+Firmware confirmed: 76.8.16-r1. Hardware: surge board replaced. Recovery initiated. Status: HARDWARE REPLACE.
+
+**76-08-19 | 14:07 | EH-0207**
+Firmware confirmed: 76.8.16-r1. Hardware: nominal. Status: PASS.
+
+**76-08-20 | 08:52 | EH-0214**
+Hardware: nominal — no physical damage, no surge indicators. Ran firmware check.
+
+**Firmware returned: 76.8.14-r2.**
+
+This is the conflicting update that triggered the original cascade failure. Network-wide rollback was propagated before we were deployed. EH-0214 is still running it. Checked rollback receipt logs — station shows no acknowledgment of the rollback instruction. Isolated node; missed propagation entirely, likely a handshake dropout during the reboot window. Manually applied 76.8.16-r1 and confirmed. Station is now current.
+
+Flagged in Appendix A: **EH-0214 should be reviewed by network team to determine why rollback propagation failed to reach this node.** If there are other isolated nodes in adjacent clusters not covered by this inspection, they may still be running 76.8.14-r2.
+
+Status: FIRMWARE REMEDIATED.
+
+**76-08-20 | 13:30 | EH-0219**
+Firmware confirmed: 76.8.16-r1. Hardware: surge board and NIC replaced. Status: HARDWARE REPLACE.
+
+**76-08-21 | 10:04 | EH-0241**
+Firmware confirmed: 76.8.16-r1. Hardware: nominal. Status: PASS. *(See Section 3.)*
+
+**76-08-22 | 15:18 | EH-0268**
+Firmware confirmed: 76.8.16-r1. Hardware: surge board replaced. Status: HARDWARE REPLACE.
+
+---
+
+## SECTION 3 — PHYSICAL DAMAGE AND TAMPERING OBSERVATIONS
+
+**Filed:** 76-08-23 (post-inspection consolidation)
+
+Separate from the surge-related hardware failures documented in Section 1, **three stations** presented with physical anomalies inconsistent with cascade failure damage. I want to be precise about the distinction: Section 1 covers surge damage. What follows is different.
+
+Affected stations: **EH-0233, EH-0241, EH-0258.**
+
+In all three cases, the access panel showed evidence of prior opening that did not match TEC installation specifications:
+
+- Panel screws replaced with non-standard fasteners (Phillips M3 in place of TEC-spec Torx T8). Not a damage artifact — replacement requires deliberate tool selection.
+- Internal cable routing inconsistent with TEC installation documentation. In EH-0233, the RF uplink harness was rerouted around the standard clip path and re-tied with non-TEC cable management hardware. In EH-0241 and EH-0258, similar rerouting was observed at the baseband processing unit.
+
+No hardware was missing. No firmware anomalies at these three stations (all running current build post-rollback). Functional status appeared normal.
+
+I'm not in a position to assess what was done or why. What I can say is that someone opened these stations at some point and made internal modifications that don't match our specs. That's not something that happens by accident and it's not surge damage.
+
+**Action taken:** Photographed all three stations pre and post re-entry. Photos submitted with this log as Appendix B. Did not contact any external agency directly — I flagged all three stations for **internal security review** and am recommending that the review team cross-reference with available SLF activity reports for the East Haven area. No direct agency contact is recorded from my end; escalation decisions are above my pay grade.
+
+Status on all three: **FLAGGED — SECURITY REVIEW REQUIRED.**
+
+---
+
+## CLOSING NOTES
+
+**76-08-22 | End of day**
+
+Inspection complete. 47 stations assessed. Hardware replacement work finished — Oduya is running final confirmation pings tonight. Appendices A and B attached. Network team should prioritize the EH-0214 propagation gap review before the next scheduled firmware push.
+
+— R. Vasquez, Relay Maintenance Team 7
+
+---
+*Log filed 76-08-23 under IR-76-0441 follow-up series. Classification L5.*

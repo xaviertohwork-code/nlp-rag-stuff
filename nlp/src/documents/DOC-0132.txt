@@ -1,0 +1,58 @@
+# Avatar Identity Persistence and Cross-Session Continuity — System Architecture Review Notes
+
+**Classification:** L3
+**Author:** Mei Tanaka, Senior Systems Engineer
+**Date:** 76-11-28
+**Distribution:** Edge Infrastructure Team, Systems Architecture Review Board
+
+---
+
+## Background
+
+Quick writeup on the identity persistence layer ahead of next week's capacity review. Not comprehensive — just flagging the stuff that needs eyes on it before we go into the quarterly planning cycle.
+
+---
+
+## How Identity Persistence Currently Works
+
+The basics, for anyone coming to this fresh:
+
+- Each Edge user is assigned a **256-bit unique identifier** at account instantiation. This UID is stored redundantly across **three E-cluster satellite nodes** — no single-node dependency, which has served us well historically.
+- Failover procedures automatically reroute through adjacent E-cluster nodes with an expected recovery time of 1.8 seconds.
+- On session load, the system pulls avatar state from the primary node and validates against the two redundant copies before rendering begins. Mismatches trigger a reconciliation pass before the user enters the environment.
+
+**Avatar state data** — what actually gets stored per-user — breaks down into three main categories:
+
+- Visual configuration (avatar morphology, cosmetic layers, shader profiles)
+- Behavioral presets (interaction defaults, gesture libraries, ambient movement parameters)
+- Interaction history (session logs, relationship flags, environment context markers)
+
+Combined, this averages **4.2 terabytes per user**. At current user counts, that's... a lot. The distributed node architecture handles it, but the growth curve is not comfortable reading.
+
+---
+
+## The Collision Problem
+
+This is the part I actually want people to pay attention to.
+
+**Identity collisions** — events where two users are briefly assigned overlapping rendering parameters, causing them to share portions of each other's visual state — have been trending in the wrong direction. Over the past year, the rate has gone from **0.003% of sessions to 0.011% of sessions**. That's not a rounding error or noise; that's a real trend that tracks directly against load.
+
+What actually happens in a collision:
+
+- The system's reconciliation layer detects the overlap and begins correcting it automatically — **no manual administrator intervention is required; collisions are fully self-correcting**
+- Resolution takes **2–4 seconds**, during which affected users may observe visible avatar merging artifacts
+- Anecdotally (and per the support queue), users find this genuinely disturbing — "my face was on someone else's body" is a recurring complaint phrasing
+
+The self-correction mechanism is working as designed. The problem is that it's working a lot more than it used to.
+
+**Root cause:** The E-cluster identity allocation system was designed for a **15-million-user capacity ceiling**. We are operating beyond that. The collision rate increase is a direct symptom of the system being pushed past its original design parameters — the identifier namespace is getting crowded in high-density zones (dense session overlap windows, particularly in West and East Haven peak periods).
+
+This isn't going to fix itself as usage grows.
+
+---
+
+## Recommendation
+
+Short-term, we can look at load-balancing improvements and allocation algorithm tuning — I can scope that separately. But the architectural fix is clear: the UID space needs to expand. I'm recommending moving from 256-bit identifiers to **384-bit identifiers** as the long-term solution. That gives us namespace headroom comfortably beyond any plausible growth scenario and would structurally eliminate collision pressure from the allocation layer. It's non-trivial to implement across the E-cluster redundancy architecture, but it's the right answer.
+
+— MT

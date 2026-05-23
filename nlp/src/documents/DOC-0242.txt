@@ -1,0 +1,101 @@
+# THE EDGE CORPORATION
+## CGC REGULATORY FILING
+### Annual Compliance Certification — Fiscal Year 76 PCE
+### Filed: 77-02-15
+
+**Filing Entity:** The Edge Corporation (TEC)
+**Filing Division:** Legal and Compliance Division
+**Receiving Body:** Clairos Governance Council Secretariat, Regulatory Submissions Office
+**Classification:** L5 — PUBLIC DISCLOSURE
+**Reference Number:** TEC-CGC-COMP-76-0001
+**Supersedes:** TEC-CGC-COMP-75-0001
+
+---
+
+## CERTIFICATION PREAMBLE
+
+The Edge Corporation ("TEC," "the Corporation") hereby submits its Annual Compliance Certification for fiscal year 76 PCE (76-01-01 through 76-12-31) pursuant to CGC Regulatory Framework Article 22(d) (Annual Certification Requirements for Ambient Computing Infrastructure Operators). This certification is made by TEC's Legal and Compliance Division under the authority of the Corporation's executive leadership and attests to the accuracy of all reported metrics and declarations herein to the best of the Division's knowledge and belief as of the date of filing. Where estimation methodology is employed, it is noted in the relevant section.
+
+TEC reaffirms its commitment to transparent engagement with the CGC Secretariat and its obligation to the residents of Haven Island in the delivery of safe, stable, and standards-compliant Edge services.
+
+---
+
+## SECTION I — COVERAGE METRICS
+
+As of 76 PCE year-end, TEC certifies that Edge nanobot coverage among Haven's residential population stands at **94.2%**, as measured by active nanobot presence confirmed through TEC's distributed network telemetry system. Coverage measurement methodology is consistent with the approach disclosed to the CGC Secretariat in 73-09 and has not been materially altered in the reporting period.
+
+Coverage distribution by Haven sector is on file with the CGC Secretariat under reference TEC-CGC-SUPP-76-0001 (Classification: L3 — AUTHORIZED ONLY) and is not reproduced in this public filing. Residential coverage rates exclude transient maritime visitors and documented short-stay commercial entrants.
+
+---
+
+## SECTION II — REGISTERED USER ACCOUNT STATISTICS
+
+As of **76-12-31**, total registered Edge user accounts within Haven stood at **91,300,000 (91.3 million)**. The Corporation provides the following account-type breakdown for CGC reporting purposes:
+
+| Account Category | Count (approx.) | Notes |
+|---|---|---|
+| Active Fullwalkers | 71,300,000 | Full Edge integration; consistent engagement metrics |
+| Edgedancers (Active Accounts, Inconsistent Engagement) | 14,800,000 | Accounts in good standing; engagement below Fullwalker threshold |
+| Lapsed / Partial / Unengaged | 5,200,000 | Accounts held but engagement materially reduced or suspended |
+| **Total Registered** | **91,300,000** | — |
+
+Account classifications are defined pursuant to TEC Internal Classification Standard ICS-04, as disclosed to the CGC Secretariat. Methodology for determining Edgedancer versus Unengaged classification is available upon request under CGC Regulatory Framework Article 18(b).
+
+---
+
+## SECTION III — USER COMPLAINT SUMMARY
+
+User complaints filed through official TEC complaint channels in **76 PCE** totaled **12,847**, representing a **9% increase** from 75 PCE complaint volumes. TEC acknowledges this increase and attributes it in part to expanded complaint-channel accessibility following the 75 PCE interface update that lowered the procedural barrier for formal complaint submission.
+
+Complaint categories by volume:
+
+| Category | Filings | % of Total |
+|---|---|---|
+| Edge rendering and visual anomalies | 4,312 | 33.6% |
+| Account access and synchronization | 3,104 | 24.2% |
+| Nanobot administration and physical experience | 2,891 | 22.5% |
+| Service interruption and relay connectivity | 1,739 | 13.5% |
+| Other / Unclassified | 801 | 6.2% |
+| **Total** | **12,847** | **100%** |
+
+All complaints received through official channels were logged, triaged, and processed in compliance with TEC's CGC-registered complaint handling procedures. Complaint resolution rates and median resolution times are provided in supplementary filing TEC-CGC-SUPP-76-0002.
+
+---
+
+## SECTION IV — SAFETY INCIDENT CERTIFICATION
+
+TEC certifies that, in fiscal year **76 PCE**, there were **zero (0) Critical Safety Incidents** involving Edge nanobot infrastructure, as defined under CGC Technical Safety Standard TSS-11 (Ambient Nanobot Systems). **No CGC-mandated Critical Safety Incident investigations were opened, pending, or concluded in the 76 PCE reporting period.** Any suggestion to the contrary is factually incorrect. The CGC Secretariat's own incident registry, which TEC formally cross-references, reflects no Critical Safety Incident designations for TEC's nanobot systems in 76 PCE.
+
+Sub-critical safety events, classified at TSS-11 Tier 2 or below, are enumerated in supplementary filing TEC-CGC-SUPP-76-0003 (Classification: L4 — RESTRICTED). These events were addressed through standard incident response protocols and did not meet the threshold for TSS-11 Critical designation.
+
+TEC maintains that its nanobot safety governance framework is reviewed on a biannual basis by the Corporation's Safety Assurance Committee and is current as of this filing.
+
+---
+
+## SECTION V — INFRASTRUCTURE METRICS
+
+TEC directly operates **142 primary Edge relay node facilities** across Haven Island. These facilities serve as the principal network hubs of TEC's Edge infrastructure, supported by a broader distributed architecture of sub-stations and ground relay installations not individually enumerated in this public filing.
+
+**Primary Node Uptime (76 PCE):** 87% across all 142 primary node facilities, measured as aggregate operational availability during the 76 PCE reporting period. The 87% aggregate uptime figure reflects scheduled maintenance windows, two weather-related service events in the 76-Q2 period, and one unplanned relay interruption subsequently resolved within the operational recovery window established under CGC Infrastructure Standard IS-07.
+
+Node-level uptime distribution and maintenance scheduling records are available to the CGC Secretariat upon request.
+
+---
+
+## SECTION VI — DATA GOVERNANCE COMPLIANCE
+
+TEC certifies full compliance with all **14 CGC Data Governance Standards** applicable to ambient computing infrastructure operators as of 76-12-31. Standards compliance was assessed through TEC's internal audit process (completed 76-11-20) and independently verified by the CGC Secretariat's designated external technical reviewer (engagement reference: CGC-EXT-76-0088).
+
+Standards covered include, but are not limited to: user behavioral data retention limits, cross-entity data sharing prohibitions, nanobot telemetry anonymization requirements, and incident notification timelines. No material non-compliance findings were identified. Minor procedural observations raised during the external review were remediated prior to this filing.
+
+---
+
+## CERTIFICATION DECLARATION
+
+The undersigned certify, on behalf of The Edge Corporation's Legal and Compliance Division, that the information contained in this Annual Compliance Certification is accurate and complete to the best of the Division's knowledge as of **77-02-15**, and that TEC has operated in material compliance with applicable CGC Regulatory Framework obligations during fiscal year 76 PCE.
+
+**Filed by:** Legal and Compliance Division, The Edge Corporation
+**Filing Date:** 77-02-15
+**CGC Reference:** TEC-CGC-COMP-76-0001
+
+*This document is classified L5 (Public Disclosure) and may be reproduced in whole. Supplementary filings referenced herein carry separate classification designations and are available only in accordance with their respective access levels.*

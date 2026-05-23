@@ -1,5 +1,10 @@
-# Dependencies for the NLP container.
-
 fastapi==0.115.12
 uvicorn[standard]==0.34.2
 asyncio
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+tiktoken
+nltk
+sentencepiece

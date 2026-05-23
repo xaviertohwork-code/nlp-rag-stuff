@@ -1,0 +1,72 @@
+# NORTH HAVEN SECTOR ADMINISTRATION
+## Sanitation Services — Weekly Collection Log
+**Period:** 77-02-03 to 77-02-09
+**Submitted:** 77-02-10
+**Prepared by:** Sanitation Supervisor, North Haven District Operations
+**Classification:** OPEN
+
+---
+
+### WEEKLY SUMMARY
+
+Total waste collected, all sources, North Haven sector: **4,180 metric tonnes**
+
+Route completion: **94.6%** — 195 of 206 scheduled collections completed. **11 collections deferred**, all due to vehicle mechanical breakdowns (see Fleet Status below). Deferred routes redistributed where capacity allowed; remainder flagged for priority scheduling week of 77-02-10.
+
+---
+
+### TONNAGE BY SOURCE — 77-02-03 TO 77-02-09
+
+| Source Category | Metric Tonnes |
+|---|---|
+| Cyanite Industries logistics facilities (North Haven) | 1,740 |
+| General residential (zones N-1 through N-4) | 1,108 |
+| Commercial/mixed-use corridors | 862 |
+| Municipal infrastructure & maintenance waste | 310 |
+| Miscellaneous / unclassified collected material | 160 |
+| **TOTAL** | **4,180** |
+
+Cyanite Industries' North Haven logistics facilities accounted for **1,740 metric tonnes**, representing approximately **41.6%** of total weekly tonnage. Remaining volume distributed across residential, commercial, municipal, and miscellaneous categories as itemised above.
+
+---
+
+### FLEET STATUS
+
+- Vehicles operational at week start: 24
+- Breakdown events recorded: 4 (separate units)
+- Cumulative deferred collections attributable to breakdowns: 11
+- NHV-09 status: OUT OF SERVICE (see Incident NHS-77-0219 below) — est. return 77-02-17
+- Replacement vehicle NHV-14R assigned to NHV-09 routes from 77-02-08
+
+---
+
+### INCIDENT REPORTS
+
+**INCIDENT NHS-77-0214**
+**Date/Time:** 77-02-05, approx. 08:40
+**Location:** Block N-6, Lot 22
+**Category:** Illegal Dumping — Hazardous Material
+
+Collection operative Crew 7 (route N-6-C) discovered approximately 12–15 sealed industrial drums during standard kerbside pass. Drums bore no manifest markings; faint chemical odour noted. Crew 7 did not handle drums; area cordoned and supervisor notified at 08:52. Environmental assessment unit contacted 09:10. Drums confirmed to contain unidentified chemical waste. Matter referred same day to CGC Environmental Compliance for investigation and collection by specialist unit. North Haven Sanitation assumes no further custodial responsibility pending CGC Compliance response.
+
+**Note for record:** Discovery date is **77-02-05**. Log entry time-stamped accordingly.
+
+---
+
+**INCIDENT NHS-77-0219**
+**Date/Time:** 77-02-07, approx. 14:15
+**Location:** Transit corridor N-2, junction with Industrial Spur 4
+**Category:** Vehicle Collision
+
+Collection vehicle **NHV-09** (route N-2-B, afternoon run) was involved in a low-speed collision with an automated freight cart travelling Industrial Spur 4. Automated cart failed to yield at junction; NHV-09 operator applied emergency braking; contact occurred. **No personnel injuries reported.** NHV-09 sustained damage to front nearside panel and refuse compaction unit; vehicle towed to depot 14:55. Estimated out-of-service period: **10 days**. Incident report filed with North Haven Transport Liaison. Automated cart unit ID logged for follow-up with operating authority.
+
+---
+
+### NOTES / FORWARD ACTIONS
+
+- CGC Environmental Compliance follow-up pending re: NHS-77-0214 (Block N-6, Lot 22)
+- NHV-09 repair timeline to be confirmed by depot maintenance no later than 77-02-12
+- Breakdown-deferred collections (11 routes) to be prioritised in 77-02-10 scheduling run
+- Fleet maintenance review requested for Q1 vehicles showing repeat fault indicators
+
+*End of log — 77-02-10*

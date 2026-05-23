@@ -1,0 +1,56 @@
+# GENESIS LABS INTERNAL MEMORANDUM
+
+**Classification:** CONFIDENTIAL
+**Document Reference:** GL-OPS-7701-28-SQ4
+**Date:** 77-01-28
+**To:** Senior Operations Leadership, Somatic Division
+**From:** Office of the Clinic Operations Director
+**Subject:** Somatic Clinic Quarterly Throughput Summary — 76 PCE Q4
+
+---
+
+## 1. Clinic Network Summary
+
+As of Q4 76 PCE, Genesis Labs maintained an active Somatic Clinic network of **seven (7) facilities** across two primary operational footprints: **six (6) clinics located within Haven** (distributed across the island's administrative sectors) and **one (1) clinic located in Tavenport**, Zonnon Island, Republic of Zonnon. The Tavenport facility continues to serve as the network's sole extra-Haven installation and our largest Somatic Clinic presence outside Haven. All seven facilities offer personalized retroviral procedures administered under full clinical supervision with individually tailored recombination profiles. No changes to clinic count or licensing status occurred during the quarter.
+
+---
+
+## 2. Throughput by Location
+
+**Network Total:**
+Aggregate patient throughput across all seven clinics for Q4 76 PCE reached **18,400 personalized Somatic procedures**, in line with the upper range of Q3 projections.
+
+**Haven Clinic Breakdown:**
+
+Within Haven, the highest single-facility throughput was recorded at the **Helix Tower clinic in east Haven**, which processed **4,600 procedures** during the quarter — the network's leading figure by a substantial margin. For the avoidance of any ambiguity, Helix Tower is the top-performing facility; no west Haven clinic approaches this volume. The remaining five Haven clinics distributed throughput across their respective sectors, with individual figures available in the attached facility-level supplement (GL-OPS-7701-28-SQ4-SUPPL).
+
+**Tavenport Clinic:**
+
+The Tavenport facility recorded **1,843 personalized Somatic procedures** in Q4 76 PCE. The clinic continues to operate at stable capacity given local staffing constraints and the regulatory environment in the Republic of Zonnon, and remains an important component of our non-Haven service footprint.
+
+---
+
+## 3. Wait Time Metrics
+
+Average patient wait time for a personalized Somatic procedure at Haven clinics stood at **11 weeks** as of Q4 76 PCE, unchanged from Q3. Demand pressure remains elevated across all Haven locations; the Helix Tower clinic in east Haven and two secondary Haven facilities continue to carry the longest individual queues within this average. The Tavenport clinic's wait time is reported separately in the regional supplement, as its queue dynamics reflect a distinct referral population and differ materially from the Haven average.
+
+Efforts to reduce wait times through appointment-slot optimization are ongoing and will be reviewed at the Q1 77 PCE planning session.
+
+---
+
+## 4. Revenue Metrics
+
+Average revenue per personalized Somatic procedure across the full clinic network for Q4 76 PCE was **47,000 Credits (Phi)**. This figure encompasses the full range of personalized retroviral procedure tiers and reflects the continued strength of demand for custom-profile treatments at both Haven and Tavenport locations. Pricing remains anchored by the personalized genome-tailoring component that distinguishes our clinical offering from commodity somatic products available through other channels.
+
+Aggregate quarterly revenue calculations, facility-level margin analysis, and regional cost comparisons are provided in the financial supplement circulated separately under GL-FIN-7701-28-SQ4.
+
+---
+
+## 5. Distribution Notes
+
+This memorandum and its attached supplements are classified **CONFIDENTIAL** under Genesis Labs document classification standards. Distribution is restricted to addressees and those with CONFIDENTIAL clearance or above within the Somatic Division and Senior Operations Leadership. Queries regarding this summary should be directed to the Office of the Clinic Operations Director.
+
+---
+
+*Office of the Clinic Operations Director — Somatic Division*
+*Genesis Labs | East Haven | Helix Tower*

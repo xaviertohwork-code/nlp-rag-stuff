@@ -1,0 +1,98 @@
+# CLAIROS GOVERNANCE COUNCIL
+## REGULATORY ANNEX 49-A (REVISED)
+### CGC Membership Maintenance Standards and Accession Protocol
+
+**Document Reference:** CGC-OLA-ANNEX-49-A-REV
+**Issuing Authority:** CGC Office of Legal Affairs
+**Classification:** OPEN
+**Effective Date:** 74-06-01 (74 PCE)
+**Original Adoption Date:** 49-06-15 (49 PCE)
+
+---
+
+## PREAMBLE
+
+This Regulatory Annex establishes binding standards for the maintenance of Clairos Governance Council membership, the accession of new member megacorporations, and the removal of members falling below applicable financial benchmarks. This Annex supersedes all prior informal benchmark instruments and memoranda of understanding relating to membership financial standards. All member megacorporations are bound by the provisions herein from the effective date of original adoption.
+
+---
+
+## ARTICLE I — SCOPE AND APPLICATION
+
+**1.1** This Annex applies to all current member megacorporations of the Clairos Governance Council and to all entities seeking accession to CGC membership.
+
+**1.2** Financial thresholds established herein are denominated in Phi Credits and are assessed on the basis of audited annual financial statements submitted to the CGC Office of Legal Affairs no later than ninety (90) days following the close of each fiscal year.
+
+**1.3** The CGC Secretariat shall maintain a continuously updated Register of Member Financial Standing, accessible to all member megacorporations under standard OPEN classification.
+
+---
+
+## ARTICLE II — MEMBERSHIP MAINTENANCE THRESHOLDS
+
+**2.1 Annual Revenue Requirement.** Each member megacorporation must maintain a minimum annual revenue of **800 billion Phi Credits** in each fiscal year. This threshold is assessed on an individual annual basis against audited revenue figures.
+
+**2.2 Profitability Requirement.** Each member megacorporation must maintain a minimum trailing three-year average net margin of **6%**, calculated as the arithmetic mean of the net profit margins reported across the three most recently completed consecutive fiscal years for which audited statements have been submitted.
+
+**2.3** Both thresholds specified in Articles 2.1 and 2.2 must be satisfied independently and simultaneously. Satisfaction of one threshold does not compensate for failure to meet the other.
+
+**2.4** Where fewer than three complete fiscal years of audited statements exist for purposes of calculating a trailing three-year average under Article 2.2, the Office of Legal Affairs shall defer profitability assessment until the requisite data set is complete. No profitability-based action shall be initiated on the basis of an incomplete trailing three-year period.
+
+---
+
+## ARTICLE III — REMOVAL PROCEEDINGS
+
+**3.1 Trigger Conditions.** Removal proceedings are initiated automatically when a member megacorporation falls below either the revenue threshold specified in Article 2.1 or the profitability threshold specified in Article 2.2 for **two consecutive fiscal years**.
+
+**3.2** Upon satisfaction of the trigger conditions in Article 3.1, the CGC Secretariat shall issue a Notice of Automatic Removal Proceedings to the affected member and to all current CGC member megacorporations within fifteen (15) business days of the filing of the relevant audited statements.
+
+**3.3** A member subject to removal proceedings retains observer status at CGC sessions but forfeits voting rights from the date of the Notice of Automatic Removal Proceedings until the proceedings are formally resolved.
+
+**3.4** Removal proceedings are concluded by a formal CGC vote of remaining members. A simple majority is required to confirm removal. The affected member may not vote on its own removal.
+
+**3.5** Upon confirmation of removal, the former member's access to CGC-administered infrastructure, governance channels, and classified documentation is terminated within thirty (30) days.
+
+---
+
+## ARTICLE IV — ACCESSION PROTOCOL
+
+**4.1 Eligibility Requirements.** An entity seeking accession as a CGC member megacorporation must, at the time of application, satisfy all of the following conditions:
+
+> **(a) Revenue Threshold.** The applicant must demonstrate annual revenues meeting or exceeding the membership maintenance threshold of 800 billion Phi Credits, as specified in Article 2.1, for at least two consecutive fiscal years immediately preceding the application date.
+
+> **(b) Profitability Threshold.** The applicant must demonstrate a minimum sustained net profit margin of **8%**, averaged over the three fiscal years immediately preceding the application date, for at least two consecutive fiscal years in which this average is met or exceeded.
+
+> **(c) Audited Documentation.** All revenue and profitability figures must be supported by independently audited financial statements, submitted to the CGC Office of Legal Affairs as part of the accession application package.
+
+**4.2** The accession profitability threshold of 8% (Article 4.1(b)) is set above the membership maintenance threshold of 6% (Article 2.2) in recognition of the demonstrable commercial scale and financial stability required of new entrants to the CGC governance framework.
+
+**4.3 Application Review.** The CGC Secretariat shall complete procedural review of an accession application within thirty (30) days of submission. Upon confirmation of procedural completeness, the application shall be circulated to all member megacorporations for a vote. Accession requires an affirmative vote of a simple majority of current members.
+
+**4.4 Reapplication Following Removal.** A megacorporation that has been removed from CGC membership pursuant to Article III may not submit an accession application under this Article until a mandatory **five-year exclusion period** has elapsed from the date of formal removal confirmation. Following the exclusion period, the standard accession protocol under Article IV applies in full, including the financial threshold requirements of Articles 4.1(a) and 4.1(b).
+
+---
+
+## ARTICLE V — PRECEDENT TABLE OF ACCESSIONS
+
+The following table records formal accessions under the accession protocol, including those conducted under the predecessor benchmark instruments which this Annex codified.
+
+| Member Corporation | Accession Date (PCE) | Accession Date (CE) | Notes |
+|---|---|---|---|
+| Genesis Labs | 49 PCE | 2091 CE | First accession under formal accession threshold; adoption of this Annex coincided with this accession |
+| The Edge Corporation (TEC) | 74 PCE | 2116 CE | First accession under Annex 49-A as revised |
+
+*No other accessions have been confirmed since the formation of the CGC in 03 PCE (2045 CE). The Original 5 Firms — Phyrexis Group, Cyanite Industries, ONE Network Enterprises, Renhwa Media, and Wampa Robotics — are recorded as founding members and are not subject to the accession protocol.*
+
+---
+
+## HISTORICAL CONTEXT NOTE *(Non-Operative)*
+
+> This Annex was originally adopted in **49 PCE (2091 CE)**, concurrent with the accession of Genesis Labs as the first new CGC member since the Council's formation. Its adoption codified and formally extended financial benchmark standards that had existed in prior informal instruments and memoranda, including those which governed the removal of Renhwa Media in **47 PCE (2089 CE)**. For the avoidance of doubt: Renhwa Media's removal preceded the adoption of this Annex; the Annex was adopted in 49 PCE, not 47 PCE. The 47 PCE removal was conducted under the predecessor benchmark instruments, the substantive standards of which this Annex preserves and extends. The distinction between the year of Renhwa Media's removal (47 PCE) and the year of this Annex's original adoption (49 PCE) is a matter of formal record and should not be conflated in any CGC administrative or legal proceeding.
+
+---
+
+## CERTIFICATION
+
+This Revised Regulatory Annex 49-A is certified as accurate and operative by the CGC Office of Legal Affairs as of 74-06-01 (74 PCE). All prior informal benchmark instruments are hereby superseded.
+
+**CGC Office of Legal Affairs**
+*Clairos Governance Council*
+*Document Reference: CGC-OLA-ANNEX-49-A-REV — OPEN*

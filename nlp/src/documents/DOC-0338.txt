@@ -1,0 +1,58 @@
+# [RECOVERED CORRESPONDENCE]
+## Personal Letter Fragment — Sender Unidentified
+### Recovered from Decommissioned Routing Node NM-East-7
+
+---
+
+**NYARI FEDERAL INTELLIGENCE SERVICE**
+**SIGNALS RECOVERY & ARCHIVE DIVISION**
+
+**Recovery Reference:** NFIS-SRA-2115-4471
+**Source Node:** NM-East-7 (Northeastern municipal routing cluster, New Mewan)
+**Recovery Date:** 2115-11-03 CE
+**Condition Assessment:** Severe data fragmentation; estimated 60–70% text loss
+**Classification:** CONFIDENTIAL
+**Cataloguing Assessment:** Personal correspondence, no actionable intelligence value. Filed to passive archive. No analyst assigned. No follow-up action recommended.
+
+---
+
+*[Document begins. Reconstructed from residual data fragments. Gaps rendered as marked.]*
+
+---
+
+2113-02-09
+
+K. —
+
+I keep starting this and stopping. The cursor on the screen just sits there and I think — what do I actually want to say that I haven't already said a hundred times in my own head, pacing the same corridor between the server room and the canteen.
+
+[CORRUPTED]
+
+You'd know what I mean, I think. Better than most. There's something about the work — the layering of it, the procedural weight of it — that leaves you hollowed out by the routines of service. I used to believe the structure was the point. Now I find myself wondering whether the work we do protects or imprisons, and I can't decide which answer frightens me more.
+
+[UNRECOVERABLE — estimated 3–4 sentences]
+
+The gathering was not what I expected. Someone described it to me beforehand as an informal meeting, people of like mind, nothing formal. That's true, I suppose. Nothing was formal.
+
+[CORRUPTED]
+
+But there was a phrase someone used — I've been turning it over since I left. They were talking about something much larger than what any of us had ever tried to imagine in our professional lives. A project. A purpose. Building something the sky itself would notice. I don't know why that stayed with me the way it did. It sounds almost childish written down. But in the room it felt like the first sincere thing I had heard in
+
+[UNRECOVERABLE — data loss at line boundary]
+
+[CORRUPTED]
+
+I don't expect you to understand immediately. I'm not sure I do either. But I wanted someone to know that I went, and that something shifted, and that I'm thinking differently now about what the rest of this
+
+[UNRECOVERABLE]
+
+Please don't worry. Or — worry a little. That seems right.
+
+[CORRUPTED — document terminus unclear; no closing signature recoverable]
+
+---
+
+**NFIS-SRA CATALOGUING NOTE (appended 2115-11-19 CE):**
+Fragment assessed as personal in nature. Writer identity unestablished; no cryptographic signature present on recovered data. Recipient designated only as "K." No organizational affiliations, operational references, or security-relevant named entities identified in recoverable text. The "gathering" reference is vague and not cross-matched to any surveilled assembly during the probable composition window. The letter was catalogued as personal correspondence, no actionable intelligence value, and filed without further review. No named analyst was assigned to this file. Passive archive retention standard applies.
+
+*— Office of the Director, Signals Recovery & Archive Division, NFIS*

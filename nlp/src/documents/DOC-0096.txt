@@ -1,0 +1,111 @@
+# CLAIROS GOVERNANCE COUNCIL
+## Financial Oversight Bureau
+
+---
+
+**DOCUMENT:** CGC-FOB-FY7375-LEVY-0096
+**CLASSIFICATION:** RESTRICTED
+**DATE:** 76-02-28
+**SUBJECT:** Floodwall Maintenance Levy Expenditure Report — Fiscal Years 73–75 PCE
+**PREPARED BY:** CGC Financial Oversight Bureau, Infrastructure Accounts Division
+**DISTRIBUTION:** CGC Member Representatives (Restricted Circulation); CGC Secretariat Archive
+
+---
+
+### SECTION 1 — SCOPE AND PURPOSE
+
+This report presents the findings of the CGC Financial Oversight Bureau's triennial audit of the Floodwall Maintenance Levy ("the Levy") for fiscal years 73, 74, and 75 PCE. The audit reviews Levy collections, Cyanite Industries' claimed maintenance expenditures, year-over-year spending comparisons, and the relationship between Levy receipts and total reported maintenance costs.
+
+The Levy is a biennial infrastructure assessment levied on CGC member corporations pursuant to the Floodwall Maintenance and Operations Charter Annex (revised 58 PCE). It is designated exclusively for the operational upkeep, structural maintenance, and emergency repair of the Haven Island Floodwall System. The Bureau notes for clarity that the Levy is a distinct and dedicated instrument: it represents only a portion of the broader CGC capital expenditure assessment framework and should not be conflated with total CGC infrastructure contributions.
+
+---
+
+### SECTION 2 — CGC CAPITAL EXPENDITURE COLLECTIONS AND LEVY CONTEXT
+
+The table below presents total CGC capital expenditure collections across all CGC member corporations alongside the subset attributable to the dedicated Floodwall Maintenance Levy for the three fiscal years under review.
+
+**TABLE 1 — CGC Capital Expenditure Collections vs. Floodwall Maintenance Levy (Phi Credits)**
+
+| Fiscal Year | Total CGC Capital Expenditure Collections (All Infrastructure) | Floodwall Maintenance Levy (Dedicated Biennial Assessment) | Levy as % of Total CapEx Collections |
+|---|---|---|---|
+| 73 PCE | 3,810,000,000 | 8,240,000,000* | — |
+| 74 PCE | 4,050,000,000 | — | — |
+| 75 PCE | 4,200,000,000 | 10,952,000,000** | — |
+
+*Levy collection cycle: assessed biennially. FY 73 PCE levy collection included pre-incident baseline period.
+**FY 75 PCE levy collection; dedicated Floodwall Maintenance Levy assessment only.
+
+**AUDITOR'S NOTE 1:** The Bureau draws particular attention to the distinction between total CGC capital expenditure collections and the dedicated Floodwall Maintenance Levy. The figure of 4,200,000,000 Phi Credits recorded for fiscal year 75 PCE represents total CGC-assessed infrastructure contributions across all CGC members and encompasses the full range of capital expenditure obligations — including port infrastructure, energy systems, logistics facilities, and ancillary civic works. This total capital expenditure figure is substantially broader in scope than the Floodwall Maintenance Levy, which is a separate, ring-fenced biennial assessment. The two figures are not interchangeable and must not be treated as equivalent in any downstream financial analysis or policy document.
+
+---
+
+### SECTION 3 — CYANITE INDUSTRIES CLAIMED FLOODWALL MAINTENANCE EXPENDITURES
+
+Pursuant to its exclusive operational mandate under the Floodwall Maintenance and Operations Charter Annex, Cyanite Industries is the sole entity responsible for the physical maintenance and operational continuity of the Haven Island Floodwall System. Accordingly, Cyanite submits claimed expenditure figures to the Bureau on an annual basis for audit and reporting purposes.
+
+**TABLE 2 — Cyanite Industries Claimed Floodwall Maintenance Expenditures by Fiscal Year (Phi Credits)**
+
+| Fiscal Year | Claimed Maintenance Expenditure | Year-over-Year Change | Notes |
+|---|---|---|---|
+| 72 PCE | 9,800,000 | — | Pre-incident baseline year |
+| 73 PCE | 10,200,000 | +4.1% | Category Amber incident, Q3 |
+| 74 PCE | 13,100,000 | +28.4% | Post-incident remediation |
+| 75 PCE | 14,800,000 | +13.0% | Post-incident elevated baseline |
+
+**SECTION 3A — FISCAL YEAR 75 PCE EXPENDITURE DETAIL**
+
+Cyanite Industries claimed total Floodwall maintenance expenditures of **14,800,000 Phi Credits** in fiscal year 75 PCE. This figure encompasses routine structural maintenance, pump system servicing, retaining tank inspections, nuclear fission reactor auxiliary maintenance, reverse osmosis plant operations, and emergency contingency reserve drawdowns attributable to ongoing remediation from the 73 PCE Category Amber incident. The Bureau records this figure as submitted. Verification limitations are addressed in Section 6.
+
+---
+
+### SECTION 4 — LEVY FUNDING RATIO AND COST COVERAGE
+
+The Levy is designed to offset the majority of Cyanite's operational maintenance costs, with the expectation that Cyanite will self-fund residual expenditures not covered by Levy receipts. The ratio of Cyanite's claimed expenditure to available Levy funding in fiscal year 75 PCE is presented below.
+
+**TABLE 3 — Levy Coverage Ratio, Fiscal Year 75 PCE (Phi Credits)**
+
+| Metric | Value |
+|---|---|
+| Cyanite Claimed Expenditure (FY 75 PCE) | 14,800,000 |
+| Levy Funding Available (FY 75 PCE) | 10,952,000 |
+| Ratio: Claimed Expenditure to Levy Funding | 1.35:1 |
+| Levy Coverage of Total Claimed Cost | ~74% |
+| Implied Cyanite Self-Funded Portion | ~26% |
+
+As the table illustrates, the ratio of claimed expenditure to Levy funding is approximately **1.35:1**, indicating that the Levy covers roughly 74 percent of total reported maintenance costs, with Cyanite Industries self-funding the remainder from its own operational accounts. This ratio represents a material shift from the pre-73 PCE baseline period, when Levy receipts were broadly sufficient to cover claimed expenditures without significant self-funding by Cyanite.
+
+---
+
+### SECTION 5 — YEAR-OVER-YEAR COMPARISON: PRE- AND POST-INCIDENT SPENDING
+
+The 73 PCE Category Amber structural incident at the northern Floodwall array constitutes the primary variable affecting expenditure trends across the review period. The Bureau presents a comparison of two-year spending aggregates to isolate the incident's impact on maintenance cost levels.
+
+**TABLE 4 — Pre- and Post-Incident Two-Year Spending Comparison**
+
+| Period | Combined Two-Year Claimed Expenditure (Phi Credits) | Description |
+|---|---|---|
+| FY 72–73 PCE (Pre/Incident) | 20,000,000 | Baseline and incident year |
+| FY 74–75 PCE (Post-Incident) | 27,900,000 | Post-incident elevated spending |
+| Change | +7,900,000 | +39.5% absolute |
+
+Post-incident maintenance spending in fiscal years 74–75 PCE increased by **31 percent** compared to the equivalent two-year baseline of fiscal years 72–73 PCE when measured on a normalized per-year average basis, reflecting both emergency remediation costs and the establishment of a structurally elevated maintenance baseline. The Bureau notes that Cyanite has represented this elevated baseline as permanent rather than transitional, citing increased inspection frequency requirements following the Category Amber classification.
+
+---
+
+### SECTION 6 — AUDITOR'S NOTES AND LIMITATIONS
+
+**SECTION 6A — RECOMMENDATION: INDEPENDENT INFRASTRUCTURE AUDIT MECHANISM**
+
+The Bureau recommends that the CGC establish an independent infrastructure audit mechanism empowered to conduct on-site verification of Cyanite Industries' Floodwall maintenance cost claims. The current reporting framework relies entirely on figures submitted by Cyanite without the benefit of independent corroboration. Given the magnitude of Levy disbursements involved and the critical civic function of the Floodwall System, the Bureau considers this a material gap in the CGC's financial governance architecture. The recommended mechanism should be granted access to maintenance contractor invoices, reactor operations logs, pump system service records, and materials procurement documentation.
+
+---
+
+*¹ The Bureau acknowledges that its independent verification capability with respect to Cyanite Industries' claimed expenditure figures is limited. The Bureau does not have access to Cyanite's internal contractor invoicing, procurement records, or maintenance operations logs, and is therefore unable to independently confirm whether the figures presented in Section 3 reflect actual expenditures incurred. All claimed expenditure figures in this report are recorded as submitted by Cyanite Industries and should be interpreted accordingly. This limitation does not constitute a finding of inaccuracy; it constitutes a finding that accuracy cannot presently be confirmed.*
+
+---
+
+**END OF REPORT**
+
+*CGC Financial Oversight Bureau — Infrastructure Accounts Division*
+*76-02-28 | Classification: RESTRICTED*
+*This document is approved for distribution to CGC member representatives in restricted circulation only. Unauthorized reproduction or redistribution is prohibited under CGC Information Governance Protocol 12.*

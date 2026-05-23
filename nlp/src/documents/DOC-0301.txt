@@ -1,0 +1,74 @@
+# CLAIROS GOVERNANCE COUNCIL
+## INTELLIGENCE DIRECTORATE — INTERNAL DISTRIBUTION
+
+---
+
+**CLASSIFICATION: SECRET**
+**DOCUMENT REF:** CGC-ID-0301
+**DATE:** 74-02-18 (PCE) / 2116-02-18 (CE)
+**PREPARED BY:** CGC Intelligence Analyst [IDENTITY REDACTED PER DIRECTORATE PROTOCOL]
+**DISTRIBUTION:** CGC Member Representatives (Restricted Circulation), CGC Secretariat Security Office
+**SUBJECT:** Spirit Liberation Front — Organizational Profile and Threat Assessment, Pre-74 PCE Activities
+
+---
+
+## EXECUTIVE SUMMARY
+
+The Spirit Liberation Front (SLF) represents a persistent and escalating threat to corporate infrastructure and personnel operating within Haven and in select external territories. Originally constituted as an ideologically motivated opposition group targeting Genesis Labs somatic operations, the SLF has undergone a significant evolution in the period leading to the preparation of this assessment. Between approximately 72 PCE and the present, the group has reoriented its primary targeting toward Edge infrastructure and The Edge Corporation (TEC). This shift demands reassessment of the SLF's threat posture across all member organizations. This briefing documents the SLF's origins, leadership, operational record from 66–72 PCE, and the concerning trajectory of its more recent activities.
+
+---
+
+## ORIGINS AND IDEOLOGY
+
+The Spirit Liberation Front was originally founded in direct opposition to what its founding members characterized as the "spiritual travesty" of body modification as practiced by Genesis Labs. Early SLF literature — recovered from encrypted distribution channels and physical seizures at known SLF gathering sites — frames somatic genetic manipulation not merely as a physical intervention but as a desecration of what they term "the unmediated self." Founding ideology drew heavily on humanist currents circulating within Opted communities in Haven, particularly in the years following Genesis Labs' 2075 announcement of its breakthrough Somatic Augmentation treatments and their subsequent commercialization.
+
+The SLF must be distinguished from legitimate advocacy organizations such as We The Opted (WTO). Where WTO operates through protest, political organizing, and public rhetoric, the SLF has from its earliest documented activities been willing to employ violence and destruction of property as primary instruments.
+
+---
+
+## LEADERSHIP PROFILE
+
+The SLF operates under a single known public-facing identity: **"Ashcastle"**, a pseudonym used across all SLF communiqués. Ashcastle's real identity remains unconfirmed. CGC intelligence assesses with moderate confidence that Ashcastle is a former Genesis Labs supersoldier who went rogue in 2108 following a failed field operation — a conclusion derived from a convergence of signals intelligence, operational pattern matching, and a limited number of corroborating human source reports. This assessment is subject to ongoing review.
+
+*For further analysis of operational coordination patterns consistent with this hypothesis, see Section: Operational History.*
+
+---
+
+## OPERATIONAL HISTORY — 66 TO 72 PCE
+
+Between 67 PCE and 72 PCE, SLF conducted **23 documented attacks** on Genesis Labs Somatic Clinics across Haven and, in three instances, at Genesis Labs-affiliated facilities in external territories. These attacks varied in method — incendiary devices, structural sabotage, assault on clinic personnel, and disruption of biological supply chains — but demonstrated a consistent and troubling level of tactical sophistication.
+
+Early attacks (67–69 PCE) were primarily characterized by targeted property destruction, suggesting an organization still developing operational maturity. By 70 PCE, the pattern had shifted: attacks were coordinated across multiple sites within narrow time windows, suggesting centralized planning with distributed execution capability. This intelligence directorate notes, for cross-reference, that no SLF cell has ever been observed to compromise the operational security of a concurrent attack by another cell — a characteristic consistent with compartmentalized military training.
+
+Casualties among Genesis Labs clinic staff over this period total eleven confirmed injuries and two fatalities, both attributed to a 71 PCE incendiary event at a Somatic Clinic facility in North Haven.
+
+---
+
+## TARGETING EVOLUTION
+
+Beginning in approximately **72 PCE**, SLF's primary targeting shifted away from Genesis Labs somatic operations toward Edge infrastructure and TEC-affiliated assets. This directorate notes that this evolution predates TEC's formal accession to the CGC (74 PCE) and thus represents the SLF having identified TEC as a priority adversary before the broader public understood TEC's institutional significance.
+
+SLF communiqués from this period frame Edge technology in terms broadly analogous to their earlier rhetoric about Somatic Augmentation — as a mechanism of spiritual violation and corporate subjugation — suggesting ideological continuity rather than factional rupture. The shift in targeting should therefore be understood as an extension of the SLF's foundational ideology rather than a departure from it.
+
+---
+
+## MEMBERSHIP ANALYSIS
+
+The SLF membership base consists predominantly of **Opted individuals** — those who have purged Edge nanobots and conscientiously rejected Edge integration. A secondary membership demographic includes individuals who have undergone partial somatic modification through non-Genesis black-market sources and subsequently experienced adverse outcomes, who appear to have radicalized within SLF's ideological framework. Total membership estimates remain uncertain; this directorate's working figure is 200–400 active personnel, with a broader sympathizer network of unknown size.
+
+---
+
+## THREAT ASSESSMENT
+
+The SLF presents a **HIGH** threat to TEC infrastructure and **MODERATE-TO-HIGH** residual threat to Genesis Labs somatic operations. The group's demonstrated operational discipline, its 23-attack campaign record against Genesis Labs, and the military-grade coordination observed consistently across both its anti-Genesis and anti-TEC operations collectively suggest a leadership capability that significantly exceeds typical non-state actor benchmarks in Haven.
+
+This directorate assesses that the SLF's evolution toward anti-TEC targeting will likely intensify as TEC's institutional profile grows. Member corporations are advised to treat the SLF as a persistent, adaptive threat rather than a declining organization with fixed objectives.
+
+---
+
+**CLASSIFICATION: SECRET**
+*Unauthorized disclosure of this document is subject to CGC Security Protocol sanctions. Recipients are reminded that this document is not to be reproduced, transmitted, or summarized in any medium outside authorized CGC-ID distribution channels.*
+
+---
+
+*[END OF DOCUMENT — CGC-ID-0301]*

@@ -1,0 +1,79 @@
+# CLAIROS GOVERNANCE COUNCIL
+## INFRASTRUCTURE COMMITTEE MEMORANDUM
+
+**Classification:** RESTRICTED
+**Document Reference:** CGC-IC-MEM-71-0089
+**Date:** 71-11-03 PCE (2113-11-03 CE)
+**Subject:** Annual Review of Floodwall Capacity Standards — Evaluation of Minimum Pumping Threshold and Primary Barrier Elevation Standards
+**Prepared by:** Office of the Infrastructure Committee Analyst, CGC Infrastructure Committee
+**Distribution:** CGC Infrastructure Committee Members; CGC Secretariat (restricted copy)
+
+---
+
+### I. PURPOSE
+
+This memorandum sets out the Infrastructure Committee's findings from its annual review of Floodwall capacity standards and recommends revisions to the minimum sustained pumping threshold established under Resolution 46-IR-003. The Committee also addresses projected near-term requirements for Primary barrier wall elevation extension. This review was initiated by the Infrastructure Committee pursuant to its standing mandate under Resolution 46-IR-001 and is not the product of any external submission or proposal from a member corporation.
+
+---
+
+### II. CURRENT OPERATIONAL STATUS
+
+The Floodwall system, developed and maintained by Cyanite Industries under its CGC infrastructure stewardship mandate, continues to function within established parameters as of the 71 PCE annual inspection cycle. According to Cyanite Industries' most recent annual inspection report, submitted to this Committee on 71-09-14 PCE, the Floodwall's primary pump assemblies are sustaining operation at **91 percent of rated capacity**.
+
+The nuclear fission reactor arrays powering the primary pump assemblies have undergone scheduled maintenance on a compliant timeline. Reverse osmosis supplementary operations, which function in tandem with retaining tank drainage, have reported no material degradation in throughput.
+
+The Committee notes this reported operational figure for purposes of context in the threshold assessment that follows.
+
+---
+
+### III. SEA LEVEL PROJECTIONS AND BARRIER ASSESSMENT
+
+The Committee has reviewed updated sea level trend data compiled from Haven Island marine monitoring stations and Cyanite's hydrological survey submissions covering the period 61–71 PCE. The findings are as follows:
+
+Sea levels have risen at an average rate of **4.7 centimeters per year** over the past decade. This figure represents a measurable acceleration compared to the preceding decade's average and is consistent with broader Clairosian post-Cascade projections submitted to this Committee by independent hydrological consultants in 68 PCE.
+
+At the current rate of sea level rise, the Infrastructure Committee's hydrological modeling projects that the **Primary barrier wall will require a 1.4-meter elevation extension within the next 15 years** to maintain effective flood containment. This extension requirement has significant implications for both physical construction timelines and ongoing pump load distribution, as a higher Primary barrier increases the hydraulic head against which retaining tank drainage systems must operate, placing additional sustained demand on pump assemblies.
+
+The Committee emphasizes that this projection assumes current sea level trends remain linear. Should acceleration continue, the timeline for required elevation extension may shorten materially.
+
+---
+
+### IV. CAPACITY ASSESSMENT AND THRESHOLD RECOMMENDATION
+
+Resolution 46-IR-003 established a minimum sustained pumping threshold of **85 percent of rated capacity**. This threshold was set during a period when sea level projections and barrier geometry yielded more favorable safety margins than current conditions support.
+
+Given the sea level trend data set out in Section III above, and accounting for the projected hydraulic load increase associated with Primary barrier elevation extension, the Infrastructure Committee has determined that the existing 85 percent minimum threshold no longer provides sufficient operational headroom to ensure system resilience during peak demand events, including storm surge periods and simultaneous multi-sector retaining tank saturation scenarios.
+
+The **Infrastructure Committee recommends raising the minimum sustained pumping threshold from 85 to 90 percent of rated capacity.** This recommendation originates with the Committee itself, developed through its technical review process, and was not proposed by any CGC member organization. The revised threshold is intended to ensure that the Floodwall system maintains adequate reserve capacity as hydraulic demands increase in the near term.
+
+The Committee notes that the current reported operational level, as described in Section II, should not be interpreted as a substitute for formalizing the revised threshold in a CGC resolution. Operational performance may fluctuate, and the threshold establishes the floor below which the system must not descend, not a performance ceiling.
+
+---
+
+### V. FINANCIAL CONSIDERATIONS
+
+The Floodwall Maintenance Levy, which funds the primary infrastructure maintenance and operational budget administered by Cyanite Industries under the infrastructure stewardship arrangement, **has not been adjusted since its last revision in 68 PCE**. Over the intervening three years, maintenance scope has expanded and projected future requirements — particularly those associated with barrier elevation extension — have grown substantially.
+
+The Committee observes that any mandatory increase in the minimum sustained pumping threshold will carry operational cost implications for Cyanite Industries as the system operator. The Committee does not have authority to revise the Levy schedule, but recommends that the CGC Secretariat commission a concurrent review of the Levy framework to assess whether current funding levels are adequate to support compliance with the proposed revised threshold over the projection horizon.
+
+---
+
+### VI. NOTATION OF COMMITTEE DISSENT
+
+*The following notation is entered into the record pursuant to Infrastructure Committee procedural rules governing formal dissent.*
+
+**Cyanite Industries' representative on the Infrastructure Committee formally objected to the proposed threshold increase, citing the increased operational costs the revised minimum would impose and the absence of a corresponding adjustment to the Floodwall Maintenance Levy. The dissent is recorded herein. The Committee's recommendation stands by majority vote of its non-dissenting members.**
+
+---
+
+### VII. RECOMMENDATIONS SUMMARY
+
+1. The CGC Secretariat should draft a resolution amending Resolution 46-IR-003 to raise the minimum sustained pumping threshold from 85 to 90 percent of rated capacity.
+2. A concurrent review of the Floodwall Maintenance Levy should be initiated, given that the Levy has not been adjusted since 68 PCE and current funding levels may be insufficient to support revised threshold compliance over the 15-year planning horizon.
+3. Cyanite Industries should be directed to submit, by 72-03-01 PCE, a preliminary engineering assessment of requirements and timelines for the projected Primary barrier wall elevation extension.
+
+---
+
+*Issued under the authority of the CGC Infrastructure Committee.*
+*Classification: RESTRICTED — Distribution limited to named recipients.*
+*CGC-IC-MEM-71-0089 / End of Document*

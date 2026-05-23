@@ -1,0 +1,71 @@
+# REPUBLIC OF ZONNON — MARITIME INTELLIGENCE SERVICE
+## INTERCEPTED COMMUNICATION TRANSCRIPT
+
+---
+
+**Classification:** SECRET
+**Intercept Reference:** ZMI-INT-2119-0114-KSH
+**Date of Intercept:** 2119-01-14
+**Originating Station:** Zonnon Maritime Signals Post, Eastern Monitoring Array
+**Source:** Encrypted transmission, Kashikari commercial diplomatic channel
+**Transmission Direction:** Near-Haven relay station → Cape Tidak (Kashikari Hegemony Council)
+**Decryption Status:** Partial — three segments irrecoverable. See annotations.
+**Handling:** Distribution restricted to Maritime Intelligence directorate and Office of the Prime Minister.
+
+---
+
+*[ZMI NOTE: The following is a reconstructed partial transcript. Formatting irregularities reflect signal degradation at points of partial decryption. Analyst annotations appear in brackets throughout. Sender identified with high confidence as Kashikari trade envoy stationed in the West Haven commercial district.]*
+
+---
+
+**TRANSCRIPT BEGINS:**
+
+To the Council, Cape Tidak. Transmission 14 January 2119.
+
+Current operational situation requires your immediate attention. Protocol 77-BMP-02 has been in effect for eleven days. The 48-hour holding period imposed on non-Haven-flagged vessels is no longer a theoretical inconvenience. Our fleet's throughput into Haven has declined by an estimated fifteen percent over this period. *[ZMI NOTE: 15% throughput decline — consistent with broader shipping disruption reports from independent Haven port contacts. Figure appears credible.]*
+
+[UNABLE TO DECRYPT]
+
+The Council should understand that the families most exposed to this disruption are those running the shorter-cycle cargo routes — perishable and semi-processed goods — where a two-day hold erases margin entirely. The larger families with reserve capacity can absorb the delay. The smaller ones cannot.
+
+[UNABLE TO DECRYPT]
+
+I have had occasion to speak informally with contacts at the harbor. *[ZMI NOTE: "contacts at the harbor" — assessed with moderate confidence as ONE Network Enterprises personnel operating within the West Haven port facilities. Cross-reference with known ONE logistics presence in that sector.]*
+
+The conversation touched on the possibility of expedited processing for vessels presenting documentation in advance. Nothing formal. Nothing written. Our friends at the harbor understand the commercial logic. *[ZMI NOTE: "our friends at the harbor" — assessed as ONE Network Enterprises contacts, consistent with known pattern of informal Kashikari-ONE commercial accommodation.]*
+
+---
+
+**TRANSCRIPT CONTINUES:**
+
+The matter of the seized vessel requires separate treatment. I will address it plainly: the seizure of cargo aboard that vessel — titanium alloy tubes, not the household industrial stock the manifest declared — has drawn unwanted attention to our operations here. *[ZMI NOTE: Misdeclaration of cargo nature. The envoy's explicit identification of titanium alloy tubes as the actual contents directly contradicts any suggestion the seizure involved copper piping or comparable goods. The CGC inspection teams will have logged this accordingly. Exposure risk for Kashikari is non-trivial.]*
+
+The incident has given certain parties at the CGC a pretext they did not previously have.
+
+[UNABLE TO DECRYPT]
+
+---
+
+**TRANSCRIPT CONTINUES:**
+
+My recommendation to the Council is the following.
+
+The public posture should remain unchanged. The formal protest through established diplomatic channels must be maintained and, if anything, amplified. It provides cover and establishes that the Hegemony's position is procedurally correct under existing CGC-Bloc commercial agreements.
+
+The backchannel must continue quietly, entirely separate from the formal protest. The two tracks must not be permitted to become visible to each other. Council members handling the formal complaint should not be made aware of the harbor discussions. The value of the informal route depends entirely on its discretion.
+
+I will update the Council when the situation develops further.
+
+*[End of recoverable transmission.]*
+
+---
+
+**ZMI ANALYTICAL NOTE:**
+This intercept suggests a deliberate two-track strategy by Kashikari. Formal protest provides diplomatic legitimacy; informal backchannel provides operational relief. The titanium alloy cargo seizure represents a complicating variable the envoy appears to be actively managing. Continued monitoring of West Haven port communications recommended.
+
+**END TRANSCRIPT**
+
+---
+
+*Zonnon Maritime Intelligence Service — Distribution: SECRET*
+*Unauthorized disclosure subject to Republican Security Ordinance 44-C*

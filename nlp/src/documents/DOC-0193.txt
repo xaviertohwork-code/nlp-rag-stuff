@@ -1,0 +1,85 @@
+# CLAIROS GOVERNANCE COUNCIL
+## REGULATORY ENFORCEMENT DIVISION
+
+---
+
+**CLASSIFICATION: RESTRICTED**
+
+**CGC ENFORCEMENT ACTION EA-76-088**
+**RE: Unauthorized Satellite Communications Equipment — Orbital Communications Restriction Act of 70 PCE**
+
+**Filing Date:** 76-12-04
+**Issuing Authority:** CGC Regulatory Enforcement Division
+**Respondent:** Halcyon Technical Services (Haven Registration No. HTS-2204-09)
+
+---
+
+## SECTION 1 — FILING SUMMARY
+
+1.1 This enforcement action is filed by the CGC Regulatory Enforcement Division ("the Division") against Halcyon Technical Services ("Respondent"), a Haven-registered electronics firm operating from premises in south Haven, pursuant to the Orbital Communications Restriction Act of 70 PCE ("the OCRA") and associated CGC Regulatory Instruments.
+
+1.2 The Division finds that Respondent operated unauthorized satellite communications equipment at its registered premises without holding a valid, approved CGC research or commercial exemption as required under OCRA Section 4(a). The violation is classified as Category B under the OCRA penalty schedule.
+
+1.3 This filing constitutes the Division's final determination following review of field inspection reports, confiscated equipment logs, and Respondent's submitted defense materials. No individual officer, director, or employee of Halcyon Technical Services is named in this filing; this action is directed against the registered corporate entity only.
+
+---
+
+## SECTION 2 — FINDINGS OF FACT
+
+2.1 On 76-11-09, Division inspectors conducting a routine compliance survey of south Haven electronics firms identified active satellite communications hardware at Respondent's registered premises at Unit 14, Veran Industrial Block, South Haven.
+
+2.2 Inspectors confirmed the presence and active operation of the following equipment, which was immediately placed under provisional hold and subsequently confiscated:
+
+> **(a)** One (1) 2.4-meter satellite uplink dish, fixed-mount configuration, oriented toward orbital quadrant consistent with CYPHER-network satellite band;
+> **(b)** Associated transceivers (qty: 3), model specifications consistent with active two-way orbital signal transmission capability.
+
+2.3 The equipment was confirmed to be in operational condition and had been transmitting at the time of inspection. Signal logs recovered from on-premises hardware confirmed at least fourteen (14) separate transmission events in the thirty (30) days preceding inspection.
+
+2.4 Respondent holds no current, approved exemption under OCRA Section 4(a) or any other provision of the OCRA that would authorize the possession or operation of satellite uplink equipment of this specification.
+
+---
+
+## SECTION 3 — RESPONDENT'S DEFENSE
+
+3.1 Respondent submitted a written defense on 76-11-22. The Division summarizes the material claims as follows.
+
+3.2 Respondent asserts that the equipment was acquired and operated exclusively for the purposes of atmospheric monitoring research, constituting scientific use exempt from OCRA licensure requirements under OCRA Section 6(c) (Research and Scientific Exemption).
+
+3.3 In support of this assertion, Respondent produced documentation confirming that a CGC Research Exemption Application had been filed with the Division's Exemption Processing Office. The application filing date is confirmed as 76-09-14.
+
+3.4 Respondent further asserts that it operated under a good-faith belief that the pending application conferred interim operational authorization while under review, citing industry practice from pre-OCRA regulatory frameworks governing non-orbital communications equipment.
+
+3.5 The Division notes that no individual within Halcyon Technical Services is identified by name in the submitted defense materials or in any associated exemption application documentation. All submissions bear only the corporate entity designation. The Division records this observation for completeness and confirms that this filing identifies no individual as responsible for the filing or operation of the equipment; the corporate entity is solely the named respondent.
+
+---
+
+## SECTION 4 — VIOLATION CLASSIFICATION
+
+4.1 The Division rejects Respondent's defense in its entirety.
+
+4.2 With respect to the pending exemption application: the Division's review confirms that, as of the date of inspection (76-11-09) and as of the date of this filing, the application submitted on 76-09-14 had not been approved. OCRA Section 4(a) is unambiguous: exemption from the OCRA's operational prohibitions requires a granted exemption, not a pending application. No interim operational authorization exists under any current CGC regulatory instrument.
+
+4.3 With respect to Respondent's invocation of prior industry practice: pre-OCRA frameworks governing non-orbital communications equipment carry no legal weight under the OCRA. The Division further notes that the OCRA was enacted in direct response to the CGC's emergency response to the CYPHER emergence in 70 PCE, and that the legislative history of the OCRA explicitly states that expedited-authorization provisions were considered and deliberately excluded from the final instrument. The strictness of the approval requirement is not an administrative oversight.
+
+4.4 Operating satellite uplink equipment of this specification without a valid, approved exemption under OCRA Section 4(a) constitutes a **Category B violation** under the OCRA penalty schedule. Category B applies where prohibited orbital communications equipment is confirmed operational at the time of inspection, regardless of stated purpose.
+
+---
+
+## SECTION 5 — PENALTY ASSESSMENT
+
+5.1 Pursuant to OCRA Section 9(b)(ii) (Category B Civil Penalty Schedule) and CGC Regulatory Instrument 71-04, the Division hereby assesses the following penalties against Halcyon Technical Services:
+
+> **(a) Financial Penalty:** 4,500,000 Phi Credits (four million five hundred thousand Credits), payable to the CGC Regulatory Compliance Fund within sixty (60) days of this filing's service date.
+
+> **(b) Mandatory Equipment Surrender:** All confiscated equipment identified in Section 2.2(a) and 2.2(b) of this filing is permanently forfeited to the CGC. Respondent holds no right of recovery or compensation for surrendered items.
+
+5.2 Respondent is further directed to submit a compliance attestation within ninety (90) days confirming that no additional satellite communications equipment is present at any Halcyon Technical Services premises within Haven.
+
+5.3 Non-payment of the assessed financial penalty within the prescribed period will result in escalation to Category B Aggravated status and referral to the CGC Secretariat for further action, including potential suspension of Respondent's Haven business registration.
+
+5.4 Respondent retains the right to appeal this determination to the CGC Regulatory Appeals Panel within thirty (30) days of service. Filing an appeal does not suspend the equipment surrender requirement.
+
+---
+
+*Filed under the authority of the CGC Regulatory Enforcement Division, 76-12-04.*
+*Document classification: RESTRICTED. Distribution limited to CGC Enforcement Division personnel and directly notified parties.*

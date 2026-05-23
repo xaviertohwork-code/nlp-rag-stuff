@@ -1,0 +1,182 @@
+# EDGE NANOBOT FIRMWARE ARCHITECTURE
+## Core Instruction Set Reference v4.0
+
+**Document ID:** TEC-FW-COREREF-4.0
+**Classification:** L1 — RESTRICTED TO AUTHORIZED FIRMWARE ENGINEERING PERSONNEL
+**Authoring Division:** Edge Firmware Engineering Division
+**Date:** 76-03-15 (PCE) / 2118-03-15 (CE)
+**Applies To:** Edge Nanobot Cluster Firmware, Deployment Builds 4.x series
+**Supersedes:** Core Instruction Set Reference v3.7 (TEC-FW-COREREF-3.7)
+
+---
+
+> **SECURITY NOTICE — L1 CLASSIFICATION**
+> This document contains proprietary firmware architecture details constituting TEC's primary competitive asset. Unauthorized reproduction, transmission, or disclosure is prosecuted under CGC Commercial Secrecy Resolution 71-03 and TEC internal Policy L1-SEC-009. Physical and digital access logs are maintained. All authorized readers must acknowledge this classification upon access.
+
+---
+
+## 1. Architecture Overview
+
+### 1.1 Instruction Set Foundation
+
+The Edge nanobot firmware operates on a **16-bit reduced instruction set architecture (RISA-16)** comprising **247 core instructions**, grouped into six functional families: logic/comparison (INS-L), memory access (INS-M), signal modulation (INS-S), cortical interface (INS-C), maintenance/diagnostic (INS-D), and inter-nanobot coordination (INS-X). All instructions are fixed-width 16-bit words; multi-word instruction sequences are not permitted in the core set, though extension frames are available for module-resident microcode.
+
+RISA-16 was selected for the Edge platform over wider architectures after thermal and energy-budget modeling confirmed that computational density requirements for real-time cortical interface could be met within 16-bit constraints, provided instruction dispatch latency remained below 0.4 nanoseconds per cycle. Current fabrication meets this target at 0.31 ns per cycle under standard operating thermal envelope (36–38°C cortical-adjacent tissue environment).
+
+### 1.2 Register Map (Summary)
+
+| Register Block | Width | Count | Purpose |
+|---|---|---|---|
+| General Purpose (GPR) | 16-bit | 8 | Arithmetic and logic operands |
+| Signal Modulation (SMR) | 16-bit | 4 | Carrier frequency and amplitude tuning |
+| Cortical Interface (CIR) | 16-bit | 6 | Neural signal read/write buffers |
+| Maintenance Status (MSR) | 16-bit | 2 | Component health telemetry |
+| Mode Control (MCR) | 4-bit field within 16-bit word | 1 | Current operational mode encoding |
+| Coordination Bus (CBR) | 16-bit | 3 | Inter-nanobot cluster communication |
+
+The MCR MODE field (bits 0–3 of the Mode Control Register) encodes the nanobot's current primary operational mode. All mode transitions are logged to a rolling 64-entry audit buffer accessible via the INS-D diagnostic instruction family.
+
+---
+
+## 2. Primary Operational Modes
+
+The firmware defines **five primary operational modes**: Active Render, Passive Monitor, Migration, Self-Maintenance, and Dormancy. Each mode maps to a distinct MCR encoding and governs which instruction families are available for execution.
+
+### 2.1 Mode Encoding and Transition Table
+
+| MCR[3:0] | Mode Name | Permitted Instruction Families | Entry Conditions |
+|---|---|---|---|
+| `0001` | Active Render | INS-L, INS-M, INS-S, INS-C, INS-X | Cortical proximity confirmed; cluster sync established |
+| `0010` | Passive Monitor | INS-L, INS-M, INS-C (read-only), INS-X | Host at rest; render demand below threshold T-RND |
+| `0011` | Migration | INS-L, INS-M, INS-X | Repositioning command received from cluster coordinator |
+| `0100` | Self-Maintenance | INS-D, INS-M | Component degradation threshold exceeded (see §4) |
+| `0101` | Dormancy | INS-M (checkpoint only) | Host disconnection or sustained zero-demand period |
+
+Mode transitions follow a priority hierarchy. Self-Maintenance overrides Active Render if degradation conditions are met (see §4.2). Dormancy may only be entered from Passive Monitor or Migration; a nanobot in Active Render cannot transition directly to Dormancy without first passing through Passive Monitor for a minimum of two full adaptation cycles.
+
+### 2.2 Transition State Description
+
+**Active Render → Passive Monitor:** Triggered when render demand falls below threshold T-RND for a sustained period of 30 seconds. The INS-C write buffer is flushed and placed in standby. Signal modulation registers retain last-active values for rapid resume.
+
+**Passive Monitor → Active Render:** Triggered by cortical demand signal from cluster coordinator exceeding threshold T-ACT. Resume latency from Passive Monitor to full Active Render is specified at ≤ 8 milliseconds.
+
+**Any mode → Migration:** Initiated exclusively by a INS-X coordination frame from the cluster coordinator nanobot. The migrating unit suspends all non-INS-M/INS-X activity, commits current register state to checkpoint memory, and executes the migration displacement sequence.
+
+**Any mode → Self-Maintenance:** See §4.2. This transition takes absolute priority after degradation detection.
+
+**Passive Monitor or Migration → Dormancy:** Entered when host Edge session has been suspended for greater than the configured dormancy threshold (default: 900 seconds).
+
+---
+
+## 3. Sensory Input Processing and Cortical Interface Protocol
+
+### 3.1 Cortical Interface Protocol (CIP-4)
+
+Cortical interface operations use the CIP-4 handshake protocol, implemented via the INS-C instruction family. A nanobot in cortical range broadcasts a synchronization pulse at 14.7 kHz on the cluster coordination channel; receiving units respond with an acknowledgment frame encoding their current CIR buffer status. The synchronization cycle repeats every 60 milliseconds in Active Render mode and every 2.4 seconds in Passive Monitor mode.
+
+CIP-4 defines three data streams transmitted between the cortical interface layer and the Edge rendering stack:
+
+- **Stream A (Visual Cortex Injection):** Primary Edge overlay data, carrying rendered environmental geometry, avatar compositing masks, and luminance-mapping parameters. Maximum bandwidth: 380 Mbit/s aggregate across cluster.
+- **Stream B (Affective State Read):** Continuous low-rate sampling of cortical activity patterns associated with attention, arousal, and engagement states. Used as input to the behavioral adaptation algorithm (§5). Sampling rate: 200 Hz.
+- **Stream C (Proprioceptive Overlay):** Spatial positioning and haptic feedback data, enabling the Edge environment to interact with the host's sense of body position and physical boundary.
+
+### 3.2 Neural Signal Buffering
+
+Each CIR register pair functions as a double-buffered pipeline: one buffer is read-active while the second is being written by incoming neural samples. Buffer swap is triggered by the INS-C SWAP instruction, which is emitted automatically at the conclusion of each 5 ms sampling frame. Buffer overrun conditions generate a diagnostic interrupt, routed to MSR[1] for logging.
+
+---
+
+## 4. Self-Maintenance Mode
+
+### 4.1 Component Health Telemetry
+
+Each nanobot continuously monitors six internal subsystems via the MSR register pair: propulsion array integrity, signal emission element condition, CIR buffer error rate, power cell charge efficiency, thermal dissipation effectiveness, and instruction dispatch latency. Health telemetry is expressed as a percentage of baseline function, sampled every 500 milliseconds and written to MSR[0] (aggregate health index) and MSR[1] (per-subsystem fault flags).
+
+The aggregate health index is computed as the weighted average of the six subsystem metrics, with signal emission elements and CIR buffer integrity carrying the highest weighting coefficients (0.25 each) due to their direct impact on render quality.
+
+### 4.2 Degradation Threshold and Mode Entry
+
+**Self-Maintenance mode activates automatically when a nanobot detects internal component degradation exceeding 12% of baseline function** as reflected in the aggregate health index (MSR[0] value below 0x71A in normalized encoding). On crossing this threshold, the nanobot emits an INS-X maintenance-entry frame to the cluster coordinator, suspends all non-diagnostic instruction execution, and transitions MCR to `0100`.
+
+During Self-Maintenance, the INS-D family executes a four-phase repair sequence: (1) fault isolation and subsystem quarantine, (2) available local material uptake for structural repair, (3) calibration validation of repaired subsystems, and (4) health re-assessment. If the post-repair health index exceeds the recovery threshold (MSR[0] ≥ 0x74C), the nanobot transitions back to Passive Monitor. If the threshold cannot be met, the nanobot enters Dormancy and flags itself for replacement via the cluster coordinator.
+
+### 4.3 Operational Lifespan and Atmospheric Replenishment
+
+Individual nanobots have an **operational lifespan of approximately 14 months** before requiring replacement through atmospheric replenishment. This figure reflects the expected service interval at which cumulative material fatigue across the six monitored subsystems statistically reaches irreversible degradation beyond the repair capacity of the INS-D maintenance sequence, even under ideal thermal and chemical conditions. In practice, variance of ±2.1 months is observed across the deployed population, driven primarily by host-specific cortical thermal profiles and physical activity levels.
+
+Atmospheric replenishment is the process by which the host's nanobot cluster is continuously supplemented by ambient nanobot units drawn from the Edge infrastructure environment, maintaining cluster count within operational bounds as aging units enter terminal Dormancy. Replenishment rate is managed by the cluster coordinator and does not require any host action. The cluster coordinator's replenishment scheduling algorithm is documented separately in TEC-FW-CLUSTER-2.4 (L1).
+
+---
+
+## 5. Behavioral Adaptation Algorithm
+
+### 5.1 Overview
+
+The behavioral adaptation algorithm (BAA) is the primary mechanism by which individual nanobots calibrate their positioning and signal modulation to the unique neural architecture of a specific host. Because no two hosts' cortical geometries are identical, static positioning coordinates established at initial Edge deployment are insufficient for sustained render quality beyond the first 48–72 hours of use. The BAA continuously refines each nanobot's cortical proximity, angular orientation, and Stream A emission parameters based on real-time neural activity data from Stream B.
+
+### 5.2 Calibration Cycle
+
+**The BAA runs a calibration cycle every 4.7 seconds**, adjusting nanobot positioning and signal modulation in response to real-time neural activity. Each calibration cycle consists of three sequential operations:
+
+1. **Stream B Sample Aggregation (SBSA):** The preceding 4.7-second window of Stream B cortical activity samples is consolidated into a 94-element vector using the INS-L aggregation instruction sequence BAAS-01 through BAAS-07.
+
+2. **Gradient Computation (GC):** The aggregated vector is compared against the host's stored neural baseline profile (held in a reserved region of the cluster coordinator's checkpoint memory) using the INS-L gradient computation sequence BAAG-01 through BAAG-12. The output is a six-dimensional adjustment vector encoding recommended changes to: (a) axial position, (b) emission frequency, (c) signal amplitude, (d) Stream A compositing priority, (e) affective weighting for Stream C, and (f) PE-07 interaction parameters (see §6, Module Table).
+
+3. **Adjustment Execution (AE):** Each nanobot in the cluster receives the relevant components of the adjustment vector via INS-X coordination frame and applies the adjustments by updating its SMR and CIR registers accordingly. Adjustment execution is completed within the 4.7-second cycle window; any adjustment that cannot be completed within 80% of the cycle period is deferred to the subsequent cycle and flagged in MSR[1].
+
+The neural baseline profile is updated on a slower schedule — a rolling average is recalculated every 512 calibration cycles — to distinguish short-term arousal fluctuations from genuine long-term changes in the host's neural architecture (e.g., following extended Somatic Augmentation treatment or sustained Edgedancing behavior).
+
+### 5.3 Adaptation Convergence
+
+Full adaptation convergence for a new host — defined as the state in which cycle-over-cycle adjustment magnitudes fall below threshold T-CONV in all six dimensions — is typically achieved within 72–96 hours of initial deployment. Convergence is reported to the cluster coordinator via a dedicated INS-X status frame and is logged as a milestone event in the cluster's audit record.
+
+---
+
+## 6. Module Reference Table
+
+The RISA-16 core instruction set is supplemented by a modular microcode layer. Modules are resident in a protected memory region and invoked by the INS-M module-call instruction. The following table lists all modules active in the v4.0 firmware build.
+
+| Module ID | Module Name | Primary Function | Instruction Families Used | Active In Modes |
+|---|---|---|---|---|
+| PE-07 | Psychoactive Enhancement | Manages dopamine pathway interaction | INS-C, INS-S | Active Render, Passive Monitor |
+| CI-01 | Cortical Interface Manager | CIP-4 protocol state machine | INS-C, INS-X | Active Render, Passive Monitor |
+| RM-03 | Render Mesh Coordinator | Stream A geometry compositing | INS-S, INS-M | Active Render |
+| SM-02 | Signal Modulation Controller | Carrier frequency management | INS-S | Active Render, Migration |
+| DX-09 | Diagnostic Executive | MSR monitoring and fault reporting | INS-D, INS-M | Self-Maintenance, Passive Monitor |
+| CR-05 | Cluster Router | INS-X frame scheduling and relay | INS-X, INS-L | All modes |
+| UP-11 | Firmware Update Receiver | Receives and applies OTA firmware updates | INS-M, INS-X | Passive Monitor, Dormancy |
+
+Module PE-07 operates continuously across Active Render and Passive Monitor modes, sampling CIR Stream B affective data at the BAA cycle boundary to modulate interaction with the host's dopamine pathways. PE-07's output parameters are one of the six adjustment dimensions computed in each BAA gradient computation step (§5.2).
+
+---
+
+## 7. Firmware Update Distribution
+
+### 7.1 Over-the-Air Update Architecture
+
+Firmware updates are distributed through the **Tier 2 relay network** and **propagated across a user's nanobot cluster in under 200 milliseconds**. The Tier 2 relay network consists of fixed infrastructure nodes embedded in Edge-enabled environments throughout Haven, operating on a dedicated frequency band separate from the primary Edge render channels. Update frames are broadcast from relay nodes using a cluster-addressed multicast protocol; the cluster coordinator nanobot receives the complete update package and distributes it to constituent nanobots via INS-X frames.
+
+### 7.2 Update Integrity and Rollback
+
+Each firmware update package is cryptographically signed using TEC's internal key infrastructure (key management documented in TEC-SEC-KEYARCH-3.1, L1). The UP-11 module validates the signature prior to applying any update. An invalid or corrupted signature causes the update to be rejected and logged; the rejection event is forwarded to TEC's central firmware integrity monitoring system via the Tier 2 relay backhaul.
+
+Rollback capability is preserved for one prior firmware build version, stored in a write-protected secondary memory partition. Rollback may only be initiated by a signed rollback command distributed through the same Tier 2 relay architecture as standard updates. Self-initiated rollback by individual nanobots is not permitted under the v4.0 architecture.
+
+---
+
+## 8. Document Control
+
+| Field | Value |
+|---|---|
+| Document ID | TEC-FW-COREREF-4.0 |
+| Classification | L1 |
+| Author | Edge Firmware Engineering Division |
+| Review Cycle | Annual (next review: 77-03-15 PCE) |
+| Related Documents | TEC-FW-CLUSTER-2.4 (L1); TEC-FW-CIP-PROTO-4.1 (L2); TEC-SEC-KEYARCH-3.1 (L1); TEC-FW-MODULE-PE07-6.3 (L1) |
+| Distribution | Authorized Firmware Engineering personnel only; Director-level authorization required for access extension |
+
+*This document is the authoritative reference for the v4.0 Edge nanobot core firmware instruction set. Any deviation from specifications described herein in a deployed build constitutes a reportable firmware anomaly under TEC internal Policy FW-ANOM-002.*
+
+---
+
+*End of Document — TEC-FW-COREREF-4.0 — L1 CLASSIFICATION*

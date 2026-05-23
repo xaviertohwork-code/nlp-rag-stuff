@@ -172,4 +172,8 @@ cython_debug/
 # ignore .json files generated while doing gcloud things
 src/gcloud/*.json
 
-data
+datanlp/models/
+*.safetensors
+*.bin
+__pycache__/
+*.pyc

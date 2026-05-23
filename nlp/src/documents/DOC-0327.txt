@@ -1,0 +1,88 @@
+# REPUBLIC OF ZONNON
+## PARLIAMENTARY INTELLIGENCE COMMITTEE
+### ASSESSMENT OF CGC DESTABILIZATION RISK TO REPUBLIC INSTITUTIONS
+
+---
+
+**DOCUMENT REFERENCE:** ZIC/2118/03/SEC-14
+**CLASSIFICATION:** SECRET
+**DATE:** 2118-03-30
+**ISSUED BY:** Parliamentary Intelligence Committee, Office of the Chair
+**DISTRIBUTION:** Committee Members (Full); Prime Minister (Summary); Maritime Defense Command (Executive Assessment Only)
+
+---
+
+## EXECUTIVE ASSESSMENT
+
+The Parliamentary Intelligence Committee assesses with **high confidence** that the Clairos Governance Council represents an active and intensifying destabilization threat to Republic institutions. The CGC's demonstrated historical capability and documented motivation to undermine civilian governance structures in non-aligned territories constitutes the primary existential risk facing the Republic in the current period. This assessment is intended to inform both executive policy and legislative resource decisions in the 2118 parliamentary session.
+
+The Committee notes with concern that the current operational environment in Zonnon bears measurable similarity to pre-collapse conditions documented in historical cases examined below. This is not a remote contingency; it is a present-tense governance challenge requiring immediate and coordinated response.
+
+---
+
+## HISTORICAL PRECEDENT
+
+The CGC's use of astroturfed insurgent and advocacy movements to accelerate the collapse of non-aligned governments is extensively documented. Following the signing of the Blackshore Accords in 2046 CE and the subsequent announcement of Haven as a destination for displaced populations, the CGC systematically weaponized popular unrest against governments that refused alignment. Between **2046 and 2055 CE**, a total of **at least twelve pre-Cascade governments** were toppled by CGC-funded insurgent movements — a figure the Committee emphasizes is a conservative minimum, as attribution in several additional cases remains contested by available intelligence.
+
+The operational pattern is consistent across cases: initial entry through nominally independent advocacy organizations, escalation through coordinated disruption of essential services, and terminal collapse achieved through the appearance of broad popular revolt rather than external intervention. In each instance, the receiving CGC megacorporation had pre-positioned commercial relationships and migration infrastructure before the collapse was triggered.
+
+The Committee is not prepared to characterize this pattern as coincidental.
+
+---
+
+## CURRENT THREAT INDICATORS
+
+### Active Astroturfing Operations
+
+The Committee has identified **three active suspected CGC-funded astroturfing groups** currently operating within the Republic of Zonnon. Their identities and assessed sponsors are contained in the attached classified annex (ZIC/2118/03/ANNEX-A, distribution restricted to Committee Members only). For the purposes of this summary assessment:
+
+- **Group One** operates primarily through maritime labor advocacy channels, with suspected ONE Network Enterprises funding. Activities have focused on disrupting aquaculture export negotiations.
+- **Group Two** operates through media and academic channels, promoting a political narrative favorable to CGC integration that is inconsistent with the organization's stated independent origins. Sponsor assessment: Phyrexis Group, medium confidence.
+- **Group Three** is the least characterized of the three. It appears to be building organizational infrastructure rather than conducting active operations at present, suggesting a longer operational timeline. Sponsor assessment: inconclusive.
+
+All three groups are under active monitoring. The Committee recommends against enforcement action at this time, as disruption would degrade ongoing intelligence collection.
+
+---
+
+## FORCE POSTURE
+
+The Republic of Zonnon maintains a standing force of approximately **40,000 active personnel** within the Zonnon Maritime Defense Command. Force posture is overtly defensive in orientation. The Command operates a fleet of domestically produced patrol vessels and coastal missile systems, and significant institutional resources are devoted to counterintelligence operations and insurgent-suppression capability.
+
+The Committee notes that the Maritime Defense Command's current counterintelligence capacity, while functional, is resourced below the level that the current threat environment warrants. This shortfall is addressed in the Recommendations section.
+
+Zonnon's military doctrine **explicitly designates CGC destabilization as the primary threat** to the Republic — a framing established through formal doctrine revision and reflected in operational planning cycles and officer professional development curricula.
+
+---
+
+## INTERNAL POLITICAL DYNAMICS
+
+The Committee acknowledges that the Republic's internal political environment represents both an asset and a vulnerability in the context of CGC destabilization risk.
+
+The Republic's standing officer corps **skews heavily toward the Isolationist position** — favouring complete severance of economic and political ties with the CGC — a disposition that aligns with the officer corps' professional formation and the existential framing embedded in military doctrine. This has produced documented friction with the Accommodationist factions within civilian government, who favour limited and conditional trade engagement with CGC-aligned entities.
+
+The Committee assesses this tension as a **governance challenge**, not a structural failure. The friction is managed through existing civil-military coordination mechanisms. However, the Committee notes that CGC-affiliated actors are likely aware of this internal division and may attempt to exploit it — either by seeking to deepen Accommodationist influence through the astroturfing networks identified above, or by radicalizing elements of the officer corps toward positions that would rupture civil-military norms. Both vectors must be monitored.
+
+---
+
+## RECOMMENDATIONS
+
+The Committee submits the following recommendations to the Prime Minister and the relevant parliamentary committees:
+
+1. **Counterintelligence Spending Increase.** The Committee recommends an immediate increase in dedicated counterintelligence spending of **8.2 million Phi Credits annually**, allocated to the Parliamentary Intelligence Directorate for expanded monitoring of the three identified astroturfing groups and for improving signals intelligence capability at the Republic's ports and aquaculture zones. This figure is based on operational cost modelling presented to the full Committee in closed session.
+
+2. **Doctrine Reaffirmation.** The Committee recommends that the Prime Minister's office issue an unambiguous public reaffirmation of Zonnon's defensive doctrine posture, in order to foreclose any ambiguity that CGC-affiliated actors might exploit to drive a wedge between civilian and military leadership.
+
+3. **Sharpsea Bloc Intelligence Coordination.** The Committee recommends that the Nyari Confederation's secure communications infrastructure be engaged for a formal intelligence-sharing framework covering identified astroturfing activity, with Kashikari informed at the summary level only, consistent with existing assessments of Kashikari's economic entanglement with CGC actors.
+
+4. **Annex-A Review Cycle.** The classified annex identifying the three suspected groups is to be reviewed and updated no less than quarterly.
+
+---
+
+*This assessment is classified SECRET. Unauthorised disclosure is a criminal offence under the Republic of Zonnon Intelligence Services Act. Recipients are reminded that this document may not be reproduced, summarised, or transmitted to any party not listed in the distribution header without prior written authorisation from the Committee Chair.*
+
+---
+
+**[SIGNATURE REDACTED — COMMITTEE CHAIR]**
+Parliamentary Intelligence Committee
+Republic of Zonnon
+2118-03-30

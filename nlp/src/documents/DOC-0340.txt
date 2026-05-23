@@ -1,0 +1,72 @@
+# WE THE OPTED
+## Incident Documentation Report
+**Reference:** WTO-IDR-76-0817-001
+**Date:** 76-08-17
+**Prepared by:** WTO Volunteer Documentation Unit
+**Classification:** OPEN
+**Distribution:** WTO Internal Records; CGC Public Submission File
+
+---
+
+## SUMMARY
+
+On 76-08-17, We The Opted volunteer documenters recorded three separate incidents of harassment targeting visibly Opted Havenites on Central Haven public transit infrastructure. The incidents occurred across three distinct locations within the Central Haven transit network over the course of a single operational day. All three incidents have been logged in WTO's ongoing harassment tracking registry. This report compiles incident descriptions, available witness statements, and relevant system records, and concludes with formal recommendations addressed to the Clairos Governance Council.
+
+---
+
+## INCIDENT 1
+**Time:** 76-08-17, approximately 08:40
+**Location:** East-Central Line, northbound carriage, between Haven Civic Hub and Meridian Square stations
+
+An Opted woman, travelling alone on the East-Central Line during morning transit hours, was subjected to sustained verbal harassment by a group of four to five individuals presenting as Fullwalkers. The group directed repeated comments toward the subject over the course of approximately two station intervals. Witness accounts confirm the use of the slur "Gray" on multiple occasions, as well as remarks targeting her visible non-participation in the Edge environment. The subject did not respond and exited at Meridian Square station. No transit authority personnel were present in the carriage.
+
+**Witness Statement (fellow passenger, identity withheld on request):**
+*"There were four of them, maybe five. They kept saying 'Gray' and laughing. She just looked at the floor. Nobody said anything. I didn't say anything either and I'm ashamed of that."*
+
+---
+
+## INCIDENT 2
+**Time:** 76-08-17, approximately 13:15
+**Location:** Central-South Interchange, eastbound platform exit
+
+An Opted man exiting the eastbound platform at the Central-South Interchange was shoved from behind by an unidentified individual as he passed through the platform exit gate. The subject stumbled but did not fall. The individual responsible made no attempt to remain in the vicinity and was not apprehended. A bystander in proximity heard the individual call the subject a "Leaker" immediately before or during the shove. No transit authority personnel were on the platform at the time of the incident. The subject reported minor discomfort to his shoulder but declined medical referral.
+
+**Witness Statement (platform bystander, identity withheld on request):**
+*"He was just walking out. Someone came up fast behind him, shoved him hard into the gate frame, said 'Leaker,' and kept walking. Gone in about three seconds. The bloke who got shoved looked shaken."*
+
+---
+
+## INCIDENT 3
+**Time:** 76-08-17, approximately 17:50
+**Location:** Central Haven Transit Hub, Gate 7 automated boarding array
+
+An Opted teenager, travelling unaccompanied, was denied boarding at Gate 7 of the Central Haven Transit Hub by the automated boarding system. The system flagged the subject's null Edge signature as a system error, preventing the turnstile from releasing and generating an audible error tone. The subject attempted the gate twice before seeking assistance from a transit worker, who confirmed that the automated system had blocked entry and manually overrode the gate after a delay of approximately nine minutes. No transit authority personnel offered an apology or explanation to the subject. The system error log entry is reproduced below.
+
+**System Log Excerpt (Gate 7, Central Haven Transit Hub, 76-08-17 17:49:53):**
+*`[GATE-7-ERR-0441] Passenger token validated. Edge-signature scan: NULL. Expected: ACTIVE or PARTIAL. Status: BOARDING DENIED — ANOMALOUS PROFILE. Flag for manual review.`*
+
+The automated boarding system's design assumes the presence of an active or partial Edge signature as a baseline passenger condition. A null Edge signature — the standard profile of an Opted individual — triggers the error pathway rather than a recognized boarding authorization.
+
+---
+
+## STATISTICAL CONTEXT
+
+The three incidents documented on 76-08-17 are consistent with a sustained and accelerating pattern of harassment against Opted Havenites recorded by WTO's tracking registry. In the first eight months of 75 PCE, WTO documenters recorded **155** harassment incidents across Central Haven transit infrastructure. In the equivalent period of 76 PCE — the first eight months of the current year — the documented total has reached **217** incidents, representing an increase of approximately **40%** year over year. WTO notes that these figures reflect only incidents successfully documented by volunteer reporters; the actual incidence is likely higher.
+
+---
+
+## RECOMMENDATIONS
+
+We The Opted formally requests that the Clairos Governance Council take the following actions:
+
+1. **Mandate anti-discrimination training** for all Central Haven Transit Authority personnel, with specific content addressing the rights of Opted passengers and appropriate response protocols for harassment incidents. It is the transit authority's personnel — not the passengers subjected to these incidents — who require intervention and instruction.
+
+2. **Require immediate remediation of the automated boarding system's Edge-signature dependency.** The current system design treats a null Edge signature as an error state rather than a valid passenger profile. This is a structural flaw that systematically disadvantages Opted Havenites through automated denial of service. WTO recommends the CGC mandate a software patch removing the Edge-signature requirement from the boarding authorization pathway.
+
+3. **Establish a formal reporting channel** within the CGC's civic services infrastructure through which Opted Havenites may submit harassment incidents directly, without dependence on WTO volunteer capacity.
+
+WTO continues to build this evidentiary record in the expectation that the CGC will act. These incidents are not isolated. They are a pattern.
+
+---
+
+*Report compiled by WTO Volunteer Documentation Unit. Submitted to WTO internal records and CGC public submission file. Reference all correspondence to WTO-IDR-76-0817-001.*

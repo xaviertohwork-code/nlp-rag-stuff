@@ -1,0 +1,85 @@
+# NYARI CONFEDERATION FEDERAL INTELLIGENCE SERVICE
+## Personnel Assessment — Annual Review Cycle
+### CONFIDENTIAL
+
+---
+
+**Document Reference:** NFIS-PA-2114-0892
+**Date of Issue:** 2114-04-18
+**Reviewing Officer:** [REDACTED], Grade IV Personnel Officer, NFIS Human Resources Directorate
+**Subject:** Dr. Lien Sekara, Senior Cryptographic Analyst, Communications Protocol Division
+**Classification:** CONFIDENTIAL — For Internal NFIS Use Only
+
+---
+
+## I. Service History
+
+Dr. Sekara joined the Nyari Federal Intelligence Service on 2105-09-01, following successful completion of the standard analytical intake examination and a full security vetting process. As of the date of this assessment, she has served continuously with the NFIS for **nine years**, with no recorded disciplinary actions, no unexcused absences, and no material changes to her security clearance status during that period. She holds a Grade III Analyst designation and is the senior-ranked cryptographic analyst within the Communications Protocol Division.
+
+*Note for the record:* Some earlier HR correspondence incorrectly listed her start year as 2108. This is an administrative transcription error originating from a 2110 file migration. Her actual date of entry is confirmed as 2105-09-01 by original intake records held in the secure HR archive.
+
+---
+
+## II. Education and Qualifications
+
+- **Doctorate in Applied Cryptography**, Nyari Institute of Signal Sciences, New Mewan *(completed 2104)*
+- **Bachelor of Science in Mathematical Communications**, Nyari Institute of Signal Sciences, New Mewan *(completed 2099)*
+- NFIS Advanced Protocol Clearance *(issued 2107, renewed 2111)*
+- Inter-Confederation Signals Intelligence Certificate *(issued 2109 following secondment coordination with Kashikari maritime navigation service)*
+
+---
+
+## III. Role Description
+
+Dr. Sekara's primary function within the Communications Protocol Division is the detection and analysis of anomalous routing patterns within encrypted and semi-encrypted signal traffic passing through or originating from Nyari Confederation communications infrastructure. Her specialization in communications protocol analysis encompasses both passive monitoring of signal traffic and the development of detection frameworks used by junior analysts across the division. She is additionally responsible for periodic audit of the Confederation's secure routing architecture and has served as lead technical contributor on three inter-agency protocol review panels since 2108.
+
+---
+
+## IV. Performance History
+
+| Review Year | Technical Output | Collaborative Engagement | Overall |
+|-------------|-----------------|--------------------------|---------|
+| 2110        | Exceptional     | Exceptional              | Exceptional |
+| 2111        | Exceptional     | Good                     | Exceptional |
+| 2112        | Exceptional     | Good                     | Exceptional |
+| 2113        | **Exceptional** | **Satisfactory**         | Good    |
+
+The decline in collaborative engagement to a **Satisfactory** rating in the 2113 review represents a notable shift from prior years. Supervisory notes from that cycle indicate that Dr. Sekara has become less forthcoming in team briefings and has shown a marked preference for working independently rather than integrating her analytical findings into divisional workflows in a timely manner. Her technical output, however, remains at the highest available rating with no decline anticipated in the near term.
+
+---
+
+## V. Supervisor Notes — Late 2113 Conduct
+
+The following observation was recorded by Dr. Sekara's direct supervisor (Grade V, identity withheld per standard practice) following a divisional briefing held in 2013-11-14 [*corr.* 2113-11-14]:
+
+*"During discussion of the proposed expansion of the centralized signal monitoring protocol to additional outer-island relay nodes, Dr. Sekara raised what she described as 'philosophical reservations about the scalability of centralized monitoring in a decentralized society.' The comment was not accompanied by a formal objection or procedural challenge. Other analysts present did not engage with the remark substantively. I noted it as reflecting a broader attitudinal shift in Dr. Sekara's orientation toward divisional methodology over the past twelve to eighteen months, rather than as an isolated observation."*
+
+No formal disciplinary notation was made at the time. The supervisor has requested this observation be entered into the annual review record for institutional continuity.
+
+---
+
+## VI. Concerns — Independent Research Leave Requests
+
+Between 2113 and early 2114, Dr. Sekara submitted **three formal requests for independent research leave**, each proposing a period of between four and eight weeks for self-directed cryptographic protocol study outside the NFIS institutional framework. The requests cite, variously, personal academic development, protocol research gaps not currently addressed by the division's mandate, and the need for what she terms "methodological distance." Two requests were declined on operational grounds; the third remains under review.
+
+Personnel policy permits independent research leave at supervisory discretion, and the submission of such requests is not irregular in isolation. However, the frequency — three requests within approximately fourteen months — is atypical for an analyst at Dr. Sekara's seniority level and has been flagged by her supervisor as warranting monitoring.
+
+---
+
+## VII. Recommendations
+
+Following review of the above record, this office offers the following assessment:
+
+Dr. Sekara's technical contributions to the Communications Protocol Division remain of high institutional value and her continued employment is **recommended without reservation**.
+
+However, given the combination of observations noted above, this office further recommends the application of **enhanced supervisory oversight** during the forthcoming review cycle. This is to be understood as a precautionary and supportive measure — not a disciplinary action — intended to ensure that Dr. Sekara's professional development remains aligned with divisional priorities.
+
+A follow-up assessment is recommended no later than 2115-04-01.
+
+---
+
+*Authorised and submitted:* [REDACTED], Grade IV Personnel Officer
+*NFIS Human Resources Directorate*
+*2114-04-18*
+
+**CONFIDENTIAL — NFIS INTERNAL USE ONLY**

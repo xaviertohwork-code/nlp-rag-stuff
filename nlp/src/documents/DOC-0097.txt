@@ -1,0 +1,95 @@
+# CYANITE INDUSTRIES
+## Technical Bulletin CI-FW-1203
+### Desalination Subsystem Performance Standards and Capacity Targets
+**Floodwall Infrastructure Series — Water Systems Division**
+
+---
+
+**Classification:** GREEN
+**Issuing Authority:** Cyanite Industries Water Systems Division
+**Document Reference:** CI-FW-1203
+**Date of Issue:** 75-06-11 PCE
+**Supersedes:** CI-FW-1198 (74-02-03 PCE)
+**Distribution:** Floodwall Operations Personnel, Water Systems Engineering, Site Supervisors (all barrier channels)
+
+---
+
+## 1. SYSTEM OVERVIEW
+
+The Floodwall desalination subsystem forms one component of Haven Island's potable water supply infrastructure, operating in parallel with rainwater capture installations and highland runoff import agreements. This bulletin governs the reverse osmosis (RO) processing units integrated directly into the barrier wall channel network, establishes performance benchmarks for routine operations, and defines the monitoring and response protocols required to maintain continuous potable water delivery to Haven Island.
+
+The subsystem is distinct from the Floodwall's primary pumping function. While water pumping operations remove retained seawater from the barrier channels and return it to the ocean, the desalination subsystem intercepts a controlled fraction of that inflow for treatment prior to discharge, extracting potable water as a recoverable by-product of the retention process. This integration reduces the marginal cost of water production but creates operational interdependencies that are addressed in Section 4.
+
+---
+
+## 2. TECHNICAL SPECIFICATIONS
+
+### 2.1 Processing Unit Configuration
+
+The desalination subsystem consists of **42 reverse osmosis processing units** distributed across all three barrier wall channels — Primary, Secondary, and Tertiary — in a configuration weighted toward the Primary and Secondary channels, which handle the highest retained-water volumes under standard operating conditions. Unit distribution by channel is as follows:
+
+| Channel | RO Units Installed | Rated Share of Total Output |
+|---|---|---|
+| Primary | 18 | 43% |
+| Secondary | 16 | 38% |
+| Tertiary | 8 | 19% |
+
+Each unit operates independently with its own intake, membrane array, brine rejection line, and treatment stage. Units may be taken offline individually for maintenance without triggering a full subsystem shutdown, provided adjacent units are at or below 85% operational load.
+
+### 2.2 Water Quality Standard
+
+Treated water output from all 42 RO units must comply with **Cyanite Standard WQ-7**. It is essential to note that WQ-7 is explicitly a **heavy metal contamination standard**, not a biological pathogen standard. Its threshold values and testing parameters were derived from historical surveys of industrial seabed activity in the waters surrounding Haven Island — specifically, legacy contamination from pre-Cascade and early post-Cascade extraction operations in the immediate coastal zone. WQ-7 specifies maximum permissible concentrations (in micrograms per liter) for cadmium, lead, arsenic, mercury, chromium, and six secondary heavy metal markers identified as characteristic of local seabed contamination profiles. Biological pathogen standards are governed under the separate CI-BIO-44 framework and are not addressed in this bulletin.
+
+---
+
+## 3. CAPACITY TARGETS AND DAILY OUTPUT RATING
+
+### 3.1 Standard Output Benchmark
+
+Under full operational conditions — all 42 units active, full reactor power allocation, no emergency bypass protocols in effect — the desalination subsystem is rated to deliver a combined daily potable water output of approximately **4.7 million liters**. This figure represents the subsystem's contribution only.
+
+Haven Island's total potable water supply, inclusive of all sources, is approximately **11.8 million liters per day** under standard conditions. The remainder beyond the subsystem's 4.7 million liter contribution is sourced from rainwater capture infrastructure and highland runoff imports operating under separate supply agreements. Water Systems Division does not govern those supply streams; this bulletin addresses only the RO subsystem output.
+
+### 3.2 Power Dependency and Reactor Availability
+
+The reverse osmosis process draws power directly from the same nuclear infrastructure that drives the Floodwall's retention pumps. High-pressure membrane operation is energy-intensive, and the RO units are allocated power from the reactor grid on a shared-load basis with pumping operations.
+
+A consequence of this shared-load architecture is that desalination output decreases by approximately **8 percent for every reactor taken offline**, whether for scheduled maintenance, unscheduled fault response, or coordinated load reduction. This relationship is approximately linear across the normal operational range of reactor availability. Site supervisors planning reactor maintenance windows should consult the current capacity tables (Appendix C) to calculate expected output reduction before authorizing offline procedures.
+
+For planning purposes: output reductions accumulate with each reactor removed from service. Supervisors should account for this dependency when scheduling concurrent maintenance activities, particularly those affecting multiple reactors within the same operational cycle.
+
+---
+
+## 4. CONTAMINATION MONITORING PROCEDURES
+
+### 4.1 Automated Sensor Coverage
+
+Contamination monitoring is performed continuously by automated sensor arrays installed at three points in each unit's treatment sequence: post-intake, post-membrane, and at the final output stage before supply channel injection. Sensors are calibrated to the WQ-7 heavy metal threshold values specified in Section 2.2 and generate real-time alerts to the Water Systems Control Room upon any threshold exceedance.
+
+Automated readings are logged at 15-minute intervals and retained for a minimum of 24 months in the Floodwall data archive.
+
+### 4.2 Manual Laboratory Verification
+
+Automated monitoring does not substitute for manual verification. Manual laboratory verification of water quality is required **every 72 hours** across all active units. Samples are drawn from the post-treatment output stage of a rotating unit selection (minimum 30% of active units per verification cycle) and submitted to the Water Systems Laboratory for full WQ-7 panel analysis. Laboratory results must be logged against the corresponding automated sensor record for the same period. Discrepancies exceeding 15% between sensor readings and laboratory results trigger a mandatory sensor recalibration event.
+
+Verification schedules are maintained by the site supervisor for each channel. No verification interval may exceed 72 hours without prior approval from the Water Systems Division Director.
+
+---
+
+## 5. KNOWN ISSUES AND OPERATIONAL ANOMALIES
+
+### 5.1 Tertiary Channel Wall: Micro-Fracture Saltwater Intrusion
+
+Water Systems Division is aware of a recurring operational issue affecting the Tertiary barrier wall channel. Saltwater intrusion through micro-fractures in the Tertiary wall structure occasionally introduces volumes of untreated seawater directly into the potable supply channel downstream of the RO treatment stage, bypassing the processing units entirely. This intrusion is intermittent and has been correlated with tidal pressure differentials exceeding the Tertiary wall's design tolerance for sustained periods.
+
+When intrusion events are detected — via automated salinity sensors installed in the supply channel at three points following the Tertiary unit output manifold — **emergency bypass protocols** are activated. These protocols isolate the affected supply channel segment, reroute output from unaffected Primary and Secondary channel units to compensate for lost volume, and trigger a mandatory manual inspection of the Tertiary wall segment in the vicinity of the detected event.
+
+Micro-fracture remediation in the Tertiary wall is an ongoing structural maintenance activity. Water Systems Division and Floodwall Structural Engineering are jointly tracking 11 active micro-fracture sites along the Tertiary channel as of this bulletin's issue date. Three sites are under active remediation; eight are under monitoring with remediation scheduled within the next two operational quarters.
+
+Personnel encountering unexpected salinity readings in the supply channel should refer to Emergency Protocol CI-EP-034 and notify the site supervisor immediately.
+
+---
+
+*This bulletin is issued for operational reference purposes. Amendments to capacity figures or quality standards will be circulated as revision notices. Inquiries should be directed to the Water Systems Division, Cyanite Industries, North Haven Operations.*
+
+**Document ends — CI-FW-1203 — GREEN**

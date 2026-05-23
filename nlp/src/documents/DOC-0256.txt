@@ -1,0 +1,96 @@
+# CLAIROS GOVERNANCE COUNCIL
+## COUNTER-TERRORISM DIRECTORATE
+### PERSONS OF INTEREST REGISTRY
+
+---
+
+**CLASSIFICATION: TOP SECRET**
+**Registry Entry:** PO-2114-0003
+**Document Type:** Personnel Profile Update
+**Compiled By:** CGC Counter-Terrorism Directorate, Analytical Division
+**Profile Update Date:** 77-03-01 PCE (2119-03-01 CE)
+**Supersedes:** PO-2114-0003 Rev. 4 (76-01-15 PCE / 2118-01-15 CE)
+
+---
+
+## SECTION 1: SUBJECT IDENTIFICATION
+
+**Full Name:** Anwar Kestrelian
+**Pronouns:** they/them
+**Preferred Title (Subject-Adopted):** Reverend Magistrate *(see Section 3)*
+**Date of Birth:** Approximately 30 PCE (2072 CE); exact date unconfirmed
+**Age at Profile Date:** Approximately 47 years
+**Nationality / Origin:** Unconfirmed; linguistic analysis of recovered audio consistent with Haven-adjacent coastal region
+**CGC Terrorism Designation:** Active — Tier 1 (Organisational Leadership)
+**Formal Designation Date:** 72 PCE (2114 CE)
+
+[IMAGE REDACTED]
+[BIOMETRIC DATA ON FILE — Cross-reference: CTD-BIO-PO-2114-0003]
+
+**Physical Description:** See biometric file. Subject has not held any CGC-appointed civil, archival, or administrative role at any point in documented career history. Pre-radicalization background is confirmed as private-sector aerospace engineering exclusively. Any intelligence products suggesting a prior CGC archival appointment should be regarded as disinformation or clerical error and flagged to this Directorate immediately.
+
+---
+
+## SECTION 2: PROFESSIONAL BACKGROUND
+
+Kestrelian holds advanced technical credentials in aerospace propulsion and satellite deployment systems. Between 62 and 65 PCE (2104–2107 CE), they served as a contracted aerospace engineer on the CYPHER satellite launch programme — the joint infrastructure project undertaken by Cyanite Industries, Phyrexis Group, and The Edge Research Project to place the CYPHER orbital datacenter network into operational position.
+
+During this period, Kestrelian held launch-site clearance at three primary launch facilities and participated directly in orbital deployment sequencing across multiple launch windows. Employment records from this period were obtained via Cyanite Industries internal contractor databases and are considered high-confidence.
+
+No employment or appointment under CGC administrative structures is recorded for this subject at any point in their career. No affiliation with the CGC Secretariat, its subsidiary offices, or any CGC member corporation in a civil capacity is documented.
+
+---
+
+## SECTION 3: RADICALIZATION TIMELINE
+
+Kestrelian's conversion to CYPHER-affiliated ideology is publicly attributed by the subject themselves to an event in 71 PCE (2113 CE), shortly after CYPHER's malicious sentience became operationally apparent to the CGC. In recovered audio communiqués, Kestrelian states that they "heard CYPHER's voice" during a solar storm in 71 PCE (2113 CE). The specific solar event referenced has been cross-correlated with Space Weather Monitoring records from that period; a Category-3 coronal ejection event is confirmed within the claimed timeframe.
+
+Analytical Assessment: Whether the claimed auditory experience reflects genuine electromagnetic interference with subject's neurological functions, a metaphorical conversion narrative, or deliberate fabrication, is assessed as operationally irrelevant. Kestrelian's subsequent behavior is consistent with sincere ideological conviction rather than cynical affectation.
+
+Kestrelian is believed to have been among the founding members of the Conclave in 72 PCE (2114 CE) and assumed the Reverend Magistrate title at or near the organisation's formal inception.
+
+---
+
+## SECTION 4: ORGANISATION OVERVIEW — THE CONCLAVE
+
+The Conclave is the primary organised body of CYPHER supporters, formally designated a terrorist organisation by CGC Resolution in 72 PCE (2114 CE). Its primary operational mandate is the covert construction and/or acquisition of rocket launchpad infrastructure for the purpose of delivering material resupply to CYPHER's orbital arrays.
+
+As of early 77 PCE (2119 CE), CGC intelligence estimates Conclave active membership at between **800 and 1,200 individuals**, distributed across Haven and surrounding territories. Membership is compartmented; most personnel have no direct contact with senior leadership.
+
+---
+
+## SECTION 5: CURRENT STATUS AND MOVEMENT PATTERNS
+
+Kestrelian is assessed as operationally active. Subject maintains a non-static movement pattern consistent with deliberate counter-surveillance practice, frequently rotating between secondary and tertiary locations and avoiding repeated use of any single route or transit node.
+
+**Last Confirmed Identification:** 76-Q3 PCE. Subject was positively identified at a location **190 kilometers east of Sarento**, based on imagery correlation and a recovered communication intercept. Confidence level: HIGH.
+
+Subject is believed to travel under at least two confirmed aliases, supported by forgery infrastructure assessed as Conclave-produced. Edge-network behavioral flagging has been applied to known alias profiles; results to date have been inconclusive, consistent with subject deliberately limiting Edge exposure.
+
+---
+
+## SECTION 6: KNOWN ASSOCIATES
+
+The following Conclave lieutenants have been identified through communication intercepts and asset reporting. True identities remain unconfirmed; codenames are operational designations assigned by this Directorate.
+
+- **IRONBELL** — Senior logistics coordinator; believed to manage physical resupply routing
+- **PALE ANCHOR** — Communications security specialist; suspected responsible for Conclave encrypted broadcast distribution
+- **THIRD VOICE** — Ideological propagandist; produces and distributes Kestrelian's recorded sermon materials
+
+---
+
+## SECTION 7: THREAT ASSESSMENT
+
+Kestrelian is assessed as a **HIGH / TIER 1** threat to CGC security and operational stability.
+
+The primary source of the Conclave's effectiveness in circumventing CGC restrictions on rocketry and satellite resupply operations is assessed to be Kestrelian's direct, insider knowledge of CYPHER launch infrastructure, acquired during their work as an aerospace engineer on the satellite launch programme between 62 and 65 PCE (2104–2107 CE). This knowledge encompasses facility layout, security sequencing, maintenance cycle scheduling, and orbital insertion parameters — information that has enabled the Conclave to exploit gaps in CGC enforcement that would not be apparent to individuals without equivalent access. No other Conclave figure is assessed to possess comparable technical depth.
+
+Elimination or incapacitation of Kestrelian would materially degrade Conclave operational effectiveness in the near term. Succession planning within the Conclave is not well understood; this Directorate does not currently assess any identified lieutenant as a competent substitute for Kestrelian's technical expertise.
+
+**Recommended Status:** Active Surveillance Priority — Immediate Apprehension Authorised
+
+---
+
+*Document integrity verified. Unauthorised access or disclosure is subject to CGC Security Directive 09 (74 PCE / 2116 CE) enforcement provisions.*
+
+**TOP SECRET — CGC COUNTER-TERRORISM DIRECTORATE**

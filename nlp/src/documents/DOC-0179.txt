@@ -1,0 +1,86 @@
+# CLAIROS GOVERNANCE COUNCIL
+## Maritime Enforcement Bureau
+
+---
+
+**DOCUMENT CLASSIFICATION: RESTRICTED**
+**Classification Authority: CGC Maritime Enforcement Bureau**
+**Distribution: CGC Maritime Enforcement Bureau, CGC Internal Security, ONE Network Enterprises Port Authority (for coordination purposes only)**
+
+---
+
+**INCIDENT REPORT MI-76-0291**
+**Unauthorized Vessel — Haven Island Maritime Exclusion Zone**
+**Date of Report: 76-10-18**
+**Reporting Officer: Senior Enforcement Officer Daxwell Prynn, CGC Maritime Enforcement Bureau**
+
+---
+
+## SECTION 1 — INCIDENT SUMMARY
+
+On 76-10-17, CGC Maritime Patrol Cutter *Resolute* intercepted an unregistered cargo vessel designated UV-Kestrel operating within the Haven Island Maritime Exclusion Zone without valid transit authorization. The vessel was boarded, inspected, and subsequently detained pending further investigation. Cargo anomalies identified during the boarding inspection have prompted referral to CGC Internal Security.
+
+---
+
+## SECTION 2 — INTERCEPTION PROCEDURE
+
+At **0347 hours on 76-10-17**, routine radar sweep by patrol cutter *Resolute* identified an unlit vessel bearing 014° at a range of approximately **6 nautical miles from Haven's northern Floodwall**. The vessel was operating without navigation lighting and had not responded to automated Maritime Exclusion Zone entry alerts broadcast on standard hailing frequencies. *Resolute* was diverted from its scheduled patrol route to intercept.
+
+Radio contact was established at 0359 hours. The vessel initially failed to respond on primary hailing frequencies; contact was eventually established on a secondary frequency at 0404 hours. The vessel's operator identified the craft verbally as *Kestrel*, a cargo vessel, and provided no flag registration. *Resolute* issued a formal boarding directive under CGC Maritime Enforcement Authority (Blackshore Accords, Instrument 7, Article 14). The vessel complied without resistance.
+
+The boarding party of four CGC enforcement officers secured the vessel at **0421 hours**. No weapons were discharged. No injuries were sustained by enforcement personnel or vessel crew.
+
+---
+
+## SECTION 3 — VESSEL DETAILS
+
+| Field | Details |
+|---|---|
+| **Designated Identifier** | UV-Kestrel |
+| **Vessel Type** | Mid-range cargo coaster, estimated displacement 800–900 tonnes |
+| **Flag Registration** | None; vessel bore no national or corporate registry markings |
+| **Transit Authorization** | None valid. No ONE Network Enterprises transit authorization was present aboard the vessel. The operator was unable to produce documentation of any kind from any recognized maritime authority. |
+| **Last Declared Port** | Undetermined; vessel log was absent from the bridge |
+| **Technical Condition** | Operational; minor corrosion consistent with extended at-sea operation |
+
+---
+
+## SECTION 4 — CARGO INSPECTION
+
+The boarding team conducted a full physical inspection of the vessel's cargo hold in accordance with Standard Boarding Protocol 9-C.
+
+The cargo manifest presented by the vessel operator listed a single cargo type: **14 metric tons of industrial lubricants**, packaged in sealed industrial drums, consistent with standard bulk supply consignments. Inspection of the hold confirmed the presence of lubricant drums as declared.
+
+The inspection additionally identified a secondary cargo stored beneath decking panels in the vessel's forward hold, accessible via a non-standard concealed access point. This secondary cargo was **not listed on the manifest**. Physical assessment identified approximately **2.3 metric tons of electronic components**, packaged in high-density foam casing and sealed with moisture barriers. Component types observed included circuit board assemblies, high-capacity power storage units, and what appeared to be signal processing hardware. Components were not labeled with any manufacturer markings or destination coding. No accompanying documentation, purchase records, or technical specifications were recovered.
+
+The boarding team made no determination as to the intended purpose or destination of the unmanifested electronics. Full inventory documentation was compiled and is appended as **Attachment A** to this report.
+
+---
+
+## SECTION 5 — CREW DETAILS
+
+The vessel was crewed by **seven individuals**. All seven presented documentation identifying them as holders of **Havenite residency status**. Residency documentation appeared structurally consistent with standard CGC-issued residency instruments, though verification against Central Residency Registry records is pending as of the time of this report's filing.
+
+Notably, **none of the seven crew members held any corporate employment affiliation on their documentation**, nor did any present supplementary employment records, contractor designations, or letters of engagement from any recognized megacorporation or associated entity. When questioned regarding their employment status and the purpose of the voyage, crew members provided responses that were inconsistent with one another and declined to identify any commissioning party or cargo origin.
+
+Crew members have been designated C-1 through C-7 for processing purposes. Full biometric records and interview transcripts are appended as **Attachment B**.
+
+---
+
+## SECTION 6 — DISPOSITION
+
+The vessel UV-Kestrel has been impounded and transferred under tow to **CGC Maritime Facility Bravo** for secure retention pending investigation.
+
+All seven crew members have been detained at CGC Maritime Facility Bravo and are being held for continued questioning by Maritime Enforcement Bureau personnel. Detention is authorized under CGC Maritime Security Instrument 12 (Extended Detention, Exclusion Zone Violations).
+
+In light of the unmanifested electronic cargo and the crew's failure to provide satisfactory account of the voyage's purpose, origin, or sponsoring party, this matter has been **referred to CGC Internal Security** for further assessment. The unmanifested electronics, their technical characteristics, and the absence of any documentation trail are considered outside the routine scope of Maritime Enforcement Bureau handling.
+
+Coordination with ONE Network Enterprises Port Authority regarding the vessel's transit record (or confirmed absence thereof) is ongoing.
+
+---
+
+**Filed:** 76-10-18
+**Senior Enforcement Officer Daxwell Prynn**
+**CGC Maritime Enforcement Bureau**
+
+*RESTRICTED — Handle in accordance with CGC document security protocols. Further distribution requires authorization from the CGC Maritime Enforcement Bureau or CGC Internal Security.*

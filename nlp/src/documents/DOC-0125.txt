@@ -1,0 +1,140 @@
+# Edge Avatar Rendering Pipeline — Technical Reference Document TRD-0891
+
+**Document Identifier:** TRD-0891
+**Revision:** 3.2
+**Authoring Group:** Edge Visual Systems Group
+**Classification:** L3
+**Date:** 77-01-09 PCE (2119-01-09 CE)
+
+---
+
+## 1. Overview
+
+This Technical Reference Document describes the architecture, data flows, and operational parameters of the Edge Avatar Rendering Pipeline (EARP) as deployed across the Haven nanobot integration network. It is intended for internal Visual Systems engineers, relay infrastructure operators, and approved third-party integration partners operating under L3 clearance.
+
+The EARP governs the real-time generation, transmission, and cortical overlay of user avatars within the Edge environment. It encompasses three major functional subsystems: skeletal tracking and joint mapping, texture synthesis and template application, and per-frame reconciliation between self-view and observer-view representations. This document covers each subsystem in detail, defines performance baselines, and specifies fallback behavior under relay-overload conditions.
+
+---
+
+## 2. Core Performance Specifications
+
+### 2.1 Frame Rate and Cortical Integration
+
+**Sustained Pipeline Frame Rate: 144 frames per second (fps)**
+
+The EARP processes and delivers avatar renders at a sustained rate of 144 frames per second. This figure is not an arbitrary engineering target; it is derived from post-integration neurological profiling of the human visual cortex following nanobot establishment. When nanobot lattice density reaches nominal integration threshold (approximately 97% of target cortical coverage), the visual cortex exhibits a characteristic refresh expectation in the range of 140–146 Hz for synthetic overlay elements. A sustained delivery rate of 144 fps lies at the center of this empirically measured range and has been established as the EARP's operational baseline since the pipeline's original deployment.
+
+Deviation below 138 fps for periods exceeding 200 milliseconds produces measurable perceptual artifacts for integrated users, manifesting as flicker at avatar edges or temporal stuttering during high-velocity motion sequences. The pipeline maintains internal buffering sufficient to absorb up to 14-frame burst drops without breaching this threshold under normal network conditions.
+
+[FIGURE 1: Graph of perceptual artifact incidence rate vs. delivered frame rate, pooled from 2.3 million user sessions, 73–76 PCE. Artifact incidence rises sharply below 138 fps and plateaus above 144 fps, confirming the operational baseline selection.]
+
+### 2.2 System Architecture Summary
+
+The pipeline is organized into three sequential processing stages: (1) Skeletal Capture and Joint Resolution, (2) Texture Synthesis and Material Application, and (3) Cross-View Reconciliation and Cortical Delivery. Each stage is described in dedicated sections below.
+
+---
+
+## 3. Skeletal Mapping and Joint Tracking
+
+### 3.1 Joint Point Architecture
+
+Avatar skeletal mapping is performed using **387 tracked joint points** distributed across the full body topology. This joint density was selected to achieve sub-millimeter motion fidelity — specifically, to ensure that avatar movement reproduces the biomechanical signature of the underlying user with positional accuracy sufficient for the cortical integration layer to accept the avatar as a plausible extension of proprioceptive self-model.
+
+[FIGURE 2: Full-body joint map, anterior and posterior views. 387 tracked points annotated by anatomical region. Primary structural joints (hips, shoulders, knees) shown in blue; fine-motor joints (finger segments, facial musculature anchor points) shown in orange; secondary stabilization points (spinal micro-segments, plantar arch) shown in gray.]
+
+The 387-point topology was finalized following extended trials with lower-density configurations. A 214-point configuration produced acceptable gross-motor fidelity but failed sub-millimeter accuracy thresholds in fine-motor zones (hands, face, neck musculature), with mean positional error of 1.8 mm at distal finger joints. A 312-point intermediate configuration achieved sub-millimeter fidelity in over 94% of tracked zones but produced systematic drift at facial anchor points during sustained expression holds exceeding 4 seconds. The 387-point configuration achieves sub-millimeter fidelity across all tracked zones under all tested motion profiles.
+
+### 3.2 Capture-to-Skeleton Latency
+
+Nanobot sensory capture of joint position data is transmitted to the nearest relay node at a cycle rate synchronized to the pipeline's master 144 fps clock. Capture-to-skeleton processing latency (the time from raw nanobot positional capture to finalized skeleton frame ready for texture application) is maintained at a target of ≤3.2 milliseconds at nominal load. This budget is allocated as follows: 0.9 ms nanobot-to-relay transmission, 1.4 ms joint resolution computation, 0.9 ms skeleton frame validation and handoff.
+
+---
+
+## 4. Texture Synthesis and Template Application
+
+### 4.1 Template Library
+
+Avatar surface appearance — skin tone, hair rendering, clothing material, cosmetic augmentation overlays — is generated through a synthesis process that draws from a library of **over 2.1 million base texture templates** stored across the CYPHER satellite network. The distributed storage architecture is a deliberate design decision: concentrating template storage on local Haven relay infrastructure would impose unacceptable latency penalties for high-complexity avatar configurations requiring multi-layer template composition.
+
+Satellite-distributed storage introduces its own latency constraints. Template fetch latency from CYPHER network nodes is subject to orbital geometry and varies between 18 and 340 milliseconds depending on satellite position at time of request. EARP manages this through a predictive pre-fetch system: the pipeline maintains a local rolling cache of the 850,000 most-accessed templates at Haven relay tier, covering approximately 91% of active user configurations by historical access frequency. Templates outside the cache boundary require satellite fetch on first access per session, with subsequent accesses served from local cache.
+
+[FIGURE 3: Schematic of template retrieval path. Three-tier hierarchy: user nanobot lattice → Haven local relay cache (850K templates) → CYPHER satellite network (2.1M+ templates). Latency ranges annotated at each tier boundary.]
+
+### 4.2 Synthesis Pipeline
+
+Base templates are composited per-frame using a layered synthesis model. The standard composition stack is: (1) base skin or material layer, (2) anatomical surface detail layer, (3) cosmetic/augmentation overlay layer, (4) dynamic lighting response layer, (5) motion-blur and depth-field post-processing layer. Complex user configurations may involve up to 11 composition layers; the pipeline's texture synthesis budget allocates up to 6.1 ms per frame for full-stack composition at nominal load.
+
+---
+
+## 5. Per-Frame Cross-View Reconciliation
+
+### 5.1 The Reconciliation Problem
+
+The EARP must solve a fundamental consistency challenge: the avatar that a user sees of themselves (the self-view) and the avatar that other users see of that same user (the observer-view) must be visually consistent at the per-frame level. Without active reconciliation, latency differentials and local rendering variations between different users' nanobot lattices cause progressive divergence — a user perceives their own avatar performing one action while nearby users observe a differently-timed version of the same action.
+
+This divergence is perceptually tolerable within approximately ±8 ms. Beyond that window, co-present users begin to perceive discrepancies (a user appears to be touching an object they have not yet reached in their own self-view, for example), which produces disorientation and reduces the cortical plausibility of the shared environment.
+
+### 5.2 Tier 2 Relay Synchronization Channel
+
+Per-frame reconciliation is implemented through a **dedicated Tier 2 relay synchronization channel**. This channel carries the reconciliation delta packets — the per-frame differential payloads that allow the pipeline to align self-view and observer-view renders across all co-present users within a shared environment segment.
+
+To be precise about channel classification: this is a **Tier 2** relay channel, not a Tier 3 channel. The Tier 2 designation reflects that reconciliation traffic is routed through the second-priority relay infrastructure tier, which provides lower-latency delivery than general Tier 3 user-data traffic and has reserved bandwidth allocation. Routing reconciliation through Tier 3 general channels — a configuration that has been proposed for cost reduction — is not technically feasible at 144 fps; Tier 3 latency variance exceeds the ±8 ms perceptual tolerance threshold under moderate network load conditions.
+
+The reconciliation channel consumes **approximately 12% of total relay bandwidth**. This is the single largest fixed overhead cost in the EARP's relay budget. Efforts to reduce reconciliation bandwidth through lossy delta compression have been evaluated; the minimum acceptable quality threshold for full-fidelity avatar consistency requires uncompressed delta payloads, and the 12% figure should be treated as a hard floor for planning purposes.
+
+[FIGURE 4: Relay bandwidth allocation pie chart. Reconciliation channel: 12%. Skeletal data transmission: 9%. Texture fetch traffic: 31%. Cortical delivery payload: 38%. Network management overhead: 10%.]
+
+---
+
+## 6. Pipeline Capacity and Load History
+
+### 6.1 Original Design Parameters
+
+The EARP was originally designed and deployed to support a maximum of **15 million concurrent avatar instances** within the Haven integration zone. This figure was established during the pipeline's initial capacity modeling phase and reflected projected Haven population integration rates over the first five years of deployment.
+
+### 6.2 Peak Load Record and Design Exceedance
+
+During the 76 PCE year-end celebrations, simultaneous activation events across Haven produced a then-record peak load of **18.3 million concurrent avatar instances**. This figure significantly exceeded the system's original design parameters of 15 million concurrent instances, representing the most demanding single load event in the pipeline's operational history.
+
+The 76 PCE year-end peak was not a single sustained load: monitoring telemetry records show the 18.3 million figure was maintained for approximately 47 minutes at absolute peak, with the load profile above the 15 million design threshold persisting for a continuous window of approximately 3 hours and 20 minutes.
+
+[FIGURE 5: Concurrent avatar instance count over the 76 PCE year-end celebration window (72-hour period). Design capacity ceiling at 15M marked with dashed red line. Peak at 18.3M annotated. Area above design ceiling shaded in amber.]
+
+The system sustained pipeline operation throughout this event without triggering a full emergency fallback, but relay infrastructure monitoring logs recorded sustained reconciliation-channel congestion and texture fetch latency spikes averaging 2.8× nominal during the 3-hour exceedance window. The 76 PCE event has been formally designated a Capacity Stress Event (CSE-76-02) in EARP operational records and has driven the capacity expansion planning described in Section 6.3.
+
+### 6.3 Capacity Planning
+
+The 76 PCE year-end event has confirmed that the pipeline is regularly stressed beyond its original design parameters during high-activation events and that the gap between the original 15 million design ceiling and actual peak demand represents a material operational risk. The Visual Systems Group's current capacity expansion roadmap targets a revised ceiling of 22 million concurrent instances by 79 PCE, requiring relay infrastructure upgrades and an increase in CYPHER-tier template cache allocation.
+
+---
+
+## 7. Emergency Fallback Rendering Protocol
+
+### 7.1 Fallback Trigger Conditions
+
+Emergency Fallback Rendering (EFR) is triggered automatically when relay infrastructure monitoring detects a sustained reconciliation-channel congestion event exceeding 180 seconds at greater than 95% channel saturation, or when total pipeline compute load exceeds 108% of rated capacity for more than 60 seconds. EFR activation is logged as a Priority 1 event in EARP operational records.
+
+### 7.2 Fallback Parameter Reductions
+
+Under EFR activation, the following parameter reductions are applied system-wide:
+
+| Parameter | Normal Operation | Emergency Fallback |
+|---|---|---|
+| Joint tracking points | 387 | **94** |
+| Texture resolution | Full (100%) | **40% (60% reduction)** |
+| Reconciliation delta compression | None (uncompressed) | Tier 1 lossy compression |
+| Template composition max layers | 11 | 5 |
+
+The reduction from 387 joint tracking points to **94 points** eliminates fine-motor and secondary stabilization point groups entirely, retaining only primary structural joints sufficient to maintain gross-motor avatar plausibility. Sub-millimeter fidelity is not maintained in EFR mode; mean positional error at distal joints increases to approximately 4.1 mm.
+
+**Texture resolution is reduced by 60%** under EFR, which produces visibly degraded avatar surface quality at close proximity but maintains sufficient detail for avatar identification and social legibility at typical co-presence distances. This reduction is sufficient to decrease texture-fetch relay traffic by approximately 55%, which combined with the skeletal data reduction creates headroom to maintain the Tier 2 reconciliation channel at functional (if degraded) capacity.
+
+### 7.3 EFR History
+
+The EFR protocol has been triggered on three occasions in the pipeline's operational history: once during a relay node hardware failure event in 74 PCE (CSE-74-01) and twice during high-load celebration events prior to 76 PCE. The 76 PCE year-end event did not trigger EFR, though monitoring records confirm the system operated within the EFR trigger threshold margin for approximately 22 minutes at absolute peak load.
+
+---
+
+*TRD-0891 Revision 3.2 — Edge Visual Systems Group — Classification L3*
+*Distribution limited to Visual Systems engineering staff, relay infrastructure operations, and approved L3 integration partners.*
+*Next scheduled review: 77-07-01 PCE*

@@ -1,0 +1,79 @@
+# CLAIROS GOVERNANCE COUNCIL
+## CIVIC SERVICES BUREAU
+
+---
+
+**POLICY MEMORANDUM PM-77-014**
+**Classification: OPEN**
+**Date: 77-01-15**
+**Issuing Authority: CGC Civic Services Bureau, Residency Administration Division**
+**Subject: Havenite Residency Documentation Renewal — Updated Administrative Procedures (Effective 77-02-01)**
+
+---
+
+### I. Overview
+
+This memorandum establishes updated administrative procedures for the renewal of Havenite Residency Documentation (HRD) as administered by the CGC Civic Services Bureau. These procedures supersede those issued under PM-74-031 and apply to all renewal applications received on or after 77-02-01.
+
+Havenite residency documentation must be renewed every 3 years. Residents are advised to initiate the renewal process no fewer than 60 days prior to their documentation expiration date to allow sufficient processing time. The CGC Civic Services Bureau processes approximately 2.8 million renewals annually across all Haven sectors; residents should anticipate variable wait times during peak processing periods, typically coinciding with the final quarter of each administrative year.
+
+Renewal applications may be submitted in person at any Civic Services Bureau processing office or via registered Edge-identity portal submission, subject to the synchronization requirements described in Section III below.
+
+---
+
+### II. Verification Requirements
+
+All renewal applications must include the following documentation:
+
+**2.1 Corporate Sponsorship Verification**
+
+Renewal requires verification of active corporate sponsorship by at least one CGC-member megacorporation or registered subsidiary thereof. Sponsorship verification must be submitted directly by the sponsoring entity via the CGC Civic Services Bureau's corporate verification interface and must confirm the resident's active employment, contracted service relationship, or formally registered dependent status within the sponsoring entity's records.
+
+*Sponsorship verification from non-corporate civic bodies, community associations, independent cooperatives, or any entity not holding current CGC-member megacorporation status or registered subsidiary designation will not be accepted as satisfying this requirement.* Residents who are uncertain whether their sponsoring organization qualifies are directed to consult the CGC Corporate Registry (maintained by the Bureau's Registration Services Division) prior to application.
+
+**2.2 Biometric Update**
+
+Residents must present in person at a designated processing facility for biometric capture, including retinal scan, dermal print, and skeletal-resonance imaging. Biometric data collected during renewal supersedes all previously held records.
+
+---
+
+### III. Edge Identity Synchronization
+
+Edge identity synchronization is a mandatory component of the HRD renewal process for all applicants, regardless of Edge engagement status.
+
+Residents who have Opted must still complete Edge identity synchronization as part of their renewal. For Opted applicants, this is accomplished through a temporary nanobot administration conducted under supervised clinical conditions at a Bureau-designated processing facility. The temporary nanobot integration is calibrated for identity-record synchronization purposes only and is automatically cleared from the resident's system within 72 hours of administration, without affecting the resident's Opted status. Opted residents should confirm their renewal appointment type when scheduling to ensure appropriate clinical support staff are assigned.
+
+Full-walker and Edgedancer residents with active nanobot integration will complete synchronization via standard Edge-portal submission; in-person clinical administration is not required for these applicants.
+
+---
+
+### IV. Fee Schedule
+
+The renewal processing fee is **1,200 Credits (Phi)**, payable at the time of application submission. Fees are non-refundable following application acceptance. Payment must be completed via Phi payment rail; alternative payment methods are not accepted.
+
+Residents receiving active corporate sponsorship from a CGC-member megacorporation may be eligible for employer fee offset programs administered directly by their sponsoring entity; the Bureau does not administer or verify such programs and accepts no liability for their availability.
+
+A late-filing surcharge of **300 Credits** applies to applications submitted within the final 30 days prior to documentation expiration.
+
+---
+
+### V. Non-Compliance Penalties
+
+Failure to complete documentation renewal within 90 days of the expiration date will result in the resident's classification as an **Undocumented Resident** in the CGC Residency Registry. Undocumented Resident status carries the following immediate restrictions:
+
+- Suspension of inter-sector transit authorization across all Haven sector boundaries
+- Suspension of access to Phi payment services, including all Phi-rail transaction processing and Phi-denominated credit facilities
+- Ineligibility for CGC-administered civic service allocation
+
+Reinstatement of documentation following Undocumented Resident classification requires completion of a standard renewal application in addition to a reinstatement processing fee of **2,400 Credits** and mandatory in-person verification. Classification disputes must be submitted to the Bureau's Residency Appeals Division within 30 days of notification.
+
+---
+
+### VI. Administrative Notes
+
+Bureau processing offices are located in each Haven sector administrative district. Processing hours, facility locations, and appointment scheduling are published on the CGC Civic Services Bureau public registry, accessible through the Edge civic services portal or in printed form at all sector administrative offices.
+
+Inquiries regarding corporate sponsorship eligibility, biometric scheduling, or reinstatement procedures should be directed to the Bureau's Residency Administration Division.
+
+*CGC Civic Services Bureau — Residency Administration Division*
+*PM-77-014 | Classification: OPEN*

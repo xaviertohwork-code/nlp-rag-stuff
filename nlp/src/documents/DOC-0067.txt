@@ -1,0 +1,96 @@
+# CGC JOINT AUDIT REPORT
+## Cross-Sector Revenue Verification — Fiscal Year 75 PCE
+
+---
+
+**Document Reference:** CGC-FOB-AUD-75-001
+**Issuing Body:** CGC Financial Oversight Board
+**Date of Issue:** 76-05-20
+**Classification:** CONFIDENTIAL
+**Distribution:** CGC Secretariat; Authorised Representatives of Seated Member Corporations
+
+---
+
+## 1. AUDIT SCOPE
+
+This report presents the findings of the CGC Financial Oversight Board's annual cross-sector revenue verification exercise for fiscal year 75 PCE (01-01-75 to 12-31-75 PCE). The audit covers exclusively those corporations holding seated membership on the Clairos Governance Council at the close of fiscal year 75 PCE. Non-member entities, including Renhwa Media and all third-party subsidiaries lacking consolidated CGC-member parentage, fall outside the scope of this review. The five seated members subject to this audit are:
+
+1. Phyrexis Group
+2. Cyanite Industries
+3. ONE Network Enterprises
+4. Genesis Labs
+5. The Edge Corporation (TEC)
+
+The objective of this audit is to verify that reported revenues are consistent with CGC Membership Standards Resolution 2091, which establishes minimum revenue and profitability thresholds required for the maintenance of seated megacorporation status. Findings herein reflect verification against submitted consolidated financial statements, intercompany reconciliation schedules, and supporting transactional documentation provided to the Financial Oversight Board.
+
+---
+
+## 2. REVENUE SUMMARY — FISCAL YEAR 75 PCE
+
+The following table presents reported revenues as submitted by each seated member, alongside verified revenues as determined by this audit. All figures are denominated in Phi Credits.
+
+| **Member Corporation**    | **Reported Revenue (FY 75 PCE)** | **Adjustments**        | **Verified Revenue (FY 75 PCE)** | **Audit Status**             |
+|---------------------------|----------------------------------|------------------------|----------------------------------|------------------------------|
+| Phyrexis Group            | 2.140 trillion Phi               | Nil                    | 2.140 trillion Phi               | Verified — No Exceptions     |
+| Cyanite Industries        | 1.870 trillion Phi               | Nil                    | 1.870 trillion Phi               | Verified — No Exceptions     |
+| ONE Network Enterprises   | 1.520 trillion Phi               | −23 billion Phi        | 1.497 trillion Phi               | Verified — Notable Finding   |
+| Genesis Labs              | 1.090 trillion Phi               | Pending (see §4.2)     | Under Review                     | Finding Unresolved           |
+| The Edge Corporation      | 940 billion Phi                  | Nil                    | 940 billion Phi                  | Verified — No Exceptions     |
+
+**Aggregate reported revenue (all five members):** 7.560 trillion Phi Credits
+**Aggregate verified revenue (excluding Genesis Labs pending resolution):** 6.517 trillion Phi Credits (four members; Genesis Labs excluded pending §4.2 resolution)
+
+---
+
+## 3. AUDIT FINDINGS — MEMBERS WITH NO EXCEPTIONS
+
+### 3.1 Phyrexis Group
+
+Phyrexis Group reported fiscal year 75 PCE revenue of **2.140 trillion Phi Credits**. The Financial Oversight Board reviewed consolidated Phi rail transaction receipts, payment processing settlement ledgers, and intercompany eliminations across all disclosed Phyrexis-affiliated entities. No material discrepancies were identified. Phyrexis Group's submission is verified as compliant with CGC Membership Standards.
+
+### 3.2 Cyanite Industries
+
+Cyanite Industries reported fiscal year 75 PCE revenue of **1.870 trillion Phi Credits**. Review of extraction and processing receipts, construction contract completions, and Floodwall maintenance service billings yielded no material exceptions. Intercompany transfers between Cyanite's mining operations and its manufacturing arm in Sarento were reviewed and found consistent with arms-length pricing documentation. Cyanite Industries' submission is verified as compliant with CGC Membership Standards.
+
+### 3.3 The Edge Corporation
+
+The Edge Corporation reported fiscal year 75 PCE revenue of **940 billion Phi Credits**. Given TEC's relatively concentrated revenue base — Edge platform subscriptions, nanobot deployment licensing, and ancillary data services — the audit sample focused on subscription tier reconciliations and deployment license invoicing. No material discrepancies were identified. TEC's submission is verified as compliant with CGC Membership Standards.
+
+---
+
+## 4. AUDIT FINDINGS — MEMBERS WITH NOTABLE FINDINGS
+
+### 4.1 ONE Network Enterprises — Intercompany Transfer Pricing
+
+ONE Network Enterprises reported fiscal year 75 PCE revenue of **1.520 trillion Phi Credits**. The Financial Oversight Board conducted an expanded review of ONE's intercompany transfer pricing documentation, focusing on intra-group route management service charges between ONE's port operations subsidiaries and its central logistics coordination entity.
+
+Auditors identified that intercompany transfer pricing adjustments, upon application of arm's-length pricing benchmarks consistent with CGC Accounting Standards Directive 12(c), resulted in a net downward revision to ONE's consolidated external revenue of **23 billion Phi Credits**, yielding a verified revenue figure of **1.497 trillion Phi Credits**.
+
+**It is noted for the record that ONE Network Enterprises did not provide any explanation, response, or clarifying documentation to auditors in connection with this adjustment.** The Financial Oversight Board has requested a formal management response from ONE's finance division within thirty days of this report's issuance. Notwithstanding the outstanding response request, the verified figure of 1.497 trillion Phi Credits comfortably exceeds the CGC Membership Standards revenue threshold. ONE Network Enterprises' seated status is not at risk on the basis of this finding. The Board nonetheless treats the absence of management response as a matter requiring follow-up in the fiscal year 76 PCE audit cycle.
+
+---
+
+### 4.2 Genesis Labs — Subsidiary Revenue Consolidation Methodology
+
+Genesis Labs reported fiscal year 75 PCE revenue of **1.090 trillion Phi Credits**. In reviewing Genesis Labs' consolidated financial statements, auditors identified concerns regarding the consolidation methodology applied to certain subsidiary revenue streams, specifically those associated with Genesis Labs' network of regional Somatic Clinics operating outside Haven Island under varying ownership structures.
+
+A subset of Somatic Clinic entities — primarily those structured as joint clinical partnerships with local operating entities across Clairos — have been included in Genesis Labs' consolidated revenue on a gross revenue basis. Auditors' position is that the applicable CGC Accounting Standards Directive 9(f) (Consolidation of Partially Controlled Entities) requires these entities to be consolidated on a proportionate basis corresponding to Genesis Labs' effective economic interest, rather than on a gross basis.
+
+Application of Directive 9(f) proportionate consolidation to the identified entities results in **47 billion Phi Credits** in Genesis Labs subsidiary revenue being flagged as potentially misclassified — revenue that, under auditors' preferred methodology, should not be recognised in full within Genesis Labs' consolidated top-line figure.
+
+Genesis Labs' finance division has formally contested this classification, submitting a management response asserting that the relevant clinic structures confer sufficient operational control to support gross consolidation under CGC Accounting Standards Directive 9(b) (Control-Based Consolidation). The Financial Oversight Board does not accept this position as presented; however, given the complexity of the underlying contractual structures, the Board has agreed to refer the matter to the CGC Technical Accounting Review Panel for a binding determination prior to finalising Genesis Labs' verified revenue figure for fiscal year 75 PCE.
+
+Genesis Labs' verified revenue is therefore recorded as **under review** in this report. The Financial Oversight Board will issue a supplementary revenue verification notice upon receipt of the Technical Accounting Review Panel's determination. The Board draws the Secretariat's attention to the fact that, depending on the Panel's ruling, the resolution of this matter may warrant assessment against CGC Membership Standards thresholds. No such assessment is prejudged by the findings of this report.
+
+---
+
+## 5. CONCLUSIONS AND NEXT STEPS
+
+The Financial Oversight Board confirms that, of the five seated CGC members audited for fiscal year 75 PCE, three — Phyrexis Group, Cyanite Industries, and The Edge Corporation — are verified as fully compliant with CGC Membership Standards on the basis of submitted financial statements. ONE Network Enterprises is verified as compliant following transfer pricing adjustment, with a follow-up management response outstanding. Genesis Labs' revenue verification remains pending the Technical Accounting Review Panel determination on subsidiary consolidation methodology.
+
+The Board will issue the supplementary Genesis Labs notice no later than 76-09-30 PCE, contingent on Panel scheduling.
+
+---
+
+*Authorised for issuance under delegation of the CGC Financial Oversight Board.*
+*CGC-FOB-AUD-75-001 — CONFIDENTIAL — 76-05-20*

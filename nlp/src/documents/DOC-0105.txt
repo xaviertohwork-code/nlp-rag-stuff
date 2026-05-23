@@ -1,0 +1,99 @@
+# EAST HAVEN SECTOR ADMINISTRATION
+## POLICY MEMORANDUM
+
+**Memorandum No.:** EHSA-77-014
+**Date:** 77-01-15 PCE
+**Classification:** OPEN
+**From:** Office of the Sector Administrator, East Haven
+**To:** All Commercial Health Facility Operators, East Haven Sector
+**Re:** Neighbourhood Noise Abatement Guidelines Update — Somatic Clinic Queue Management
+
+---
+
+## 1. PURPOSE
+
+This memorandum sets out updated noise abatement and crowd management requirements applicable to qualifying commercial health facilities operating within the East Haven Sector. These guidelines are issued in response to a sustained and documented pattern of resident complaints arising from overnight and early-morning queuing activity outside certain facilities.
+
+### Background
+
+During 76 PCE, the East Haven Sector Administration received **47 formal noise complaints** originating from residents of East Haven Districts 7-C and 7-D. Complaints were predominantly related to amplified announcements, disorderly queue formations extending across public walkways, and late-night congregations associated with patient intake operations at commercial health facilities. This volume of formal complaints within a single calendar year represents a 210% increase relative to the prior three-year average and necessitates administrative intervention.
+
+---
+
+## 2. APPLICABILITY
+
+These guidelines apply to all **commercial health facilities** operating within the East Haven Sector that record an **average daily foot traffic exceeding 500 persons**, calculated as a rolling 90-day average using entry and exit logs submitted to the Sector Administration under existing commercial licensing conditions. Facilities falling below this threshold are exempt from the specific queue management and curfew provisions of this memorandum but remain subject to all other applicable noise ordinances.
+
+---
+
+## 3. DEFINITIONS
+
+For the purposes of this memorandum:
+
+- **Qualifying Facility:** Any commercial health facility meeting the foot traffic threshold defined in Section 2.
+- **Queue Zone:** The designated area external to a facility entrance within which patient or client queuing is formally managed.
+- **Amplified Sound:** Any audio output produced by electronic amplification devices, including but not limited to loudspeakers, public address systems, handheld megaphones, and broadcast speakers.
+- **Capacity Notification System (CNS):** A digital display or network-accessible notification mechanism meeting minimum specifications issued separately by the Sector Administration.
+
+---
+
+## 4. QUEUE MANAGEMENT REQUIREMENTS
+
+4.1 All qualifying facilities must install and maintain **physical queue barriers** along the designated Queue Zone adjacent to their primary entrance.
+
+4.2 Queue barriers must be freestanding, demountable, and constructed of materials that do not obstruct emergency access routes.
+
+4.3 Queue barriers may not extend **more than 75 meters from the facility entrance** as measured along the public walkway from the outermost edge of the entrance threshold. Extensions beyond this limit into adjacent public space are prohibited regardless of demand volume.
+
+4.4 Facilities are responsible for staffing or contracting sufficient personnel to maintain orderly queue discipline within the Queue Zone at all hours of operation.
+
+---
+
+## 5. NOISE CURFEW
+
+5.1 A **noise curfew** is hereby imposed on all qualifying facilities during the hours of **22:00 to 06:00 local Haven time**.
+
+5.2 During curfew hours, all use of amplified sound and loudspeaker systems — whether internal systems audible externally, external public address systems, or handheld devices — is **prohibited**.
+
+5.3 Written or digital signage systems not producing audible output are exempt from this restriction provided they comply with light-emission standards under existing East Haven commercial signage regulations.
+
+---
+
+## 6. CAPACITY NOTIFICATIONS
+
+6.1 All qualifying facilities must operate and maintain a functional Capacity Notification System at all hours during which the facility is open to members of the public.
+
+6.2 Where facility occupancy reaches or exceeds **90% of declared operational capacity**, the CNS must be **activated immediately**, displaying current wait time estimates and occupancy status in a manner accessible to potential visitors approaching the facility.
+
+6.3 The activation threshold for the CNS is **90% occupancy**. Facilities must not delay activation pending administrative review; activation is an automatic operational obligation upon reaching the defined threshold.
+
+6.4 CNS data must be retained for a minimum of 60 days and made available to the Sector Administration upon request.
+
+---
+
+## 7. ENFORCEMENT
+
+7.1 Compliance inspections may be conducted by Sector Administration officers at any time without prior notice during facility operating hours.
+
+7.2 Violations of any provision of this memorandum carry administrative fines as follows:
+
+- **First offense:** 800 to 1,200 Phi Credits per incident, at the Sector Administrator's discretion based on severity.
+- **Subsequent offenses (within 12 months of prior violation):** 1,200 to 1,800 Phi Credits per incident.
+
+7.3 The full range of fines applicable under this memorandum runs from **800 to 1,800 Phi Credits per incident**, with escalation applied to repeat offenders.
+
+7.4 Persistent non-compliance may be referred to the East Haven Commercial Licensing Authority for review of facility operating conditions.
+
+---
+
+## 8. EFFECTIVE DATE
+
+These guidelines take effect as of **77-02-01 PCE**. Qualifying facilities are afforded a compliance preparation period of 17 days from the date of this memorandum. Enforcement actions will not be initiated for violations occurring prior to the effective date; however, facilities are encouraged to begin implementation immediately.
+
+Queries regarding interpretation or compliance should be directed to the Sector Administration's Facilities Compliance Desk.
+
+---
+
+*Office of the Sector Administrator, East Haven*
+*East Haven Sector Administration*
+*77-01-15 PCE*

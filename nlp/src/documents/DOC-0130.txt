@@ -1,0 +1,93 @@
+# THE EDGE CORPORATION
+## INTERNAL STRATEGIC MEMORANDUM
+
+**CLASSIFICATION: L1 — RESTRICTED CIRCULATION**
+*Distribution: Sim Jiahong (CEO), TEC Executive Committee only. No further distribution without COO authorization.*
+
+---
+
+**TO:** Sim Jiahong, Chief Executive Officer
+**FROM:** Devika Oranyan, Chief Operating Officer
+**DATE:** 77-03-11
+**RE:** Edge Network Capacity Planning Outlook: 77–79 PCE Strategic Assessment
+
+---
+
+### I. PURPOSE
+
+This memorandum is authored by the undersigned, Chief Operating Officer Devika Oranyan, and constitutes TEC's internal strategic assessment of Edge network capacity requirements across the 77–79 PCE planning horizon. It is not a board document and does not reflect board-level deliberation; it represents the COO's independent assessment and recommendation for executive consideration. Given its sensitivity, distribution is restricted to L1 recipients only.
+
+---
+
+### II. CURRENT STATE
+
+As of early 77 PCE, the Edge platform supports approximately **71 million active Fullwalkers** in Haven. This figure represents the current ceiling of stable operational capacity under our existing relay infrastructure and CYPHER satellite node allocation. System load is distributed unevenly across the day, with peak-demand windows in evening and early morning hours consistently running at 91–94% of rated throughput. Redundancy buffers, which our operational standards require to remain at no less than 12% headroom, are being eroded. We are, in practical terms, operating at the edge of our own design tolerances.
+
+Each active user is supported by a local nanobot cluster, with individual cluster sizes ranging between **40,000 and 120,000 nanobots per user depending on body mass and augmentation level**. The aggregate coordination load this places on our E-cluster satellite infrastructure is substantial and is the primary driver of the capacity constraints described below.
+
+---
+
+### III. GROWTH PROJECTIONS
+
+Internal modeling, cross-validated against Haven demographic intake projections and year-on-year Edge adoption curves, projects user growth of **8–12% annually** across the planning horizon. This range accounts for variation in Opted and Edgedancer population dynamics, as well as potential disruption from ongoing regulatory activity targeting fringe user communities.
+
+The practical implication is stark: at the lower bound of 8% annual growth, the Edge platform will exceed sustainable operating limits before the end of 78 PCE. At the upper bound of 12%, pressure becomes critical in mid-to-late 78 PCE. There is no scenario within our current infrastructure envelope in which we comfortably serve projected demand through 79 PCE. The question before us is not whether to act, but which of the available options to pursue.
+
+---
+
+### IV. CAPACITY CONSTRAINTS AND SATELLITE REQUIREMENTS
+
+The binding constraint is E-cluster satellite allocation. Our current node count is insufficient to support projected Tier 3 behavioral coordination demand — the most computationally intensive stratum of Edge operation, encompassing avatar persistence, environmental integration, and nanobot behavioral synchronization — beyond the planning window's midpoint.
+
+Engineering assessments place the minimum threshold for meeting projected Tier 3 demand through the end of 79 PCE at **no fewer than 9 additional CYPHER satellite nodes** allocated to the E-cluster. This figure reflects a conservative modelling assumption; it does not account for potential accelerated adoption scenarios arising from the expanded content ecosystem currently under commercial development.
+
+---
+
+### V. STRATEGIC OPTIONS
+
+Three options have been assessed in detail.
+
+#### Option A: CGC Satellite Allocation Negotiation
+
+*(Political Considerations — see Section VI below)*
+
+This option would yield the lowest capital outlay and the fastest theoretical deployment timeline, as the satellite infrastructure already exists. The central uncertainty is not technical.
+
+#### Option B: Ground-Based Tier 3 Infrastructure Development
+
+Engineering and finance teams have completed a preliminary feasibility assessment of constructing ground-based relay and processing infrastructure capable of absorbing Tier 3 coordination load independent of additional CYPHER satellite nodes. This is technically achievable. The estimated capital requirement is **28 billion Phi Credits**, with a development timeline of approximately **30 months** from authorization to operational capability.
+
+This option preserves TEC's operational independence and avoids the need to seek external approval for infrastructure expansion. It carries the greatest financial exposure and timeline risk of the three options, and 30 months of development places us against the capacity ceiling with minimal margin for delay. Site acquisition, construction permitting within Haven's land-constrained environment, and raw material procurement are all execution risks that must be weighed seriously.
+
+#### Option C: Demand Management via Tiered Service Levels
+
+This option involves implementing aggressive tiering within the existing Fullwalker user base — throttling Tier 3 features for lower-revenue user segments to preserve headroom for premium-tier users. It is operationally feasible in the near term and requires no new capital authorization. However, it is fundamentally a deferral mechanism rather than a solution. The experience degradation associated with aggressive throttling carries reputational and commercial risks that our competitive position cannot easily absorb, particularly at a moment when the platform's content ecosystem is expanding. This option may be appropriate as a supplemental measure, but cannot serve as the primary capacity strategy.
+
+---
+
+### VI. POLITICAL CONSIDERATIONS
+
+Option A's viability is conditioned entirely on the CGC approval process. Any formal request for additional CYPHER satellite node allocation must be submitted through the CGC's resource coordination mechanism, where such requests are evaluated collectively by member corporations. The Old 3 Firms have historically and consistently opposed expanding TEC's share of CYPHER resources, viewing any increase in TEC's satellite footprint as a structural shift in the platform balance that disadvantages their own operational interests. There is no reason, based on current CGC dynamics, to expect that this disposition has materially changed. A CGC submission in the current environment should be assessed with clear eyes as to the probability of approval: low, unless accompanied by concessions we are not currently positioned to make.
+
+This political reality does not foreclose Option A, but it shapes the preparation required. Any CGC submission should be accompanied by coalition-building efforts aimed at Genesis Labs, whose vote calculus on CYPHER resource questions differs meaningfully from the Old 3's, and should be timed carefully relative to other pending CGC matters.
+
+---
+
+### VII. SUMMARY RECOMMENDATION
+
+This assessment does not recommend a single option to the exclusion of others. The COO's considered view is as follows:
+
+TEC should initiate a parallel-track approach: authorize preliminary feasibility and site-acquisition work for Option B while simultaneously preparing a carefully timed CGC submission under Option A. Option C tiering should be implemented in limited form immediately to recover redundancy buffer headroom, buying operational runway while the longer-term options develop.
+
+The 30-month development timeline for Option B, combined with the 8–12% annual growth projection, makes a pure Option B strategy uncomfortably tight. A pure Option A strategy carries approval risk that cannot be dismissed. The parallel-track approach preserves optionality and signals to the CGC that TEC is prepared to resolve its capacity requirements with or without their cooperation — a signalling dimension that, in this reviewer's assessment, should not be undervalued.
+
+I am available to discuss at the Executive Committee's convenience.
+
+---
+
+*Devika Oranyan*
+*Chief Operating Officer, The Edge Corporation*
+*77-03-11*
+
+---
+**L1 — RESTRICTED CIRCULATION — THE EDGE CORPORATION — INTERNAL USE ONLY**

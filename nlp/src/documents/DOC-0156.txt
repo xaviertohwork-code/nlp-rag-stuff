@@ -1,0 +1,117 @@
+# CGC RESOLUTION 77-015
+
+## REVISED FRAMEWORK FOR INTER-SECTOR TRANSIT OVERSIGHT IN HAVEN ISLAND SPECIAL ECONOMIC ZONE
+
+---
+
+**Issuing Authority:** Clairos Governance Council
+**Drafted by:** CGC Secretariat, Office of Regulatory Affairs
+**Resolution Number:** 77-015
+**Date of Adoption:** 77-02-18
+**Classification:** OPEN
+
+---
+
+## PREAMBLE
+
+The Clairos Governance Council, assembled in formal session on 77-02-18 at the CGC Assembly Chamber, Haven Island Special Economic Zone;
+
+**RECALLING** the foundational mandate of the Clairos Governance Council to maintain conditions of economic stability and operational security within the Haven Island Special Economic Zone for the benefit of all member corporations and the Havenite population;
+
+**ACKNOWLEDGING** the administrative framework establishing Haven's five sectors — North, East, West, South, and Central — as administratively distinct operational zones whose boundaries are traversed daily by Havenite residents, workers, and commercial freight;
+
+**HAVING RECEIVED** Proposal 77-P-04 from Cyanite Industries, submitted to the CGC Secretariat on 77-01-09, which formally proposed the adoption of standardized inter-sector transit monitoring on the basis of documented evidence that unauthorized materials transport between sectors increased by 17% in 76 PCE relative to the preceding year, and which identified this trend as presenting an escalating risk to the operational integrity of Haven's sector infrastructure;
+
+**HAVING REVIEWED** the technical annexes accompanying Proposal 77-P-04, including volumetric transport data, incident classification records, and proposed checkpoint siting assessments prepared by Cyanite Industries' Logistics Security Division;
+
+**HAVING SOLICITED** formal comment from all member corporations during the statutory comment period of 77-01-12 through 77-02-03;
+
+**HAVING DELIBERATED** upon the comments received, including substantive objections lodged by Genesis Labs and The Edge Corporation;
+
+**HEREBY RESOLVES** as follows:
+
+---
+
+## ARTICLE I — DESIGNATION OF INTER-SECTOR CROSSING POINTS
+
+**Section 1.1.** The CGC Secretariat, Office of Regulatory Affairs, hereby designates **47 inter-sector crossing points** across Haven Island as official transit monitoring locations ("Designated Crossing Points"). The complete list of Designated Crossing Points, including their precise geospatial coordinates and the adjacent sector pairings each serves, is set out in Schedule A to this Resolution, incorporated herein by reference.
+
+**Section 1.2.** The Designated Crossing Points shall collectively encompass all principal vehicular corridors, commercial freight transit lanes, and high-volume pedestrian throughways at sector boundaries. Minor residential access points not meeting the volumetric thresholds defined in Schedule B are excluded.
+
+**Section 1.3.** No member corporation may establish additional inter-sector monitoring infrastructure beyond the Designated Crossing Points except pursuant to a subsequent CGC resolution adopted with majority approval.
+
+---
+
+## ARTICLE II — STANDARDIZED TRANSIT MONITORING EQUIPMENT
+
+**Section 2.1.** Each Designated Crossing Point shall be equipped with standardized transit monitoring equipment conforming to Technical Specification CGC-TS-77-004, issued concurrently by the CGC Secretariat's Office of Technical Standards. This specification establishes minimum requirements for sensor arrays, volumetric counting mechanisms, material classification systems, and tamper-evident data logging.
+
+**Section 2.2.** The member corporation whose sector is designated the administrative host of each crossing point (as identified in Schedule A) shall bear primary responsibility for procurement, installation, and routine maintenance of monitoring equipment at that crossing point, at its own cost. Joint-administered crossing points on Central Haven boundaries shall be funded through equal apportionment among affected adjacent sectors.
+
+**Section 2.3.** Equipment installed pursuant to this Resolution shall be subject to annual audit by the CGC Secretariat's Office of Technical Standards. Member corporations shall provide unrestricted access for audit purposes within five business days of a written audit request.
+
+---
+
+## ARTICLE III — DATA COLLECTION, SHARING, AND COMPLIANCE OBLIGATIONS
+
+**Section 3.1.** Each Designated Crossing Point's monitoring equipment shall log anonymized transit volume data in a format compatible with the CGC Secretariat's Central Transit Registry, as specified in Technical Specification CGC-TS-77-004.
+
+**Section 3.2.** Each member corporation responsible for one or more Designated Crossing Points shall transmit complete anonymized transit volume data collected at those points to the CGC Secretariat on a **weekly basis**, no later than 18:00 Haven Standard Time on the Monday following the close of each calendar week. Failure to transmit within the required window shall constitute a compliance deficiency subject to the remediation provisions of Section 3.4.
+
+**Section 3.3.** Data transmitted pursuant to Section 3.2 shall be anonymized at the level of individual traveler or vehicle identity. Aggregate volume figures, material classification codes, and transit directional flows shall be retained. The CGC Secretariat shall not share raw transmission data among member corporations without a separate resolution authorizing such sharing.
+
+**Section 3.4.** Member corporations found in non-compliance with data transmission obligations under Section 3.2 shall be issued a written deficiency notice by the CGC Secretariat. Repeated deficiency (defined as three or more failures within any rolling 90-day window) shall trigger a formal compliance review before the CGC.
+
+---
+
+## ARTICLE IV — IMPLEMENTATION TIMELINE
+
+**Section 4.1.** The implementation deadline for full equipment installation and operational activation at all 47 Designated Crossing Points is **77-06-01**.
+
+**Section 4.2.** A compliance grace period of **90 days** following the implementation deadline is hereby established. During the grace period, member corporations that have not achieved full operational compliance at all assigned Designated Crossing Points by 77-06-01 shall not be subject to formal deficiency proceedings under Article III, provided they submit to the CGC Secretariat a written progress report no later than 77-06-01 detailing the status of each outstanding installation and a projected completion schedule.
+
+**Section 4.3.** Following the conclusion of the grace period, all Designated Crossing Points must be fully operational and data transmissions must be current. Compliance deficiencies identified after the grace period's conclusion shall be subject to the full remediation regime of Section 3.4 without further allowance.
+
+---
+
+## ARTICLE V — RESERVATION OF RIGHTS
+
+**Section 5.1.** Nothing in this Resolution shall be construed to authorize the collection of personally identifiable medical or clinical records at any Designated Crossing Point. Monitoring equipment shall not interface with Genesis Labs Somatic Clinic administrative systems or with patient intake infrastructure in East Haven.
+
+**Section 5.2.** This Resolution does not alter the rights of Havenite residents to transit freely between sectors as established by the Blackshore Accords and subsequent CGC governance instruments.
+
+---
+
+## ADOPTION AND VOTING RECORD
+
+This Resolution was adopted by the Clairos Governance Council on **77-02-18** by a vote of **3 in favor, 2 against**, as follows:
+
+| Member Corporation     | Vote    |
+|------------------------|---------|
+| Cyanite Industries     | For     |
+| ONE Network Enterprises| For     |
+| Phyrexis Group         | For     |
+| Genesis Labs           | Against |
+| The Edge Corporation   | Against |
+
+---
+
+## APPENDIX: SUMMARY OF DISSENTING POSITIONS
+
+*The following summaries are entered into the formal record pursuant to CGC Procedural Rule 7(c), which permits member corporations voting against an adopted resolution to lodge a statement of dissent for the record. Dissenting statements do not affect the operative force of the Resolution.*
+
+**Genesis Labs (Dissenting):**
+Genesis Labs formally objects to the scope of monitoring established under Articles I and II as applied to East Haven crossing points proximate to Genesis Labs Somatic Clinic facilities. Genesis Labs' stated position is that the operation of standardized transit monitoring equipment at these crossing points presents a material risk of interference with patient confidentiality protections applicable to individuals accessing Somatic Clinic services, and that the safeguards in Article V, Section 5.1 are administratively insufficient to prevent incidental identification of clinical patients through transit pattern analysis. Genesis Labs reserves all rights to seek further legislative remedy at subsequent CGC sessions.
+
+**The Edge Corporation (Dissenting):**
+The Edge Corporation voted against Resolution 77-015. The Edge Corporation did not provide a formal statement of grounds for its dissenting vote during the comment period or at the 77-02-18 session. Accordingly, no specific grounds are recorded in this instrument on behalf of The Edge Corporation. The absence of a stated rationale in the record reflects the Corporation's choice not to submit one; the Secretariat makes no inference as to the Corporation's reasons.
+
+---
+
+*Certified as a true record of the Clairos Governance Council.*
+
+**CGC Secretariat, Office of Regulatory Affairs**
+Haven Island Special Economic Zone
+77-02-18
+
+*[OPEN — Unrestricted Distribution]*

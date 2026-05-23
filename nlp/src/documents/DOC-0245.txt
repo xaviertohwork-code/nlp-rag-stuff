@@ -1,0 +1,87 @@
+# CYANITE INDUSTRIES — MARITIME SECURITY DIVISION
+## INCIDENT REPORT IR-76-0439
+**Classification: RED**
+**Author: Captain Dren Molvane, Cyanite Maritime Security Division**
+**Date: 76-09-14**
+
+---
+
+## INCIDENT SUMMARY
+
+On 76-09-12, Cyanite Maritime Security Division (CMSD) interdiction vessel *CY-Stalwart* intercepted and boarded the cargo vessel MV *Brighthollow* at a position 47 nautical miles north-northeast of Sarento, within Cyanite-designated territorial patrol zone Sector 7-North. Seizure of concealed prohibited cargo followed. Three crew members detained. Vessel and cargo held pending full intelligence review.
+
+---
+
+## OPERATIONAL CONTEXT
+
+CMSD maintains a standing patrol complement of 12 interdiction vessels covering the Sarento approaches. Routine route-monitoring sweep flagged the MV *Brighthollow* as a vessel of interest following anomalous course corrections inconsistent with its filed transit plan. The vessel had departed from a mid-Sharpsea waypoint and was not tracking toward any registered Haven Island berth.
+
+Sector 7-North has seen elevated activity consistent with suspected Conclave staging and materiel pre-positioning over the preceding quarter. Standing patrol orders authorize boarding inspection of any unregistered or anomalously routed vessel in this zone.
+
+---
+
+## BOARDING SEQUENCE
+
+76-09-12 / 07:14 — *CY-Stalwart* issues hail to MV *Brighthollow*. Vessel complies after second hail. No hostile action during approach.
+
+76-09-12 / 07:31 — Boarding party (8 personnel, CMSD standard complement) secures vessel bridge. Master presents cargo documents. Preliminary manifest inspection deemed insufficient to account for vessel's draft and course anomalies.
+
+76-09-12 / 07:55 — Secondary sweep of lower cargo hold initiated. Discrepancy between declared cargo volume and physical hold configuration confirmed.
+
+76-09-12 / 08:22 — Concealed secondary compartment identified and breached. Boarding party secures hold. All three crew members detained without incident. Vessel secured under prize protocols pending tow to Sarento harbor.
+
+---
+
+## CARGO INSPECTION
+
+Concealed compartment contained **14 crates** of undeclared materiel. Physical inspection confirmed contents as satellite maintenance components, specifically:
+
+- Radiation-hardened circuit boards (multiple variant configurations, consistent with orbital-environment AI cluster maintenance profiles)
+- Micro-thruster assemblies (compact format, consistent with station-keeping applications for mid-to-large orbital platforms)
+
+Filed cargo manifest declared contents as **industrial water filtration parts** bound for a desalination facility on Haven Island. Declared contents not present aboard vessel. No filtration equipment of any description was recovered. Manifest is assessed as fabricated in its entirety for the purpose of masking the true cargo.
+
+Components are assessed as consistent with materiel known to support CYPHER network maintenance requirements. Full technical analysis to follow from Cyanite Materials Intelligence Branch.
+
+---
+
+## PERSONNEL ACTIONS
+
+**Three crew members detained** at time of boarding. No injuries to boarding party or detainees.
+
+Detainee status as of report date:
+
+- **Crew Member 1 (identified as vessel master):** Confirmed Conclave Acolyte. Encrypted communication device recovered from person; device assessed as matching known Conclave cryptographic signature architecture. Ritual tattoos consistent with Acolyte initiation markings confirmed by CMSD intelligence reference catalogue. Transferred to Sarento holding facility. Interrogation ongoing.
+
+- **Crew Member 2 (identified as engineering officer):** Confirmed Conclave Acolyte. Encrypted communication device recovered. Ritual tattoos confirmed. Transferred to Sarento holding facility. Interrogation ongoing.
+
+- **Crew Member 3 (identified as cargo handler, no formal ship's papers):** Under continued interrogation. Status with respect to organizational affiliation not confirmed at time of this report.
+
+---
+
+## CHAIN OF NOTIFICATION
+
+| Time | Recipient | Method |
+|---|---|---|
+| 76-09-12 / 11:47 | CMSD Regional Command, Sarento | Encrypted channel |
+| 76-09-12 / 12:09 | Cyanite Industries Intelligence Branch | Encrypted channel |
+| 76-09-12 / 12:34 | Director-General Takeshi Oyelaran | Secure briefing (verbal, via aide) |
+
+Director-General Oyelaran was briefed on the seizure within four hours of the boarding action, consistent with RED-classification mandatory notification protocols.
+
+CGC CYPHER Interdiction Working Group notification deferred pending CMSD command authorization. Recommendation: notify within 48 hours.
+
+---
+
+## RECOMMENDATIONS
+
+1. Escalate cargo technical analysis to CGC-level distribution given CYPHER-consistent component profiles.
+2. Expand Sector 7-North patrol rotation frequency pending intelligence assessment of suspected staging area location.
+3. Cross-reference MV *Brighthollow* filing history with Kashikari Hegemony vessel registry for transit pattern analysis.
+4. Resolve Crew Member 3 affiliation status before any inter-agency transfer.
+5. Review manifest verification protocols at all Sarento-approach waypoints; fabricated documentation in this case was internally consistent and passed initial automated screening.
+
+---
+
+*Report submitted by Captain Dren Molvane, CMSD Sector 7-North Command.*
+*Classification: RED. Distribution restricted to authorized Cyanite Industries personnel and designated CGC counterparts only.*

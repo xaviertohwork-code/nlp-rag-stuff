@@ -1,0 +1,67 @@
+# WE THE OPTED
+## Platform Position Paper: Civic Participation Rights for Opted Havenites
+
+**Document Reference:** WTO-PP-76-001
+**Date:** 76-03-12
+**Classification:** OPEN
+**Author:** Mira Delacroix-Vey, Founder and Leader, We The Opted
+
+---
+
+### Author's Note
+
+This paper is authored by Mira Delacroix-Vey, founder of We The Opted. Prior to founding WTO in 71 PCE (2113 CE), the author served as a compliance officer at Phyrexis Group, a tenure that ended when she witnessed and reported internal financial fraud in 70 PCE. She subsequently Opted, and has since dedicated her professional efforts to civic advocacy on behalf of the Opted community. Her background in corporate regulatory compliance directly informs the evidentiary standards and procedural proposals contained in this paper.
+
+---
+
+### I. Introduction
+
+We The Opted presents this position paper as a formal statement of our organization's stance on the systematic exclusion of Opted Havenites from civic participation within the Haven Island Special Economic Zone. This is not a paper about the merits or ethics of Edge technology itself. It is a paper about administrative equity: the principle that every Havenite, regardless of their relationship to nanobot integration, must retain meaningful access to the civic infrastructure that governs their life.
+
+We The Opted was founded in 71 PCE by the undersigned, initially as a support and advocacy network for Havenites who had chosen to purge Edge nanobots from their bodies. In the years since, our membership has grown to encompass those broadly opposed to the unchecked influence of megacorporate systems over daily Havenite life. As of early 76 PCE, WTO's membership rolls include approximately 340,000 Havenites who are formally registered members and have formally Opted — a figure that represents only a fraction of the total Opted population across Haven. These 340,000 individuals are the documented base from which the evidence in this paper is drawn.
+
+---
+
+### II. Background
+
+For most of Haven's history, CGC administrative services were delivered through multi-channel access systems: physical offices, text-based digital portals, and, subsequently, Edge-integrated interfaces. Opted residents could navigate bureaucratic processes through non-Edge channels, experiencing inconvenience but not categorical exclusion.
+
+Beginning in 74 PCE, the CGC Civic Services Directorate commenced a phased transition of administrative service portals to Edge-only interfaces. This transition, completed across most major service categories by early 75 PCE, was presented as a modernization initiative intended to reduce processing backlogs and improve service personalization through nanobot behavioral data integration. No formal accessibility review was published prior to implementation. No public comment period was held.
+
+The consequence was predictable and documentable: for Havenites who have Opted, CGC administrative processes that once required effort now require the biological reintegration of a technology they have deliberately and lawfully chosen to remove from their bodies.
+
+---
+
+### III. Evidence of Exclusion
+
+WTO's documentation effort, drawing substantially on senior organizer field research conducted across multiple Haven sectors, has catalogued a breadth of administrative exclusion that goes well beyond isolated inconvenience.
+
+The categories of documented harm include: denial of access to medical subsidy recertification portals, requiring Opted individuals to present in person at facilities whose in-person intake processes were formally closed during the same transition period; inability to submit occupational licensing renewals for fourteen trades and service categories that moved to Edge-verified credential systems in 74 PCE; failure to receive mandatory CGC public health notifications distributed exclusively through Edge broadcast infrastructure; and, in a particularly acute cluster of cases, denial of access to the Haven Residential Mobility Program. In this last category, WTO has documented 14 cases in which Opted residents were denied housing relocation permits — not employment permits, not commercial licenses, but housing relocation permits specifically — solely because the application and verification pathway requires active Edge-nanobot integration for identity authentication. In each of these 14 cases, the applicants were otherwise fully qualified and had no adverse administrative history. The denial in every instance was attributed to system incompatibility, not eligibility failure.
+
+Taken together, these exclusions constitute a de facto administrative penalty imposed on any Havenite who exercises the lawful choice to remove Edge nanobots from their body.
+
+---
+
+### IV. Legislative Proposals
+
+We The Opted puts forward the following remedies as the minimum necessary standard for civic equity in Haven.
+
+**Proposal 1 — Mandatory Parallel Access Channels.** All CGC administrative services must maintain parallel non-Edge access channels capable of delivering every function available through Edge-integrated portals. These channels may be delivered through dedicated physical service offices, text-based secure digital interfaces, or a combination thereof. No administrative function may be made available exclusively through an Edge-dependent pathway. This requirement should be formalized through a CGC Resolution and enforced by the Civic Services Directorate under a public compliance calendar.
+
+**Proposal 2 — Identity Authentication Alternatives.** The CGC Civic Services Directorate must develop and deploy at least two Edge-independent identity authentication methods across all service categories, within six months of adoption of this proposal.
+
+**Proposal 3 — Retrospective Case Review.** All administrative denials issued on the basis of Edge-incompatibility since 74 PCE should be subject to mandatory review and, where the underlying eligibility criteria are met, reversal. The 14 documented housing relocation permit denials represent only those cases WTO has been able to verify; the actual figure is believed to be substantially higher.
+
+**Proposal 4 — Accessibility Impact Assessment.** Any future transition of CGC administrative processes to new technological interfaces must be preceded by a published accessibility impact assessment, with a minimum 45-day public comment period before implementation.
+
+---
+
+### V. Conclusion
+
+The choice to Opt is a lawful exercise of personal autonomy within the Haven Island Special Economic Zone. It should not be, and must not become, a disqualification from civic life. We The Opted calls on the CGC to implement the proposals contained in this paper not as a concession to a minority interest, but as a fulfillment of the basic administrative equity that any governance structure owes to the population it claims to serve.
+
+This paper is submitted for public record and will be formally presented to the CGC Civic Services Directorate on 76-04-01.
+
+---
+
+*We The Opted — Founded 71 PCE. Advocating for Opted Havenites and all those who resist megacorporate overreach.*

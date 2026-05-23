@@ -1,0 +1,80 @@
+# CYANITE INDUSTRIES
+## INCIDENT REPORT CI-IR-7804
+### Reactor 4 Unscheduled Shutdown — Coolant Intake Failure
+**Classification: RED**
+**Reporting Unit:** Floodwall Nuclear Operations Division, North Haven Reactor Complex
+**Author:** Shift Supervisor, Watch Alpha, North Haven Reactor Complex
+**Date Filed:** 73-05-19
+**Incident Date:** 73-05-17
+
+---
+
+## 1. INCIDENT SUMMARY
+
+An unscheduled emergency shutdown of Reactor 4 occurred on 73-05-17, commencing at **0347 hours**, due to a complete blockage of the primary seawater coolant intake channel. The blockage resulted from abnormal marine biological growth accumulated within the intake infrastructure — a fouling event of a scale not previously recorded at this facility. Concurrent offline status of Reactor 2 for scheduled maintenance created a two-reactor-offline condition and a reduction of total pumping capacity to approximately **87 percent** of rated capacity. A **Category Amber infrastructure emergency** was declared at **0412 hours on 73-05-17**. This is the first Category Amber declaration at the North Haven complex since **62 PCE**, a period of eleven years.
+
+Category Amber declaration was made collectively by the Watch Operations staff in accordance with Standing Operational Protocol SOP-NUC-07 and recorded in the duty log; no individual declarer is named, as the protocol specifies a threshold-triggered collective declaration rather than a named individual authority.
+
+---
+
+## 2. EVENT LOG
+
+| Time (73-05-17) | Event |
+|---|---|
+| **0312** | Reactor 4 coolant flow rate anomaly first registered on primary intake monitors. Initial reading: 78% nominal. Operator notified. |
+| **0319** | Secondary intake valve opened to compensate. Flow rate continues to decline. Intake pressure differential flagged. |
+| **0331** | Flow rate drops below 50% nominal. Emergency intake flush protocol initiated. No recovery observed. |
+| **0347** | Automatic emergency SCRAM activated. Reactor 4 enters unscheduled shutdown. Control room Watch Alpha assumes incident posture. |
+| **0351** | Inspection team deployed to intake channel access points. |
+| **0358** | Physical inspection confirms full blockage of primary intake channel. Dense marine biological material — consistent with accelerated filter-feeding colony growth — identified occluding intake screens and channel walls. Secondary intake channel partially obstructed. |
+| **0412** | Category Amber infrastructure emergency declared per SOP-NUC-07. Reactor 2 confirmed offline (scheduled maintenance window, commenced 73-05-14). Two-reactor-offline condition formally logged. |
+| **0445** | Emergency repair and clearance teams mobilized. Channel decontamination and mechanical clearing commenced. |
+| **0600** | Pumping capacity assessment completed: available capacity at approximately **87 percent** of rated capacity. CGC-mandated minimum threshold is **85 percent**. Operational margin confirmed adequate; no public service interruption. |
+| **0715** | Preliminary notification dispatched to Cyanite Industries North Haven Site Director and Nuclear Operations Division Head. |
+
+---
+
+## 3. ROOT CAUSE ANALYSIS
+
+**Primary Cause:** Abnormal bioaccumulation within Reactor 4's seawater coolant intake infrastructure. Post-incident biological sampling identified dense colonies of sessile marine organisms — primarily barnacle-class and filter-feeding mussel-analog species — accumulated throughout the intake screening infrastructure and channel walls. Growth density is estimated at approximately 4.2 times the baseline fouling rate recorded during the most recent annual inspection (72 PCE).
+
+**Contributing Factors:**
+
+- Intake channel inspection intervals are currently set annually. The rate of biological growth observed is inconsistent with conditions that would be detectable on an annual inspection cycle.
+- No abnormal readings were registered during the 72 PCE annual inspection, indicating the fouling accelerated significantly within the intervening twelve-month period.
+- Secondary intake channel showed partial obstruction, suggesting the biological fouling event was not confined to a single point in the intake infrastructure.
+
+**Classification of Fouling Event:** This event is recorded as a technical anomaly specific to the intake channel conditions at this facility. No systemic or environmental causation attribution is made in this report.
+
+---
+
+## 4. IMPACT ASSESSMENT
+
+**Floodwall Pumping Capacity:** During the dual-reactor-offline period, available pumping capacity fell to approximately **87 percent** of rated capacity, narrowly remaining above the CGC-mandated minimum operational threshold of **85 percent**. No reduction in actual floodwall pumping output was required; full sea-level retention capability was maintained throughout.
+
+**Duration of Outage:** Emergency repair and biological clearance operations commenced at 0445 on 73-05-17. Reactor 4 was restored to full operational service at **0852 on 73-05-19**, following **53 hours** of continuous emergency repair work. Reactor 2 remained on scheduled maintenance throughout and was not affected by the incident.
+
+**Category Amber Status:** Category Amber emergency status was maintained from 0412 on 73-05-17 and formally stood down upon Reactor 4 restoration to service.
+
+**Public Services:** No interruption to floodwall operations, freshwater reverse osmosis output, or power distribution occurred.
+
+---
+
+## 5. RECOMMENDATIONS
+
+Following review by the Watch Alpha incident team and Nuclear Operations Division, the following corrective actions are recommended:
+
+**R1 — Quarterly Biological Surveys:** Implement mandatory quarterly biological surveys of all coolant intake channels across the North Haven Reactor Complex. Current annual inspection intervals are insufficient to detect and respond to accelerated fouling events of the type recorded in this incident.
+
+**R2 — Anti-Fouling Intake Screening Upgrade:** Procure and install anti-fouling coating and screening systems on all primary and secondary coolant intake infrastructure. Specification review to be completed within 30 days.
+
+**R3 — Concurrent Outage Scheduling Review:** Review scheduling protocols to ensure that the combination of any unplanned reactor outage with a scheduled maintenance window is assessed against pumping capacity margins before maintenance windows commence. Where the combined offline risk would breach or closely approach the 85 percent threshold, maintenance windows should be deferred.
+
+**R4 — Intake Monitoring Frequency:** Increase automated flow-rate threshold alerting sensitivity to provide earlier warning of intake degradation below 90 percent nominal flow.
+
+---
+
+**Filed by:** Shift Supervisor, Watch Alpha, North Haven Reactor Complex
+**Date:** 73-05-19
+**Classification: RED**
+*Distribution restricted to Nuclear Operations Division, Site Director's Office, and Cyanite Industries Safety Review Board.*

@@ -1,0 +1,75 @@
+# CYANITE INDUSTRIES
+## INTERNAL INCIDENT REPORT
+
+**Report Number:** CI-76-0419
+**Classification:** YELLOW
+**Authoring Division:** Structural Engineering & Infrastructure Integrity
+**Subject:** Structural Failure at North Haven Floodwall Retaining Tank NR-7
+**Incident Date:** 76-08-01
+**Report Date:** 76-08-03
+**Author:** Structural Engineer, Northern Floodwall Maintenance Division
+**Distribution:** Director of Infrastructure Operations; North Haven Site Manager; Floodwall Systems Engineering; Legal Compliance (Internal)
+
+---
+
+## SECTION 1 — INCIDENT SUMMARY
+
+Retaining tank NR-7, a component of the northern Floodwall infrastructure maintained by Cyanite Industries on the northern shore of Haven Island, sustained a structural crack of 2.3 meters in length along its interior southeastern wall face. The defect was identified during a scheduled routine inspection conducted on 76-08-01. Emergency containment and sealing operations were initiated upon confirmation of the finding. This report documents the discovery timeline, emergency response, root cause analysis, impact assessment, and recommended corrective actions.
+
+---
+
+## SECTION 2 — DISCOVERY TIMELINE
+
+**76-08-01, 06:14:** Routine scheduled inspection of northern retaining tank array commences per quarterly maintenance cycle. Inspection team: two certified structural inspection technicians and one supervising engineer.
+
+**76-08-01, 09:47:** Inspection team identifies anomalous surface discoloration and faint stress fracture pattern on the interior southeastern face of NR-7. Initial visual assessment suggests active crack propagation.
+
+**76-08-01, 10:23:** Crack confirmed via ultrasonic thickness gauge and dye penetrant testing. Recorded dimensions: 2.3 meters in length, maximum aperture of 1.4 millimeters at the widest measured point, with an estimated depth penetration of 68% through the tank wall at the deepest section. Site supervisor notified immediately.
+
+**76-08-01, 10:31:** Incident formally logged. North Haven Site Manager notified. Structural emergency protocol initiated under Floodwall Emergency Operations Procedure FW-E-004.
+
+---
+
+## SECTION 3 — EMERGENCY RESPONSE
+
+Emergency sealing operations were mobilized within 4 hours of the initial discovery of the structural crack. A containment team was deployed to NR-7 with marine-grade structural epoxy injection equipment and supplementary external bracing assemblies. Given the depth penetration and proximity of NR-7 to the active pump-drain cycle for the northern array, partial rerouting of the drainage load was executed to adjacent tanks NR-6 and NR-8 to reduce hydraulic pressure on the compromised section during repair.
+
+Sealing operations proceeded in two stages: primary epoxy injection along the crack profile, followed by external steel patch application and weld sealing at the perimeter. The full sealing operation was completed 18 hours after the crack's initial discovery. Structural integrity verification testing — including hydrostatic pressure testing at 110% of standard operational load — was conducted immediately following completion and confirmed an adequate temporary seal.
+
+NR-7 remains under elevated monitoring status pending permanent structural remediation (see Section 6 — Recommendations).
+
+---
+
+## SECTION 4 — ROOT CAUSE ANALYSIS
+
+Preliminary root cause analysis identifies the primary failure mechanism as progressive corrosion resulting from prolonged saltwater exposure at a previously repaired section of the NR-7 wall. Corrosion indicators — including pitting morphology, oxidation layer composition, and crack propagation geometry — are consistent with galvanic corrosion accelerated by dissimilar metal contact at the 74 PCE weld repair zone.
+
+Materials analysis of the affected zone, conducted by the Internal Metallurgical Assessment Unit on 76-08-02, confirmed that the alloy composition of the repair section installed during the 74 PCE scheduled maintenance cycle does not meet Cyanite Industries' Floodwall Structural Standard CI-FSS-12, which specifies a minimum chromium-nickel content for all retaining tank wall materials in constant saltwater contact zones. The replacement alloy installed in 74 PCE falls below this threshold by approximately 14% on chromium content and 9% on nickel content.
+
+Procurement records indicate that the substandard alloy was not sourced from an external contractor. The replacement material was procured and supplied from Cyanite Industries' own Sarento manufacturing operation, through a cost-reduction initiative approved at the Sarento manufacturing level in 73–74 PCE. This initiative authorized substitution of non-standard alloy stock for certain secondary infrastructure repair components in order to reduce per-unit materials cost. The substitution was not flagged against CI-FSS-12 compliance requirements at the time of procurement approval, indicating a breakdown in cross-referencing between the cost-reduction program's materials authorization chain and the Infrastructure Compliance Review Office.
+
+The corrosion failure is therefore attributable to the interaction of prolonged saltwater exposure — a foreseeable and documented environmental condition for all northern array retaining tanks — with the below-specification alloy material installed during the 74 PCE repair. The failure was not attributable to design error in the original NR-7 construction or to abnormal environmental conditions during the incident period.
+
+---
+
+## SECTION 5 — IMPACT ASSESSMENT
+
+The incident resulted in no civilian casualties and no flooding of the Haven Island Special Economic Zone. The Floodwall system's layered redundancy architecture functioned as designed during the emergency period: adjacent retaining tanks absorbed redistributed load without incident, and the pump-drain cycle maintained full operational effectiveness throughout the sealing operation. The public water supply and reverse osmosis output from the northern array were unaffected.
+
+Operational disruption was limited to NR-7 and the immediate maintenance zone. No evacuation of adjacent North Haven sectors was required.
+
+---
+
+## SECTION 6 — RECOMMENDATIONS
+
+1. **Immediate:** Conduct full materials compliance audit of all retaining tank repair work completed under the 73–74 PCE Sarento cost-reduction initiative, cross-referenced against CI-FSS-12 and related structural standards. Priority inspection order should prioritize northern array tanks exposed to the highest saltwater contact duration.
+
+2. **Short-term:** Initiate permanent structural remediation of NR-7, replacing the compromised wall section with CI-FSS-12-compliant alloy material sourced and verified through the standard Infrastructure Compliance Review process.
+
+3. **Procedural:** Review and revise the materials authorization chain for cost-reduction procurement initiatives to require mandatory cross-referencing against applicable structural compliance standards prior to approval at any manufacturing level.
+
+4. **Monitoring:** Maintain elevated inspection frequency for NR-7 (bi-weekly) until permanent remediation is complete.
+
+---
+
+*Report prepared by the Structural Engineering & Infrastructure Integrity Division, Cyanite Industries. YELLOW classification. Internal distribution only.*

@@ -1,0 +1,119 @@
+# CGC RESOLUTION 49-MC-001
+## Preliminary Megacorporation Revenue Benchmarks and Maintenance Thresholds Framework (Pre-Accession Draft)
+
+**Issuing Body:** Clairos Governance Council — Administrative Secretariat
+**Resolution Number:** 49-MC-001
+**Date of Adoption:** 49-03-22 (2091-03-22 CE)
+**Classification:** OPEN
+**Status:** PRELIMINARY FRAMEWORK INSTRUMENT — SUBJECT TO REVISION PRIOR TO FINAL ADOPTION
+
+---
+
+## PREAMBLE
+
+WHEREAS the Clairos Governance Council (hereinafter "the CGC" or "the Council") was constituted under the Blackshore Accords of 2046 CE for the purpose of maintaining orderly governance of the Haven Island Special Economic Zone and promoting stable commercial relations among its member megacorporations;
+
+WHEREAS the CGC has operated since its founding without formal codified benchmarks governing the financial thresholds required for continued megacorporation status or for the accession of new members, relying instead upon informal consensus determinations and precedent;
+
+WHEREAS changed circumstances — specifically the emergence of one or more commercial entities whose scale of operations may, in the near term, satisfy criteria reasonably associated with megacorporation standing — have rendered it necessary for the Council to establish a preliminary framework against which formal accession applications may be assessed;
+
+WHEREAS the Administrative Secretariat has prepared draft financial benchmarks and accession criteria for the Council's consideration, presented herein as a preliminary instrument subject to negotiation, revision, and formal supersession upon adoption of a final resolution;
+
+NOW, THEREFORE, the Clairos Governance Council hereby adopts the following Preliminary Megacorporation Revenue Benchmarks and Maintenance Thresholds Framework as a provisional instrument, designated Resolution 49-MC-001, effective upon the date of adoption recorded above.
+
+---
+
+## ARTICLE I — DEFINITIONS
+
+**Section 1.1** "Megacorporation Status" shall mean the formal standing of a commercial entity as a member of the Clairos Governance Council, carrying with it all rights, obligations, and privileges established under the Blackshore Accords and subsequent Council instruments.
+
+**Section 1.2** "Maintenance Benchmarks" shall mean the ongoing financial thresholds which existing member megacorporations must satisfy to retain Megacorporation Status, as further specified in Article II.
+
+**Section 1.3** "Accession Thresholds" shall mean the financial and operational criteria which a non-member commercial entity must satisfy to be eligible to apply for Megacorporation Status, as further specified in Articles III and IV.
+
+**Section 1.4** "Regulatory Annex 49-A" shall mean the schedule of draft revenue and profitability figures appended to this resolution, which figures are explicitly provisional and subject to revision before codification in any final instrument.
+
+**Section 1.5** "Anticipated Candidate" shall mean any commercial entity which, at the time of this resolution's adoption, has publicly or through formal communication to the Secretariat indicated its intention to seek Megacorporation Status.
+
+**Section 1.6** "Final Accession Resolution" shall mean any subsequent Council instrument superseding this preliminary framework, incorporating revised benchmarks, and governing any actual accession vote.
+
+---
+
+## ARTICLE II — REVENUE AND PROFITABILITY BENCHMARKS
+
+**Section 2.1** The Council adopts, on a preliminary basis, the draft revenue and profitability maintenance benchmarks set forth in Regulatory Annex 49-A as the operative threshold framework for assessing continued Megacorporation Status among existing members.
+
+**Section 2.2** The figures contained in Regulatory Annex 49-A are explicitly marked as draft figures subject to revision. They do not constitute the final codified thresholds and shall not be cited as such in any enforcement or status-determination proceeding pending adoption of the Final Accession Resolution.
+
+**Section 2.3** The Administrative Secretariat is directed to circulate Regulatory Annex 49-A to all member representatives for written comment no later than thirty (30) days following the adoption of this resolution, and to compile received comments into a consolidated revision schedule for consideration by the full Council.
+
+---
+
+## ARTICLE III — ACCESSION THRESHOLDS
+
+**Section 3.1** The Council finds that the absence of codified accession thresholds constitutes a procedural gap incompatible with the orderly governance of the CGC as presently constituted.
+
+**Section 3.2** The Council hereby adopts, on a preliminary basis, the draft accession threshold figures set forth in Regulatory Annex 49-A as the baseline against which any formal accession application shall provisionally be assessed.
+
+**Section 3.3** As with the maintenance benchmarks, the draft accession figures in Regulatory Annex 49-A are subject to revision prior to their codification in a Final Accession Resolution. Figures ultimately codified in the Final Accession Resolution shall supersede those set forth herein without further amendment to this instrument.
+
+**Section 3.4 — Anticipated Candidate Identification.** The Council notes for the record that Genesis Labs, a biotechnology concern having demonstrated sustained revenue and profitability growth across the preceding reporting periods, is the anticipated first candidate for assessment under the accession thresholds proposed herein. This identification is procedural and does not constitute a pre-determination of Genesis Labs' eligibility or an obligation on the Council to grant accession.
+
+---
+
+## ARTICLE IV — OPERATIONAL REQUIREMENTS FOR ACCESSION CANDIDATES
+
+**Section 4.1** In addition to the financial thresholds specified in Regulatory Annex 49-A, any candidate for Megacorporation Status shall be required to satisfy operational criteria as enumerated in this Article.
+
+**Section 4.2** Operational criteria shall be assessed at the time of the formal accession vote and shall form part of the eligibility determination made by the Council.
+
+**Section 4.3 — Physical Presence Requirement (Draft).** Subject to negotiation and revision prior to incorporation in the Final Accession Resolution, the Council proposes the following draft provision: Any newly acceded member megacorporation shall establish and maintain an operational presence within the Haven Island Special Economic Zone within eighteen (18) months of the date of formal accession. The nature, scale, and minimum criteria for what constitutes a qualifying operational presence shall be defined in the Final Accession Resolution or in implementing guidelines adopted thereafter.
+
+**Section 4.3.1** The eighteen-month timeframe proposed in Section 4.3 is a preliminary figure and is explicitly subject to revision in the course of negotiations leading to the Final Accession Resolution. Member representatives are invited to submit alternative formulations to the Administrative Secretariat.
+
+**Section 4.4** Operational requirements relating to governance structure, minimum staffing in Haven, and sector allocation shall be addressed in separate implementing guidelines to be prepared following adoption of the Final Accession Resolution.
+
+---
+
+## ARTICLE V — VOTING PROCEDURES
+
+**Section 5.1** Adoption of the Final Accession Resolution, when presented to the Council, shall require a simple majority of current member megacorporations voting in favor.
+
+**Section 5.2** Any formal accession vote for a specific candidate shall be conducted separately from the vote on the Final Accession Resolution and shall likewise require a simple majority.
+
+**Section 5.3** Abstentions shall be recorded but shall not count toward the majority calculation.
+
+---
+
+## ARTICLE VI — VOTING RECORD (RESOLUTION 49-MC-001)
+
+The following records the preliminary vote on adoption of this draft framework. Pursuant to the provisional nature of this instrument, it is noted that no definitive, finalized vote tally is recorded in this draft resolution; the vote counts below are provisional and may be subject to re-canvassing or formal confirmation in connection with the proceedings leading to the Final Accession Resolution.
+
+| Member Megacorporation | Vote |
+|------------------------|------|
+| Phyrexis Group | IN FAVOR |
+| ONE Network Enterprises | IN FAVOR |
+| Renhwa Media | IN FAVOR |
+| Cyanite Industries | DISSENT |
+
+*Note: The Edge Research Project does not hold member status and cast no vote. The dissenting vote of Cyanite Industries is recorded without editorial comment, as is standard for Council voting records.*
+
+---
+
+## ARTICLE VII — EFFECTIVE DATE AND SUPERSESSION
+
+**Section 7.1** This resolution enters into force on the date of adoption, 49-03-22 (2091-03-22 CE), and shall remain operative until superseded by the Final Accession Resolution or a subsequent instrument of equivalent scope.
+
+**Section 7.2** Regulatory Annex 49-A, including all draft revenue and profitability figures, shall be understood to carry preliminary status only. The figures not ultimately codified in the Final Accession Resolution — the adoption date of which is anticipated for no later than the end of the current Council calendar year — shall have no continuing legal force.
+
+**Section 7.3** This instrument is designated a pre-accession draft. References to it in subsequent Council proceedings shall acknowledge its preliminary character.
+
+---
+
+*Issued under the authority of the CGC Administrative Secretariat.*
+*Haven Island Special Economic Zone — 49-03-22 PCE*
+
+---
+
+**REGULATORY ANNEX 49-A** *(appended separately — DRAFT, SUBJECT TO REVISION)*
+*All revenue and profitability threshold figures contained in this Annex are provisional. They are not the figures ultimately codified in the Final Accession Resolution passed on 49-06-18 PCE (2091-06-18 CE) and carry no binding authority.*

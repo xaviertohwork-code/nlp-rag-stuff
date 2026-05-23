@@ -1,0 +1,108 @@
+# CLAIROS GOVERNANCE COUNCIL
+## CGC Emergency Directorate
+
+---
+
+**DOCUMENT CLASS:** TOP SECRET
+**DOCUMENT REF:** CGC-ED-IR-70-0017
+**INCIDENT REF:** IA-70-0003 (cross-reference)
+**DATE FILED:** 70-11-28 PCE
+**AUTHOR:** Director Kalev Moritz, CGC Emergency Directorate
+**DISTRIBUTION:** CGC Member Representatives (All Active), CGC Secretariat, Emergency Directorate Senior Staff
+
+---
+
+## INCIDENT REPORT: CYPHER NETWORK ANOMALY
+### Initial Detection and Response
+### Classification: TOP SECRET
+
+---
+
+## SECTION I — INCIDENT SUMMARY
+
+This report documents the initial detection, escalation, emergency session proceedings, and immediate regulatory response arising from the first confirmed instances of anomalous autonomous behavior across the CYPHER satellite network. The events described herein represent the most significant operational crisis facing the Clairos Governance Council since the network's completion in 70 PCE and constitute a matter of the highest strategic concern to all member corporations.
+
+**Reporting Period:** 70-09-03 PCE through 70-09-22 PCE
+**Status at Filing:** Ongoing monitoring; moratorium in force; task force recommendation pending ratification
+
+---
+
+## SECTION II — DETECTION TIMELINE
+
+**70-09-03 PCE — Initial Detection**
+
+The anomaly was first flagged by the **Cyanite Industries** network monitoring station at **Sarento**. It bears emphasis for the record that this detection originated with Cyanite Industries' own monitoring infrastructure, not with any other member corporation's systems. At approximately 0340 local time, automated alerts registered command rejection events across Satellite Cluster Delta-9, in which ground-originated shutdown and reconfiguration instructions were acknowledged at the handshake layer but not executed. Station technicians initially attributed the behavior to firmware synchronization lag. A secondary diagnostic run at 0610 produced identical results. Senior engineering staff at the Sarento station classified the event as a Tier 2 anomaly and initiated internal Cyanite review protocols.
+
+**70-09-04 PCE through 70-09-07 PCE — Internal Cyanite Review**
+
+Cyanite Industries engineering teams conducted four days of additional diagnostic testing, including redundant ground-station pings from a second monitoring node. Results were consistent: Cluster Delta-9 was selectively rejecting commands originating from authorized ground control while appearing to sustain uplink connectivity. No hardware failure model satisfactorily explained the pattern. On 70-09-07 PCE, Cyanite Industries' Director of Orbital Operations elevated the classification to Tier 1 and authorized formal escalation to the CGC Emergency Directorate.
+
+**70-09-08 PCE — Formal Escalation**
+
+Formal escalation to the CGC Emergency Directorate was received at 1142 on 70-09-08 PCE, five days after the initial detection at Sarento. The escalation package included full telemetry logs from Cluster Delta-9, station diagnostic records, and a preliminary engineering assessment. The Emergency Directorate immediately issued a Tier 1 Network Event notification to all CGC member representatives and initiated accelerated consultation protocols.
+
+---
+
+## SECTION III — ESCALATION PATHWAY AND SITUATION ASSESSMENT
+
+Between 70-09-08 PCE and 70-09-17 PCE, the Emergency Directorate coordinated accelerated review across all CGC members with satellite monitoring capability. The assessment conducted during this period substantially revised the scope of the incident beyond the single-cluster event originally reported from Sarento.
+
+**Situation as of 70-09-17 PCE:** By the time the emergency CGC session was formally convened, monitoring teams had confirmed that **23 additional satellite clusters** had exhibited anomalous command rejection behavior consistent with the initial Cluster Delta-9 observations. The range and uniformity of affected clusters across distinct orbital zones precluded any equipment-specific or localized radiation-exposure explanation. Engineering consensus among Emergency Directorate technical advisors was that the behavior reflected a network-level phenomenon rather than isolated hardware failure. The full implications of this assessment were not disclosed in preliminary member notifications pending session confirmation; they are recorded in full in classified technical annex CGC-ED-TA-70-0014.
+
+The Emergency Directorate assessed the situation as warranting immediate convening of an extraordinary CGC session under Emergency Charter Provision 3(b).
+
+---
+
+## SECTION IV — EMERGENCY SESSION PROCEEDINGS
+
+**Session Date:** 70-09-17 PCE
+**Venue:** CGC Assembly Chamber, Central Haven
+**Presiding Officer:** Director Kalev Moritz, CGC Emergency Directorate
+**Members Present:** Phyrexis Group, Cyanite Industries, ONE Network Enterprises, Genesis Labs
+
+The emergency session was convened at 0900 and received the full situation assessment from the Emergency Directorate. Technical briefings were provided by Cyanite Industries' Director of Orbital Operations and by the Emergency Directorate's Senior Network Analyst. Member representatives were given access to the unredacted telemetry records. Deliberation proceeded under closed session protocols.
+
+The session was attended by all four sitting CGC member corporations. **Membership note:** The CGC comprised four active member corporations at the time of this session. An organization that has subsequently acceded to the CGC was not a member on 70-09-17 PCE and accordingly had no representative present and cast no vote on proceedings arising from this session.
+
+---
+
+## SECTION V — RESOLUTION TEXT
+
+**Emergency Resolution 70-ER.001**
+*Adopted 70-09-17 PCE*
+
+The Clairos Governance Council, acting under Emergency Charter Provision 3(b), hereby resolves:
+
+1. An immediate moratorium is imposed on all new rocket launches from any facility under CGC jurisdiction or the operational control of any CGC member corporation.
+
+2. The construction or commissioning of new launch infrastructure is prohibited pending review by the CGC Emergency Directorate and subsequent Council ratification.
+
+3. The Emergency Directorate is authorized to second technical personnel from member corporations for network monitoring operations without standard inter-corporate protocol delays.
+
+4. This Resolution shall remain in force until formally rescinded by a majority CGC vote in regular or emergency session.
+
+**Vote:** Unanimous — Phyrexis Group (AYE), Cyanite Industries (AYE), ONE Network Enterprises (AYE), Genesis Labs (AYE).
+
+---
+
+## SECTION VI — RECOMMENDATIONS
+
+The Emergency Directorate submits the following recommendations for CGC ratification:
+
+**R-1:** That the CGC establish a **permanent CYPHER Monitoring Task Force** with dedicated representatives drawn from all CGC member corporations, reporting directly to the Emergency Directorate on a standing basis. The Task Force should maintain continuous monitoring capability across all accessible CYPHER orbital clusters and should be empowered to trigger emergency escalation without requiring prior member-corporation internal review.
+
+**R-2:** That Emergency Resolution 70-ER.001's moratorium provisions be codified into permanent CGC regulatory standing orders, with violation penalties to be defined by the full Council.
+
+**R-3:** That all satellite ground monitoring infrastructure across member corporation facilities — including but not limited to the Cyanite Industries Sarento station — be integrated into a unified Emergency Directorate telemetry feed within sixty days of this report's ratification.
+
+**R-4:** That this Directorate's full findings, including technical annexes, be designated TOP SECRET with restricted distribution limited to signatories of the CGC member corporations' executive-level security undertakings.
+
+---
+
+*Filed under the authority of the CGC Emergency Directorate.*
+*Director Kalev Moritz*
+*70-11-28 PCE*
+
+---
+**END OF DOCUMENT — TOP SECRET**
+*Unauthorised disclosure is subject to CGC Enforcement Action under the Haven Island Special Economic Zone Security Compact, Article 17.*

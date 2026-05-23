@@ -1,0 +1,61 @@
+# PHYREXIS GROUP
+## INTERNAL MEMORANDUM
+**Classification: L3 — AUTHORIZED ONLY**
+**CGC Relations Division**
+
+---
+
+**TO:** Managing Partners, Senior Leadership
+**FROM:** Senior Analyst, CGC Relations Division
+**DATE:** 76-07-14 (PCE)
+**RE:** CGC Session 76-Q2 Voting Summary and Analysis
+
+---
+
+### I. Overview and Bloc Voting Statistics
+
+This memo summarizes voting outcomes from the second quarter of 76 PCE CGC sessions and offers analytical observations for leadership's consideration ahead of Q3 planning.
+
+In total, 17 resolutions came to a vote across Q2 sessions. **The Old 3 Firms voted as a unified bloc on 14 of those 17 occasions.** In this analyst's assessment, that represents a strong coordination result for the quarter — the informal pre-session alignment mechanisms we have maintained with Cyanite and ONE continue to function as intended. The three occasions on which the bloc did not hold reflected divergent commercial priorities on minor procedural resolutions rather than any meaningful fracture in the underlying relationship. No cause for alarm there.
+
+Madame Veyanova attended all Q2 sessions without exception, representing Phyrexis in her capacity as CGC representative — this prior to her assumption of the Chair. Her attendance record was complete; **she required no substitute at any session**, and her active participation ensured that Phyrexis's positions were consistently and clearly communicated in real time. Her contributions to the pre-vote coordination discussions, particularly on the infrastructure funding docket, were noted positively by counterparts.
+
+---
+
+### II. Q2 Voting Summary — Selected Resolutions
+
+| Resolution | Subject | Old 3 Position | Genesis Labs | TEC | Outcome |
+|---|---|---|---|---|---|
+| 76-004 | Port infrastructure levy | For (3) | Against | Against | Failed |
+| 76-007 | CGC data retention policy | For (3) | Against | Against | Failed |
+| 76-011 | Expanded satellite monitoring | For (3) | Against | Abstain | Passed (3-1-1) |
+| 76-015 | Floodwall maintenance levy | For (3) | For | Against | Passed |
+| 76-017 | Bioregulatory reporting standards | For (3) | Against | Abstain | Passed |
+
+**Resolution 76-011** warrants specific notation. The expanded satellite monitoring measure passed by a margin of **3-1-1, with Genesis Labs as the sole dissenting vote and TEC abstaining**. This is a significant win: satellite monitoring expansion has been on the docket in various forms for two quarters, and the prior pattern of TEC and Genesis Labs combining in opposition was the primary obstacle. The final vote configuration broke that pattern.
+
+---
+
+### III. Genesis Labs Opposition — A Note of Concern
+
+This section should be read alongside the bloc voting statistics in Section I.
+
+**Of the 14 occasions when the Old 3 voted as a unified bloc, Genesis Labs voted against our position on 11 of them.** This is a persistent and, frankly, unsurprising pattern consistent with Cary Mullin's publicly stated disdain for the Old 3 Firms; however, the consistency of that opposition across a single quarter merits attention. Genesis is no longer simply a disruptive presence at the margins — their opposition is now routine enough to be treated as a baseline assumption in vote modeling.
+
+The specific areas of Genesis Labs opposition concentrated heavily on infrastructure funding mechanisms and bioregulatory oversight frameworks, both of which implicate their commercial interests directly. We do not assess this as strategically coordinated in any sophisticated sense; it reflects genuine commercial self-interest rather than any novel alliance-building.
+
+---
+
+### IV. Emerging Friction Points — TEC's Abstentions
+
+The behavior most deserving of analytical attention this quarter is TEC's voting posture on infrastructure-related resolutions. **TEC abstained on 3 infrastructure-related resolutions during Q2 — a notable departure from its typical pattern of opposing such measures outright.**
+
+This is noteworthy. TEC's prior stance on infrastructure levies and monitoring expansions has been consistent opposition, aligned with Genesis Labs. The abstentions do not constitute support for our position, but they are a meaningful departure. Whether this reflects a tactical recalibration, internal TEC disagreement about the value of continued broad opposition, or something else entirely, this analyst does not presently have sufficient information to conclude. The pattern should be monitored closely in Q3. It would be premature to read positive intent into abstention, but equally premature to dismiss it.
+
+---
+
+### V. Recommendations
+
+Q3 pre-session coordination with Cyanite and ONE should prioritize the remaining infrastructure funding resolutions carried over from Q2. Genesis Labs' opposition should be treated as a constant. TEC's abstention pattern warrants quiet inquiry through appropriate channels before Q3 sessions open.
+
+*— Senior Analyst, CGC Relations Division*

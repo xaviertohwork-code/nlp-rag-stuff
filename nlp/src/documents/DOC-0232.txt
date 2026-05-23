@@ -1,0 +1,144 @@
+# GENESIS LABS SOMATIC CLINICS
+## Standard Operating Procedures
+### Retroviral Administration Protocol — Version 4.2
+
+**Classification:** AUTHORIZED ONLY
+**Document Reference:** GL-SOP-SAP-4.2
+**Issuing Body:** Genesis Labs Clinical Standards Team
+**Effective Date:** 76-06-15 (76 PCE)
+**Supersedes:** GL-SOP-SAP-4.1 (74-03-01)
+**Distribution:** Licensed Genesis Labs Somatic Clinic practitioners and clinic directors only. Not for external distribution.
+
+---
+
+## 1. SCOPE
+
+This Standard Operating Procedure governs the preparation, administration, and post-administration management of retroviral Somatic Augmentation treatments across all licensed Genesis Labs Somatic Clinics. It applies to all clinical staff authorized to perform or supervise retroviral infusion procedures and associated follow-up care. This version (4.2) supersedes all prior versions and incorporates updated guidance on second-generation biological growth enhancer administration and enhanced off-target recombination monitoring requirements. Deviations from this protocol require written authorization from a Genesis Labs Clinical Director and must be documented in the patient record.
+
+---
+
+## 2. PRE-TREATMENT ASSESSMENT
+
+**2.1** A complete medical history must be obtained and reviewed by the supervising clinician prior to any retroviral administration. This includes review of current medications, prior augmentation history, known genetic variants or metabolic conditions, and patient-reported symptoms.
+
+**2.2** All patients must undergo baseline genomic sampling and standard hematological panel (complete blood count, metabolic panel, hepatic function, renal function) within 14 days prior to the initial administration date.
+
+**2.3** Pre-treatment assessment findings must be documented in the patient's clinic record. Any identified contraindications (see Section 8) must be reviewed and resolved or formally escalated before proceeding.
+
+**2.4** For personalized retrovirus formulations, the patient's genomic profile must be submitted to the Genesis Labs Formulation Center no fewer than 21 days before the scheduled administration date to allow preparation and quality assurance of the tailored retroviral vector.
+
+---
+
+## 3. ADMINISTRATION PROCEDURE
+
+**3.1** Confirm patient identity, consent documentation, and formulation batch verification before initiating infusion.
+
+**3.2** The initial retroviral dose is administered intravenously via a peripheral or central venous access device. The infusion is delivered over a **45-minute infusion period** at a controlled rate using a calibrated infusion pump. Infusion rate may not be accelerated. Clinical staff must remain present throughout the infusion.
+
+**3.3** Vital signs (blood pressure, heart rate, peripheral oxygen saturation, temperature) must be recorded at infusion initiation, at 20 minutes, at completion, and 30 minutes post-completion.
+
+**3.4** The patient must be observed on-site for a minimum of two hours following infusion completion. Discharge requires documented clinician sign-off confirming absence of acute hypersensitivity reaction, infusion-site complications, or neurological symptoms.
+
+**3.5** Post-administration instructions, including activity restrictions, symptom-reporting thresholds, and follow-up appointment scheduling, must be reviewed with the patient prior to discharge and provided in written form.
+
+---
+
+## 4. VERIFICATION FOLLOW-UP
+
+**4.1** A mandatory verification appointment is scheduled at **7 days post-administration** to confirm retroviral integration and initial patient tolerance.
+
+**4.2** At the Day 7 appointment, the following assessments are required:
+
+- Targeted genomic sampling to confirm retroviral vector integration at intended loci
+- Repeat hematological and metabolic panel
+- Clinician-conducted physical examination with structured symptom inventory
+- Assessment for early adverse indicators including unexplained pyrexia, integumentary changes, lymphadenopathy, or neurocognitive alterations
+
+**4.3** The Day 7 verification finding is classified as one of three outcomes:
+
+- **Confirmed Integration (CI):** Integration confirmed within acceptable parameters. Proceed to Enhancer Protocol (Section 5).
+- **Partial Integration (PI):** Integration incomplete or atypical. Hold enhancer initiation; schedule repeat assessment at Day 14 with specialist review.
+- **Failed / Adverse Integration (FAI):** No integration detected or adverse systemic indicators present. Initiate discontinuation protocol (Section 9) and notify Genesis Labs Adverse Events Registry within 24 hours.
+
+**4.4** Documented CI status at Day 7 is required before any biological growth enhancer is administered. Enhancer initiation may not proceed prior to confirmed integration verification.
+
+---
+
+## 5. ENHANCER PROTOCOL
+
+**5.1** Following documented CI status at the Day 7 verification, second-generation biological growth enhancer administration commences on **Day 14 post-verification follow-up**.
+
+**5.2** Only second-generation growth enhancers are authorized for use under this protocol. First-generation enhancer compounds are not approved for clinical use under any current Genesis Labs SOP and must not be administered in licensed Somatic Clinics.
+
+**5.3** Initial enhancer dosing is calculated on the basis of patient body weight and the target augmentation profile established during pre-treatment assessment.
+
+---
+
+## 6. DOSAGE ADJUSTMENTS
+
+**6.1** The full biological growth enhancer course runs for a total duration of **14 to 18 weeks**, with the specific course length determined by integration velocity and patient tolerance as assessed throughout the monitoring schedule.
+
+**6.2** Mandatory dosage review and adjustment evaluations are scheduled at the following timepoints:
+
+- **Week 4:** First interim assessment. Dosage titration based on integration progression and tolerability indicators.
+- **Week 8:** Second interim assessment. Clinical review of integration completeness across primary target cell populations. Dosage reduction may be indicated if target thresholds are met early.
+- **Week 14:** Final interim assessment. Determination of course completion readiness or extension to the 18-week ceiling. Initiation of discontinuation taper (see Section 9) if integration is confirmed complete.
+
+---
+
+## 7. MONITORING SCHEDULE AND OFF-TARGET RECOMBINATION SCREENING
+
+**7.1** Clinical monitoring appointments are required throughout the enhancer course at a minimum of every two weeks.
+
+**7.2** Off-target recombination screening via genomic sampling is a mandatory component of the monitoring schedule and must be conducted at the following timepoints:
+
+- **Week 6:** First off-target screening panel. Sampling targets primary cell populations with known susceptibility to off-target insertion events. Results reviewed by supervising clinician; escalate to Genesis Labs Clinical Review Board if any anomalous recombination signals are detected.
+- **Week 12:** Second off-target screening panel. Cumulative comparison against Week 6 baseline. Any progressive off-target signal requires immediate dosage hold and specialist review.
+- **Completion (end of enhancer course):** Final off-target screening panel. All findings must be documented in the patient record and reviewed prior to discharge from active clinical monitoring.
+
+**7.3** Off-target recombination findings of clinical concern must be reported to the Genesis Labs Clinical Review Board within 48 hours of result availability. Cases involving confirmed off-target events affecting oncogenic or loss-of-function loci are classified as serious adverse events and require Adverse Events Registry notification.
+
+---
+
+## 8. CONTRAINDICATIONS
+
+Contraindications are classified by category. Category 1 contraindications are absolute; Category 2 contraindications require documented risk-benefit assessment and senior clinician sign-off; Category 3 contraindications require specialist review before any treatment decision is made.
+
+**Category 1 — Absolute Contraindications:**
+
+- Known hypersensitivity to retroviral vector components
+- Active malignancy (any site) without formal oncology clearance
+- Current immunosuppressive therapy incompatible with retroviral integration
+
+**Category 2 — Conditional Contraindications (Senior Clinician Sign-Off Required):**
+
+- Moderate to severe renal insufficiency (eGFR < 30 mL/min/1.73m²)
+- Active hepatic dysfunction (Child-Pugh Class B or C)
+- Concurrent use of antiretroviral agents for therapeutic indication
+- Documented history of prior failed or adverse retroviral integration
+
+**Category 3 — Specialist Review Required:**
+
+- **Pre-existing mitochondrial conditions of any classification** are designated Category 3 contraindications. Current retroviral vector technology does not support safe integration in cells with compromised mitochondrial function, and standard second-generation enhancer compounds have not been validated in this population. Treatment may not proceed without documented specialist review and written clearance. All such cases must be flagged to the Genesis Labs Clinical Review Board prior to scheduling.
+- Confirmed or suspected germline genetic instability syndromes
+- Active autoimmune conditions involving connective tissue or haematological systems
+
+---
+
+## 9. DISCONTINUATION PROTOCOL
+
+**9.1** Biological growth enhancer discontinuation must follow a structured tapering schedule to minimize risk of residual viral proliferation and systemic disruption to in-progress recombination.
+
+**9.2** A minimum **8-week tapering schedule** is mandated for all patients completing the enhancer course, regardless of course duration or final dosage level. Abrupt discontinuation is contraindicated.
+
+**9.3** The tapering schedule is structured as a stepwise dose reduction, with a 25% dosage reduction at each two-week interval across the 8-week period. Tapering rate may be slowed but not accelerated without Clinical Director authorization.
+
+**9.4** Final completion genomic sampling (see Section 7.2) must be conducted prior to initiating the tapering schedule and again at taper completion.
+
+**9.5** Following taper completion, patients are transferred to a quarterly review schedule for a minimum of 12 months to monitor for late-onset off-target events.
+
+---
+
+*End of Document — GL-SOP-SAP-4.2*
+*Questions regarding interpretation of this protocol should be directed to the Genesis Labs Clinical Standards Team via the internal clinical support portal.*
+*AUTHORIZED ONLY — Do not distribute beyond licensed clinical personnel.*

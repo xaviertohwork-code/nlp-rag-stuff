@@ -1,0 +1,119 @@
+# CLAIROS GOVERNANCE COUNCIL
+## Financial Oversight Bureau
+
+---
+
+**DOCUMENT REFERENCE:** CGC-FOB-2072-WR-FINAL
+**CLASSIFICATION:** RESTRICTED
+**DATE:** 30-03-15 (PCE) / 2072-03-15 (CE)
+**SUBJECT:** Wampa Robotics Asset Redistribution — Final Accounting Report
+**PREPARED BY:** CGC Financial Oversight Bureau, Asset Disposition Division
+**DISTRIBUTION:** CGC Member Representatives (Standing), CGC Secretariat (Archive)
+
+---
+
+## EXECUTIVE SUMMARY
+
+This report constitutes the final accounting of the Wampa Robotics asset redistribution process, initiated following the collective CGC security action of 28-09-28 (PCE). The Bureau hereby certifies the close of primary disposition proceedings, subject to the outstanding items enumerated in Appendix A.
+
+The total estimated fair-market value of all seized Wampa Robotics assets, as assessed by the Bureau's independent valuation panels across all facility classes, stands at **14.7 billion Phi Credits**. This figure encompasses physical infrastructure, manufacturing equipment, vehicle and robotics inventory, intellectual property holdings, and liquid financial instruments held in Wampa's name at the time of seizure.
+
+Final distribution to member corporations was completed on a proportional basis as determined by the CGC Member Allocation Framework agreed upon in session 28-11-03 (PCE). The patent portfolio declassification and licensing process, concluded in the first year following redistribution, generated **890 million Credits in first-year licensing revenue**, apportioned across all four recipient members in proportion to their primary allocations.
+
+This report was finalized in the fifteenth month of year 30 PCE, approximately **18 months** after the initial asset seizure event of 28-09-28 (PCE). Seventeen (17) asset disposition items remain unresolved pending stabilization of former Wampa facilities in contested external territories; these items are documented in full in Appendix A and represent the sole outstanding matter before the Bureau.
+
+The Bureau recommends archival of this report as the definitive instrument of record for the Wampa Robotics redistribution proceedings.
+
+---
+
+## SECTION 1 — VALUATION METHODOLOGY
+
+All physical assets were assessed using replacement-cost methodology adjusted for operational depreciation, cross-referenced against pre-seizure Wampa financial disclosures filed with the CGC Secretariat. Intellectual property holdings were assessed using projected royalty stream modeling over a fifteen-year horizon at a 6.5% discount rate. Liquid instruments were recorded at face value as of the seizure date.
+
+Three independent valuation panels were convened: one each nominated by the primary recipient members and a fourth nominated by the CGC Secretariat acting as a tiebreaker authority. Where panel valuations diverged by more than 3%, the Secretariat panel's figure was adopted. Disputed valuations totaling approximately 340 million Credits were resolved through this mechanism and are reflected in the figures below.
+
+---
+
+## SECTION 2 — PROPORTIONAL ALLOCATION BREAKDOWN
+
+> *Note: Percentages reflect the Member Allocation Framework as ratified in session 28-11-03. Cyanite Industries holds the largest single allocation, as determined by the Framework's weighting criteria. Credit amounts are rounded to the nearest ten million.*
+
+### Table 1 — Primary Asset Distribution
+
+| Member Corporation       | Allocation (%) | Estimated Credit Value (Φ) |
+|--------------------------|:--------------:|---------------------------:|
+| Cyanite Industries       | 31%            | Φ 4,560,000,000            |
+| Phyrexis Group           | 26%            | Φ 3,822,000,000            |
+| ONE Network Enterprises  | 22%            | Φ 3,234,000,000            |
+| Renhwa Media             | 21%            | Φ 3,084,000,000            |
+| **TOTAL**                | **100%**       | **Φ 14,700,000,000**       |
+
+*Rounding adjustment of Φ 6,000,000 applied to Phyrexis Group line to ensure total reconciliation to the certified figure of Φ 14,700,000,000.*
+
+**Allocation Framework Basis:** Weighting criteria incorporated each member's relative contribution to the collective security action, pre-existing material supply and contractual relationships with Wampa Robotics, and assessed capacity to absorb and operationalize specific asset classes. One Network Enterprises' allocation of 22% reflects the Framework's assessment of its primary material interest in vessel manufacturing assets; it does not represent the largest single allocation under the Framework. That distinction belongs to Cyanite Industries at 31%, reflecting Cyanite's disproportionate role in physical infrastructure seizure and its primary interest in Wampa's manufacturing hardware and raw material stockpiles.
+
+---
+
+## SECTION 3 — PATENT PORTFOLIO AND LICENSING REVENUE
+
+### 3.1 Portfolio Overview
+
+The Wampa Robotics intellectual property estate, as catalogued by the Bureau's IP Division, comprised 1,847 active patents and 412 pending applications at the time of seizure. Of these, 1,203 patents were designated for full declassification and licensing pool entry; 644 were placed under member-exclusive licensing arrangements proportional to primary allocations; and the 412 pending applications were transferred to the respective member corporations' own IP portfolios according to their primary allocation percentages.
+
+### 3.2 First-Year Licensing Revenue
+
+**Table 2 — Patent Licensing Revenue Distribution (First Year)**
+
+| Member Corporation       | Allocation (%) | First-Year Licensing Revenue (Φ) |
+|--------------------------|:--------------:|---------------------------------:|
+| Cyanite Industries       | 31%            | Φ 275,900,000                    |
+| Phyrexis Group           | 26%            | Φ 231,400,000                    |
+| ONE Network Enterprises  | 22%            | Φ 195,800,000                    |
+| Renhwa Media             | 21%            | Φ 186,900,000                    |
+| **TOTAL**                | **100%**       | **Φ 890,000,000**                |
+
+*Total first-year licensing revenue of Φ 890,000,000 is consistent with Bureau projections issued at the commencement of the declassification process. Ongoing licensing revenue is expected to accrue to member corporations directly under the terms of the individual licensing instruments and is not subject to further FOB oversight.*
+
+---
+
+## SECTION 4 — OUTSTANDING MATTERS
+
+As of the date of this report, primary disposition proceedings are complete and the Bureau certifies full accounting of the Φ 14.7 billion asset base. However, **seventeen (17) individual asset disposition items remain unresolved** due to ongoing guerrilla activity at former Wampa Robotics facilities located outside Haven. These items could not be safely assessed, transferred, or decommissioned within the primary proceedings window. Responsibility for each item remains in abeyance pending physical stabilization of the relevant site.
+
+A full enumeration is provided in Appendix A. The Bureau notes that resolution of these items is not expected to materially alter the certified total valuation, as the combined estimated value of the outstanding items is assessed at no more than Φ 210 million under conservative assumptions.
+
+---
+
+## APPENDIX A — OUTSTANDING DISPOSITION ITEMS (17)
+
+| Item No. | Facility / Location | Asset Class | Status |
+|:--------:|---------------------|-------------|--------|
+| OD-001 | Wampa Northern Fabrication Annex, Sarento adjacent zone | Heavy manufacturing equipment | Access denied — armed insurgent presence |
+| OD-002 | Wampa Northern Fabrication Annex, Sarento adjacent zone | Robotics assembly line, partial | Access denied — armed insurgent presence |
+| OD-003 | Wampa Sub-Station 7, inland territory north of Haven | Power generation hardware | Site contested; engineering team withdrawn |
+| OD-004 | Wampa Sub-Station 7, inland territory north of Haven | Data archives, physical media | Site contested; engineering team withdrawn |
+| OD-005 | Wampa Coastal Logistics Hub, former Canian coastline | Marine cargo handling equipment | Structural integrity unassessed; access unsafe |
+| OD-006 | Wampa Coastal Logistics Hub, former Canian coastline | Vehicle fleet (12 units) | Structural integrity unassessed; access unsafe |
+| OD-007 | Wampa Remote Materials Cache, northern extraction region | Raw material stockpile | Guerrilla occupation confirmed; extraction impossible |
+| OD-008 | Wampa Remote Materials Cache, northern extraction region | Portable fabrication units (4) | Guerrilla occupation confirmed; extraction impossible |
+| OD-009 | Wampa Outlying Research Station, inland highland | Prototype robotics inventory | Location unconfirmed following station fire |
+| OD-010 | Wampa Outlying Research Station, inland highland | Laboratory equipment, specialised | Location unconfirmed following station fire |
+| OD-011 | Wampa Relay Tower Cluster, eastern approach corridor | Communications hardware | Tower access road destroyed; aerial assessment only |
+| OD-012 | Wampa Relay Tower Cluster, eastern approach corridor | Stored spare components | Tower access road destroyed; aerial assessment only |
+| OD-013 | Wampa Secondary Assembly Plant, former Canian interior | Automated assembly machinery | Facility occupied by former Canian government forces |
+| OD-014 | Wampa Secondary Assembly Plant, former Canian interior | Finished robotics units (est. 40–60) | Facility occupied by former Canian government forces |
+| OD-015 | Wampa Port Annex, outer bay facility | Vessel components and tooling | Partially submerged; salvage not yet commenced |
+| OD-016 | Wampa Port Annex, outer bay facility | Liquid financial instruments (branch safe) | Partially submerged; recovery pending |
+| OD-017 | Wampa Fuel Reserve Station, northern perimeter | Stored fuel and chemical inventory | Designated hazardous; specialist disposal team not yet deployed |
+
+*The CGC Financial Oversight Bureau will issue a supplementary disposition notice upon resolution of each outstanding item. Member corporations are advised that no reallocation of outstanding item values will occur without convening of a formal FOB supplementary session.*
+
+---
+
+**CERTIFICATION**
+
+This report is certified as accurate and complete by the CGC Financial Oversight Bureau, Asset Disposition Division, as of 30-03-15 (PCE).
+
+*CGC Financial Oversight Bureau*
+*Asset Disposition Division*
+*RESTRICTED — Authorised Recipients Only*

@@ -1,0 +1,84 @@
+# CLAIROS GOVERNANCE COUNCIL
+## ENFORCEMENT DIRECTORATE — ANTI-PROLIFERATION DIVISION
+
+---
+
+**CLASSIFICATION: SECRET**
+**DOCUMENT REF:** CGC-APD-IR-0238
+**DATE OF REPORT:** 76-11-21
+**DATE OF OPERATION:** 76-11-14
+**OPERATION DESIGNATION:** SITE KAPPA-2 RAID
+**REPORTING AUTHORITY:** CGC Anti-Proliferation Enforcement Team Leader (Identity Withheld per Standing Order APD-7)
+
+---
+
+## SECTION 1 — OPERATION SUMMARY
+
+This report documents the after-action findings of a CGC Anti-Proliferation Division enforcement operation conducted against a suspected Conclave-operated covert assembly facility designated Site Kappa-2. The raid commenced on 76-11-14 at 0215 hours and concluded at 0447 hours the same date. The operation proceeded broadly in accordance with pre-mission planning parameters. All primary objectives were achieved.
+
+---
+
+## SECTION 2 — SITE DESCRIPTION
+
+Site Kappa-2 was located within an abandoned industrial complex situated approximately 85 kilometers northeast of Haven Island, accessible via a deteriorated coastal service road and a secondary maritime approach. The complex comprised four standing structures of varying structural integrity: two warehouse-type buildings, one administrative block, and one heavy-equipment bay, the latter being the primary area of interest. Intelligence assessment prior to entry rated the complex as low-visibility and low-traffic, consistent with deliberate operational concealment. No active perimeter security infrastructure was identified during pre-raid reconnaissance, though improvised surveillance countermeasures were discovered during site clearance.
+
+---
+
+## SECTION 3 — ENTRY AND EXECUTION
+
+Entry was achieved via the eastern service access at 0215 hours. A secondary team secured the maritime approach simultaneously to prevent egress by water. The heavy-equipment bay was breached at 0231 hours following confirmation of heat signatures consistent with multiple occupants. Resistance was passive; no occupants attempted armed confrontation or active flight. Site clearance was declared complete at 0318 hours. Subsequent sweep and evidence documentation operations continued until departure at 0447 hours.
+
+---
+
+## SECTION 4 — DETENTION SUMMARY
+
+**Total individuals detained:** 7
+
+Of the seven individuals taken into custody, encrypted device analysis conducted on-site and subsequently confirmed at CGC processing facilities identified **4 individuals as confirmed Conclave affiliates**. Confirmation was based on recovered encrypted communications, device metadata consistent with known Conclave channel architecture, and possession of materials bearing Conclave ritual identification markers. The remaining 3 detainees are assessed as probable contracted laborers with uncertain organizational affiliation; their status is pending further investigation. All 7 detainees are currently held under CGC Anti-Proliferation Detention Authority pending formal processing.
+
+---
+
+## SECTION 5 — MATERIALS SEIZURE
+
+The following items were catalogued and removed from Site Kappa-2 under CGC Anti-Proliferation Division chain of custody:
+
+**Item 5.1 — Aerospace-Grade Alloy Components**
+**23 crates** of aerospace-grade alloy components were recovered from the eastern storage partition of the heavy-equipment bay. Components were individually sealed in vacuum packaging consistent with long-term transit and storage protocols. Independent valuation conducted at CGC logistics processing places the total assessed value of the recovered alloy components at **approximately 2,400,000 Phi Credits**. Provenance documentation accompanying the crates was fraudulent; origin tracing is ongoing.
+
+**Item 5.2 — Propulsion Subassembly**
+One partially assembled rocket propulsion subassembly was discovered on a fabrication platform in the central bay area. The subassembly was approximately 40% complete by the assessment of the attending technical officer. The subassembly has been transferred in its current state to the CGC Technical Analysis Unit under sealed custody. Full technical documentation to follow under separate classified annex.
+
+**Item 5.3 — Communications Equipment**
+Seven encrypted communication devices and two hardened relay terminals were recovered and are pending cryptographic analysis.
+
+**Item 5.4 — Miscellaneous**
+Assorted tools, fabrication consumables, and personal effects consistent with extended on-site habitation were catalogued and retained as evidentiary material.
+
+---
+
+## SECTION 6 — CASUALTY ASSESSMENT
+
+**CGC Personnel Casualties:** None.
+**Detainee / Opposing Casualties:** None.
+
+No casualties were reported on either side during the operation. The absence of armed resistance from site occupants is consistent with intelligence assessments suggesting Conclave assembly cells typically maintain minimal armed presence to reduce operational signature. This assessment should be noted for planning purposes in subsequent site operations.
+
+---
+
+## SECTION 7 — OPERATIONAL ASSESSMENT
+
+The Site Kappa-2 operation is assessed as a substantive enforcement success. The recovery of aerospace-grade materials at this volume, in conjunction with the propulsion subassembly under active fabrication, confirms that Site Kappa-2 was a functioning component of a Conclave supply or assembly network rather than a logistics staging point only. The number of confirmed Conclave affiliates detained is consistent with a small specialist cell rather than a command node; it is assessed with moderate confidence that Site Kappa-2 was one element of a distributed network whose broader architecture remains partially unknown.
+
+Follow-on investigative priorities include: provenance tracing of alloy components, cryptographic exploitation of recovered devices, and identification of the broader supply chain implicated by the volume and valuation of recovered materials.
+
+Full technical annex and detainee processing reports to follow under separate cover.
+
+---
+
+**END OF REPORT**
+
+*Submitted under authority of CGC Anti-Proliferation Division Standing Order APD-12.*
+*Distribution: CGC Enforcement Directorate (SECRET channel). No further distribution without Director authorization.*
+
+---
+**CLASSIFICATION: SECRET**

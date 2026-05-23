@@ -1,0 +1,132 @@
+# GENESIS LABS
+## Standard Somatic Augmentation Protocol
+### Revision 6 — Clinical Standards Reference Document
+
+**Document Reference:** GL-CSP-006-R6
+**Authoring Division:** Genesis Labs Clinical Standards Division
+**Effective Date:** 52-08-04 (2094-08-04)
+**Classification:** GENERAL
+**Applicable Facilities:** All Genesis Labs Somatic Clinics — Haven and External Network
+
+---
+
+## Purpose and Scope
+
+This document sets out the standard clinical protocol governing the administration of Somatic Augmentation treatment at all Genesis Labs Somatic Clinics. It applies to all patients who have undergone individualized genome assessment and for whom a personalized retroviral formulation has been prepared by a Genesis Labs clinical genomicist. It does not govern the use of generalized or off-formulary retroviral products; patients presenting with prior exposure to non-Genesis somatic products must be assessed under the Supplementary Prior-Exposure Screening Protocol (GL-CSP-009) before proceeding.
+
+Revision 6 supersedes Revision 5 in its entirety. Principal changes in this revision: updated serum verification thresholds in Phase I (Section 3.2), revised minimum enhancer course duration in Phase II (Section 4.3), and expanded post-treatment surveillance schedule in Section 7.
+
+---
+
+## Section 1 — Overview of Treatment Stages
+
+The Genesis Labs Somatic Augmentation protocol proceeds through three sequential phases:
+
+- **Phase I: Retrovirus Administration and Verification** — Preparation of personalized retroviral formulation, initial administration, and confirmation of genomic uptake at one-week follow-up.
+- **Phase II: Biological Growth Enhancer Course** — Administration of second-generation growth enhancers across several months to facilitate complete somatic cell recombination.
+- **Phase III: Treatment Completion and Monitoring** — Discontinuation of enhancers upon verified full recombination, and ongoing post-treatment surveillance.
+
+---
+
+## Section 2 — Patient Qualification and Genome Profiling
+
+Prior to any treatment, the patient must complete a full genomic profile assessment conducted at a Genesis Labs Somatic Clinic. A blood sample is submitted for comprehensive sequencing, and the resulting profile is used by the clinic's genomic formulation team to engineer a retroviral vector tailored specifically to the patient's individual genome. This personalization process is the defining feature of Genesis Labs clinical treatment and the primary means by which off-target recombination risks are minimized. The personalization methodology itself constitutes proprietary clinical intellectual property and is not disclosed in patient-facing documentation; patients with questions regarding formulation specifics should consult their assigned clinician.
+
+Patients must be assessed for contraindications (see Section 6) before a formulation order is submitted to the clinic's preparation laboratory. Mean formulation turnaround time is 9–14 days from sample receipt.
+
+---
+
+## Section 3 — Phase I: Retrovirus Administration and Verification
+
+### 3.1 Initial Administration
+
+Treatment begins with administration of the patient's specially tailored retrovirus. The retroviral vector is administered via controlled intravenous infusion over a period of 40–60 minutes in the clinic's supervised infusion suite. Vital signs are monitored continuously during infusion. The standard therapeutic dose is calibrated by the formulation team based on the patient's body mass index, baseline immune parameters (Lymphocyte Count Panel, LCP-7), and the specific genomic modifications being introduced.
+
+Following infusion, the patient is observed for a minimum of two hours before discharge. A written post-administration instruction sheet (GL-CSP-006-INS) is provided, detailing activity restrictions, dietary guidance, and signs requiring immediate clinical contact during the first week.
+
+### 3.2 One-Week Verification Appointment
+
+A follow-up appointment is scheduled exactly one week after initial administration. The purpose of this appointment is to verify that the retrovirus has successfully integrated into a sufficient proportion of somatic cells to proceed with the enhancer course — a process clinicians refer to informally as confirming that the retrovirus has "taken." This appointment is mandatory and may not be substituted with remote consultation.
+
+At this appointment, the patient provides a blood sample for the Somatic Integration Assay (SIA-3), which measures the proportion of circulating somatic cells expressing the target genomic markers. The minimum threshold for progression to Phase II is an SIA-3 expression index of ≥ 0.42. Patients who do not meet this threshold are assessed on a case-by-case basis; options include a brief observation extension (two to four additional weeks, with repeat SIA-3) or, in rare cases, a reformulated secondary retroviral dose.
+
+**No therapeutic agents are administered at the one-week follow-up appointment.** The appointment is exclusively diagnostic. The initial retroviral administration in Section 3.1 is the sole treatment event of Phase I; the week-seven appointment initiates Phase II only after verification is confirmed.
+
+---
+
+## Section 4 — Phase II: Biological Growth Enhancer Course
+
+### 4.1 Commencement
+
+Upon confirmed Phase I verification, the patient commences the biological growth enhancer course. All Genesis Labs Somatic Clinics administer second-generation biological growth enhancers exclusively; first-generation enhancer formulations are not stocked or administered at any Genesis Labs clinical facility.
+
+### 4.2 Expected Timeline for Visible Changes
+
+Patients frequently ask when they will begin to notice the effects of treatment. Under standard protocol, changes become noticeable within 2–4 weeks of the initial retrovirus administration. The specific character of these early changes depends on the treatment formulation ordered; clinicians should prepare patients for this timeline during the Phase I consultation. It should be noted that early observable changes represent initial cellular expression, not treatment completion; full recombination occurs substantially later.
+
+### 4.3 Enhancer Administration Schedule
+
+Second-generation enhancers are self-administered by the patient via oral tablet, dispensed in monthly supply at each follow-up clinic appointment. Standard dosage is 2 × 50 mg tablets daily, taken with food. The course duration is several months, spanning the full period required for complete DNA recombination across the relevant somatic cell populations. The precise course duration is determined by the treating clinician based on monthly Recombination Progress Indices (RPI) and is not fixed at enrollment. Minimum course duration under this protocol is 14 weeks from first enhancer dose; maximum recommended duration before mandatory clinical review is 32 weeks.
+
+### 4.4 Monthly Monitoring During Enhancer Course
+
+During Phase II, the patient attends clinic monthly for the following assessments:
+- Recombination Progress Index (RPI) blood panel
+- Hepatic Function Screen (HFS-2) — to monitor for enhancer-related hepatic load
+- Immune Stability Profile (ISP-4)
+- Blood pressure, temperature, and weight recording
+- Clinician consultation (minimum 20 minutes)
+
+---
+
+## Section 5 — Phase III: Treatment Completion and Monitoring
+
+### 5.1 Enhancer Discontinuation
+
+Biological growth enhancers are discontinued after several months, once the patient's DNA has fully recombined across the relevant somatic cell populations. The discontinuation trigger is an RPI reading of ≥ 0.91 on two consecutive monthly assessments, confirmed by a secondary Genomic Consolidation Screen (GCS-1). At this point, continued enhancer administration provides no additional therapeutic benefit and carries unnecessary excess viral load risk. Abrupt discontinuation is acceptable when the GCS-1 trigger is met; tapering is not clinically required under standard protocol.
+
+### 5.2 Post-Treatment Consultation
+
+Following enhancer discontinuation, the patient attends a formal Treatment Completion Consultation at which the treating clinician documents final treatment outcomes, records any residual or emergent somatic changes, and establishes the post-treatment surveillance schedule.
+
+---
+
+## Section 6 — Risk Factors and Contraindications
+
+### 6.1 Off-Target Recombination Risks
+
+The primary class of risk associated with retroviral somatic recombination is off-target genomic recombination — instances in which the retroviral vector integrates into unintended genomic loci. Personalized retroviruses at Genesis Labs Somatic Clinics are tailored to the individual patient's genome specifically in order to minimize these off-target risks; however, they cannot be eliminated entirely and patients must be counseled accordingly prior to treatment consent.
+
+Documented off-target risk categories include:
+
+- **Oncogenic activation:** Retroviral integration at or proximate to proto-oncogenic loci may result in dysregulated cell proliferation. Clinicians should discuss the patient's personal and family oncological history during the pre-treatment consultation. This risk is materially reduced by personalized formulation relative to generalized retroviral products.
+- **Gradual loss of function:** Off-target recombination in structural or regulatory gene regions may produce progressive degradation in cellular or organ-level function. This risk is most associated with prolonged enhancer courses exceeding the recommended 32-week window.
+- **Infertility:** Retroviral spread to germline-adjacent somatic tissue, while not intentionally targeting germline cells, may in rare cases affect reproductive cellular populations. Patients who wish to preserve reproductive capacity should discuss germline-protective adjunct protocols with their clinician prior to treatment commencement.
+
+Additional off-target risks include transient immune dysregulation (typically self-limiting within six to eight weeks of enhancer discontinuation) and low-grade inflammatory responses at integration sites.
+
+### 6.2 Contraindications
+
+Absolute contraindications: active malignancy, immunosuppressive therapy, pregnancy, confirmed prior retroviral treatment within 18 months. Relative contraindications: hepatic impairment (HFS-2 score > 3.4), autoimmune diagnosis, and prior adverse reaction to any retroviral vector product.
+
+---
+
+## Section 7 — Post-Treatment Surveillance Schedule
+
+Following Treatment Completion, patients enter a surveillance schedule as follows:
+
+| Interval | Assessment |
+|---|---|
+| 3 months post-discontinuation | RPI, GCS-1 repeat, ISP-4, oncogenic marker screen (OMS-6) |
+| 6 months post-discontinuation | Full genomic stability panel (GSP-12), clinical consultation |
+| 12 months post-discontinuation | GSP-12 repeat, HFS-2, OMS-6 |
+| Annually thereafter (years 2–5) | OMS-6, clinical consultation |
+| Year 5 and beyond | As clinically indicated |
+
+Patients who present with any anomalous finding at any surveillance interval are to be escalated to the Genesis Labs Clinical Review Board under the Adverse Somatic Outcomes Protocol (GL-CSP-014).
+
+---
+
+*This document is approved for distribution to patients and clinical staff at Genesis Labs Somatic Clinics. Proprietary formulation procedures referenced herein are documented separately under access classification AUTHORIZED ONLY.*
+
+*Genesis Labs Clinical Standards Division — Document Control Reference GL-CSP-006-R6*

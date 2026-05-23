@@ -1,0 +1,183 @@
+# ONE NETWORK ENTERPRISES
+## PORT OPERATIONS MANUAL
+### West Haven Terminal Complex — Revision 18
+
+**Classification:** RESTRICTED
+**Document Reference:** ONE-INFRA-WHT-OPS-R18
+**Authoring Division:** Infrastructure Engineering Division
+**Date of Issue:** 76-06-01
+
+---
+
+## 1. REVISION HISTORY
+
+| Rev. | Date (PCE) | Summary of Changes | Authorizing Executive |
+|------|------------|--------------------|-----------------------|
+| 15 | 71-02-14 | Automated systems integration update following Wampa equipment phase-out | Director-General, Infrastructure |
+| 16 | 73-09-01 | Terminal 6 provisional capacity reduction; updated surge protocols | Director-General, Infrastructure |
+| 17 | 75-11-22 | Terminal 3 lease commencement; Cyanite inter-corporate coordination procedures added | Director-General, Infrastructure |
+| 18 | 76-06-01 | Crane inspection and maintenance protocols revised following Terminal 5 crane malfunction of 76-03-17; safety hold procedures updated across all terminals; emergency shutdown checklists revised | CEO Nguyen Anh Mai |
+
+> **Note on Revision 18 Authorization:** Revision 18 was personally authorized by CEO Nguyen Anh Mai. The Terminal 5 crane malfunction of 76-03-17 — a Category B structural load-bearing failure during a scheduled heavy-lift operation — was determined by the Infrastructure Engineering Division's post-incident review to have resulted from inadequate inspection interval compliance under the then-current Rev. 17 procedures. CEO Nguyen Anh Mai directed that a full operational manual revision be completed and issued no later than 76-06-01.
+
+---
+
+## 2. COMPLEX OVERVIEW
+
+### 2.1 Facility Description
+
+The West Haven Terminal Complex (WHTC) is ONE Network Enterprises' primary commercial port installation within the Haven Island Special Economic Zone. Located on the western shore of Haven Island in ONE's designated sector, the WHTC serves as the principal entry point for imported goods, raw materials, and inter-corporate cargo flows supporting Haven's 100-million-resident population.
+
+The WHTC comprises **eight (8) operational terminals**, designated Terminal 1 through Terminal 8 inclusive. All eight terminals are currently in active operational status; Terminal 6 is presently operating at **reduced capacity** pending completion of the approved expansion program (see Section 4.2).
+
+### 2.2 Operational Mandate
+
+The WHTC supports ONE Network Enterprises' core logistics function within Haven. In addition to ONE's commercial operations, the complex administers one dedicated inter-corporate tenancy arrangement (Terminal 3; see Section 7).
+
+---
+
+## 3. TERMINAL ASSIGNMENTS AND SPECIFICATIONS
+
+### 3.1 Terminal Configuration Summary
+
+| Terminal | Primary Function | Berth Length (m) | Max Vessel Draft (m) | Current Status |
+|----------|-----------------|-----------------|---------------------|----------------|
+| T-1 | General commercial cargo | 420 | 16.5 | Operational — Full |
+| T-2 | Containerized freight, inbound | 510 | 18.0 | Operational — Full |
+| T-3 | Cyanite Industries raw material offloading (dedicated) | 640 | 22.0 | Operational — Full |
+| T-4 | Containerized freight, outbound | 480 | 17.5 | Operational — Full |
+| T-5 | Heavy-lift and oversized cargo | 390 | 19.0 | Operational — Full |
+| T-6 | General commercial cargo (secondary) | 310 | 14.0 | Operational — Reduced Capacity |
+| T-7 | Passenger and light cargo ferry | 260 | 9.5 | Operational — Full |
+| T-8 | ONE Network internal logistics and equipment staging | 350 | 15.5 | Operational — Full |
+
+### 3.2 Terminal 3 — Dedicated Cyanite Industries Tenancy
+
+Terminal 3 is designated **exclusively** for Cyanite Industries raw material offloading operations. This designation is established under a formal inter-corporate lease agreement with the following parameters:
+
+- **Lease signed:** 62 PCE
+- **Lease duration:** 15 years
+- **Governing document:** ONE-LEGAL-T3-CYN-LEASE-62PCE
+- **Scope of exclusivity:** Terminal 3 berths, apron areas, and immediate landside staging zones are exclusively available to Cyanite Industries vessels and authorized subcontractors during the lease term. ONE commercial operations are prohibited from berthing at Terminal 3 without written authorization from Cyanite Industries' Designated Terminal Representative.
+
+Primary cargo categories offloaded at Terminal 3 include: unprocessed mineral ore, refined metal ingots, construction aggregate, chemical feedstocks, and bulk industrial materials originating from Cyanite's extraction operations across Clairos. Vessel call schedules are coordinated under procedures detailed in Section 7.
+
+### 3.3 Terminal 6 — Reduced Capacity Operations
+
+Terminal 6 is currently subject to a capacity reduction order issued under Infrastructure Engineering Reference IER-76-004. Berth T-6B and the associated crane rail system are offline pending structural reinforcement works expected to complete by 77-Q1. Effective throughput at T-6 during this period is limited to 65% of rated capacity. Operational allocations from T-6 surplus demand are redistributed to T-1 and T-8 per the surge coordination table at Annex C.
+
+---
+
+## 4. CAPACITY RATINGS
+
+### 4.1 Design Throughput
+
+The WHTC's **total annual cargo throughput design capacity** across all eight terminals is rated at **14.2 million metric tonnes** under standard operating conditions, reflecting fully operational status at all terminals.
+
+> **Note:** Operational throughput may exceed this figure during designated surge periods. Surge-period operations require additional coordination overhead, including extended staffing rotations, activation of overflow staging areas at Annex B yards, and formal notification to the CGC Secretariat's Haven Port Authority liaison desk under Protocol SRG-07.
+
+### 4.2 Per-Terminal Rated Capacities
+
+| Terminal | Annual Rated Capacity (MT) | Notes |
+|----------|---------------------------|-------|
+| T-1 | 2.1M | — |
+| T-2 | 2.8M | — |
+| T-3 | 3.2M | Cyanite lease; see §3.2 |
+| T-4 | 2.0M | — |
+| T-5 | 1.2M | Heavy-lift specialist berth |
+| T-6 | 0.8M (reduced) | See §3.3; rated 1.2M at full capacity |
+| T-7 | 0.5M | Primarily passenger throughput |
+| T-8 | 1.6M | Internal logistics allocation |
+
+---
+
+## 5. AUTOMATED SYSTEMS
+
+### 5.1 Cargo Handling Automation Overview
+
+The WHTC operates an integrated automated cargo handling system (ACHS) covering all ONE-managed terminals (Terminals 1, 2, 4, 5, 6, 7, and 8). Terminal 3 operates its own Cyanite Industries-managed automation infrastructure under the lease terms and is addressed separately in Section 7.2.
+
+### 5.2 Autonomous Cargo Drone Fleet
+
+**Total deployed autonomous cargo drones (WHTC-wide):** 1,340 units
+
+Drone units are allocated across the complex per the following distribution:
+
+| Terminal Group | Drone Allocation | Operational Role |
+|----------------|-----------------|------------------|
+| T-1 / T-2 (freight inbound cluster) | 420 units | Containerized cargo transport, stack management |
+| T-4 (freight outbound) | 310 units | Outbound load assembly and vessel positioning |
+| T-5 (heavy-lift) | 180 units | Peripheral support; primary loads handled by HLP units |
+| T-6 (reduced ops) | 90 units | Reduced allocation commensurate with capacity restriction |
+| T-7 / T-8 (ferry/internal) | 215 units | Light cargo, luggage, internal staging movements |
+| WHTC Reserve Pool | 125 units | Rotational maintenance cycle and surge deployment |
+
+Drone units operate on a 22-hour active cycle with staggered 2-hour maintenance windows. Fleet management is controlled through the ONE ACHS Central Coordination Node located in the Terminal Operations Centre (TOC).
+
+### 5.3 Heavy-Lift Loading Platforms
+
+**Total deployed heavy-lift loading platforms (HLP) (WHTC-wide):** 86 units
+
+HLPs are deployed exclusively at Terminals 1 through 5 and Terminal 8. Each HLP unit is rated for loads between 80 and 450 metric tonnes. Following the Terminal 5 crane malfunction of 76-03-17, all 86 HLP units were subject to a mandatory full-fleet structural inspection completed on 76-04-30. Inspection records are archived under IER-76-003.
+
+### 5.4 Systems Integration Standards
+
+All ACHS components operate on ONE's proprietary PORTNET communications architecture. Integration with vessel automated manifest systems is conducted via PORTNET Gateway Protocol version 9.4. External system integration requests (e.g., from Cyanite Industries' internal logistics platforms) must be submitted to Infrastructure Engineering Division for compatibility review prior to deployment.
+
+---
+
+## 6. SECURITY PROTOCOLS
+
+### 6.1 Security Assignment Overview
+
+Security operations at the WHTC are administered under a split arrangement reflecting the Terminal 3 inter-corporate lease:
+
+- **Terminals 1, 2, 4, 5, 6, 7, and 8:** Security screening and access control are operated by **ONE Network Enterprises security personnel** under ONE Security Directorate Command.
+- **Terminal 3:** Security screening and access control are managed by **Cyanite Industries** under the terms of the Terminal 3 lease agreement. Cyanite deploys its own security personnel to Terminal 3; ONE security personnel do not hold primary access authority within the Terminal 3 secure perimeter during the lease term.
+
+### 6.2 ONE-Operated Terminal Security Procedures
+
+Access to Terminals 1, 2, 4 through 8 requires valid ONE-issued port access credentials. Vessel crew manifests must be submitted to the ONE Security Directorate no fewer than 48 hours prior to berth arrival. Cargo manifests are subject to automated screening via the ACHS cargo intelligence module at the point of vessel approach, with flagged items referred for physical inspection.
+
+Security staffing levels at all ONE-managed terminals are calibrated to a minimum ratio of one security officer per 200 metres of active berth length during vessel handling operations.
+
+### 6.3 Cyanite Industries Security Interface
+
+Coordination between ONE Security Directorate and Cyanite Industries Terminal Security is maintained through the Joint Security Liaison Office (JSLO), staffed jointly and located at the T-3/T-2 perimeter boundary. Incident notifications involving Terminal 3 are transmitted to ONE Security Directorate within 90 minutes of occurrence. Emergency situations requiring WHTC-wide response are coordinated through Emergency Protocol EMP-04 (see Section 8.3).
+
+---
+
+## 7. INTER-CORPORATE COORDINATION — CYANITE INDUSTRIES
+
+### 7.1 Vessel Scheduling
+
+Cyanite Industries submits inbound vessel schedules to ONE's Berth Planning Office no fewer than 72 hours prior to estimated arrival at the WHTC approach corridor. Schedule updates within the 72-hour window must be transmitted directly to the Terminal Operations Centre. Cyanite vessels are assigned approach priority tier classification "B-Priority/Lease" under the WHTC Vessel Traffic Management Protocol, consistent with the exclusivity provisions of the Terminal 3 lease.
+
+### 7.2 Terminal 3 Automation Infrastructure
+
+Cyanite Industries operates its own cargo handling automation at Terminal 3 under lease-authorized rights. Cyanite's automation systems must comply with WHTC electromagnetic interference standards as defined in Annex D. ONE's ACHS systems do not extend into Terminal 3 operational airspace; drone flight paths are programmed to maintain a minimum 50-metre clearance from the Terminal 3 perimeter boundary.
+
+### 7.3 Raw Material Offloading Procedures
+
+Mineral ore and bulk material offloads at Terminal 3 are subject to environmental containment protocols under CGC Environmental Standards Order 71-ESO-2 (particulate management). Cyanite is responsible for compliance monitoring within Terminal 3. ONE Infrastructure Engineering Division conducts quarterly perimeter air quality monitoring at the T-3 boundary as a lease compliance verification measure.
+
+---
+
+## 8. EMERGENCY PROCEDURES
+
+### 8.1 Crane and Heavy-Lift Platform Failure
+
+In the event of a crane or HLP structural failure, the affected terminal is placed on immediate operational hold. The post-incident review procedure enacted following the **Terminal 5 crane malfunction of 76-03-17** is the current governing precedent for crane failure response. All personnel within 150 metres of an HLP failure event must evacuate to designated muster points prior to any inspection activities.
+
+### 8.2 Berth Fire or Hazmat Incident
+
+Berth fire and hazmat response is coordinated through Haven Island Emergency Services under Protocol HES-PORT-3. ONE security and terminal operations staff assume facility containment duties pending Emergency Services arrival.
+
+### 8.3 WHTC-Wide Emergency Coordination (EMP-04)
+
+Protocol EMP-04 activates a unified command structure incorporating ONE Security Directorate, Terminal Operations Centre, and — where Terminal 3 is implicated — Cyanite Industries Terminal Security. EMP-04 activation authority rests with the Senior Duty Officer in the Terminal Operations Centre.
+
+---
+
+*End of Document — ONE-INFRA-WHT-OPS-R18 — RESTRICTED*
+*For distribution: ONE Infrastructure Engineering Division; ONE Security Directorate; ONE Berth Planning Office; CGC Haven Port Authority Liaison (abridged version, Terminals 1–2 and 4–8 only)*

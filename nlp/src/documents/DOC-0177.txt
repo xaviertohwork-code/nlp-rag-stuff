@@ -1,0 +1,94 @@
+# TEC-SPEC-4410
+## Edge Nanobot Environmental Tolerance Parameters and Mark VII Generation Profile
+
+**Classification:** L3
+**Document Number:** TEC-SPEC-4410
+**Issuing Division:** TEC Applied Nanoscience Division
+**Date:** 76-09-15
+**Status:** Active — Supersedes TEC-SPEC-4390
+
+---
+
+## 1. Scope
+
+This document establishes the authoritative environmental tolerance parameters for Edge nanobots currently deployed within the Haven Island Special Economic Zone. It is intended for use by TEC infrastructure operations personnel, Edge deployment coordinators, and authorised clinical liaison staff requiring precise operational boundary data for field assessment, incident triage, and maintenance scheduling purposes.
+
+This specification applies exclusively to the current production generation. Parameters for prior generations (Mark I through Mark VI) are archived under TEC-SPEC-3000 series and are no longer operationally current. Manufacturing processes, substrate composition, and circuit-layer architecture underlying the parameters stated herein are outside the scope of this document and are governed separately under L1-classified fabrication specifications.
+
+All numerical tolerances stated in this document represent operational thresholds under standard single-variable test conditions. Multi-variable environmental stress interactions (e.g., simultaneous elevated temperature and electromagnetic exposure) are addressed in TEC-SPEC-4415 (Environmental Stress Compounding — Mark VII), classified L2.
+
+---
+
+## 2. Generation Designation
+
+**Current Generation:** Mark VII
+
+The Mark VII generation was formally deployed within Haven's active nanobot population beginning in **74 PCE**, replacing the Mark VI series following a phased withdrawal and reabsorption cycle conducted across 73–74 PCE. As of the date of this document, the Mark VII represents the sole authorised generation in active deployment.
+
+Mark VII nanobots retain forward-compatibility with all Edge platform infrastructure versions released since Edge's initial Haven launch, including the 2.x and 3.x platform generations. Backward-compatibility provisions for legacy integration nodes remain outside the scope of this specification.
+
+---
+
+## 3. Temperature Tolerance Parameters
+
+Mark VII nanobots are validated for reliable operation across a **core temperature range of -5°C to 52°C**. This range encompasses the full spectrum of ambient and internal-body temperature conditions expected within Haven's floodwall-controlled environment and standard clinical settings.
+
+**Lower threshold (-5°C):** Below -5°C, nanobot motility is progressively impaired by host-fluid viscosity changes. Signal propagation latency increases non-linearly below this threshold, and coordinated behavioral-data collection becomes unreliable. Sustained exposure below -5°C may cause irreversible lattice stress in inter-node junctions; recovery upon return to operational range cannot be guaranteed.
+
+**Upper threshold (52°C):** The validated upper operating limit for Mark VII nanobots is **52°C**. Personnel or documentation referencing an upper threshold of 60°C or any figure above 52°C should be treated as citing superseded Mark V/VI parameters and corrected immediately. Above 52°C, thermal degradation of the nanobot's signal-routing matrix accelerates at a rate that exceeds the self-repair capability of the Mark VII chassis. Deployment in environments routinely exceeding 48°C requires prior consultation with the Applied Nanoscience Division.
+
+Nominal operational temperature range for Haven deployment conditions: 18°C to 38°C (host-proximate).
+
+---
+
+## 4. Salinity Tolerance Parameters
+
+Mark VII nanobot functionality is contingent on a minimum host-fluid ionic environment sufficient to maintain electrochemical signal propagation across the inter-node network.
+
+**Freshwater Interference Threshold:** Nanobot functionality degrades below a salinity concentration of **0.4 parts per thousand (ppt)**, designated in TEC operational documentation as the **freshwater interference threshold**. At concentrations below this value, the ionic gradient required for nanobot signal propagation and coordinated movement drops below functional minimum. Observed effects include progressive desynchronisation of nanobot clusters, reduction in behavioral-data fidelity, and eventual signal dropout across affected node populations.
+
+The 0.4 ppt threshold applies to localised host-fluid conditions in direct nanobot contact. Systemic host salinity, under normal physiological conditions, is not expected to approach this threshold in a standard Haven population. However, extended exposure to desalinated water sources — including Haven's RO-processed fresh water supply — in conjunction with atypical host physiology may warrant monitoring in certain clinical contexts. Assessment protocols are detailed in TEC Clinical Liaison Guidance Note GL-22.
+
+Upper salinity tolerance: Mark VII nanobots perform within specification in host-fluid salinity up to 45 ppt. Marine-immersion scenarios above this threshold fall outside standard deployment scope.
+
+---
+
+## 5. Atmospheric Pressure Tolerance Parameters
+
+Mark VII nanobots are validated for operation across an atmospheric pressure range of **70 kPa to 130 kPa**, encompassing Haven's sea-level baseline (approximately 101 kPa, subject to local variation within the floodwall environment) and a margin sufficient for pressurised clinical settings and standard high-elevation transit scenarios.
+
+Below 70 kPa, dissolved gas dynamics in host fluid create nanobot suspension instability. Above 130 kPa, compression stress on nanobot chassis components may cause micro-fracture propagation in units with accumulated operational wear; this risk increases significantly in units approaching end-of-lifespan (see Section 7). Hyperbaric environments above 200 kPa are outside the validated deployment envelope; personnel managing hyperbaric clinical facilities should consult the Applied Nanoscience Division before authorising nanobot-active patients for such environments.
+
+---
+
+## 6. Electromagnetic Tolerance Parameters
+
+Mark VII nanobots incorporate shielded signal architecture providing operational continuity across the electromagnetic environment standard to Haven's urban and industrial zones, including proximity to Cyanite Industries' reactor infrastructure in North Haven.
+
+**Dormancy Threshold:** Electromagnetic field exposure above **3.2 Tesla** induces temporary nanobot dormancy. At this field strength, induced currents in nanobot circuit elements exceed the threshold at which the Mark VII's onboard protection logic suspends active operations to prevent circuit damage. Dormancy onset is rapid (observed within 0.3 seconds of threshold exceedance in controlled testing). Dormancy is reversible: nanobot populations return to full operational status upon removal from the inducing field environment, typically within 90–180 seconds depending on exposure duration and population density.
+
+Prolonged exposure above 3.2 Tesla (defined as continuous exposure exceeding 4 minutes) may extend recovery time and, in a fraction of units, produce persistent signal-routing anomalies requiring clinical reabsorption. The 3.2 Tesla threshold applies to sustained fields; brief transient spikes (sub-0.1 second duration) at up to 4.8 Tesla have been demonstrated to produce only partial dormancy induction in validation testing.
+
+Standard clinical MRI environments (0.5–3.0 Tesla, intermittent) fall below the dormancy threshold for most operational sequences. Facilities operating at or above 3.0 Tesla should follow Haven Medical Liaison Protocol MED-EM-07 for nanobot-active patient management.
+
+---
+
+## 7. Operational Lifespan
+
+Mark VII nanobots have an estimated operational lifespan of **14 months** from activation before requiring reabsorption and replacement. This figure represents the median validated service period under standard Haven deployment conditions; individual unit longevity varies with host physiological factors, cumulative environmental stress exposure, and operational intensity.
+
+At or approaching the 14-month threshold, nanobot populations exhibit progressive signal degradation, reduced behavioral-data collection fidelity, and increased susceptibility to the environmental stresses documented in Sections 3 through 6. Continuation of deployment beyond 14 months without reabsorption is not authorised and may result in unreliable Edge platform performance for the affected user.
+
+Reabsorption and replacement scheduling is managed through TEC's population lifecycle management infrastructure. Scheduling parameters and host notification protocols are outside the scope of this document.
+
+---
+
+## 8. Disposal and Reabsorption Protocol
+
+Reabsorption of end-of-life Mark VII nanobot populations is conducted via authorised TEC reabsorption infrastructure located at registered Edge deployment facilities. Self-reabsorption outside authorised facilities is not supported. Reabsorption methodology and downstream handling of collected nanobot material are governed under TEC-SPEC-4420 (Lifecycle Recovery Protocols — Mark VII), classified L2. Unauthorised extraction or retention of nanobot material following reabsorption is a violation of TEC platform terms and applicable CGC regulatory provisions.
+
+---
+
+*This document is classified **L3** under TEC's internal security level system. Distribution is restricted to personnel holding L3 clearance or above. Reproduction or transmission outside authorised channels is prohibited. Queries regarding this specification should be directed to the TEC Applied Nanoscience Division, Black Box, South Haven.*
+
+*TEC-SPEC-4410 | Active | 76-09-15 | Next scheduled review: 78-03-01*

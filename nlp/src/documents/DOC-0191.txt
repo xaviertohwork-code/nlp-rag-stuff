@@ -1,0 +1,96 @@
+# CYANITE INDUSTRIES
+## Safety Report SR-76-1184
+### Sarento Foundry Unit 3 — Thermal Excursion Event
+
+---
+
+**CLASSIFICATION: RED**
+**Issuing Division:** Safety Compliance Division
+**Date of Report:** 76-09-03
+**Incident Reference:** SR-76-1184
+**Location:** Sarento Manufacturing Complex, Foundry Unit 3
+**Status:** Containment Complete — Corrective Actions Ongoing
+
+---
+
+## 1. INCIDENT SUMMARY
+
+On 76-09-01, at **1437 hours**, a thermal excursion event occurred within Sarento Foundry Unit 3 at the Sarento Manufacturing Complex. The excursion originated at furnace line 3-B and resulted in uncontrolled release of molten material and superheated gases into the immediate operating area. The event caused **7 worker injuries**, of which **2 were classified as severe burns** requiring emergency medical evacuation. Foundry Unit 3 was placed under immediate shutdown protocol following the incident.
+
+This report documents the incident timeline, root cause analysis, casualty summary, containment response, and all recommended corrective actions for review by Cyanite Industries Safety Compliance Division and senior operations management.
+
+---
+
+## 2. TIMELINE
+
+| Time (76-09-01) | Event |
+|---|---|
+| **1435 hrs** | Anomalous pressure readings registered on furnace line 3-B monitoring panel; floor supervisor notified. |
+| **1437 hrs** | Thermal excursion initiates. Catastrophic discharge of molten material and superheated gas from line 3-B coupling junction. Emergency alert triggered automatically. |
+| **1438 hrs** | Floor personnel begin emergency evacuation of Foundry Unit 3. |
+| **1442 hrs** | Emergency response teams arrive at Unit 3. First aid administered to injured personnel. Two workers identified as requiring urgent medical transport. |
+| **1449 hrs** | Thermal containment barriers engaged. Active excursion contained. |
+| **1505 hrs** | Unit 3 declared fully evacuated and secured. Shutdown protocol engaged. |
+| **1520 hrs** | On-site medical officer declares scene safe for initial damage assessment team entry. |
+
+---
+
+## 3. ROOT CAUSE ANALYSIS
+
+Investigation conducted by the Safety Compliance Division, in coordination with Foundry Unit 3 engineering personnel, identified the **root cause** of the thermal excursion as a **failed thermal coupling on furnace line 3-B**.
+
+Post-incident inspection of the recovered coupling assembly revealed structural degradation consistent with cumulative thermal fatigue. At the time of failure, the coupling had been in continuous service for **3,900 hours**, placing it within its rated operational life ceiling of **4,000 hours**. No prior maintenance flags or anomalous readings had been recorded against this specific component during its service period.
+
+It is the assessment of this Division that the existing rated life ceiling does not provide adequate safety margin against variance in thermal load distribution across individual furnace cycles. While the component had not technically exceeded its scheduled replacement window, the proximity of its accumulated service hours to the operational life limit, combined with the variable thermal stress characteristic of line 3-B's output profile, produced a failure condition that current inspection intervals are insufficient to reliably anticipate.
+
+No evidence of improper installation, operator error, or deliberate interference was identified. The failure is attributable entirely to material fatigue operating at the upper boundary of approved service parameters.
+
+---
+
+## 4. CASUALTY SUMMARY
+
+| Category | Count |
+|---|---|
+| Total worker injuries | **7** |
+| Severe burns (emergency medical) | **2** |
+| Moderate injuries (burns, laceration, respiratory) | **3** |
+| Minor injuries (treated on-site) | **2** |
+| Fatalities | **0** |
+
+The two workers classified with severe burns were transported to Cyanite's designated medical facility in Sarento for specialist treatment. As of the date of this report, both remain under medical care. Injury documentation for all seven affected personnel has been filed separately under reference MED-76-SR1184.
+
+---
+
+## 5. CONTAINMENT RESPONSE
+
+Upon excursion initiation, automated thermal containment barriers along the Unit 3 perimeter activated within standard response parameters. Emergency response teams reached the affected zone within five minutes of the initial alert. The thermal mass from furnace line 3-B was fully contained within the primary barrier envelope, and no thermal breach was recorded at the boundary of adjacent Foundry Units 2 or 4.
+
+**Foundry Unit 3 was placed under full operational shutdown and remained offline for 14 days** to allow for complete physical inspection of all furnace lines, structural integrity verification of the Unit 3 bay, replacement of affected coupling assemblies, and staged safety certification before authorized restart. The unit returned to limited operational status following sign-off by the Safety Compliance Division.
+
+---
+
+## 6. CORRECTIVE ACTIONS
+
+The following corrective actions have been initiated or are scheduled:
+
+1. **Full replacement** of all thermal couplings across furnace lines 3-A through 3-F with new-specification components.
+2. **Mandatory inspection audit** of thermal couplings at Sarento Foundry Units 1, 2, and 4 to identify any components approaching comparable service-hour accumulations.
+3. **Revised monitoring protocol** for furnace line 3-B, incorporating enhanced real-time thermal load tracking and automated early-warning triggers at 85% of rated output thresholds.
+4. **Engineering review** of all coupling models in current Sarento service to assess whether fatigue variance factors are adequately reflected in existing rated life ceilings.
+
+---
+
+## 7. RECOMMENDATIONS
+
+The Safety Compliance Division issues the following formal recommendations for adoption by Cyanite Industries Operations:
+
+**REC-SR-76-1184-01:** The scheduled maintenance interval for thermal couplings on Sarento foundry furnace lines should be **reduced from 4,000 hours to 3,500 hours**. This reduction is intended to ensure coupling replacement occurs before components approach the operational conditions under which fatigue-related failure risk materially increases.
+
+**REC-SR-76-1184-02:** A formal review of the rated operational life assigned to thermal couplings across all Cyanite heavy foundry installations should be commissioned, to assess whether the 4,000-hour standard reflects current furnace load profiles or whether it requires revision at the system level.
+
+**REC-SR-76-1184-03:** Emergency response protocols for Foundry Unit 3 should be updated to reflect revised barrier engagement sequencing identified as suboptimal during post-incident review.
+
+---
+
+*Report compiled by Cyanite Industries Safety Compliance Division.*
+*Reference: SR-76-1184 | Classification: RED | Date: 76-09-03*

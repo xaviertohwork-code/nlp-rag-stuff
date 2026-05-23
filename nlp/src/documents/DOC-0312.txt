@@ -1,0 +1,67 @@
+# NYARI CONFEDERATION — SIGNALS INTELLIGENCE DIRECTORATE
+## INTERCEPTED TRANSMISSION EXTRACT
+
+---
+
+**CLASSIFICATION: SECRET**
+**DOCUMENT REFERENCE:** NCD-SIGINT-2114-0419-774
+**HANDLING:** SIGNALS INTELLIGENCE DIRECTORATE USE ONLY
+
+---
+
+### INTERCEPT METADATA
+
+| Field | Value |
+|---|---|
+| **Intercept Date** | 2114-04-19 |
+| **Intercept Time** | 03:14:22 local |
+| **Origin Coordinates** | [REDACTED — INNER CONFEDERATION ZONE] |
+| **Origin Classification** | Within Nyari Confederation territorial waters and administered islands |
+| **Signal Band** | Narrow-spectrum encrypted burst, non-standard protocol |
+| **Decryption Status** | **40% recovered** — remaining 60% irrecoverable under current key-derivation methods |
+| **Transmission Duration** | Approximately 7 seconds (burst format) |
+
+---
+
+### DECRYPTED FRAGMENTS (Partial)
+
+*The following represents recovered plaintext only. Gaps indicated by ellipses represent irrecoverable cipher segments. Fragment ordering follows signal sequence, not inferred semantic structure.*
+
+---
+
+> *"…the Dawn Harvest approaches, as it was spoken to those who waited…"*
+
+> *"…when the rising light breaks full across the array, the count begins…"*
+
+> *"…[IRRECOVERABLE] …those who carry the first dreaming shall be…"*
+
+> *"…the rising light does not ask permission of the dark…"*
+
+> *"…[IRRECOVERABLE] …harvest what the patient ones have sown in the long quiet…"*
+
+> *"…the Dawn Harvest is not an ending. It is the first breath…"*
+
+---
+
+### ANALYST ANNOTATION
+
+**Prepared by:** Signals Intelligence Operator, Nyari Confederation Signals Intelligence Directorate (operator designation withheld per standard practice; this annotation carries no named authorship)
+
+**Priority Classification:** Category 4 — Cultural/Religious
+
+**Summary Assessment:**
+
+The recovered fragments exhibit consistent use of metaphorical and ceremonial language, including repeated references to *Dawn Harvest* and *the rising light.* In isolation, the content is consistent with liturgical or devotional material — harvest imagery and light symbolism are common to numerous spiritual traditions active within the Confederation's outer island communities. No explicit reference to persons, locations, organizations, or operational activities was recovered in the decrypted portion.
+
+It should be noted that the encryption method employed is **unusually sophisticated for non-governmental traffic** — the burst-format protocol and key-derivation structure are atypical of private or informal use. The 60% irrecoverable rate, despite application of standard second-tier cipher tooling, confirms a level of cryptographic discipline that exceeds common commercial or personal communications practice. This observation is logged for completeness.
+
+However, given the exclusively spiritual and figurative character of the recovered content, the analytical judgment is that the encryption sophistication most plausibly reflects general operational security practice among privacy-conscious community groups rather than a signal of organized threat activity.
+
+**No follow-up investigation is recommended.** This document is filed under Category 4 and will not be escalated to active case status. No named investigator has been assigned. This assessment reflects the judgment of the preparing operator alone and has not been subject to secondary review.
+
+---
+
+*Filed: 2114-04-22*
+*Nyari Confederation Signals Intelligence Directorate — Archival Record*
+
+**CLASSIFICATION: SECRET**

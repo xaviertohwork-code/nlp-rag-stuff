@@ -1,0 +1,89 @@
+CLASSIFICATION: CONFIDENTIAL
+ORIGINATING AUTHORITY: ONE Network Enterprises — Maritime Security Division
+DOCUMENT REFERENCE: ONE-MSD-2119-0118-PA
+DATE: 77-01-18 PCE
+DISTRIBUTION: Maritime Security Division Command Staff; CGC Anti-Proliferation Liaison Office; ONE Network Enterprises Director of Operations (restricted copy)
+
+---
+
+# ONE NETWORK ENTERPRISES
+## MARITIME SECURITY DIVISION
+### ANTI-SMUGGLING PATROL ALLOCATION PLAN — 77 PCE
+#### Annual Fleet Deployment and Zone Coverage Directive
+
+---
+
+## 1. FLEET ALLOCATION SUMMARY
+
+This directive establishes the Maritime Security Division's patrol deployment framework for the 77 PCE operational year. Authorization for all operations described herein derives from **CGC Anti-Proliferation Protocol Revision 11**, the controlling inter-corporate enforcement instrument governing ONE Network Enterprises' anti-smuggling mandate across Clairosian shipping lanes.
+
+For 77 PCE, the Maritime Security Division will deploy a total of **24 patrol vessels** drawn from active divisional inventory across five designated anti-smuggling zones. This represents a steady-state commitment consistent with 76 PCE resourcing levels, with adjusted zone weighting reflecting updated threat assessments for the southern corridor. Vessel assignments are detailed in Section 3; financial resourcing is addressed in Section 6.
+
+---
+
+## 2. ZONE DESIGNATIONS AND COVERAGE
+
+Five anti-smuggling zones are designated for 77 PCE operations. Zone boundaries reflect established commercial shipping lanes, known contraband transit corridors, and intelligence assessments of Conclave logistics activity reviewed through the fourth quarter of 76 PCE.
+
+| Zone | Geographic Coverage | Threat Priority | Vessels Assigned |
+|------|---------------------|-----------------|-----------------|
+| **Alpha** | Southern shipping corridor, Haven to Sharpsea Bloc approaches | CRITICAL | 8 |
+| **Bravo** | Northern transit lanes, Haven Island outer perimeter | HIGH | 5 |
+| **Charlie** | Mid-Sharpsea open-water transit routes | MODERATE | 4 |
+| **Delta** | Western approaches and outer island anchorage zones | MODERATE | 4 |
+| **Echo** | Eastern deep-water buffer, Kashikari maritime boundary | LOW-MODERATE | 3 |
+| | **TOTAL** | | **24** |
+
+Zone Alpha's designation as the highest-priority zone reflects the volume of mixed commercial and suspect logistics traffic in the southern corridor. Intelligence assessments confirm that the Haven-to-Sharpsea Bloc passage remains the primary observed vector for illicit material shipments of the type associated with CGC Anti-Proliferation Protocol Revision 11 enforcement triggers.
+
+---
+
+## 3. VESSEL ASSIGNMENTS
+
+Zone Alpha is allocated **eight patrol vessels**, constituting the division's largest single-zone concentration. Vessel assignments for Zones Bravo through Echo are drawn from secondary flotilla inventory, with two vessels held in divisional reserve for emergency reallocation at the Maritime Security Commander's discretion. Reserve vessels are not reflected in the zone totals above and are excluded from the operational cost calculations in Section 6.
+
+All 24 assigned vessels are rated for open-water interdiction operations. Vessel-specific call signs, hull numbers, and crew manifests are maintained in the classified annex ONE-MSD-2119-ANNEX-A (CONFIDENTIAL, separate distribution).
+
+---
+
+## 4. OPERATIONAL SCHEDULE
+
+**Rotation Protocol:** All patrol vessels in active zone assignment will operate on **14-day rotation cycles**, with a mandatory **72-hour port rest interval** required between successive deployments. No vessel may be returned to active patrol status prior to the completion of the mandatory rest period without written authorization from the Maritime Security Commander. This rest requirement applies uniformly across all five zones.
+
+Rotation scheduling will be staggered within each zone to maintain continuous coverage. Zone Alpha's eight-vessel complement permits a four-vessel active / four-vessel resting alternation on a rolling basis, ensuring no coverage gap exceeding six hours at any point in the rotation calendar.
+
+Annual operational tempo projections: approximately 22 active patrol cycles per vessel, subject to maintenance requirements and unscheduled standdowns.
+
+---
+
+## 5. COORDINATION PROTOCOLS
+
+Maritime Security Division operations under this plan are conducted in coordination with the CGC Anti-Proliferation Liaison Office, pursuant to CGC Anti-Proliferation Protocol Revision 11. Liaison officers embedded with Zone Alpha and Zone Bravo commands will serve as the primary inter-entity communication channel for escalated interdictions requiring CGC collective authority.
+
+Cyanite Industries industrial security units operating in the northern transit corridor retain parallel jurisdiction under their own Protocol Revision 11 authorizations; deconfliction procedures for overlapping Zone Bravo coverage are governed by the ONE-Cyanite Maritime Coordination Memorandum of 74 PCE.
+
+All interdiction outcomes involving suspected Conclave-affiliated vessels are to be reported to the CGC Anti-Proliferation Liaison Office within 24 hours of incident resolution.
+
+---
+
+## 6. BUDGET
+
+Total operational cost for the 24-vessel patrol deployment across all five zones for 77 PCE is budgeted at **1.9 billion Phi Credits**. This figure encompasses crew compensation, fuel and propulsion consumables, routine maintenance and scheduled drydock intervals, port facility fees, and liaison office coordination costs. Capital replacement costs for vessels aging out of operational certification are budgeted separately under the Maritime Security Division Capital Reserve and are not included in this figure.
+
+Budget authority is vested in the ONE Network Enterprises Director of Operations. All expenditure above 50 million Phi Credits per line item requires Director-level countersignature.
+
+---
+
+## 7. OPERATIONAL CHALLENGES
+
+The Maritime Security Division identifies the following as the primary constraint on enforcement effectiveness for 77 PCE:
+
+**Conclave Traffic Identification.** Anti-proliferation enforcement in the southern corridor and mid-Sharpsea zones continues to be significantly complicated by the operational sophistication of Conclave logistics networks. Current intelligence assessments indicate that Conclave resupply shipments are increasingly integrated into otherwise legitimate commercial cargo flows — utilizing genuine commercial manifests, contracted vessels with established trading histories, and cargo configurations that are technically compliant with inspection protocols. The practical result is that division patrol commanders cannot reliably differentiate Conclave logistics operations from legitimate commercial traffic without a level of boarding and inspection resource commitment that would cause unacceptable disruption to Haven's commercial throughput.
+
+This command does not, at this time, have a satisfactory protocol for resolving the inspection-resource trade-off within the constraints of CGC Anti-Proliferation Protocol Revision 11's boarding authority provisions. The challenge is noted for escalation to the CGC Anti-Proliferation Liaison Office for inter-entity consultation. Enhanced intelligence sharing from TEC's nanobot behavioral monitoring infrastructure, if extended to maritime operational contexts, may represent a partial mitigation; this is noted as a subject for liaison-level discussion and is not reflected in current operational parameters.
+
+---
+
+*This document is classified CONFIDENTIAL under ONE Network Enterprises classification standards. Unauthorized disclosure is prohibited. Queries regarding distribution should be directed to the Office of the Maritime Security Commander.*
+
+*ONE-MSD-2119-0118-PA / END OF DOCUMENT*

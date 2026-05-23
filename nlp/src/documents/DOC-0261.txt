@@ -1,0 +1,105 @@
+# EDGE RESEARCH PROJECT
+## Annual Financial Statement — Fiscal Year 40 PCE
+### Prepared by the Office of the Financial Controller
+### Submission Date: 41-01-30
+
+---
+
+**CLASSIFICATION: L4 — AUTHORIZED PERSONNEL ONLY**
+*Distribution restricted to Edge Research Project senior leadership, Phyrexis Group Managing Partners, and Cyanite Industries Director-General's office.*
+
+---
+
+## I. INCOME STATEMENT SUMMARY
+**Fiscal Year Ending 40-12-31**
+
+| Line Item | 40 PCE (Φ, billions) | 39 PCE (Φ, billions) |
+|---|---|---|
+| Total Operating Revenue | 187.00 | 141.30 |
+| Total Parent Company Contributions | 513.00 | 498.60 |
+| **Total Resources Available** | **700.00** | **639.90** |
+| Total Operating Expenses | (624.40) | (581.20) |
+| **Net Operating Surplus** | **75.60** | **58.70** |
+
+*Note: Parent Company Contributions are classified as operational support flows rather than revenue under the Edge Research Project's applicable accounting framework, consistent with the joint-venture charter executed in 40 PCE (2082 CE). These figures are presented transparently in Section III.*
+
+---
+
+## II. REVENUE BREAKDOWN BY DIVISION
+
+Total reported operating revenue for fiscal year 40 PCE was **187 billion Phi Credits**, derived from two primary operational divisions.
+
+| Division | Revenue (Φ, billions) | % of Total Revenue |
+|---|---|---|
+| Distributed Identity Infrastructure | 114.07 | 61% |
+| Chip Fabrication | 72.93 | 39% |
+| **Total** | **187.00** | **100%** |
+
+**Divisional Notes:**
+
+**Distributed Identity Infrastructure (DII):** The DII division remains the dominant revenue-generating arm of the Edge Research Project, accounting for sixty-one percent (61%) of total operating revenue in fiscal year 40 PCE — a proportion that has remained broadly stable over the preceding three reporting periods. Revenue is derived from licensing fees, node-maintenance service contracts, and identity-routing protocol subscriptions across the Haven Island Special Economic Zone and select contracted external territories. Year-on-year divisional growth of approximately 22% reflects continued expansion of contracted routing services.
+
+**Chip Fabrication:** The chip fabrication division accounted for thirty-nine percent (39%) of total operating revenue in fiscal year 40 PCE. For the avoidance of doubt, and in response to informal queries raised during the preceding fiscal review, the distributed identity infrastructure division is the larger of the two revenue-generating divisions; chip fabrication represents the minority share of reported revenue. Divisional revenues reflect commercial wafer production and contract fabrication services supplied to external counterparties. This division remains heavily dependent on capital equipment supplied by Cyanite Industries (see Section III).
+
+---
+
+## III. PARENT COMPANY CONTRIBUTIONS
+
+The Edge Research Project received the following resource transfers from its parent entities during fiscal year 40 PCE.
+
+| Contributor | Type | Value (Φ, billions) |
+|---|---|---|
+| Phyrexis Group | Operational Subsidies (cash, Phi Credits) | 420.00 |
+| Cyanite Industries | Fabrication Equipment (in-kind, fair value) | 93.00 |
+| **Total Parent Contributions** | | **513.00** |
+
+**Phyrexis Group Operational Subsidies:** Phyrexis Group provided four hundred and twenty billion Phi Credits (Φ420.00bn) in operational subsidies to the Edge Research Project during fiscal year 40 PCE. These flows are disbursed quarterly in accordance with the joint-venture charter and are classified as non-repayable operational support pending any future restructuring of the parent-subsidiary relationship. The subsidy quantum represents a nominal increase of approximately 4.8% over the prior fiscal year, consistent with agreed escalation provisions.
+
+**Cyanite Industries Equipment Contributions:** Cyanite Industries contributed fabrication equipment with an independently assessed fair value of ninety-three billion Phi Credits (Φ93.00bn) during fiscal year 40 PCE. Equipment transfers comprise advanced lithographic systems, thermal processing units, and ancillary cleanroom infrastructure delivered to the chip fabrication division's primary facility. These assets are recorded on the Balance Sheet at assessed fair value upon transfer and depreciated on a straight-line basis over their useful economic lives.
+
+---
+
+## IV. OPERATING EXPENSES
+
+| Expense Category | 40 PCE (Φ, billions) |
+|---|---|
+| Personnel Costs (salaries, benefits, bonuses) | 198.80 |
+| Technology Infrastructure & Maintenance | 142.30 |
+| Research & Development | 109.60 |
+| Facilities & Utilities | 87.40 |
+| General & Administrative | 52.20 |
+| Depreciation & Amortization | 34.10 |
+| **Total Operating Expenses** | **624.40** |
+
+**Workforce Summary:** As of year-end 40 PCE (40-12-31), the Edge Research Project employed **12,400 personnel** across all operational functions. This represents a net increase of 840 full-time equivalent positions from the year-end 39 PCE headcount of 11,560, reflecting continued expansion of the distributed identity infrastructure division's engineering capacity and the commissioning of two additional chip fabrication lines during the second half of the fiscal year. Personnel costs constitute the single largest operating expense category, representing approximately 31.8% of total operating expenses.
+
+---
+
+## V. BALANCE SHEET SUMMARY
+**As at 40-12-31**
+
+| | Φ, billions |
+|---|---|
+| **Assets** | |
+| Non-Current Assets (net of depreciation) | 741.20 |
+| Current Assets | 124.60 |
+| **Total Assets** | **865.80** |
+| **Liabilities & Equity** | |
+| Non-Current Liabilities | 89.30 |
+| Current Liabilities | 143.50 |
+| Parent Company Equity & Contributions Reserve | 632.99 |
+| **Total Liabilities & Equity** | **865.80** |
+
+---
+
+## VI. CONTROLLER'S NOTES & FORWARD MATTERS
+
+This financial statement covers the final full fiscal year of the Edge Research Project's operations under its current joint-venture structure. The Financial Controller notes for the record that discussions between Phyrexis Group and Cyanite Industries regarding the formal legal reorganization of the Edge Research Project are ongoing as of the preparation date of this statement. Should that reorganization conclude during fiscal year 41 PCE, a revised accounting framework and consolidated closing statement will be prepared accordingly.
+
+All figures are denominated in Phi Credits and prepared in accordance with CGC-recognized financial reporting standards applicable to joint-venture entities. This statement has been reviewed by the Office of the Financial Controller and is submitted for approval to the relevant oversight bodies of both parent organizations.
+
+---
+
+*Office of the Financial Controller, Edge Research Project*
+*41-01-30*
+*CLASSIFICATION: L4 — AUTHORIZED PERSONNEL ONLY*

@@ -1,0 +1,76 @@
+# THE EDGE CORPORATION
+## Internal Technical Guidance Document
+
+**Classification:** L2 — HIGHLY SENSITIVE
+**Document Reference:** TEC-OC-GUID-2117-044
+**Date:** 75-10-07 PCE (2117-10-07 CE)
+**Author:** Dr. Lena Qadir, Principal Systems Architect
+**Distribution:** Edge Infrastructure Division; Legal & Compliance; CGC Affairs Office
+**Subject:** Opting Clinic Technical Interface Protocol — Guidance for Genesis Labs Partnership
+
+---
+
+### 1. Purpose and Regulatory Basis
+
+This document provides operational guidance for TEC personnel involved in delivering technical interface support to approved Opting Clinics under the terms established by CGC Resolution 74-012. Personnel should be aware that CGC Resolution 74-012 does not exempt TEC from providing such support — it explicitly mandates it. TEC is contractually required to furnish approved Opting Clinics, which are predominantly operated by Genesis Labs, with defined technical interface services for the duration of each Opting procedure. This guidance specifies the scope, limits, and fee structure of that obligation. Adherence to the protocols outlined herein is a compliance requirement, not a discretionary operational preference.
+
+---
+
+### 2. Deactivation Sequence Technical Specifications
+
+#### 2.1 Duration Parameters
+
+The controlled nanobot deactivation sequence is not a uniform procedure. Depending on the user's integration duration and the size of their nanobot cluster at the time of initiation, the sequence takes between **72 and 168 hours** to complete. Clinic-facing TEC technicians must communicate this range clearly to Genesis Labs clinical coordinators at procedure onset; misrepresentation of expected duration constitutes a compliance breach.
+
+#### 2.2 Process Overview
+
+The deactivation sequence proceeds through three functional phases: dormancy induction, cluster consolidation, and cortical detachment. Each phase must reach defined threshold completion before the subsequent phase initiates. Attempts by Opting Clinic personnel to manually advance the sequence between phases are not supported under this protocol and may result in suspension of TEC's technical interface feed.
+
+#### 2.3 Behavioral Calibration Continuity
+
+TEC's internal systems continue to run behavioral adaptation calibration cycles throughout the deactivation sequence. These cycles are a standard feature of Edge's nanobot architecture and are not suspended for deactivation procedures. Clinic-facing personnel should note that calibration activity during deactivation does not indicate procedural failure; it is a background infrastructure function.
+
+---
+
+### 3. Monitoring Data Feeds
+
+#### 3.1 Provided Data Categories
+
+TEC provides real-time monitoring data feeds to Opting Clinics during the deactivation process. The data feed includes the following aggregate metrics:
+
+- **Nanobot cluster population counts** (total active population, updated at standard refresh intervals)
+- **Dormancy transition rates** (percentage of cluster achieving dormancy per reporting cycle)
+- **Cortical detachment progress** (expressed as a percentage of baseline cortical attachment map)
+
+These metrics are sufficient to monitor procedure progress and patient safety within the clinical parameters Genesis Labs' operational guidelines require.
+
+#### 3.2 Data Granularity Limits
+
+TEC deliberately limits the granularity of monitoring data shared with Genesis Labs through the Opting Clinic feed. Opting Clinic personnel receive the aggregate metrics enumerated in Section 3.1. Individual nanobot telemetry — positional data, signal modulation records, and per-unit behavioral logs — is not included in the clinic feed and is not accessible through any clinic-facing interface. This reflects TEC's standard operating procedure for all third-party integrations and is consistent with our intellectual property protection obligations. Requests to expand data granularity beyond aggregate metrics should be directed to TEC Legal & Compliance and will not be accommodated through operational channels.
+
+#### 3.3 Firmware-Level Diagnostic Data
+
+TEC staff are explicitly instructed **not to share firmware-level diagnostic data with Opting Clinic personnel under any circumstances.** This restriction applies regardless of the clinical rationale offered, the seniority of the requesting Genesis Labs personnel, or the technical urgency represented. Any Genesis Labs request for firmware-level access must be escalated immediately to TEC Legal & Compliance. TEC staff who comply with such requests without authorization will be subject to disciplinary review.
+
+---
+
+### 4. Fee Schedule
+
+#### 4.1 Per-Procedure Technical Support Fee
+
+TEC charges Opting Clinics a per-procedure technical support fee of **4,200 Phi Credits**. This fee covers real-time monitoring feed access, TEC technician availability during the procedure window, and post-procedure data archival. Genesis Labs has repeatedly challenged this fee as excessive. Those challenges are a matter of ongoing CGC Affairs engagement and do not affect the current applicable rate. Opting Clinic procedures initiated without confirmed fee authorization will result in immediate suspension of the technical interface feed.
+
+#### 4.2 Billing Disputes
+
+All fee disputes must be directed to the CGC Affairs Office. TEC operations personnel are not authorized to negotiate fee adjustments at the clinic-integration level.
+
+---
+
+### 5. Compliance and Escalation
+
+Questions regarding this guidance should be directed to the Principal Systems Architecture team. Suspected compliance breaches by either TEC personnel or Genesis Labs clinic staff must be reported to TEC Legal & Compliance within 24 hours of identification.
+
+---
+
+*Dr. Lena Qadir — Principal Systems Architect, The Edge Corporation*
+*TEC-OC-GUID-2117-044 | Classification: L2*

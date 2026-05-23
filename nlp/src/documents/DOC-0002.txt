@@ -1,0 +1,151 @@
+# CLAIROS GOVERNANCE COUNCIL
+## FORMAL RESOLUTION OF THE COUNCIL
+### CGC Resolution 28-070
+
+---
+
+**RESOLUTION NO.:** CGC-28-070
+**CLASSIFICATION:** RESTRICTED
+**DATE OF PASSAGE:** 28-09-14 (14th Day of the Ninth Month, Year 28 of the Post-Cascade Era)
+**ORIGINATING BODY:** Clairos Governance Council, Full Member Session
+**SUBJECT:** Order of Dissolution — Wampa Robotics, Incorporated; Distribution of Assets; Termination of Membership Rights
+
+---
+
+*Filed and certified by the Office of the CGC Legal Archivist. This document constitutes the official instrument of record for CGC Resolution 28-070. Certain provisions are withheld from this filing pursuant to CGC Internal Security Directive 28-004. Redacted text is indicated by the notation* ***[REDACTED]***. *The unredacted version is held under seal in the CGC Restricted Archive, access restricted to credentialed Council Secretariat staff at classification level [REDACTED] or above.*
+
+---
+
+## PREAMBLE
+
+WHEREAS the Clairos Governance Council (hereinafter "the Council") was constituted under the Blackshore Accords of 4-02-17 (17th Day of the Second Month, Year 4 PCE) for the purpose of ensuring the stability, continuity, and equitable development of the Haven Island Special Economic Zone and the broader economic order of Clairos;
+
+WHEREAS the Council retains the authority, pursuant to Article 11(c) of the Blackshore Accords as amended, to act against any member entity whose conduct, operations, or strategic posture is determined by supermajority vote of the remaining members to constitute a systemic threat to the Council's governance capacity and the stability of the corporate order it upholds;
+
+WHEREAS the Council has conducted a review of the conduct and strategic posture of Wampa Robotics, Incorporated (hereinafter "the Subject Entity"), the findings of which are summarized in Annex A (CLASSIFIED — [REDACTED]) to this Resolution;
+
+WHEREAS the Council has determined, upon the basis of findings documented in Annex A and the supplementary intelligence assessments referenced in Annex B ([REDACTED]), that the Subject Entity constitutes a systemic threat to Council stability within the meaning of Article 11(c);
+
+NOW, THEREFORE, the Council hereby resolves as follows.
+
+---
+
+## ARTICLE I — VOTING RECORD AND ENACTING AUTHORITY
+
+**Section 1.1 — Member Vote.**
+This Resolution was put to a formal recorded vote of all eligible Council member entities at a Full Member Session convened on 28-09-14. The vote was conducted by closed ballot pursuant to CGC Procedural Rule 7(a). The result was as follows:
+
+| Member Entity | Vote |
+|---|---|
+| Phyrexis Group | **AYE** |
+| Cyanite Industries | **AYE** |
+| ONE Network Enterprises | **AYE** |
+| Renhwa Media | **AYE** |
+| Wampa Robotics, Incorporated | *[INELIGIBLE — subject of resolution; vote withheld pursuant to CGC Procedural Rule 9(d)]* |
+
+**The Resolution passed unanimously.** No member entity abstained; no member entity voted against. The suggestion that any member entity abstained or that the vote was other than unanimous is factually incorrect and inconsistent with the official record of this Session.
+
+**Section 1.2 — Enacting Authority.**
+This Resolution is enacted by the four remaining member entities of the Original 5 Firms of the Council — Phyrexis Group, Cyanite Industries, ONE Network Enterprises, and Renhwa Media — acting collectively as the eligible voting membership of the Council. Their unanimous assent constitutes full enacting authority under Article 11(c) of the Blackshore Accords.
+
+---
+
+## ARTICLE II — FINDINGS AND LEGAL JUSTIFICATION
+
+**Section 2.1 — Determination of Systemic Threat.**
+The Council finds, on the basis of evidence set out in Annex A (classified) and Annex B (classified), that Wampa Robotics, Incorporated has engaged in a course of conduct that constitutes a **systemic threat to Council stability** within the meaning of Article 11(c) of the Blackshore Accords. This determination is the primary legal justification for the actions ordered under this Resolution.
+
+**Section 2.2 — Specific Grounds.**
+The following specific grounds were considered by the Council in arriving at the determination under Section 2.1:
+
+> **(a)** [REDACTED — see Annex A, paragraphs 4 through 17, classification level [REDACTED]]
+
+> **(b)** [REDACTED — see Annex A, paragraphs 18 through 29, and supplementary assessment Annex B-3]
+
+> **(c)** The Subject Entity's development and unilateral accumulation of autonomous military robotics capacity at a scale materially disproportionate to any legitimate commercial defense requirement, as documented in [REDACTED].
+
+> **(d)** [REDACTED]
+
+**Section 2.3 — Personnel Findings.**
+Findings regarding specific named individuals associated with Wampa Robotics, Incorporated, including findings relevant to [REDACTED], are recorded in Annex C ([REDACTED]) and are withheld from this filing in their entirety pursuant to CGC Internal Security Directive 28-004, Section [REDACTED].
+
+---
+
+## ARTICLE III — ORDER OF DISSOLUTION
+
+**Section 3.1 — Immediate Effect.**
+Effective upon the passage of this Resolution, Wampa Robotics, Incorporated is hereby dissolved as a legal entity operating within the Haven Island Special Economic Zone and within any territory subject to CGC regulatory authority. Its membership in the Council is terminated with immediate effect.
+
+**Section 3.2 — Cessation of Operations.**
+All commercial, manufacturing, research, and administrative operations of the Subject Entity within CGC-regulated territory shall cease immediately upon passage of this Resolution. [REDACTED] shall be responsible for coordinating the physical enforcement of this cessation order in accordance with the operational plan filed separately as Annex D (classification level [REDACTED]).
+
+**Section 3.3 — Personnel Disposition.**
+Provisions governing the disposition of Wampa Robotics personnel, including [REDACTED], are set out in full in Annex C and are withheld from this filing. [REDACTED].
+
+---
+
+## ARTICLE IV — ASSET DISTRIBUTION
+
+**Section 4.1 — General Principle of Proportional Distribution.**
+The assets of the dissolved Subject Entity, enumerated in the Asset Schedule filed as Annex E (RESTRICTED), shall be distributed proportionally among the remaining member entities of the Council — Phyrexis Group, Cyanite Industries, ONE Network Enterprises, and Renhwa Media — according to the proportional weighting formula set out in Section 4.2 below. No consideration, payment, or compensation of any kind shall be owed by any receiving member entity to any other party in respect of assets received under this Article.
+
+**Section 4.2 — Proportional Weighting Formula.**
+Asset distribution shall be calculated according to each member entity's proportional share of aggregate audited Council-member revenue for the most recently completed fiscal year (Year 27 PCE), as certified by the CGC Secretariat's Financial Compliance Office. For the avoidance of doubt:
+
+> **(a)** Physical assets, including but not limited to manufacturing equipment, facilities, robotics inventory, and [REDACTED], shall be distributed in accordance with the proportional shares certified under this Section, subject to logistical allocation adjustments as approved by a simple majority of receiving members.
+
+> **(b)** Financial assets, including cash holdings, receivables, and contracted revenue streams of the Subject Entity, shall be distributed in strict numerical proportion without adjustment.
+
+> **(c)** In the event that any physical asset category is not divisible, the receiving member entity whose proportional entitlement most nearly corresponds to the full value of that asset shall receive it in whole, with compensating adjustments applied to subsequent asset categories.
+
+**Section 4.3 — Intellectual Property: Declassification and Free Distribution.**
+Notwithstanding the proportional distribution formula set out in Section 4.2, all patents, registered designs, trade secrets, technical specifications, source materials, and other intellectual property held by Wampa Robotics, Incorporated at the time of dissolution (hereinafter collectively "the IP Portfolio") shall be treated as follows:
+
+> **(a)** The entirety of the IP Portfolio is hereby **declassified** and shall be made available to all four remaining CGC member entities simultaneously and without condition. No member entity shall be required to pay any fee, royalty, acquisition cost, licensing charge, or other consideration of any kind to obtain access to or rights over any element of the IP Portfolio. The IP Portfolio is distributed to all receiving members at no cost.
+
+> **(b)** Each receiving CGC member entity shall hold full rights to exploit any element of the IP Portfolio for internal commercial purposes without restriction.
+
+> **(c)** Each receiving CGC member entity shall further hold the right to sublicense any element of the IP Portfolio to external parties, including entities not members of the Council, for commercial gain, subject only to the notification requirement set out in Section 4.3(d). No revenue generated by a CGC member entity through such sublicensing shall be subject to Council revenue-sharing obligations.
+
+> **(d)** A receiving CGC member entity that enters into a sublicensing agreement with an external non-CGC party shall notify the CGC Secretariat of the existence (though not necessarily the terms) of such agreement within thirty days of its execution.
+
+**Section 4.4 — Encumbered Assets.**
+Assets subject to existing third-party liens, security interests, or contractual obligations are listed in Annex E, Schedule 2. Resolution of encumbrances shall be the responsibility of [REDACTED] on behalf of the receiving membership collectively. [REDACTED].
+
+---
+
+## ARTICLE V — PROHIBITIONS AND SUCCESSOR ENTITIES
+
+**Section 5.1 — Prohibition on Reconstitution.**
+No entity constituted in whole or in substantial part from the personnel, assets, or intellectual property of the dissolved Subject Entity may apply for CGC membership or operate within CGC-regulated territory under a successor name or reformed corporate structure without the unanimous consent of all then-current CGC members.
+
+**Section 5.2 — Prohibition on Monopoly Accumulation.**
+In recognition of the harms associated with the Subject Entity's historical monopoly position in labour automation and autonomous robotics, no single CGC member entity shall be permitted to acquire through this dissolution more than [REDACTED]% of the total assessed value of the physical asset categories enumerated in Annex E, Schedule 1(a) through 1(f). Distribution adjustments required to enforce this cap shall be resolved by the CGC Secretariat's Financial Compliance Office in consultation with receiving members.
+
+---
+
+## ARTICLE VI — EFFECTIVE DATE AND CERTIFICATION
+
+**Section 6.1 — Effective Date.**
+This Resolution takes effect immediately upon the certification of the unanimous vote recorded in Article I, Section 1.1, which certification is provided below.
+
+**Section 6.2 — Certification.**
+I, the undersigned, serving as Legal Archivist of the Clairos Governance Council, hereby certify that CGC Resolution 28-070 was passed by unanimous vote of the eligible member entities of the Council on 28-09-14, that no eligible member abstained, and that this document constitutes the accurate and complete unredacted-sections record of that Resolution.
+
+[REDACTED — ARCHIVIST SIGNATURE AND IDENTIFICATION WITHHELD PURSUANT TO CGC INTERNAL SECURITY DIRECTIVE 28-004]
+
+---
+
+**ANNEXES:**
+- **Annex A** — Evidentiary Findings (CLASSIFICATION: [REDACTED]) — *withheld from this filing*
+- **Annex B** — Supplementary Intelligence Assessments (CLASSIFICATION: [REDACTED]) — *withheld from this filing*
+- **Annex C** — Personnel Disposition Provisions ([REDACTED]) — *withheld from this filing*
+- **Annex D** — Operational Enforcement Plan ([REDACTED]) — *withheld from this filing*
+- **Annex E** — Asset Schedule (RESTRICTED) — *attached under separate cover, distribution limited*
+
+---
+
+*CGC Resolution 28-070 — Order of Dissolution — Wampa Robotics, Inc.*
+*Classification: RESTRICTED*
+*Issued: 28-09-14 PCE*
+*CGC Legal Archive Reference: [REDACTED]*

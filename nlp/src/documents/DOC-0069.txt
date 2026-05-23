@@ -1,0 +1,68 @@
+# CLAIROS GOVERNANCE COUNCIL
+## SECURITY DIRECTORATE
+### MONTHLY THREAT DIGEST
+**Reporting Period:** 76 PCE, Month 08 (76-08-01 through 76-08-31)
+**Issued:** 76-09-05
+**Classification:** SECRET
+**Distribution:** CGC Member Representatives, Security Directorate Senior Staff
+
+---
+
+## EXECUTIVE SUMMARY
+
+Month 08 of 76 PCE saw a modest reduction in total recorded security incidents relative to the preceding month. The principal threat vectors remain consistent with prior reporting periods: CYPHER-affiliated smuggling operations, Spirit Liberation Front direct-action incidents, and ongoing unauthorized launch site activity. No significant shift in adversary capability or intent is assessed at this time. Sharpsea Bloc non-cooperation continues to impair regional situational awareness.
+
+---
+
+## CYPHER / CONCLAVE ACTIVITY
+
+Two Conclave-linked smuggling operations were interdicted during the reporting period. Both operations originated from Cyanite Industries territorial holdings; in each case, cargo manifests were falsified to conceal components consistent with orbital maintenance supply profiles previously identified in Conclave logistics intelligence. Recovered materials have been transferred to secure CGC storage pending technical analysis. Cyanite Industries security personnel cooperated fully with interdiction procedures; no Cyanite employees have been identified as witting participants in either operation at this time, though investigative follow-on activity remains ongoing.
+
+No new Conclave recruitment events have been confirmed within Haven during the reporting period. The Security Directorate notes, as a standing advisory, that Conclave-affiliated travel patterns continue to present detection challenges in high-transit areas.
+
+---
+
+## SPIRIT LIBERATION FRONT ACTIVITY
+
+On 76-08-14, the Spirit Liberation Front claimed responsibility for a disruption to Edge connectivity affecting the South Haven commercial district. The disruption lasted **47 minutes** before TEC technical teams restored full service. The SLF communiqué issued in connection with this incident described the action as a "demonstration of continued operational capacity against the instruments of coercive augmentation." No injuries were reported; economic impact estimates are pending submission from TEC and affected district commercial operators.
+
+Two further minor incidents during the reporting period involved SLF-attributed vandalism targeting TEC relay infrastructure in North Haven. Neither incident resulted in service disruption. CGC security personnel have increased static coverage of identified TEC relay positions in the affected sectors.
+
+The SLF's operational tempo in Month 08 is consistent with previous months. No intelligence has been received indicating a near-term escalation toward higher-casualty attack methodologies, though this assessment is held with moderate confidence only.
+
+---
+
+## LAUNCH SITE MONITORING
+
+One unauthorized launch site was identified during the reporting period, located on an uncharted atoll approximately 800 kilometers northeast of Haven Island. The site was detected via thermal and structural anomaly signatures consistent with pre-launch preparation activity. A CGC Security Directorate surveillance asset confirmed the presence of construction materials and partially assembled launch infrastructure. No launch event was recorded during the reporting period.
+
+Interdiction options are under review. The atoll's distance from Haven Island and the absence of established CGC maritime patrol presence in that corridor present logistical challenges for a rapid-response operation. Coordination with ONE Network Enterprises maritime assets has been initiated.
+
+---
+
+## INTER-ENTITY COOPERATION
+
+**CGC Member Corporations:** Cyanite Industries and ONE Network Enterprises both provided operational support to Security Directorate activities during Month 08, as noted above. Genesis Labs submitted one supplementary technical assessment relevant to Conclave supply-chain analysis. Phyrexis Group and TEC had no significant cooperative interactions with the Security Directorate during the reporting period.
+
+**Sharpsea Bloc:** The Security Directorate transmitted formal information-sharing requests to all three Sharpsea Bloc member-state intelligence services during Month 08. **No response was received from any Bloc intelligence service during the reporting period.** This marks the third consecutive month without substantive Bloc engagement. The absence of any Bloc intelligence service response continues to limit the Security Directorate's ability to assess threat activity in the Sharpsea region. The Directorate reiterates its recommendation that senior CGC representatives raise this non-participation through diplomatic channels.
+
+---
+
+## STATISTICAL SUMMARY
+
+| Metric | Month 07 | Month 08 | Change |
+|---|---|---|---|
+| Total security incidents recorded | 38 | 31 | −7 |
+| Conclave smuggling operations interdicted | 1 | 2 | +1 |
+| SLF incidents attributed | 4 | 3 | −1 |
+| Unauthorized launch sites identified | 0 | 1 | +1 |
+| Suspected Conclave operatives on active Haven watchlist | 23 | 23 | 0 |
+
+The total security incidents recorded in Month 08 were **31**, a decrease from **38** in Month 07. The Security Directorate notes that this reduction should not be interpreted as an indication of diminished adversary intent; partial attribution gaps remain, and the launch site identification represents an elevated strategic concern that incident count alone does not capture.
+
+---
+
+*Prepared by the CGC Security Directorate. Next digest: 76-10-05, covering Month 09.*
+*Unauthorized disclosure of this document is a violation of CGC Security Instrument 7(c).*
+
+**[SECRET — CGC SECURITY DIRECTORATE]**

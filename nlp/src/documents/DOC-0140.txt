@@ -1,0 +1,63 @@
+# CGC INFRASTRUCTURE COMMITTEE BRIEFING
+
+**Document Reference:** CGC-IC-76-0140
+**Classification:** CONFIDENTIAL
+**Issuing Body:** CGC Infrastructure Committee Secretariat
+**Date:** 76-12-04 (2118-12-04 CE)
+**Distribution:** CGC Member Representatives (Restricted Circulation)
+**Re:** Edge Network Dependency and Systemic Risk to Haven Civic Infrastructure
+
+---
+
+## EXECUTIVE SUMMARY
+
+This briefing presents the findings of the CGC Infrastructure Committee's review of Haven's systemic dependency on The Edge Corporation's nanobot-enabled Edge network. The review was commissioned jointly by Cyanite Industries and ONE Network Enterprises; Genesis Labs abstained from sponsoring the review, and TEC formally objected to the committee's mandate prior to the commencement of proceedings. The committee has concluded that Haven's current relationship with Edge infrastructure represents a material and unmitigated systemic risk to civic stability. The committee does not issue a single preferred recommendation. Rather, it presents three distinct policy options for member consideration, each reflecting a different threshold of intervention and a different allocation of implementation burden. The committee's position is that action of some form is warranted; the form of that action is appropriately a matter for member deliberation.
+
+---
+
+## RISK ASSESSMENT
+
+The committee's quantitative modelling identifies a sustained 24-hour Haven-wide Edge outage as the primary catastrophic scenario. Under this scenario, economic losses are estimated at approximately **8.7 billion Phi Credits**, representing direct commerce disruption, suspended financial settlement operations, and secondary productivity losses across Haven's primary economic sectors. Civil unrest is modelled as affecting **up to 40 million residents**, reflecting the near-total integration of Edge into daily residential life — including shelter management, food access logistics, and healthcare triage coordination — such that an abrupt outage would precipitate not merely inconvenience but acute deprivation for a substantial proportion of Haven's population.
+
+**Commerce dependency** is the committee's most immediate concern. Approximately **71% of Haven's economic transactions are conducted through Edge-integrated payment interfaces**. The cessation of this throughput even for a matter of hours would suspend basic commerce at the retail, wholesale, and institutional levels simultaneously. Unlike a conventional financial system outage, Edge payment interface disruption cannot be bridged by cash-equivalent fallback mechanisms at population scale, as the physical Phi Credit infrastructure necessary to support offline transaction volumes has not been maintained in proportion to digital payment adoption. The resulting gaps in food, water, and medical supply chains would begin to manifest within hours.
+
+Beyond commerce, the committee notes that an Edge outage scenario carries secondary infrastructure implications: Haven's emergency services coordination, port logistics, and a portion of the Floodwall monitoring systems operate on Edge-adjacent communication protocols. The committee has not modelled cascading Floodwall failure as a primary scenario; however, it notes that the interdependencies have not been formally assessed by any body with independent technical access.
+
+---
+
+## CURRENT OVERSIGHT FRAMEWORK
+
+The committee's review of existing oversight mechanisms reveals a significant structural limitation. Current CGC oversight of Edge infrastructure is limited to **annual capacity audits that TEC self-reports**, with **no independent verification mechanism** in place. The committee has no technical staff empowered to conduct on-site review, no access to TEC's network architecture documentation, and no mandate to require disclosure beyond the self-reported capacity figures TEC submits at the close of each year.
+
+This constraint is compounded by a separate and distinct barrier documented in the committee's correspondence record. **TEC has repeatedly declined to share detailed infrastructure specifications with the CGC, citing trade secret protections recognized under the Cordial Entente.** The committee acknowledges that TEC's invocation of the Cordial Entente's intellectual property provisions is legally consistent with the current framework. The committee also observes that the cumulative effect of these two conditions — self-reported audits in one domain, wholesale non-disclosure in another — is that the CGC possesses no verified technical basis for assessing the resilience, redundancy, or failure-mode characteristics of the Edge network upon which Haven's civic stability materially depends. The committee regards this situation as untenable given the risk profile established in the preceding section.
+
+---
+
+## POLICY OPTIONS
+
+The committee presents three policy options for member deliberation. The committee has explicitly declined to rank or endorse any single option, as the trade-offs between them reflect member-level political and strategic considerations beyond the committee's remit.
+
+**Option A — Mandated Independent Infrastructure Audits:** The CGC would establish or contract an independent technical body empowered to conduct on-site Edge infrastructure audits on a defined schedule, with findings reported directly to the Infrastructure Committee. Implementation would require a new CGC Resolution overriding TEC's current trade-secret non-disclosure position with respect to physical infrastructure (though not necessarily algorithmic or product-layer specifications). Legal counsel advises this option is achievable under existing CGC governance instruments but would require supermajority member support.
+
+**Option B — Publicly Verifiable Redundancy Standards:** Rather than mandating internal disclosure, the CGC would require TEC to maintain and demonstrate compliance with externally defined redundancy standards — uptime commitments, failover capacity thresholds, and geographic distribution requirements — verified through outcome-based metrics observable without access to proprietary specifications. This option places the burden on TEC to demonstrate compliance rather than on the CGC to evaluate architecture. It is the least intrusive of the three options and the most likely to secure TEC's reluctant acceptance.
+
+**Option C — CGC-Operated Emergency Backup Edge Relay Network:** The CGC would commission and operate its own emergency-capacity Edge relay infrastructure, functionally independent of TEC's primary network, capable of sustaining essential civic services — emergency coordination, food and water supply chain management, basic payment settlement — in the event of a primary network failure. This option carries the highest capital requirement and operational complexity. The committee notes in this context that a parallel initiative, designated GROUNDWORK, has been separately scoped at an estimated timeline of **30 months with a capital requirement of 28 billion Phi Credits**, contingent on CGC approval for construction of new data centers in Central Haven. Members should weigh Option C against this reference figure.
+
+---
+
+## COMMITTEE MEMBER POSITIONS
+
+**Cyanite Industries** and **ONE Network Enterprises**, as joint sponsors of this review, have each indicated support for proceeding to a formal CGC Resolution on one or more of the above options. Neither has publicly committed to a specific option as of the date of this briefing.
+
+**Genesis Labs** abstained from sponsoring the review and has not submitted a formal position to the committee. Genesis Labs representatives attended the final briefing session as observers without comment.
+
+**TEC** formally objected to the committee's mandate at inception and has not participated in proceedings. TEC's legal representative submitted correspondence reiterating the trade-secret protections applicable to Edge infrastructure specifications and characterizing the review as exceeding the Infrastructure Committee's institutional remit. This correspondence is appended to the classified record.
+
+**Phyrexis Group** has not submitted a formal position. Phyrexis representatives attended initial scoping sessions and have since been absent from proceedings without explanation.
+
+---
+
+*This document is classified CONFIDENTIAL per CGC collective classification convention. Unauthorized disclosure or reproduction is prohibited. Recipients are reminded that this briefing reflects committee findings as of 76-12-04 and does not constitute a binding CGC determination.*
+
+*CGC Infrastructure Committee Secretariat*
+*Haven Island Special Economic Zone*

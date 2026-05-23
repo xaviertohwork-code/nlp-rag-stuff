@@ -1,0 +1,57 @@
+# THE EDGE CORPORATION
+## Market Analytics Division
+### Edge Adoption Metrics — Haven Monthly Dashboard
+#### Month 3, 77 PCE | Reference: TEC-MAD-0192
+#### Classification: L4 — AUTHORIZED ONLY
+
+---
+
+**Distribution:** Senior Leadership, CGC Compliance Reporting (internal copy), Market Analytics Division leads
+**Prepared by:** TEC Market Analytics Division
+**Date issued:** 77-04-05
+
+---
+
+## 1. POPULATION BREAKDOWN
+
+Haven total population reference baseline: ~100 million
+
+| Segment | Internal Designation | Estimated Population (M) | % of Base |
+|---|---|---|---|
+| Full Edge engagement | Fullwalkers | 71.3 | 71.3% |
+| Partial / contested engagement | Edgedancers | 14.8 | 14.8% |
+| Purged / non-integrated | Nulls | 8.9 | 8.9% |
+| Nanobot-exposed, minimal active interaction | Unengaged | 5.0 | 5.0% |
+
+**Notes on methodology:** Fullwalker counts are derived from continuous nanobot behavioral telemetry and session-handshake logs. Edgedancer estimates carry a ±0.4M margin owing to the irregular and deliberately fragmented nature of their engagement patterns. Null (Opted) estimates are cross-referenced against Genesis Labs Opting Clinic discharge records and passive nanobot-absence telemetry. Unengaged classification captures the residual population confirmed as nanobot-exposed via ambient dispersal but registering fewer than three active interaction events per rolling 30-day window; these individuals are not counted in active session metrics.
+
+---
+
+## 2. USAGE METRICS
+
+**Daily Active Edge Sessions — Month 3, 77 PCE**
+
+| Metric | Value |
+|---|---|
+| Average daily active sessions | **84 million** |
+| Peak single-day session count | 91.2 million (77-03-17, coinciding with the East Haven commercial release event) |
+| Minimum single-day session count | 79.6 million (77-03-08) |
+| Month-over-month change (vs. Month 2, 77 PCE) | +1.3% |
+
+Session volume consistently exceeds Fullwalker population count, reflecting multi-session behavior among high-engagement users and a measurable contribution from the Edgedancer segment during active periods. Unengaged and Null populations contribute negligible session volume within normal measurement thresholds.
+
+---
+
+## 3. TREND ANALYSIS
+
+**Fullwalker growth:** Fullwalker population registered +0.6% quarter-over-quarter, consistent with baseline organic expansion. No anomalous drivers identified. Engagement depth metrics (average session duration, interaction density) remain stable.
+
+**Edgedancer cohort:** Estimated population holds within expected variance band. No material shift from prior quarter. Enforcement referrals from Edge behavioral flags continue at standard volume.
+
+**Unengaged cohort:** Stationary. No trend signal.
+
+**Null (Opted) cohort — monitoring priority:** The Opted population has recorded growth of **2.1% quarter-over-quarter**, a rate that diverges meaningfully from the prior two quarters (0.4% and 0.7% respectively). For the avoidance of ambiguity: it is the Opted population — not the Fullwalker population — that is exhibiting the anomalous growth trend flagged in this report. The Fullwalker segment continues to expand modestly and within forecast; the Null cohort's acceleration is the outlier warranting continued observation. The 2.1% growth rate does not yet constitute a material base reduction in session-eligible population, but the directional signal is noted for leadership attention. Contributing factors under preliminary review include increased We The Opted public activity in central Haven districts and Genesis Labs Opting Clinic discharge throughput. No operational response is recommended at this stage; reclassification to escalated priority is at senior leadership discretion.
+
+---
+
+*This document is prepared for internal TEC distribution at L4 classification. Unauthorized reproduction or transmission outside authorized channels is a violation of TEC Information Governance Policy.*

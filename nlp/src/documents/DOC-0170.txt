@@ -1,0 +1,87 @@
+# CGC ASSEMBLY CHAMBER — SESSION LOG EXTRACT
+## Session 14, 77 PCE | Resolution 77-031: Rocketry Enforcement Enhancement Act
+### Recorded by: CGC Parliamentary Records Office | Classification: OPEN
+
+---
+
+**DATE:** 77-06-12
+**PRESIDING:** CGC Session Chair (rotating, Cyanite Industries cycle)
+**QUORUM STATUS:** All five member corporation representatives present. Session confirmed in order at 09:14.
+
+---
+
+## RESOLUTION SUMMARY
+
+**Resolution 77-031 — Rocketry Enforcement Enhancement Act** proposes the following material amendments to existing CGC rocketry restriction protocols:
+
+1. **Penalty Tier Enhancement:** The maximum fine for unauthorized launch infrastructure *construction* is proposed to double from **25 million Phi Credits per incident** to **50 million Phi Credits per incident**. The Parliamentary Records Office notes for the record that this construction-specific penalty constitutes a separate and categorically higher tier than the existing per-incident fines applicable to unauthorized launch attempts or facilitation activities.
+
+2. **Warrantless Inspection Authority:** The resolution proposes granting CGC enforcement personnel authority to conduct warrantless inspections of suspected unauthorized launch facilities located on megacorp-controlled territory, without requirement for prior notification to the controlling corporation.
+
+The resolution was introduced by the ONE Network Enterprises representative and seconded by the Genesis Labs representative at the close of Session 13 (77-06-05). Full resolution text distributed to all member delegations 77-06-07.
+
+---
+
+## FLOOR DEBATE — 09:22 TO 11:47
+
+**09:22 | REPRESENTATIVE, ONE NETWORK ENTERPRISES:**
+Introduced the resolution for debate. Stated that existing enforcement penalties have demonstrated insufficient deterrent effect against parties motivated to supply materials to CYPHER's orbital network. Noted the CGC's collective interest in starving CYPHER of resources and described the proposed penalty tier as proportionate to the scale of threat.
+
+**09:41 | REPRESENTATIVE, GENESIS LABS:**
+Expressed support for the resolution in substantive terms. Stated that the security of CYPHER satellite data infrastructure is critical to global computational infrastructure and that any degradation of CGC enforcement capacity in this domain carries cascading risks. Described warrantless inspection authority as a necessary operational tool and urged the full council to consider the systemic implications of allowing launch-support activity to continue unchallenged.
+
+**10:08 | REPRESENTATIVE, CYANITE INDUSTRIES:**
+Registered formal objection to Clause 2 of the resolution — specifically, the proposed warrantless inspection authority. The representative stated that granting CGC enforcement personnel the right to conduct unannounced inspections of megacorp-controlled territory constitutes a violation of operational sovereignty. Direct quotation entered into the record:
+
+> *"Cyanite Industries operates extensive industrial facilities, including at Sarento, under established protocols that balance CGC compliance obligations with the operational integrity of our manufacturing and logistics functions. Warrantless inspection authority as written introduces an unacceptable and unilateral override of those protocols. We cannot support a mechanism that treats our own facilities as presumptively suspect."*
+
+The representative further stated that Cyanite does not oppose the enhancement of fines in principle, but that the resolution as drafted is unacceptable in its totality.
+
+**10:39 | REPRESENTATIVE, TEC — MS. DEVIKA ORANYAN:**
+Stated TEC's support for the resolution in full. Ms. Oranyan noted that CYPHER represents an existential threat to the stability of Clairos and that the severity of this threat justifies the expansion of enforcement authority beyond what would be appropriate under ordinary regulatory circumstances. She further stated that the warrantless inspection provision, while unusual, was a proportionate and targeted response to an adversary that does not operate within conventional legal frameworks.
+
+**11:02 | SESSION CHAIR:**
+Noted that no representative from Phyrexis Group had requested the floor. Queried the Phyrexis delegation directly. The Phyrexis representative confirmed the delegation did not wish to make floor remarks. The Phyrexis representative abstained from floor debate entirely. This is entered into the record per Parliamentary Records Office standing procedure for delegation abstentions from discussion.
+
+**11:14 | REPRESENTATIVE, CYANITE INDUSTRIES:**
+Offered a procedural motion to separate Clause 1 (penalty enhancement) and Clause 2 (warrantless inspection) for independent votes. Motion failed to secure a required second from any other delegation.
+
+**11:47 | SESSION CHAIR:**
+Closed floor debate. Proceeded to formal vote.
+
+---
+
+## VOTE RECORD — 11:52
+
+| Member Corporation | Vote |
+|---|---|
+| ONE Network Enterprises | IN FAVOR |
+| Genesis Labs | IN FAVOR |
+| TEC | IN FAVOR |
+| Phyrexis Group | IN FAVOR |
+| Cyanite Industries | AGAINST |
+
+**SUPPLEMENTARY NOTE — PHYREXIS GROUP DELEGATION:** As recorded in the floor debate section above, the Phyrexis Group representative did not participate in floor debate prior to the vote. The delegation cast their vote in favor at the formal ballot without prior floor statement. This behavior is noted per Parliamentary Records Office standing procedure.
+
+---
+
+## RESULT
+
+**Resolution 77-031 — Rocketry Enforcement Enhancement Act**
+**PASSED: 4 votes in favor, 1 vote against.**
+**Sole dissenting vote: Cyanite Industries.**
+
+Resolution 77-031 is adopted and referred to the CGC Enforcement Coordination Secretariat for implementation guidance. Cyanite Industries' formal objection regarding operational sovereignty at Sarento facilities is entered into the record and may be submitted as the basis of a subsequent procedural challenge within 30 days of this session date per CGC Rule 9(c).
+
+---
+
+## ADDENDUM — CROSS-REFERENCE NOTE
+
+*The Parliamentary Records Office notes for reference that total fines levied during Q4 76 PCE under existing border and launch-perimeter protocols amounted to 3.7 million Phi Credits, as reported in the CGC Enforcement Activity Summary (76 PCE, Q4). This figure is entered here for contextual continuity with the resolution's stated intent.*
+
+---
+
+**Session adjourned: 12:09**
+**Next session scheduled: 77-06-26**
+
+*— CGC Parliamentary Records Office, filed 77-06-12*

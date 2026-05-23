@@ -1,0 +1,84 @@
+# HAVEN TRANSIT AUTHORITY
+## Monthly Operations Report — Period 76-12
+**Report Reference:** HTA-OPS-76-12-MOR
+**Issuing Office:** Operations Management Division
+**Classification:** OPEN
+**Date Issued:** 77-01-18
+
+---
+
+## 1. RIDERSHIP STATISTICS — 76-12
+
+Average daily ridership across Haven's transit network for the period 76-12 stood at **2.1 million passengers**, consistent with seasonal patterns observed in prior years. Cumulative monthly ridership totalled approximately 65.1 million passenger-journeys over 31 operating days.
+
+Sector-level breakdown is as follows, presented in terms of month-over-month change relative to 75-12 adjusted baseline figures:
+
+**North Haven (N-sector):** The North Haven industrial corridor, specifically the N-3 sector stations, recorded the highest per-station ridership increase of any zone in the network at **7.2% month-over-month**. This was the single largest per-station gain across all Haven sectors for the reporting period. Aggregate N-sector ridership was up 4.1% overall when averaged across all N-sector stations.
+
+**West Haven (W-sector):** Net ridership up 1.8% month-over-month. Port district stations continue to carry above-average peak-hour loading during early-morning shift changes.
+
+**East Haven (E-sector):** Net ridership change of +0.4% month-over-month, within normal variance. No individual station in E-sector recorded a per-station increase exceeding 2.1%.
+
+**South Haven (S-sector):** Ridership down 0.9% month-over-month. Weekend evening service on the S-4 and S-6 lines continues to underperform midweek averages.
+
+**Central Haven (C-sector):** Net ridership up 2.2% month-over-month, consistent with standard end-of-year civic service usage patterns.
+
+---
+
+## 2. SERVICE DISRUPTION INCIDENTS — 76-12
+
+A total of **23 service disruption incidents** were recorded in the reporting period. Of these, **14 were classified as equipment failures** and **9 were classified as security-related holds**. All incidents were resolved within the reporting period. A representative log follows.
+
+---
+
+**Incident 76-12-03 | Line E-2, Carnwick Station**
+*Classification: Equipment Failure*
+At 08:14, a door actuator fault on a three-car set at Carnwick Station caused a service gap of 22 minutes on Line E-2 eastbound. Affected unit was removed from service at the next interchange and replaced from reserve rolling stock. No passenger injuries reported.
+
+---
+
+**Incident 76-12-07 | Line W-1, Port Terminal North**
+*Classification: Security Hold*
+At 19:55, a security hold was imposed at Port Terminal North following a report of an unauthorized individual in a restricted trackside zone. HTA security coordinated with port facility personnel. Service on W-1 southbound was suspended for 38 minutes pending zone clearance. Normal operations resumed at 20:33.
+
+---
+
+**Incident 76-12-09 | Line N-3, Blackforge Interchange**
+*Classification: Equipment Failure*
+At 06:41, a traction power interruption affected two stations on Line N-3 between Blackforge Interchange and Millhead Junction. Duration of disruption was 51 minutes. Cause was traced to a faulty isolator switch in the substation feeding that segment. Replacement component installed same-day; no recurrence through end of period.
+
+---
+
+**Incident 76-12-14 | Line C-1, Central Civic Hub**
+*Classification: Security Hold*
+At 13:22, a security hold was implemented at Central Civic Hub station following a disturbance on the southbound platform. HTA security personnel managed the incident on-site; the hold lasted 17 minutes. Service delays propagated to four downstream stations before full recovery was achieved.
+
+---
+
+**Incident 76-12-11 | Junction SW-8, South Haven** *(Longest Single Disruption — Reporting Period)*
+*Classification: Equipment Failure*
+At 02:09 on 76-12-11, a power relay failure was detected at Junction SW-8 in south Haven. The failure caused a complete loss of traction power across the SW-8 interchange, affecting Lines S-3, S-5, and the W-S crossover service. Emergency protocols were immediately invoked, and on-call maintenance crews were deployed to the site at 02:31. Initial assessment identified the fault as a cascading relay burnout in the primary switching assembly. A full relay replacement was required; the necessary components were drawn from the Depot 4 maintenance store.
+
+Service on the affected lines was fully suspended for the duration of the repair operation. Partial restoration on Line S-5 was achieved at 05:47, with Lines S-3 and the W-S crossover restored to full service at **06:26**, marking a total disruption duration of **4 hours and 17 minutes** — the longest single service disruption recorded in the 76-12 reporting period. Shuttle bus bridging was deployed across four affected stops beginning at 03:15 and stood down upon full rail service restoration. A post-incident technical review has been initiated; findings will be incorporated into the 77-01 maintenance planning cycle.
+
+---
+
+## 3. FINANCIAL SUMMARY — 76-12
+
+### 3a. Fare Revenue
+
+Total fare revenue collected across all Haven Transit Authority lines and stations for the period 76-12 was **12.4 million Phi Credits**. Revenue collection via Phi payment nodes performed within normal parameters throughout the period, with no systemic processing failures recorded. Revenue figures include all standard fare tiers; supplementary service charges (reserved car, off-peak rebate adjustments) are incorporated in the totals as per standard HTA accounting practice.
+
+---
+
+### 3b. Maintenance Expenditures
+
+Total maintenance expenditures for the period 76-12 were **3.8 million Phi Credits**. This figure encompasses scheduled preventative maintenance across rolling stock and fixed infrastructure, reactive repair work including the SW-8 relay replacement, consumables, and contractor labour charges. The SW-8 incident contributed a non-trivial portion of reactive maintenance spend for the period. Maintenance expenditures remain within the annualised budget envelope approved for 77 PCE.
+
+---
+
+## 4. OPERATIONAL NOTES
+
+The SW-8 relay assembly failure has prompted a precautionary inspection order for all equivalent relay installations at Haven's six primary interchange junctions. Inspections are scheduled to commence in the first two weeks of 77-01. Additionally, the N-3 sector loading increases observed in 76-12 will be factored into rolling stock allocation modelling for the coming quarter.
+
+*Report prepared by the Operations Management Division, Haven Transit Authority. Issued 77-01-18.*

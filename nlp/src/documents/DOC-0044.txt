@@ -1,0 +1,44 @@
+# CGC Passes Sweeping Maritime Tracking Resolution Over Bloc Objections
+
+**Haven Daily Ledger — CGC Affairs Desk**
+*Tomaz Iverin | 77-01-19*
+
+---
+
+The Clairos Governance Council passed Resolution 77-014 on 77-01-17 by a vote of 4-1, mandating satellite tracking of all commercial vessels registered within the Sharpsea Bloc transiting designated CGC-monitored maritime corridors. The measure, which takes effect in thirty days, requires Bloc-registered ships to broadcast continuous positional telemetry through ONE Network Enterprises' satellite uplink infrastructure whenever operating within two hundred kilometers of Haven Island or CGC-affiliated port facilities.
+
+Proponents framed the resolution as a straightforward safety and security measure. ONE Network Enterprises CEO Nguyen Anh Mai, appearing via hologram at the session, called the resolution "essential for the safety of all maritime commerce in and around Haven waters." Her remarks drew applause from the assembled gallery.
+
+Cyanite Industries Director-General Takeshi Oyelaran, whose company voted in support of the resolution, offered tempered praise. "We back this measure and what it's trying to accomplish," Oyelaran told the Ledger following the session. "That said, the implementation burden on operators with large vessel fleets is not trivial, and we will be raising concerns about cost allocation as the regulations are drawn up." Cyanite's maritime operations include dozens of bulk-cargo vessels conducting regular runs between Haven Island and the company's facilities in Sarento, which would fall under the new telemetry regime during portions of their routes.
+
+Phyrexis Group and The Edge Corporation also voted in favor, completing the 4-1 tally.
+
+---
+
+**The Lone Dissenter**
+
+Genesis Labs cast the resolution's single dissenting vote. A Genesis Labs spokesperson, reached after the session, stated that the company believed the resolution risked "unnecessary provocation of our Bloc trading partners." The spokesperson declined to elaborate on which specific trading relationships Genesis Labs considered most at risk, but the company maintains its primary research campus and largest external Somatic Clinic in Tavenport, located within the Republic of Zonnon — one of the Sharpsea Bloc's three constituent nations. Genesis's commercial exposure to the Bloc is thus considerably greater than that of the other CGC members.
+
+CGC observers noted the vote placed Genesis Labs in the unusual position of being the lone voice of restraint on a measure that passed comfortably despite its objection.
+
+---
+
+**Implementation and Scope**
+
+Under Resolution 77-014, all commercial vessels registered within the Sharpsea Bloc — encompassing ships operating under the Republic of Zonnon, the Kashikari Hegemony, and the Nyari Confederation flags — will be required to maintain active satellite tracking when transiting monitored corridors. Vessels failing to comply will be subject to denial of entry to CGC-affiliated port facilities and, in repeated cases, asset holds on Phi-denominated accounts associated with the vessel's registered operators.
+
+ONE Network Enterprises, which operates the non-CYPHER satellite uplink infrastructure used for compliance verification, is expected to publish technical standards for compatible transponder units within the next fourteen days.
+
+---
+
+**Bloc Reaction Notably Absent From Proceedings**
+
+What the CGC session did not include, notably, was any formal representation from the affected parties. The Sharpsea Bloc maintains no formal diplomatic mission within Haven and holds no observer status at the CGC. The three Bloc nations — Zonnon, Kashikari, and Nyari — were not consulted prior to the vote, and the CGC is under no procedural obligation to notify them in advance of resolutions affecting vessels under their registries.
+
+Reaction from the Bloc capitals, filtered through Haven-based diplomatic monitoring services, ranged from terse to indignant. The Republic of Zonnon's Foreign Coordination Office released a brief statement characterizing the resolution as "an extraterritorial assertion of authority over sovereign commercial activity." The Kashikari Hegemony Council issued no public statement as of press time. Sources familiar with the Nyari Confederation's communications indicated that a formal response was being drafted through its consensus process, the timeline of which could not be confirmed.
+
+CGC spokespersons declined to comment on whether outreach to Bloc governments had been considered prior to the vote.
+
+---
+
+*The Haven Daily Ledger is an independent publication registered under CGC Press Charter 14-C. For correspondence, contact the CGC Affairs Desk.*

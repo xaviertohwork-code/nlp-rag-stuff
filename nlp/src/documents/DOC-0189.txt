@@ -1,0 +1,136 @@
+# CYANITE INDUSTRIES
+## Engineering Standard CI-ES-2204
+### Floodwall Pump Assembly Maintenance Protocol
+
+**Classification: YELLOW**
+**Document Reference:** CI-ES-2204 Rev. 7
+**Issuing Division:** Engineering Standards Division
+**Issue Date:** 75-06-01 (PCE) / 2117-06-01 (CE)
+**Supersedes:** CI-ES-2204 Rev. 6 (72-03-15 PCE)
+
+---
+
+## 1. SYSTEM OVERVIEW
+
+The Haven Island Floodwall system comprises a series of nested retaining wall sections, drainage channels, and retaining tanks maintained under Cyanite Industries' exclusive engineering authority as mandated by the Clairos Governance Council. The high-capacity pump assemblies addressed by this standard are the primary active components of the Floodwall's water management function, responsible for continuous transfer of accumulated retaining-tank water back through the outer barrier channels and into the open ocean. Secondary reverse osmosis processing is co-located at pump assembly stations as specified in companion standard CI-ES-2211.
+
+This standard governs maintenance, inspection, part replacement, and emergency operational procedures for all primary pump assemblies installed across Floodwall sections. Adherence is mandatory for all Engineering Division personnel and any contracted maintenance teams operating under Cyanite Industries authorization.
+
+**1.1 Scope**
+This standard applies to all primary pump assemblies currently installed in Haven Floodwall sections as enumerated in the Floodwall Infrastructure Register (CI-REG-0044, current revision). Section configurations vary by physical length of the Floodwall segment; accordingly, each Floodwall section contains between 12 and 18 primary pump assemblies depending on section length. All pump assemblies within scope are powered by the nuclear fission reactor grid serving the northern Floodwall stations, as documented in CI-ES-1100 (Nuclear Power Distribution — Floodwall).
+
+---
+
+## 2. COMPONENT SPECIFICATIONS
+
+### 2.1 Primary Pump Assembly — Configuration Summary
+
+| Component | Specification | Notes |
+|-----------|--------------|-------|
+| Pump casing | Grade CI-7 marine alloy | Saltwater-rated exterior coating |
+| Drive motor | 4.2 MW induction motor | Reactor-grid direct supply |
+| Impeller assembly | CI-IMP-440 series | See Section 2.2 |
+| Bearing housing | Sealed double-row, CI-BRG-14 | Grease-packed, sealed |
+| Inlet valve assembly | Pneumatic actuated, 900mm bore | CI-VLV-09A or CI-VLV-09B |
+| Outlet manifold | Cast CI-7 alloy, flanged | Connects to primary discharge channel |
+
+### 2.2 Impeller Specifications and Service Life
+
+The CI-IMP-440 series impeller is the primary wear component of each pump assembly. Impellers are precision-cast for resistance to cavitation and long-term saltwater exposure. The following specifications govern impeller installation, monitoring, and replacement:
+
+**Rated operational life:** The CI-IMP-440 impeller carries a rated operational life of **4,200 hours** of continuous or cumulative active pumping operation before mandatory replacement is required. This limit is not advisory; operation beyond 4,200 hours constitutes a breach of this standard and voids Cyanite Industries' infrastructure liability coverage for the affected section.
+
+**Cumulative hour tracking:** Each impeller must be tagged at installation with a CI-ASSET label carrying a unique serial identifier. Operational hours are logged by the section's pump management controller and must be manually cross-verified during each scheduled inspection (see Section 3).
+
+**Replacement parts — manufacturing source:** Replacement impellers for all Floodwall pump assemblies are manufactured **exclusively at the Sarento fabrication facility**. No substitute supplier is approved under this standard. Requisitions must be submitted through the CI Logistics chain referencing part number CI-IMP-440 and the relevant section's Infrastructure Register code. Standard lead time from Sarento to Haven delivery is 14–21 working days; emergency fabrication lead time is 5–7 working days subject to Sarento production scheduling. Section engineers are required to maintain a minimum on-hand impeller stock as specified in Appendix A (Minimum Inventory Requirements by Section).
+
+---
+
+## 3. INSPECTION SCHEDULE
+
+### 3.1 Scheduled Full Inspection Intervals
+
+All primary pump assemblies must undergo a **full inspection every 180 days** (approximately 6 months). No extension of this interval is permitted under any operational circumstances except as authorized in writing by the Director of Floodwall Engineering Operations under the Emergency Deferral process (CI-PROC-0089), which requires concurrent notification to the CGC Infrastructure Liaison. Deferral is limited to a maximum of 14 additional days in any single instance.
+
+The table below summarizes the inspection cadence and the principal activities performed at each interval:
+
+| Inspection Type | Interval | Principal Activities |
+|----------------|----------|---------------------|
+| Full Inspection | Every 180 days | See Section 3.2 |
+| Intermediate Check | Every 30 days | Visual inspection, vibration log review, operational hour tally |
+| Post-Emergency Check | Within 24 hours of bypass activation | See Section 5.3 |
+
+### 3.2 Full Inspection — Required Activities
+
+Full inspections must be performed by a minimum of two CI-certified pump engineers and must include the following activities, completed in sequence:
+
+1. Isolation of the pump assembly from the active pumping circuit per CI-PROC-0022 (Pump Isolation Lockout/Tagout).
+2. Physical inspection of impeller assembly: measurement of blade wear profile against CI-DIM-440 reference gauge; recording of cumulative operational hours from pump management controller.
+3. Bearing housing inspection: disassembly, visual inspection of bearing surfaces, re-greasing or replacement per CI-ES-2204 Appendix B criteria.
+4. Inlet valve actuator test: full open/close cycle with pressure measurement.
+5. Outlet manifold seal integrity check.
+6. Pump casing inspection for corrosion breach, weld integrity, and coating degradation.
+7. Drive motor electrical inspection per companion standard CI-ES-0880.
+8. Return to service verification: full-load pump test not less than 30 minutes before removal of lockout/tagout.
+
+### 3.3 Maintenance Service-Life Cross-Reference
+
+Engineers scheduling impeller replacements should note the relationship between the impeller's rated operational life and the full inspection interval. The rated operational life of the CI-IMP-440 impeller is **4,200 hours**, while the mandatory full inspection interval is **180 days** (equivalent to approximately 4,320 hours of elapsed calendar time). Impeller cumulative operational hours must therefore be tracked and reported at every full inspection; an impeller running at or near continuous full capacity may approach or reach its mandatory replacement threshold within a single inspection cycle. Section engineers are responsible for ensuring replacement stock is available before cumulative hours approach the 4,200-hour limit. See Appendix A for stock requirements.
+
+---
+
+## 4. MAINTENANCE CONSTRAINTS
+
+### 4.1 Simultaneous Offline Pump Limit
+
+Continuous Floodwall operation requires that pumping capacity remain within safe operational margins at all times. To ensure section-level hydraulic redundancy is maintained during maintenance activities, **no more than 2 pump assemblies per section may be offline simultaneously for maintenance, inspection, or replacement at any given time**. This limit of 2 concurrent offline units is absolute and applies regardless of section size, seasonal water ingress rates, or maintenance backlog conditions.
+
+Personnel scheduling maintenance activities must verify current offline status of all pump assemblies within a section before initiating any isolation procedure. If 2 assemblies are already offline, no additional isolation may be initiated until at least one offline assembly is returned to service and confirmed operational. This restriction applies to both planned maintenance and unplanned replacement activities.
+
+> **⚠ SAFETY WARNING — CI-W-044:** Any attempt to bring a third pump assembly offline in a section where 2 are already offline constitutes a safety-critical protocol violation. The section supervisor must be notified immediately. If operational necessity appears to require exceeding this limit (e.g., simultaneous impeller failure in multiple assemblies), the Emergency Bypass Procedure in Section 5 must be activated and the CGC Infrastructure Liaison notified within 1 hour.
+
+### 4.2 Scheduling Constraints
+
+Full inspection scheduling must be coordinated across sections to prevent simultaneous high-maintenance-load periods in adjacent sections. Section engineers must submit quarterly maintenance schedules to the Floodwall Operations Coordination Centre (CI-FOCC) no later than 30 days before each quarter. CI-FOCC maintains a system-wide pump availability dashboard and will flag schedule conflicts before authorization is granted.
+
+---
+
+## 5. EMERGENCY BYPASS PROCEDURES
+
+### 5.1 Bypass System Overview
+
+Each pump assembly is equipped with a motorized bypass valve connecting its inlet line to the secondary retaining channel network. **Emergency bypass mode allows water to be redirected to secondary retaining channels if a pump fails mid-cycle**, preventing uncontrolled backflow into the primary retaining tanks while the failed assembly is isolated and assessed.
+
+Activation of emergency bypass mode is a controlled procedure and does not require pump isolation lockout; the bypass valve and the pump circuit operate in parallel configurations during transition.
+
+### 5.2 Bypass Activation Sequence
+
+1. Identify failed assembly via pump management controller alarm or manual observation.
+2. Confirm failure type: complete motor trip, impeller seizure, or inlet valve failure.
+3. Activate bypass valve via local panel control or remote CI-FOCC command.
+4. Confirm secondary retaining channel flow on section hydraulic display.
+5. Isolate failed assembly inlet valve.
+6. Notify CI-FOCC of bypass activation within 15 minutes; initiate post-emergency check within 24 hours per Section 3.1.
+
+### 5.3 Post-Emergency Check Requirements
+
+Following any bypass activation, the affected pump assembly must undergo a full post-emergency inspection before being returned to service. This inspection follows the full inspection checklist in Section 3.2, with additional focus on impeller and bearing damage assessment as specified in CI-ES-2204 Appendix C (Post-Failure Impeller Damage Classification). If the impeller's cumulative operational hours are within 500 hours of the 4,200-hour rated life, mandatory replacement is required regardless of visual condition.
+
+---
+
+## 6. SUPPLY CHAIN NOTES
+
+**6.1 Impeller Lead Times and Stock Requirements**
+As specified in Section 2.2, all CI-IMP-440 replacement impellers are manufactured exclusively at the Sarento fabrication facility. Given the 14–21 working day standard lead time, section engineers must monitor cumulative impeller hours proactively. Minimum on-hand stock levels by section size are tabulated in Appendix A. Sections with sections containing 16 or more pump assemblies are classified as high-density sections and carry elevated minimum stock requirements.
+
+**6.2 Requisition Authorization**
+Impeller requisitions with a unit cost exceeding 50,000 Phi Credits require countersignature from the Floodwall Operations Director. Emergency fabrication requisitions must be authorized by the Director and copied to the CI Sarento Logistics Liaison within 2 hours of submission.
+
+**6.3 Approved Parts List**
+No substitution of non-CI-sourced components is permitted in any primary pump assembly. Any non-standard component installed in a Floodwall pump assembly must be removed and replaced with the approved CI part within 72 hours of discovery. Incidents involving non-approved components must be reported to the Engineering Standards Division under CI-PROC-0101.
+
+---
+
+*Document prepared and issued by the Cyanite Industries Engineering Standards Division. Questions regarding interpretation of this standard should be directed to the Floodwall Operations Coordination Centre. This document is classified YELLOW and is approved for distribution to all Cyanite Industries Engineering Division personnel and authorized CGC infrastructure contractors.*
+
+*CI-ES-2204 Rev. 7 — 75-06-01 PCE — Page 1 of 1 (condensed issue)*

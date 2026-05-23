@@ -1,0 +1,76 @@
+**THE EDGE CORPORATION**
+**INTERNAL CORRESPONDENCE — RESTRICTED**
+**Classification: L4**
+
+---
+
+**TO:** Infrastructure Operations Leadership, CGC Compliance Liaison
+**FROM:** Kiran Solvay, Director of Infrastructure Operations
+**DATE:** 76-07-22
+**RE:** Ground Relay Station Maintenance Cycle Optimization — Q2 76 PCE Review *(continuing thread from 76-07-09 quarterly debrief)*
+
+---
+
+Leadership,
+
+Following the Q2 76 PCE close-out, I'm circulating this summary of relay station maintenance performance across all five Haven sectors for your review and sign-off on the proposed operational adjustment detailed at the end of this memo. The numbers warrant attention.
+
+---
+
+**BASELINE INFRASTRUCTURE SUMMARY**
+
+As of the Q2 76 PCE review period, Haven's active ground relay station network stands at **2,847 stations** distributed across all five sectors. This figure excludes 34 stations currently offline pending replacement-component delivery, which are tracked separately under the capital renewal ledger.
+
+---
+
+**SECTOR-BY-SECTOR PERFORMANCE SUMMARY**
+
+The following reflects Q2 76 PCE maintenance incident counts, normalized per 100 stations, against the Haven-wide average:
+
+- **North Haven:** *Significantly above average.* North Haven recorded a **23% higher failure rate than the Haven-wide average**, driven primarily by elevated electromagnetic interference conditions that are specific to this sector. North Haven's proximity to the nuclear reactor installations powering the Floodwalls on the northern shore generates persistent EMI conditions that degrade relay station components at an accelerated rate. This sector represents our most resource-intensive maintenance environment and accounts for a disproportionate share of Q2 expenditure. *Note for leadership: this is not a new finding, but the Q2 figures confirm it has not self-corrected.*
+
+- **East Haven:** Within acceptable variance of the Haven-wide average. No anomalous incident clusters. Helix Tower's auxiliary power draws create localized interference on two station clusters adjacent to the Genesis Labs campus; flagged for monitoring but not yet material.
+
+- **West Haven:** Performed within normal operational parameters for Q2. No sector-specific anomaly to report. For the avoidance of any doubt — West Haven did not record elevated failure rates this quarter; failure rates there were consistent with the Haven-wide baseline.
+
+- **South Haven:** Performed well, in line with expectations given the relative youth of the infrastructure here. Among Haven's five sectors, South Haven has the newest relay infrastructure; **78% of its stations were installed after 73 PCE**, and the lower incident rate in this sector reflects the reduced wear characteristic of recently commissioned hardware. The financial district corridor around downtown south Haven saw zero unplanned outages.
+
+- **Central Haven:** Moderate maintenance demand, slightly above average due to the mixed-age infrastructure inherited from early CGC administrative build-outs. Nothing that falls outside normal tolerances.
+
+---
+
+**Q2 76 PCE BUDGET PERFORMANCE**
+
+| Category | Amount (Phi Credits) |
+|---|---|
+| Approved Q2 quarterly budget | 12,200,000 |
+| Actual Q2 maintenance spend | 14,600,000 |
+| Variance (overspend) | 2,400,000 |
+| **Percentage over budget** | **+19.7%** |
+
+**Q2 76 PCE maintenance costs totaled 14.6 million Phi Credits against a quarterly budget of 12.2 million, a 19.7% overrun.** This is the second consecutive quarter in which we have exceeded the quarterly envelope, and the first in which the overrun has crossed the 15% threshold that I understand triggers a mandatory leadership notification under Section 7 of the Infrastructure Operations charter — hence this memo's distribution.
+
+The overrun is not distributed evenly across sectors. North Haven accounts for the outsized portion of unplanned maintenance events this quarter, reflecting the conditions described in the sector summary above. The EMI-related failure pattern in North Haven is consistent, documentable, and — critically — foreseeable. This matters for the proposal below.
+
+---
+
+**PROPOSED OPERATIONAL ADJUSTMENT: SHIFT TO CONTINUOUS PREDICTIVE MAINTENANCE**
+
+Given the second consecutive budget overrun and the demonstrable concentration of unplanned incidents in predictable conditions, I am formally proposing that we transition the ground relay station maintenance program from its current **quarterly scheduled cycle** to a **continuous predictive maintenance model using embedded station diagnostics**.
+
+Key elements of the proposal:
+
+- Embedded diagnostics already present in stations installed after 73 PCE (covering the majority of South Haven and a portion of Central Haven) can be activated for continuous telemetry at minimal incremental cost.
+- Older station cohorts (predominant in North Haven and portions of Central Haven) would require a firmware push and a one-time calibration visit; cost estimates are attached in Annex B.
+- Predictive triggers would replace calendar-scheduled visits for routine inspections, directing maintenance crews to stations demonstrating early degradation indicators rather than on a fixed cycle.
+- Projected outcome: reduction in unplanned failure events by 30–40% in high-interference sectors within two quarters of full rollout, with commensurate reduction in emergency maintenance premiums that drove the Q2 overrun.
+
+I am prepared to present a full transition roadmap and cost-benefit analysis to leadership at the earliest convenient session. Pending your direction, no operational changes will be made.
+
+---
+
+*Attachments: Q2 76 PCE Maintenance Incident Log (by sector), Annex A (EMI Mapping, North Haven), Annex B (Embedded Diagnostics Activation Cost Estimate), Annex C (Predictive Maintenance Vendor Assessment)*
+
+**Kiran Solvay**
+Director of Infrastructure Operations, The Edge Corporation
+*Restricted — L4 — Internal Distribution Only*

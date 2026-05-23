@@ -1,0 +1,134 @@
+# ONE NETWORK ENTERPRISES
+## WEST HAVEN TERMINAL INFRASTRUCTURE ASSESSMENT
+### 77 PCE ANNUAL TECHNICAL REVIEW
+
+---
+
+**Document Reference:** ONE-WH-INFRA-77-0308
+**Classification:** RESTRICTED
+**Authoring Division:** Port Engineering Division, West Haven Terminal Operations
+**Date of Issue:** 77-03-08
+**Distribution:** Terminal Operations Command, ONE Executive Infrastructure Committee, CGC Secretariat (Infrastructure Compliance Filing)
+
+---
+
+## SECTION 1: FACILITY OVERVIEW
+
+West Haven Terminal (WHT) constitutes ONE Network Enterprises' primary commercial and passenger maritime gateway on Haven Island, operating continuously as the principal logistics hub for inbound and outbound cargo across the Clairos trading network. The terminal occupies the western shoreline of West Haven sector, encompassing approximately 4.2 kilometers of developed quayside frontage, including adjacent container staging yards, automated cargo sorting infrastructure, and passenger ferry docking facilities.
+
+This assessment covers structural integrity findings, crane and handling system status, throughput performance for the 76 PCE operational year, and maintenance budget recommendations for 77 PCE. All findings are based on field inspections conducted between 77-01-14 and 77-02-27 by the Port Engineering Division's Structural and Mechanical Assessment Teams.
+
+---
+
+## SECTION 2: FACILITY OVERVIEW — BERTH INVENTORY
+
+West Haven Terminal operates **four deep-water berths designated WH-1 through WH-4**, each configured to accommodate large-scale bulk and containerized cargo vessels. The berths are arranged in sequential order along the quayside from north to south, with WH-1 and WH-2 occupying the northern deep-water zone and WH-3 and WH-4 occupying the southern berth corridor.
+
+The following table summarizes key static parameters for each berth:
+
+| Berth | Quay Length (m) | Year of Last Major Refurbishment | Primary Cargo Class | Berth Status |
+|-------|----------------|----------------------------------|---------------------|--------------|
+| WH-1  | 420            | 68 PCE                           | Heavy bulk / oversized | OPERATIONAL |
+| WH-2  | 415            | 69 PCE                           | Containerized general cargo | OPERATIONAL |
+| WH-3  | 390            | 61 PCE                           | Containerized general cargo | OPERATIONAL (monitoring) |
+| WH-4  | 385            | 63 PCE                           | Ro-Ro / mixed cargo | OPERATIONAL |
+
+---
+
+## SECTION 3: BERTH SPECIFICATIONS — DRAFT AND DEPTH PARAMETERS
+
+Vessel accommodation parameters at each berth are determined by channel depth, berth pocket excavation, and certified under-keel clearance requirements per ONE Network Enterprises Maritime Safety Standard MSS-14(c).
+
+**Maximum certified vessel draft by berth designation is as follows:**
+
+- **WH-1:** 18.4 meters maximum draft
+- **WH-2:** 18.4 meters maximum draft
+- **WH-3:** 15.9 meters maximum draft
+- **WH-4:** 15.9 meters maximum draft
+
+The 2.5-meter differential between the northern and southern berth corridors reflects the different dredging profiles established during original terminal construction. WH-1 and WH-2 were excavated to a deeper profile to accommodate ONE's largest bulk carrier and ultra-large container vessel classes. WH-3 and WH-4 are certified for mid-range container vessels, roll-on/roll-off units, and mixed-cargo configurations that do not require the deeper-draft accommodation of the northern corridor.
+
+Recertification of all draft parameters was completed during the 77 PCE inspection cycle. No changes to certified maximum draft figures are proposed at this time, though the structural findings detailed in Section 5 will be a factor in WH-3's future recertification schedule.
+
+---
+
+## SECTION 4: CRANE AND HANDLING SYSTEMS
+
+### 4.1 Automated Gantry Crane Deployment
+
+WHT's primary cargo lift capacity is provided by its fleet of automated gantry cranes, distributed across all four berths. Current deployment as of inspection date is as follows:
+
+| Berth | Automated Gantry Cranes | Max Lift Capacity (tonnes) | Year of Last Fleet Renewal |
+|-------|------------------------|----------------------------|---------------------------|
+| WH-1  | 14                     | 65 per crane               | 71 PCE                    |
+| WH-2  | 13                     | 65 per crane               | 72 PCE                    |
+| WH-3  | 11                     | 55 per crane               | 64 PCE                    |
+| WH-4  | 9                      | 55 per crane               | 65 PCE                    |
+
+**Total crane capacity across all four berths: 47 automated gantry cranes.** The combined lift capacity of the northern corridor (WH-1 and WH-2, 27 cranes) significantly exceeds that of the southern corridor (WH-3 and WH-4, 20 cranes), consistent with the heavier cargo profile routed to the northern berths.
+
+The WH-3 and WH-4 crane fleets are approaching the end of their nominal 60-year operational lifecycle. Performance telemetry from 76 PCE indicates a 3.1% reduction in average cycle time for WH-3 cranes relative to manufacturer specification, attributable to actuator wear. Immediate operational risk is assessed as LOW, but fleet renewal planning for the southern corridor should be initiated within this budget cycle.
+
+### 4.2 Automated Cargo Handling Infrastructure
+
+Ground-level cargo movement is managed by an integrated network of automated guided vehicles (AGVs), rail-mounted stacker cranes, and conveyor sorting systems connecting berth aprons to the container staging yards. The system currently supports an average throughput of **23,000 TEU (twenty-foot equivalent units) per day across all berths**, with peak recorded throughput of 28,400 TEU per day during the 76 PCE Q3 high-demand period.
+
+WH-1 and WH-2 account for approximately 61% of total daily TEU throughput, consistent with their larger crane fleets and deeper-draft vessel accommodation. System redundancy is maintained through parallel routing between berth aprons and staging yards; a single-corridor failure does not interrupt terminal-wide operations.
+
+---
+
+## SECTION 5: STRUCTURAL INTEGRITY ASSESSMENT
+
+### 5.1 WH-1 and WH-2
+
+Both northern berths returned satisfactory findings across all structural parameters. Quay deck slab integrity, pile cap condition, and fendering systems are within operational tolerance. No urgent remediation is identified. Routine preventive maintenance as detailed in Section 7 is sufficient for continued operation through the 77 PCE cycle.
+
+### 5.2 WH-4
+
+WH-4's retaining walls, deck surface, and pile structures were assessed and found to be in serviceable condition given the berth's age profile. Minor surface spalling on the quay deck was noted in the southern approach area; this is classified as cosmetic deterioration with no structural significance. Scheduled resurfacing during the 77 PCE low-traffic window is recommended.
+
+### 5.3 WH-3 — Subsidence Finding: Eastern Retaining Wall
+
+**The primary structural concern identified in this assessment is at Berth WH-3.** Geotechnical monitoring data collected over the 76 PCE operational year, supplemented by physical inspection carried out on 77-02-09, confirms progressive subsidence affecting **WH-3's eastern retaining wall**. The subsidence is localized to a 78-meter section of the wall beginning approximately 130 meters from the northern quay corner, with a measured maximum vertical displacement of 34 millimeters relative to 74 PCE baseline survey data.
+
+**To be unambiguous for the record: the subsidence and structural reinforcement requirement is attributable to WH-3's eastern retaining wall.** No comparable deterioration has been identified at WH-4's retaining walls, which were inspected independently and returned satisfactory findings.
+
+The mechanism is assessed as differential settlement in the underlying reclaimed-ground substrate, consistent with historic site conditions in this section of the terminal footprint. Left unaddressed, the current settlement rate projects to exceed the 50-millimeter structural intervention threshold within 18 to 24 months, at which point continued operation of WH-3 at current certified capacity would require suspension pending emergency remediation — a significantly more costly and disruptive scenario than timely intervention.
+
+The Port Engineering Division assesses the situation as **concerning but manageable with timely intervention in 77 PCE.** The recommended remediation scope comprises installation of supplementary steel sheet-pile reinforcement along the full affected wall section, ground improvement treatment via grouted micro-pile arrays to a depth of 22 meters below quay datum, and upgraded geotechnical monitoring instrumentation to enable continuous real-time displacement tracking post-remediation.
+
+**Estimated cost of WH-3 structural reinforcement works: 780 million Phi Credits.** This estimate includes materials, specialist marine construction contractors, temporary operational constraints during the active works period, and a 15% contingency allowance. Works are projected to require 14 weeks with berth operating at reduced certified capacity; full recertification to pre-subsidence parameters is expected within 6 weeks of works completion pending independent structural verification.
+
+---
+
+## SECTION 6: CARGO THROUGHPUT ANALYSIS
+
+76 PCE total throughput was 7.99 million TEU, consistent with a daily average of 23,000 TEU across all berths. Year-on-year comparison against 75 PCE (7.71 million TEU) represents a 3.6% volume increase, driven primarily by expanded WH-1 utilization under the updated bulk carrier rotation schedule introduced in Q2 of 76 PCE.
+
+The southern corridor (WH-3 and WH-4) contributed 38.6% of annual throughput. The southern corridor's contribution is expected to remain stable or marginally decline during 77 PCE remediation works at WH-3 given temporary capacity constraints. Demand management protocols are in preparation to redistribute overflow volume to WH-1 and WH-2 during the active works window.
+
+---
+
+## SECTION 7: MAINTENANCE RECOMMENDATIONS AND BUDGET
+
+The Port Engineering Division recommends the following maintenance budget allocation for 77 PCE:
+
+| Category | Allocation (million Phi Credits) |
+|----------|----------------------------------|
+| WH-3 Eastern Retaining Wall Structural Reinforcement | 780 |
+| Northern Corridor (WH-1 / WH-2) Preventive Maintenance | 310 |
+| WH-4 Deck Resurfacing and Fendering Replacement | 145 |
+| WH-3 / WH-4 Crane Fleet Lifecycle Assessment and Component Renewal | 290 |
+| AGV and Automated Handling System Overhaul | 415 |
+| Terminal-Wide Geotechnical Monitoring Upgrade | 160 |
+| **Total Recommended Maintenance Budget, 77 PCE** | **2,100 million Phi Credits** |
+
+The recommended total of **2,100 million Phi Credits represents a 14% increase over 76 PCE actual expenditure.** The increase is driven predominantly by the WH-3 structural remediation, which has no precedent in recent budget cycles. Excluding the WH-3 remediation item, underlying maintenance expenditure is projected to increase approximately 2.8% year-on-year, consistent with asset aging profiles across the terminal fleet.
+
+Deferral of the WH-3 remediation is assessed as a higher-risk option with substantially greater long-term cost exposure. The Port Engineering Division does not recommend deferral.
+
+---
+
+*ONE Network Enterprises — Port Engineering Division*
+*ONE-WH-INFRA-77-0308 | RESTRICTED*
+*Prepared: 77-03-08 | Review Cycle: Annual*

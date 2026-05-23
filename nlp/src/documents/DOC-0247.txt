@@ -1,0 +1,104 @@
+# CGC RESOLUTION 77-012
+
+## Enforcement Escalation and Inter-Megacorp Coordination for Orbital Launch Interdiction
+
+---
+
+**CLAIROS GOVERNANCE COUNCIL**
+**REGULATORY AFFAIRS SECRETARIAT**
+
+**Classification:** RESTRICTED
+**Document Reference:** CGC-RAS-77-012
+**Date of Adoption:** 77-02-08
+**Supersedes (in part):** CGC Resolution 70-003, CGC Resolution 70-011, and all intervening amendments including the Revision 11 escalations codified in 76 PCE
+
+---
+
+## PREAMBLE
+
+THE CLAIROS GOVERNANCE COUNCIL, convened in regulatory session pursuant to its authority over the Haven Island Special Economic Zone and the broader Clairos orbital launch control regime,
+
+**RECALLING** CGC Resolution 70-003 (70 PCE), which established the original Orbital Launch Exclusion Zone and foundational prohibition framework in response to the rise of the Conclave and its resupply operations directed at the CYPHER satellite network,
+
+**RECALLING FURTHER** CGC Resolution 70-011 and all subsequent amendments, including the penalty escalations codified under Revision 11 in 76 PCE,
+
+**HAVING REVIEWED** the 76 PCE Annual Threat Assessment submitted to the Council by the Joint Orbital Security Working Group, which constitutes the primary evidentiary basis for this Resolution, and which documents a sustained pattern of Conclave-affiliated launch facilitation activity that has continued to circumvent the existing control architecture,
+
+**NOTING WITH CONCERN** that during the period assessed in the 76 PCE Annual Threat Assessment, six unauthorized launch attempts were formally logged, five of which occurred in Q4 76 PCE, with one recorded on 76-05-14 in Q2 76 PCE, demonstrating an acceleration of operational tempo by Conclave resupply networks in the latter portion of the assessment year,
+
+**DETERMINED** that the existing zone boundaries and penalty structures established under Resolution 70-003 and its successors are insufficient to deter or interdict the ongoing resupply operations,
+
+**HEREBY ADOPTS** the following articles, effective immediately upon adoption:
+
+---
+
+## ARTICLE I — JURISDICTIONAL AMENDMENTS: ORBITAL LAUNCH EXCLUSION ZONE
+
+**Section 1.1.** The Orbital Launch Exclusion Zone (OLEZ) established under CGC Resolution 70-003 is hereby expanded. The OLEZ radius around Haven Island is increased from **200 nautical miles** to **350 nautical miles**, an expansion of **150 nautical miles**. All provisions of Resolution 70-003 governing prohibited activities within the OLEZ are extended in full to the newly incorporated area.
+
+**Section 1.2.** The zone boundary as redefined in Section 1.1 supersedes all prior OLEZ boundary specifications. Maritime charts and navigation advisories reflecting the prior 200-nautical-mile boundary are hereby invalidated and must be reissued by member organizations within 30 days of this Resolution's adoption.
+
+**Section 1.3.** Activities occurring within the expanded zone perimeter — specifically in the band between 200 and 350 nautical miles from Haven Island that was previously outside OLEZ jurisdiction — shall be subject to the same enforcement mechanisms and penalty schedules as those within the original zone, as further specified in Articles II and III below.
+
+---
+
+## ARTICLE II — ENFORCEMENT ASSIGNMENTS
+
+**Section 2.1.** In recognition of the demonstrated inadequacy of the general enforcement posture established under Resolution 70-003, this Resolution assigns specific primary interdiction responsibilities to designated member corporations.
+
+**Section 2.2.** **Cyanite Industries** is hereby designated as the primary enforcement authority for launch interdiction operations in the northern maritime sectors of the OLEZ. This designation covers physical interdiction of suspected launch platforms, maritime search authority within the northern sector perimeter, and coordination with CGC security detachments for surface-based infrastructure inspections. This northern maritime interdiction role was not specified under the original Resolution 70-003 framework and represents a new operational mandate.
+
+**Section 2.3.** Cyanite Industries shall submit quarterly northern sector interdiction reports to the CGC Regulatory Affairs Secretariat, beginning no later than 30 days after the close of the first full quarter following adoption of this Resolution.
+
+---
+
+## ARTICLE III — PENALTIES AND ESCALATION
+
+**Section 3.1.** The per-incident financial penalty applicable to unauthorized launch attempts and to the facilitation thereof is hereby increased. Under the revised penalty schedule, each confirmed incident shall carry a penalty of **250,000 Phi Credits**, increased from the prior applicable rate of **150,000 Phi Credits per incident**.
+
+**Section 3.2.** This per-incident rate governs unauthorized launch attempts and facilitation activities. It constitutes a separate and lower penalty tier from the infrastructure construction fines applicable under Resolution 70-003 and its successors, which remain in force under their existing schedules. The increase codified herein builds upon the Revision 11 escalations adopted in 76 PCE.
+
+**Section 3.3.** Penalties assessed under this Article are collectible by the CGC Regulatory Affairs Secretariat and shall be disbursed to the enforcement fund maintained for OLEZ interdiction operations.
+
+---
+
+## ARTICLE IV — INTER-MEGACORP COORDINATION FRAMEWORK
+
+**Section 4.1.** This Resolution establishes a new Inter-Megacorp Satellite Tracking Coordination Framework (the "Framework") for the purpose of improving intelligence sharing related to suspected Conclave resupply logistics.
+
+**Section 4.2.** **ONE Network Enterprises** is tasked with providing vessel tracking data from its global maritime monitoring infrastructure to support launch-related smuggling interdiction operations conducted under this Resolution. ONE shall integrate relevant vessel movement data into a shared feed accessible to the CGC's Joint Orbital Security Working Group and to Cyanite Industries' northern sector interdiction command.
+
+**Section 4.3.** Data sharing obligations under this Article shall be governed by a subsidiary technical protocol to be finalized within 45 days of this Resolution's adoption.
+
+---
+
+## VOTING RECORD
+
+| Member Corporation | Vote | Notes |
+|---|---|---|
+| Cyanite Industries | **FOR** | — |
+| ONE Network Enterprises | **FOR** | — |
+| Phyrexis Group | **FOR** | — |
+| The Edge Corporation | **FOR** | — |
+| Genesis Labs | **ABSTAIN** | Genesis Labs submitted a formal abstention notice citing concerns that the expanded OLEZ jurisdiction and enhanced interdiction mandate impose disproportionate restrictions on civilian satellite research operations, and requesting that a carve-out provision for non-commercial scientific satellite activities be considered in subsequent regulatory proceedings. |
+
+**Final tally: 4 votes in favor, 1 abstention. Resolution 77-012 is adopted.**
+
+---
+
+## SPONSORSHIP NOTICE
+
+CGC Resolution 77-012 was co-sponsored by **Sim Jiahong**, Founder and Chief Executive Officer of The Edge Corporation, and **Takeshi Oyelaran**, Director-General of Cyanite Industries.
+
+ONE Network Enterprises did not co-sponsor this Resolution. ONE's role under this instrument is that of a designated data provider pursuant to Article IV; it holds no co-sponsorship standing.
+
+The co-sponsorship does not confer additional governance authority on either sponsoring party beyond their standard CGC membership rights.
+
+---
+
+*Certified as adopted and entered into the CGC regulatory record.*
+
+**CGC Regulatory Affairs Secretariat**
+**77-02-08**
+
+*This document is classified RESTRICTED. Distribution is limited to CGC member representatives and authorized Secretariat personnel. Unauthorized disclosure is subject to enforcement under CGC Information Security Protocol 14.*

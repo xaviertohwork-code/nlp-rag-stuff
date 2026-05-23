@@ -1,0 +1,49 @@
+**CYANITE INDUSTRIES — INTERNAL MEMORANDUM**
+**CLASSIFICATION: YELLOW**
+
+**TO:** Director-General's Office; Legal & Compliance Division; Offshore Operations Division (Senior Staff)
+**FROM:** Regional Director Vasili Krendt, Offshore Operations Division
+**DATE:** 76-09-18
+**RE:** Bloc Mineral Survey Incident — Damage Assessment and Recommended Action
+
+---
+
+**INCIDENT SUMMARY**
+
+On 76-09-03, Zonnon Maritime Defense Command intercepted and briefly detained a survey vessel contracted to Cyanite Industries while the vessel was operating within Zonnon's claimed territorial waters. The vessel was operated by Deepscan Maritime Services under Cyanite contract C-OPS-7741, which engaged Deepscan for seabed mineral assessment activities in the outer Sharpsea region. The incident has prompted a formal diplomatic protest from the Republic of Zonnon's Ministry of Maritime Affairs, directed at the Clairos Governance Council rather than at Cyanite directly. Zonnon's public statements have characterized the incursion as evidence of "ongoing CGC resource extraction aggression."
+
+---
+
+**CONTRACT REVIEW**
+
+Contract C-OPS-7741 is unambiguous on scope boundaries. The contract explicitly prohibited Deepscan from conducting any survey operations within any Bloc nation's claimed territorial waters. Approved survey coordinates were transmitted to Deepscan's operations lead on 76-06-14 and acknowledged in writing on 76-06-17. The approved operating corridor was defined in Appendix C of the contract with reference to the relevant Bloc maritime boundary charts. No amendment, waiver, or verbal instruction to modify these boundaries was issued by any Cyanite representative at any time.
+
+---
+
+**DEVIATION ANALYSIS**
+
+Cyanite's internal review of Deepscan's vessel telemetry logs, recovered from the intercepted vessel and cross-referenced with our own monitoring records, concludes that Deepscan deviated from the approved survey coordinates by approximately 14 nautical miles, placing the vessel squarely within Zonnon's claimed territorial waters. Deepscan's operations lead has offered a preliminary account attributing the deviation to calibration error in the vessel's autonomous positioning system. This account is not supported by the telemetry data, which shows a sustained and directionally consistent deviation rather than the erratic pattern consistent with a calibration failure. The deviation appears deliberate, though we have not yet established whether it was authorized internally within Deepscan or the act of individual crew.
+
+---
+
+**COMMERCIAL ASSESSMENT**
+
+It would be professionally dishonest to omit the context that makes this incident particularly difficult to manage cleanly. Deepscan's survey data, transmitted to our Offshore Analytics team prior to the vessel's interception, identifies the surveyed seabed area as containing mineral deposits with an estimated commercial value of 650 million Phi Credits. The composition profile is consistent with Cyanite's priority extraction targets. This information is currently held under restricted access within Offshore Analytics pending a decision on the path forward. Its existence creates significant legal and reputational exposure: any commercial action taken in reliance on data collected during an unauthorized survey will be indefensible if the circumstances of its collection become public, which, given the diplomatic protest now on record, must be considered likely.
+
+---
+
+**RECOMMENDATIONS**
+
+1. **Contract termination.** Cyanite should terminate contract C-OPS-7741 with Deepscan Maritime Services immediately and with cause. I recommend termination, not suspension. Suspension implies a path to reinstatement; the telemetry evidence makes that untenable from both a legal and a reputational standpoint. All future outer Sharpsea seabed assessments should be conducted using Cyanite-flagged vessels only, crewed by Cyanite-employed personnel operating under direct Offshore Operations Division supervision.
+
+2. **Data quarantine.** The Deepscan survey data covering the Zonnon territorial waters area should be formally quarantined and not used as the basis for any commercial planning or extraction proposal. Legal should advise on retention and disclosure obligations.
+
+3. **CGC-level response.** Cyanite's CGC representative should be briefed to receive the Zonnon diplomatic protest without substantive engagement, acknowledging receipt only and characterizing the incident as a subcontractor compliance failure under active internal review.
+
+4. **No further Sharpsea provocation.** All outer Sharpsea survey activity should be suspended for a minimum of six months. Zonnon's public framing of this incident as pattern behaviour, rather than isolated error, is the most damaging element of their protest. Further activity in proximity to Bloc waters in the near term would validate that framing.
+
+---
+
+*Regional Director Vasili Krendt*
+*Offshore Operations Division, Cyanite Industries*
+*76-09-18*

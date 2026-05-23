@@ -1,0 +1,45 @@
+REPUBLIC OF ZONNON — SIGNALS INTELLIGENCE BUREAU
+INTERCEPTED COMMUNICATION RECORD
+
+Classification: TOP SECRET
+Handling: SIGINT EYES ONLY — NOT FOR DISTRIBUTION TO FOREIGN LIAISON
+Intercept Reference: ZSB-2118-0203-KH-014
+Date of Intercept: 2118-02-03
+Date of Original Transmission: 2118-02-01 (estimated, accounting for routing delay)
+Source Channel: Kashikari commercial diplomatic relay, Cape Tidak node
+Decryption Status: FULL — confidence HIGH
+
+---
+
+INTERCEPTED CABLE BEGINS
+
+TO: HEGEMONY COUNCIL, CAPE TIDAK
+FROM: CHAIRPERSON IDAKO, OFFICE OF THE CHAIR
+RE: CAPE TIDAK DEEP-WATER HARBOR MODERNIZATION — INVESTMENT TERMS CONFIRMED
+TRANSMITTED: 78-02-01 [ANALYST NOTE: Kashikari internal calendar designation; original transmission uses Hegemony dating convention. Equivalent to 2118-02-01 CE.]
+
+Council,
+
+Investment terms for the Cape Tidak harbor modernization program are confirmed. Total program budget stands at 340 million Phi Credits. Of this, 210 million Phi Credits are provided by Pelagic Ventures Ltd under the agreed capital contribution framework. [ANALYST NOTE: Pelagic Ventures Ltd does not appear in any Kashikari domestic commercial registry. Zonnon SIGINT traces the entity's registration to a holding company domiciled in Haven's west sector. Haven west sector is the primary operational and commercial zone of ONE Network Enterprises, which maintains its global headquarters there. The concentration of ONE-affiliated financial instruments registered to that sector is well documented in our prior reporting. See cross-reference ZSB-2117-1109-HV-031.] Remaining balance to be covered per arrangements already known to the full Council.
+
+Investment terms include a schedule of preferential docking rates for vessels flagged under ONE Network registry operating at Cape Tidak's primary commercial quay and the two secondary eastern berths. [ANALYST NOTE: The explicit naming of ONE Network registry vessels as beneficiaries of preferential docking rates is significant. This is not a generalized commercial incentive — it is a named corporate beneficiary clause embedded within what has been publicly described as an independent infrastructure investment.]
+
+Council members are instructed to maintain the 'private maritime partners' formulation at all public forums, trade association sessions, and any bilateral inquiry from Bloc partners. This formulation is sufficient and no further detail is required or authorized. Deviation from this position is not sanctioned.
+
+No secondary signatures are required or have been affixed to this instruction. This cable is issued on sole authority of the Chairperson and is binding on all Council members accordingly. [ANALYST NOTE: The cable is confirmed as single-authored. There is no co-signatory. This is consistent with Idako's pattern of issuing sensitive commercial directives through unilateral Chair authority rather than through Council counter-signature, a practice our bureau has noted in at least three prior intercepts.]
+
+Idako
+
+INTERCEPTED CABLE ENDS
+
+---
+
+ANALYST ASSESSMENT:
+
+The intercept confirms what prior ZSB reporting assessed as probable: a substantial portion of the Cape Tidak port modernization budget originates from a financial intermediary whose registration traces directly to ONE Network Enterprises' home sector in Haven. The Hegemony's official public position — that the program is fully independently financed through private maritime sector partners — is, on the basis of this intercept, a directed cover story issued by Chairperson Idako personally.
+
+The preferential docking terms for ONE-flagged vessels represent a material commercial concession embedded within infrastructure that the Hegemony presents publicly as Bloc-sovereign.
+
+This intercept should be treated as sensitive source material. No dissemination beyond the Bureau Director and designated SIGINT cell.
+
+— ZSB Analyst, Cape Tidak Monitoring Desk, 2118-02-03

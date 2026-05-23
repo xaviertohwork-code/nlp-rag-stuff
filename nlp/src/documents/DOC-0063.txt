@@ -1,0 +1,153 @@
+# CGC REGULATORY FRAMEWORK FOR NANOBOT DEPLOYMENT WITHIN THE HAVEN ISLAND SEZ
+## Consolidated Guidance Document
+
+**Issuing Authority:** Clairos Governance Council — Emerging Technologies Division
+**Document Reference:** CGC-ETD-CONSOL-0063
+**Classification:** RESTRICTED
+**Date of Issue:** 75-09-01 (75 PCE)
+**Supersedes:** CGC-ETD-INTERIM-0031 and all subordinate guidance issued thereunder
+
+---
+
+## PART I — PRELIMINARY
+
+### Section 1. Purpose and Scope
+
+1.1 This Consolidated Guidance Document sets out the comprehensive regulatory framework governing the deployment, monitoring, operation, and permitted applications of nanobot technology within the Haven Island Special Economic Zone ("Haven Island SEZ" or "the SEZ").
+
+1.2 This framework applies to all nanobot units presently operating or proposed to be deployed within the jurisdictional boundaries of the SEZ, including those constituting the Edge platform infrastructure.
+
+1.3 This document consolidates all amendments and supplementary guidance issued since the framework's original adoption and should be read as the definitive statement of CGC regulatory requirements as of the date of issue.
+
+---
+
+### Section 2. Definitions
+
+For the purposes of this Consolidated Guidance Document:
+
+**"Nanobot"** means any self-replicating or externally-directed nanoscale autonomous or semi-autonomous unit capable of operating within biological tissue, atmospheric media, or constructed environments, including but not limited to units comprising the Edge platform's distributed nanobot network.
+
+**"Deployment"** means any act of introduction, dispersal, propagation, or activation of nanobot units within the SEZ, whether by physical seeding, network activation, or replication cascade.
+
+**"Licensed Operator"** means the entity holding a valid Nanobot Deployment Licence issued by the CGC Emerging Technologies Division pursuant to this framework.
+
+**"Population Density"** means the aggregate number of active nanobot units per square kilometer within a designated zone type, as measured by the methodology specified in Annex B of this document.
+
+**"Residential Zone"** means any area designated RES-1 through RES-4 in the SEZ Zoning Register maintained by the CGC Secretariat.
+
+**"Commercial Zone"** means any area designated COM-1 through COM-3 in the SEZ Zoning Register.
+
+**"Industrial Zone"** means any area designated IND-1 through IND-5 in the SEZ Zoning Register.
+
+**"Restricted Zone"** means any area designated RST in the SEZ Zoning Register, including CGC assembly facilities and formally designated neutral administrative areas.
+
+**"ETD"** means the CGC Emerging Technologies Division.
+
+---
+
+## PART II — LICENSING AND AUTHORISATION
+
+### Section 3. Exclusive Licence
+
+3.1 The Edge Corporation ("TEC") is the sole entity licensed to deploy nanobots within the Haven Island SEZ. No other corporation, body, individual, or entity — whether a CGC member or otherwise — holds or may hold a concurrent nanobot deployment licence within the SEZ. This exclusive status is not shared, divided, or jointly exercised. Any representation that a licence is or has been jointly held by TEC and any other party is factually incorrect and has no legal basis under this framework.
+
+3.2 TEC's licence is subject to the conditions set out in this document and in any specific conditions attached to the operative Nanobot Deployment Licence (Reference: NDL-TEC-001) held on file by the ETD.
+
+3.3 The licence is non-transferable without CGC plenary approval.
+
+---
+
+### Section 4. Framework Adoption History
+
+4.1 This regulatory framework was originally adopted under **CGC Resolution 69-014**, passed in **69 PCE** (2111 CE), one year following the commercial launch of the Edge platform within the SEZ. Resolution 69-014 established the foundational licensing structure, density caps, audit obligations, and prohibited use categories that this Consolidated Guidance Document now codifies in updated and integrated form.
+
+4.2 Subsequent amendments were incorporated by CGC Resolutions 71-006, 72-019, and 73-044. The ETD issued interim guidance in 74 PCE addressing edge-case classification disputes in mixed-use zones. All such instruments are superseded by this consolidation.
+
+---
+
+## PART III — DEPLOYMENT DENSITY LIMITS
+
+### Section 5. Zone-Specific Density Caps
+
+5.1 TEC shall ensure that nanobot population density within any zone type does not at any time exceed the limits specified in the table below. Density is expressed in units per square kilometer and applies to the aggregate of all active nanobot units across all operational modes, including passive, monitoring, and active-interface states.
+
+| Zone Type | Maximum Density (units per km²) | Zoning Register Designation |
+|---|---|---|
+| Residential | **2,400,000,000,000** (2.4 trillion) | RES-1 through RES-4 |
+| Commercial | 6.1 trillion | COM-1 through COM-3 |
+| Industrial | 9.8 trillion | IND-1 through IND-5 |
+| Restricted | 500 billion | RST |
+
+5.2 Density limits for Restricted Zones are subject to separate supplementary conditions under Annex C and may be further reduced by written direction of the CGC Secretariat without amendment to this document.
+
+5.3 TEC shall maintain real-time internal monitoring sufficient to detect zone-boundary density exceedances within a response window not exceeding four hours from the point of exceedance.
+
+---
+
+## PART IV — AUDIT AND REPORTING OBLIGATIONS
+
+### Section 6. Quarterly Density Audits
+
+6.1 TEC must submit quarterly nanobot population density audits to the CGC Emerging Technologies Division. Each audit must cover the full preceding calendar quarter and must be received by the ETD no later than thirty calendar days following the close of the relevant quarter.
+
+6.2 Each quarterly audit submission shall include:
+
+> (a) Aggregate density readings for each zone type, disaggregated by SEZ sector;
+> (b) Peak density events occurring during the quarter, including timestamp, zone, and causal attribution;
+> (c) Any zone-boundary exceedance events, whether self-detected or externally reported, together with remediation records;
+> (d) A signed declaration by TEC's designated Compliance Officer confirming accuracy and completeness.
+
+6.3 The ETD retains the right to commission independent verification audits at any time and without prior notice to TEC. TEC shall cooperate fully with any such verification process.
+
+6.4 Audit records shall be retained by TEC for a minimum period of ten years from the date of submission.
+
+---
+
+## PART V — PROHIBITED APPLICATIONS
+
+### Section 7. Enumerated Prohibitions
+
+The following applications of nanobot technology are prohibited within the SEZ. This list is exhaustive with respect to categorical prohibitions; other applications may be restricted or require specific authorisation under conditions set out in Annex D.
+
+**7.1 Weaponisation.** TEC is prohibited from configuring, activating, or permitting the configuration or activation of nanobot units for any purpose constituting a weapons application, including but not limited to targeted tissue destruction, targeted incapacitation of individuals, or coordinated physical disruption of critical infrastructure.
+
+**7.2 Environmental Contamination.** TEC is prohibited from deploying nanobot units in a manner that constitutes or risks constituting contamination of Haven Island's water supply, atmospheric envelope, or marine adjacent zones beyond the SEZ boundary, including deployment into Floodwall retaining channels or reverse osmosis processing flows.
+
+**7.3 Biological Tissue Manipulation.** TEC is prohibited from deploying or configuring nanobot units for the purpose of direct physical manipulation of biological tissue — including but not limited to targeted cellular modification, pharmacological delivery, or structural interference with organic matter — without the **explicit, documented, and individually specific prior consent** of the affected individual. For the avoidance of doubt, passive Edge-interface nanobot activity constituting standard platform operation does not fall within this prohibition, provided that it does not extend to active tissue manipulation beyond parameters disclosed in TEC's standard user agreement and that individual consent to standard use has been appropriately obtained in accordance with ETD Consent Standards Circular 72-03.
+
+**7.4 Unauthorised Surveillance Operations.** TEC is prohibited from deploying or configuring nanobot units as a surveillance instrument for the benefit of any third party — including any CGC member corporation — without prior written ETD authorisation. Passive behavioural data collected incidentally to Edge platform operation is governed separately under the Data Handling Standards (Annex E) and does not constitute surveillance for the purposes of this section where handled in compliance with those standards.
+
+**7.5 Extra-SEZ Deployment.** TEC is prohibited from deploying nanobot units, dispersal mechanisms, or seeding infrastructure outside the jurisdictional boundaries of the Haven Island SEZ without express CGC plenary approval.
+
+---
+
+## PART VI — ENFORCEMENT AND PENALTIES
+
+### Section 8. Graduated Penalty Schedule
+
+8.1 Violations of this framework carry graduated financial penalties denominated in Phi Credits. The schedule below applies per confirmed violation event. Multiple simultaneous violations arising from the same underlying act may, at ETD discretion, be treated as a single event or as distinct events.
+
+| Violation Class | Description | Minimum Penalty |
+|---|---|---|
+| First Offence | Initial confirmed breach of any provision of this framework | **200,000,000 Phi Credits** |
+| Repeated Offence | Second or subsequent confirmed breach of the same provision within 36 months | 750,000,000 Phi Credits |
+| Aggravated Offence | Breach involving deliberate concealment, obstruction of ETD audit, or breach of Section 7.1 (weaponisation) | 2,000,000,000 Phi Credits |
+
+8.2 Financial penalties are in addition to, and do not preclude, further remedial measures including mandatory operational suspension, licence review, or referral to the CGC plenary for consideration of licence revocation.
+
+8.3 Penalty determinations are made by the ETD Director following a formal notice and response procedure. TEC retains the right to submit representations within thirty calendar days of receiving a preliminary penalty notice.
+
+---
+
+## PART VII — ADMINISTRATIVE PROVISIONS
+
+### Section 9. Amendments and Review
+
+9.1 This Consolidated Guidance Document shall be reviewed in full no later than 78 PCE. The ETD may issue interim guidance or supplementary annexes without triggering a full document revision, provided that no interim guidance purports to alter the penalty schedule or density limits specified herein without CGC plenary approval.
+
+9.2 All queries regarding interpretation of this document should be directed to the CGC Emerging Technologies Division, ETD Compliance and Authorisation Office.
+
+---
+
+*Issued by the CGC Emerging Technologies Division under authority of the Clairos Governance Council.*
+*Document Reference: CGC-ETD-CONSOL-0063 | Classification: RESTRICTED | 75-09-01 (75 PCE)*

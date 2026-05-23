@@ -1,0 +1,104 @@
+# CLAIROS GOVERNANCE COUNCIL
+## INFRASTRUCTURE DIRECTORATE
+
+---
+
+**CGC RESOLUTION 76-009**
+
+**REAUTHORIZATION OF THE FLOODWALL MAINTENANCE OVERSIGHT COMMITTEE**
+
+**Classification:** RESTRICTED
+**Date of Issue:** 76-03-22 PCE
+**Issuing Authority:** CGC Infrastructure Directorate
+**Reference Number:** CGC/INFRA/76-009/FMOC
+
+---
+
+### BACKGROUND AND HISTORICAL CONTEXT
+
+The Floodwall Maintenance Oversight Committee (hereinafter "the Committee") was established in 52 PCE pursuant to CGC Infrastructure Resolution 52-003, in response to concerns raised by multiple member corporations regarding the absence of a formal, independent monitoring mechanism for Haven Island's critical flood-prevention infrastructure. Since its establishment, the Committee has operated on successive three-year authorization cycles, conducting oversight of the floodwall system on behalf of the full membership of the Clairos Governance Council. The floodwall system constitutes the singular engineering barrier preventing the permanent inundation of Haven Island, which sits substantially below current global sea levels, and is accordingly recognized by the CGC as infrastructure of the highest order of civic and economic importance. The present resolution constitutes the Committee's eighth reauthorization cycle.
+
+---
+
+### WHEREAS CLAUSES
+
+**WHEREAS** the floodwall system protecting Haven Island represents irreplaceable critical infrastructure, the failure of which would result in catastrophic and irreversible harm to the population and economic operations of the Haven Island Special Economic Zone;
+
+**WHEREAS** the Committee's most recent authorization term has expired as of 75-12-31 PCE and continuation of formal oversight mechanisms is required without interruption;
+
+**WHEREAS** the contractual framework governing floodwall maintenance responsibilities has remained in continuous force and requires formal reaffirmation in conjunction with any reauthorization of oversight mechanisms;
+
+**WHEREAS** the CGC Infrastructure Directorate has reviewed the Committee's performance across its preceding authorization term and finds its operational record to be satisfactory and meriting continuation;
+
+**WHEREAS** the technical complexity of the floodwall system — incorporating nested retaining structures, high-capacity water management channels, reverse osmosis processing facilities, and the nuclear fission reactors that supply power to the system's primary water pumps — necessitates ongoing independent verification of maintenance standards;
+
+**WHEREAS** the interests of Haven Island's resident population and the member corporations of the CGC are best served by a transparent, formally constituted oversight body with defined enforcement authority;
+
+---
+
+### RESOLVED CLAUSES
+
+**BE IT RESOLVED** by the Clairos Governance Council Infrastructure Directorate, acting under delegated authority of the full CGC membership, as follows:
+
+---
+
+### ARTICLE I — REAUTHORIZATION OF THE COMMITTEE
+
+**1.1** The Floodwall Maintenance Oversight Committee is hereby reauthorized as a standing body of the Clairos Governance Council Infrastructure Directorate.
+
+**1.2** The Committee's reauthorization term shall run from 76 PCE through 78 PCE, inclusive, at which time the Committee shall be subject to review and a further reauthorization vote pursuant to standard CGC Infrastructure Directorate procedures.
+
+**1.3** The Committee shall retain its existing mandate, membership composition, and procedural rules as established under Resolution 52-003 and its successor instruments, subject to any amendments introduced by this Resolution.
+
+---
+
+### ARTICLE II — MAINTENANCE RESPONSIBILITY AND CONTRACTUAL OBLIGATIONS
+
+**2.1** The CGC Infrastructure Directorate hereby formally reaffirms and places on record that **Cyanite Industries holds sole contractual responsibility** for the maintenance and continuous operation of the Haven Island floodwall system. No responsibility for floodwall maintenance or operational continuity is shared with, delegated to, or jointly held by any other corporation, entity, or party. This reaffirmation is entered into the CGC Infrastructure record in order to remove any ambiguity regarding maintenance accountability and to provide a clear basis for the enforcement mechanisms set forth in Article IV of this Resolution.
+
+**2.2** Cyanite Industries shall maintain the floodwall system in a state of continuous operational readiness, consistent with the technical standards appended to this Resolution as Schedule A.
+
+**2.3** Cyanite Industries shall provide the Committee with access to all maintenance records, engineering logs, and operational data pertaining to the floodwall system within five business days of any written request by the Committee's presiding officer.
+
+---
+
+### ARTICLE III — INSPECTION SCHEDULE AND PROCEDURES
+
+**3.1** Quarterly inspections of the floodwall system shall be mandated under this Resolution. Each such inspection shall be conducted by a joint team composed of designated Committee representatives and Cyanite Industries engineering personnel, with Committee representatives retaining independent authority to record and report findings.
+
+**3.2** Inspection scheduling shall be agreed between the Committee and Cyanite Industries no fewer than thirty days in advance of each inspection date. In the event of disagreement on scheduling, the Committee's presiding officer shall have final authority to set the inspection date within the applicable quarter.
+
+**3.3** Written inspection reports shall be filed with the CGC Infrastructure Directorate no later than fifteen days following the conclusion of each quarterly inspection. Reports shall be classified RESTRICTED by default and circulated to all CGC member corporation representatives.
+
+**3.4** Emergency inspections may be convened at the discretion of the Committee's presiding officer in the event of structural anomalies, operational failures, or threat conditions identified by any CGC member corporation.
+
+---
+
+### ARTICLE IV — COMPLIANCE AND PENALTY MECHANISMS
+
+**4.1** Cyanite Industries shall adhere to all maintenance milestones as defined in Schedule A and as modified from time to time by written agreement between the Committee and Cyanite Industries' designated engineering representative.
+
+**4.2** Noncompliance with scheduled maintenance milestones shall be reported by the Committee to the CGC Infrastructure Directorate within ten days of the milestone's passing.
+
+**4.3** Penalty provisions are as follows:
+
+> **4.3.1** In the event that Cyanite Industries fails to complete a scheduled maintenance milestone within the prescribed timeline without prior written approval of an extension from the Committee's presiding officer, a financial penalty of **fifty million (50,000,000) Phi Credits per incident** shall be assessed against Cyanite Industries and remitted to the CGC Infrastructure Directorate's Haven Resilience Reserve Fund within sixty days of assessment.
+
+> **4.3.2** Repeated noncompliance, defined as three or more assessed penalties within a single authorization term, shall trigger a mandatory review by the full CGC membership, at which point the CGC retains authority to revise the contractual maintenance framework at its discretion.
+
+**4.4** Assessment of penalties under Article 4.3.1 does not relieve Cyanite Industries of its obligation to complete the relevant maintenance milestone; completion remains required irrespective of penalty payment.
+
+---
+
+### ARTICLE V — ADMINISTRATIVE PROVISIONS
+
+**5.1** This Resolution supersedes all prior instruments relating to the Committee's authorization that are inconsistent with its terms, while preserving the Committee's institutional continuity and historical record.
+
+**5.2** This Resolution shall take effect upon ratification by a simple majority of CGC member corporation representatives and shall be entered into the CGC Infrastructure Directorate's official record.
+
+---
+
+*Issued by authority of the CGC Infrastructure Directorate*
+*76-03-22 PCE*
+*Classification: RESTRICTED*
+*Distribution: CGC Member Representatives (All), CGC Infrastructure Directorate, Cyanite Industries (designated contract representative)*

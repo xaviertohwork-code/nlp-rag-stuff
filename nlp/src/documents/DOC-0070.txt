@@ -1,0 +1,85 @@
+# CLAIROS GOVERNANCE COUNCIL
+## Annual Budget Report — Fiscal Year 76 PCE
+### Office of the Comptroller
+**Classification: RESTRICTED**
+**Document Date: 77-02-28**
+**Distribution: CGC Member Representatives, CGC Secretariat**
+
+---
+
+## 1. Budget Overview
+
+This report presents the consolidated fiscal summary for the CGC operational budget for Fiscal Year 76 PCE (01-01-76 through 12-31-76). All figures are denominated in Phi Credits. Figures contained herein cover CGC directorate operations only. Capital expenditure accounts, including infrastructure contracts such as the Cyanite Industries Floodwall maintenance contract, are reported separately in the CGC Capital Accounts Annual Statement and are not consolidated here.
+
+| Metric | Amount (Phi Credits) |
+|---|---|
+| Total Assessed Operational Budget, FY 76 PCE | 14,200,000,000 |
+| Total Actual Collected Contributions | 13,700,000,000 |
+| Net Collection Variance | (500,000,000) |
+
+The total assessed CGC operational budget for FY 76 PCE was **14.2 billion Phi Credits**, covering CGC directorate operations and excluding direct infrastructure contracts paid separately through the CGC capital accounts. Actual collected contributions toward the operational budget totaled **13.7 billion Phi Credits**. The nature and origin of the resulting shortfall of 500 million Phi Credits is addressed in Section 4, Collection Variance Notes.
+
+---
+
+## 2. Member Contribution Schedule
+
+Member assessments are calculated pursuant to CGC Procedural Rule 22(a) (Revenue-Proportionate Assessment Methodology), applied to each member corporation's audited consolidated revenue for the preceding fiscal year. Assessments are issued by the Office of the Comptroller no later than 30 days prior to the start of the fiscal year and are due in equal quarterly installments.
+
+The following table presents assessed and collected contributions for each CGC member for FY 76 PCE.
+
+| Member Corporation | Assessed Contribution (Phi Cr.) | Actual Collected (Phi Cr.) | Variance (Phi Cr.) | Status |
+|---|---|---|---|---|
+| Phyrexis Group | 3,840,000,000 | 3,840,000,000 | — | Settled in Full |
+| Cyanite Industries | 3,340,000,000 | 3,340,000,000 | — | Settled in Full |
+| ONE Network Enterprises | 2,720,000,000 | 2,720,000,000 | — | Settled in Full |
+| Genesis Labs | 2,620,000,000 | 2,120,000,000 | (500,000,000) | Disputed — See Note A |
+| The Edge Corporation (TEC) | 1,680,000,000 | 1,680,000,000 | — | Settled in Full |
+| **Totals** | **14,200,000,000** | **13,700,000,000** | **(500,000,000)** | |
+
+**Note on assessment structure:** Phyrexis Group's assessed contribution of 3.84 billion Phi Credits is the largest individual assessment within the operational budget, reflecting Phyrexis's consolidated revenue position. Cyanite Industries' operational assessment of 3.34 billion Phi Credits is lower than it would otherwise be under a standard revenue-proportionate methodology, as the bulk of Cyanite's CGC-facing financial obligations are accounted for through the separate capital expenditure accounts covering the Floodwall maintenance contract rather than through the operational assessment mechanism.
+
+---
+
+## 3. Expenditure by Directorate
+
+The following table presents approved FY 76 PCE directorate allocations and actual expenditures. Allocations were established pursuant to CGC Budget Resolution 76-01, adopted in late 75 PCE.
+
+| Directorate / Office | Approved Allocation (Phi Cr.) | Actual Expenditure (Phi Cr.) | Notes |
+|---|---|---|---|
+| Security Directorate | 4,100,000,000 | 4,097,000,000 | Largest single allocation |
+| Floodwall Oversight Administration | 1,800,000,000 | 1,794,000,000 | Internal monitoring and compliance only; Cyanite maintenance contract in capital accounts |
+| Infrastructure & Logistics Directorate | 1,920,000,000 | 1,918,000,000 | |
+| Office of Member Relations & Legal Affairs | 1,640,000,000 | 1,631,000,000 | |
+| Economic Coordination Directorate | 1,560,000,000 | 1,554,000,000 | |
+| Emerging Technologies Division | 620,000,000 | 619,000,000 | 15% increase over FY 75 PCE allocation |
+| Bioregulatory Compliance Office | 480,000,000 | 476,000,000 | |
+| Office of the Comptroller & Internal Audit | 310,000,000 | 308,000,000 | |
+| CGC Secretariat & Administrative Services | 270,000,000 | 268,000,000 | |
+| Reserve & Contingency Fund | 1,500,000,000 | 412,000,000 | Uncommitted balance carried forward |
+| **Totals** | **14,200,000,000** | **13,077,000,000** | |
+
+**Security Directorate:** At 4.1 billion Phi Credits, the Security Directorate received the largest single allocation within the operational budget for FY 76 PCE, consistent with the CGC's ongoing CYPHER containment coordination mandate and elevated threat-response posture.
+
+**Floodwall Oversight Administration:** The 1.8 billion Phi Credit allocation represents the CGC's internal monitoring, inspection, and compliance budget for Floodwall operations. This office conducts independent auditing of Floodwall performance metrics and coordinates emergency response protocols. The Cyanite Industries maintenance contract itself — the primary mechanism by which Floodwall structural integrity is maintained — is accounted for entirely within the CGC capital expenditure accounts and does not appear in these operational figures.
+
+**Emerging Technologies Division:** The approved allocation of 620 million Phi Credits represents a **15% increase** over the FY 75 PCE allocation, reflecting expanded mandates in nanobot infrastructure assessment and second-generation Somatic compound regulatory oversight.
+
+---
+
+## 4. Collection Variance Notes
+
+### Note A — Genesis Labs Disputed Assessment
+
+**Genesis Labs** remitted 2.12 billion Phi Credits against a total assessed contribution of 2.62 billion Phi Credits for FY 76 PCE, resulting in an uncollected balance of **500 million Phi Credits**. Genesis Labs formally filed a Contribution Dispute Notice pursuant to CGC Procedural Rule 22(f) on 76-09-14, citing methodology disagreements over subsidiary revenue classification — specifically, the appropriate treatment of revenue generated by Genesis Labs' Opting rehabilitation clinic network in the revenue base used for proportionate assessment calculation. Genesis Labs' position holds that this revenue stream does not constitute core megacorporation operating revenue for CGC assessment purposes. The Office of the Comptroller has referred the dispute to the CGC Office of Member Relations & Legal Affairs for adjudication in accordance with standard dispute resolution procedures. Pending resolution, the uncollected 500 million Phi Credits is recorded as a receivable. **No other member corporation filed a contribution dispute for FY 76 PCE.** Cyanite Industries, ONE Network Enterprises, Phyrexis Group, and The Edge Corporation each settled their assessed contributions in full and without contest.
+
+---
+
+## 5. Forward Notes
+
+Resolution of the Genesis Labs contribution dispute is anticipated within the first half of 77 PCE. Should the adjudication find in favor of the CGC's assessed methodology, the 500 million Phi Credit receivable will be collected pursuant to the standard late-payment schedule established in CGC Procedural Rule 22(g). The Reserve and Contingency Fund carries forward a substantial uncommitted balance, providing adequate liquidity buffer against the disputed receivable for the duration of the adjudication period. The Office of the Comptroller does not recommend any adjustment to the FY 77 PCE assessment methodology pending the outcome of the dispute proceeding.
+
+---
+
+*Prepared by the CGC Office of the Comptroller. Distributed under RESTRICTED classification. Unauthorized disclosure to non-CGC personnel is prohibited under the Haven Island Special Economic Zone Information Governance Framework.*
+
+*Document Reference: CGC-FIN-77-0228-BUDGETRPT76*

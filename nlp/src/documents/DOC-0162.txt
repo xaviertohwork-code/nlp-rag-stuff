@@ -1,0 +1,56 @@
+# THE EDGE CORPORATION
+## INTERNAL MEMORANDUM
+
+**CLASSIFICATION:** L2 — RESTRICTED DISTRIBUTION
+**TO:** Senior Legislative Affairs Team; Office of the CEO
+**FROM:** Devika Oranyan, Chief Operating Officer
+**DATE:** 77-01-12
+**RE:** TEC Legislative Strategy — 77 PCE CGC Session
+
+---
+
+### I. PRIMARY THREAT ASSESSMENT
+
+The 77 PCE CGC legislative session opens with a clear and immediate threat to TEC's operational continuity. **Resolution 77-015 (Inter-Sector Transit Monitoring)**, introduced by Cyanite Industries with co-sponsorship from ONE Network Enterprises, is the primary legislative threat to TEC operations this session. In plain terms, the resolution would grant the CGC Bioregulatory Compliance Office broad authority to audit nanobot-linked behavioral data collected at Haven's inter-sector transit nodes — nodes that TEC's Edge infrastructure currently operates without external oversight.
+
+The surveillance and data-access implications of Resolution 77-015 are severe. We should have no illusions about its intent: this is an Old 3 instrument designed to impose third-party visibility into Edge infrastructure under the cover of transit safety compliance. It must be opposed.
+
+---
+
+### II. VOTING ALIGNMENT — WHAT WE WILL DO AND WHAT WE WILL NOT
+
+TEC intends to vote against Resolution 77-015. Genesis Labs is expected to vote the same way, and we should be prepared for that alignment to be publicly legible.
+
+However, I want to state clearly and for the record: **we will not formalize this alignment into a voting bloc with Genesis Labs.** Any public or documented coordination arrangement with Helix Tower should be avoided. Our opposition to Resolution 77-015 is a position we hold independently, on independent grounds. It does not imply shared strategic interests with Genesis beyond the immediate vote, and it should not be presented or perceived that way internally or externally.
+
+---
+
+### III. SECONDARY THREAT — BUDGET DISPLACEMENT
+
+Separate from Resolution 77-015, the Old 3's **14.2 billion Phi Credit infrastructure proposal** poses a distinct and serious risk. If this proposal advances in its current form, it would redirect CGC collective budget at a scale that materially threatens maintenance and development appropriations for Edge network infrastructure. We cannot allow a capital commitment of this magnitude to be approved without a corresponding commitment to Edge network maintenance obligations. Legislative Affairs should prepare a formal budget-impact analysis for internal use prior to the first plenary session.
+
+---
+
+### IV. RECOMMENDED STRATEGY — SELECTIVE ENGAGEMENT
+
+Our posture for 77 PCE should not be one of blanket opposition to Old 3 legislative activity. That approach invites coordinated retaliation and sacrifices goodwill we cannot afford to lose on peripheral matters.
+
+Instead, I am recommending a strategy of **selective engagement**: where Old 3 proposals are genuinely non-threatening to TEC's operational interests, we should support them or abstain in a manner that registers as cooperative. This builds credit that we can draw on when we need room to maneuver on the proposals that do threaten us. Simultaneously, we should work through procedural mechanisms, amendment processes, and targeted bilateral outreach to quietly constrain the proposals that cross our core interests — without always putting TEC's opposition formally on the record.
+
+The distinction between our general posture and our position on specific resolutions is the strategic foundation of this approach. It requires discipline and coordination across this team.
+
+---
+
+### V. INTERNAL APPROVAL REQUIREMENT
+
+This strategy has been reviewed and approved in principle by Sim Jiahong.
+
+**Note from the CEO's office:** Notwithstanding the above approval, Sim has communicated directly to this office that he insists on reviewing any proposed CGC floor statements personally before they are delivered. No floor statement, formal position paper, or recorded CGC intervention is to be cleared for delivery without his prior sign-off. Please route all draft statements to the CEO's office no fewer than 48 hours before the relevant session.
+
+---
+
+*Devika Oranyan*
+*Chief Operating Officer, The Edge Corporation*
+*77-01-12*
+
+*Distribution: L2 authorized recipients only. Do not forward without COO authorization.*

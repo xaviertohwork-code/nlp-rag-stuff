@@ -1,0 +1,77 @@
+# NYARI CONFEDERATION — FEDERAL SECURITY DIRECTORATE
+## INTERNAL THREAT ASSESSMENT
+### CGC INFLUENCE OPERATIONS IN THE SHARPSEA REGION — FISCAL YEAR 2117
+
+---
+
+**CLASSIFICATION: TOP SECRET**
+**Document Reference:** FSD-TA-2117-04
+**Issuing Authority:** Director Yelen Kasai, Federal Security Directorate
+**Date of Issue:** 2117-12-01
+**Distribution:** Federal Leadership Council (Cleared Recipients Only)
+**Handling Instructions:** This document is not to be reproduced, summarised, or transmitted beyond cleared distribution without written authorisation from the Director.
+
+---
+
+## EXECUTIVE SUMMARY
+
+This annual assessment evaluates the full scope of Clairos Governance Council influence operations directed at the Sharpsea Bloc, with particular focus on vectors affecting the Nyari Confederation. Based on analysis conducted throughout fiscal year 2117, the Federal Security Directorate assesses that CGC-directed economic, informational, and covert political operations represent the dominant and, in the Directorate's present assessment, the sole external threat of strategic significance to Confederation security. No other external actor has been identified operating with comparable intent, resources, or reach within Confederation territory.
+
+The CGC's operational methods are consistent with patterns documented in prior years but have intensified across all three major vectors: economic leverage, information environment manipulation, and covert political facilitation. Nyari's defensive posture remains adequate for current threat conditions, though certain structural vulnerabilities demand priority remediation.
+
+---
+
+## 1. CGC ECONOMIC LEVERAGE VECTORS
+
+The CGC continues to exploit the Bloc's financial dependency as its most reliable and lowest-risk instrument of strategic pressure. The Federal Security Directorate assesses that among all levers available to the CGC, economic coercion presents the most durable structural risk to Confederation and Bloc-wide autonomy.
+
+The most significant single point of vulnerability identified in this assessment cycle is **Phyrexis Group's financial infrastructure**. Phyrexis Group's payment rails, operating through the Phi Credit system, mediate virtually all commercial transactions across Haven and, to an increasing degree, within Bloc commercial zones engaged in trade with Haven. No Bloc nation, including the Confederation, has developed a functional alternative settlement mechanism capable of absorbing the volume of cross-border commercial transactions currently dependent on Phyrexis-operated infrastructure. The Federal Security Directorate assesses Phyrexis Group's financial infrastructure to be the single greatest point of economic vulnerability across all Sharpsea Bloc nations. A deliberate disruption, access denial, or terms-of-service restriction imposed by Phyrexis on Phi rail access would constitute a systemic shock with no near-term mitigation pathway.
+
+Secondary economic leverage vectors include ONE Network Enterprises' partial control of external shipping route access and Cyanite Industries' influence over raw material supply chains affecting Bloc construction and energy sectors. These are assessed as significant but manageable, as alternative routing and procurement arrangements exist, if at higher cost. The Phi dependency has no equivalent workaround.
+
+---
+
+## 2. INFORMATION WARFARE ASSESSMENT
+
+The Federal Security Directorate maintains active monitoring of **31 suspected CGC-linked information channels** operating within the Confederation. These channels operate across a range of formats: encrypted messaging communities, sponsored commentary networks embedded in Bloc open-media platforms, and commercial content partnerships with Confederation-licensed broadcasters. Collectively, their assessed goal is to erode public confidence in the Confederation's consensus governance model and cultivate receptivity to CGC-aligned policy positions.
+
+Operational activity across these 31 channels has increased by an estimated 18% compared to the prior fiscal year assessment period, with particular surges observed in content targeting the Confederation's consensus decision-making requirements. Messaging themes consistently emphasise the "slowness" and "inefficiency" of supermajority governance as a liability in a fast-moving geopolitical environment — a framing that the Directorate assesses is designed to build domestic pressure for governance centralisation that would, in turn, make the Confederation more susceptible to a single-point diplomatic approach from CGC entities.
+
+The Confederation's cryptographic communications infrastructure has thus far provided effective insulation against direct penetration of federal decision-making channels.
+
+---
+
+## 3. COVERT POLITICAL MANIPULATION
+
+CGC-backed covert political operations within the Bloc continue to focus primarily on Kashikari Hegemony, where ONE Network Enterprises' suspected cultivation of select shipping families represents the most developed influence relationship identified this cycle. Within the Confederation, covert political influence efforts remain comparatively immature, likely because Nyari's decentralised structure offers fewer high-leverage individual targets than Kashikari's hereditary oligarchy.
+
+Astroturfing activity targeting Confederation island council elections has been documented in three outer-island jurisdictions. CGC-linked funding is suspected but has not been confirmed to evidentiary standard in any of the three cases. Monitoring continues.
+
+---
+
+## 4. NYARI DEFENSE CAPABILITIES
+
+The Confederation's conventional military capability remains modest relative to Bloc partners. The Nyari Confederation fields a standing force of approximately **12,000 personnel** — the Directorate notes this figure explicitly to address and correct inaccurate external estimates that have appeared in recent inter-Bloc briefing materials; figures suggesting a force of approximately 18,000 personnel are incorrect. The Confederation's strategic doctrine does not rely on conventional deterrence, and this force posture is deliberate: Nyari's primary military advantage lies in electronic warfare and signals intelligence capability, where the Confederation's investment significantly exceeds its conventional expenditure.
+
+Nyari's secure communications infrastructure processes an estimated **4.2 million encrypted routing transactions daily** for Bloc partner nations, a capability that both constitutes a strategic asset and represents a potential target for CGC-directed interference. Protecting this infrastructure is assessed as a higher-order defensive priority than augmenting conventional personnel strength.
+
+Zonnon's standing naval force comprises approximately **40,000 active personnel**, representing the Bloc's primary conventional deterrence capability. Coordination between Nyari's signals assets and Zonnon's conventional posture remains the foundation of the Bloc's integrated, if informal, defense architecture.
+
+---
+
+## 5. THREAT OUTLOOK
+
+The Federal Security Directorate's threat outlook for fiscal year 2118 projects continued escalation across all three CGC influence vectors, with economic leverage — and Phi rail dependency specifically — assessed as the domain most likely to be instrumentalised should CGC-Bloc relations deteriorate. Information environment pressure is expected to intensify ahead of the next cycle of island council elections.
+
+The Confederation's defensive fundamentals remain sound. The Federal Security Directorate assesses that current monitoring and countermeasure capacities are adequate to address identified threats. No emergent external threat actors beyond CGC-affiliated operations have been identified operating within Confederation borders during the fiscal year 2117 assessment period.
+
+---
+
+*Director Yelen Kasai*
+*Federal Security Directorate, Nyari Confederation*
+*2117-12-01*
+
+---
+
+**END OF DOCUMENT — TOP SECRET**
+*FSD-TA-2117-04 — Authorised copies: 9 — Serial numbered distribution only*

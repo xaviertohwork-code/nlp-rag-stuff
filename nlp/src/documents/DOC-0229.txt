@@ -1,0 +1,95 @@
+# CLAIROS GOVERNANCE COUNCIL
+## REGULATORY AFFAIRS DIVISION — SOMATIC CLINIC LICENSING BUREAU
+
+---
+
+**DOCUMENT TYPE:** Annual License Renewal Filing
+**CLASSIFICATION:** OPEN
+**FILING DATE:** 77-03-01 PCE (2119-03-01 CE)
+**FILING REFERENCE:** CGC-RAD-SCL-77-0229
+
+---
+
+## FILING SUMMARY
+
+**Subject License:** Genesis Labs East Haven Somatic Clinic
+**License Number:** EHSC-2091-0014
+**Licensee:** Genesis Labs (CGC Member Corporation)
+**Facility Location:** East Haven, Haven Island Special Economic Zone
+**Renewal Period Sought:** 77 PCE (2119 CE) — 78 PCE (2120 CE)
+**Filing Status:** SUBMITTED FOR STANDARD ANNUAL REVIEW
+
+This filing constitutes the annual license renewal submission for the Genesis Labs East Haven Somatic Clinic operating under License Number EHSC-2091-0014. All sections below have been completed by the CGC Regulatory Affairs Division on the basis of operational data submitted by Genesis Labs pursuant to CGC Somatic Clinic Reporting Obligation 14-C. This filing is classified OPEN and may be accessed by any registered party through the CGC Document Registry.
+
+---
+
+## SECTION I: LICENSE HISTORY
+
+License EHSC-2091-0014 was originally issued in 49 PCE (2091 CE), coinciding with the formal accession of Genesis Labs to the Clairos Governance Council. The East Haven clinic was established on the site allocated to Genesis Labs by CGC resolution following accession, within the East Haven sector. This license has been renewed annually without interruption since initial issuance.
+
+The facility operates as the largest Somatic Augmentation clinic within the Haven Island Special Economic Zone. It provides both standard-tier Somatic Augmentation services utilizing approved off-shelf retroviral formulations and premium-tier personalized services in which retroviruses are tailored to individual patient genomic profiles. The clinic additionally administers approved second-generation biological growth enhancer courses as part of the standard post-treatment protocol.
+
+A complete record of all prior annual renewal filings is maintained under this license number in the CGC Document Registry. No license suspension, modification, or formal compliance notice has been issued against EHSC-2091-0014 in any prior renewal cycle.
+
+---
+
+## SECTION II: TREATMENT VOLUME REPORT
+
+The following figures are drawn from the Genesis Labs operational data submission for the review period 76 PCE (2118 CE).
+
+**Total Somatic Augmentation Treatments Administered:** 17,680
+
+This figure encompasses all completed treatment courses, defined as cases in which initial retroviral administration was performed and the patient completed at minimum the first follow-up verification appointment. Incomplete treatment courses are tracked separately and are not included in this total; the clinic's incomplete-course log has been submitted as Annex B to this filing and is available upon request.
+
+The clinic processes an average of 340 Somatic Augmentation treatments per week, calculated on the basis of the 76 PCE annual total across a standard 52-week operating year.
+
+The treatment volume reported for 76 PCE represents a 4.1% increase over the 76 PCE prior-year figure and is consistent with the East Haven clinic's pattern of moderate year-on-year growth since accession.
+
+---
+
+## SECTION III: ADVERSE EVENT SUMMARY
+
+Genesis Labs submitted 412 adverse event reports attributable to treatments administered at the East Haven clinic during 76 PCE (2118 CE). Adverse events are defined per CGC Somatic Clinic Regulatory Standard 9-B as any clinically documented outcome deviating from expected treatment progression, including but not limited to off-target recombination indicators, anomalous cell proliferation markers, infertility-associated findings, and treatment-cessation events requiring clinical intervention.
+
+The 412 reported adverse events represent a **2.33% adverse event rate** against the 76 PCE total treatment volume of 17,680.
+
+A full categorized breakdown of adverse event types, severity classifications, and clinical outcomes is included as Annex A to this filing. The Regulatory Affairs Division notes that the distribution of adverse event categories in 76 PCE is broadly consistent with prior-year patterns and does not indicate any emerging category-specific compliance concern.
+
+---
+
+## SECTION IV: COMPLIANCE ASSESSMENT
+
+The CGC Regulatory Affairs Division has reviewed the treatment volume and adverse event data submitted for License EHSC-2091-0014 against the applicable renewal eligibility standards established under CGC Somatic Clinic Licensing Framework, Condition R-7.
+
+**Adverse Event Rate Threshold:** The Genesis Labs East Haven Somatic Clinic is required, as a condition of annual license renewal, to maintain an adverse event reporting rate below 5% of total treatments administered in the review period.
+
+The clinic's reported adverse event rate for 76 PCE is **2.33%**.
+
+**The clinic passed its 76 PCE compliance threshold review.** The reported rate is within the required threshold established under Condition R-7. This determination is made without reservation. No corrective action plan is required, and no compliance notice is being issued in connection with this renewal cycle.
+
+The Regulatory Affairs Division further notes that the clinic's adverse event reporting documentation was submitted in complete and timely fashion in accordance with Reporting Obligation 14-C, with no late submissions or documentation deficiencies recorded during the review period.
+
+---
+
+## SECTION V: RENEWAL CONDITIONS
+
+License EHSC-2091-0014 is hereby recommended for renewal for the period 77 PCE (2119 CE) through 78 PCE (2120 CE), subject to the following standard and facility-specific conditions:
+
+**Condition 1 — Adverse Event Reporting Threshold**
+The licensee shall maintain adverse event reporting rates below 5% of total treatments administered in the renewal period. Failure to meet this threshold in any annual review period will trigger a mandatory compliance review and may result in license suspension or modification.
+
+**Condition 2 — Reporting Obligations**
+The licensee shall continue to submit all required operational data, adverse event reports, and treatment volume records pursuant to CGC Reporting Obligation 14-C within the prescribed submission windows.
+
+**Condition 3 — Second-Generation Biological Growth Enhancer Storage Protocols**
+The licensee shall maintain proper storage protocols for all second-generation biological growth enhancers held at the East Haven facility, in accordance with CGC Pharmaceutical Compound Storage Standard 22-F. Storage facilities shall remain physically segregated from non-licensed compound inventory. Compliance with this condition is subject to routine inspection by the CGC Bioregulatory Compliance Office.
+
+**Condition 4 — Continued CGC Member Compliance**
+Renewal of this license is contingent upon Genesis Labs maintaining its status as a CGC member corporation in good standing. Any change in membership status shall be reported to the Somatic Clinic Licensing Bureau within 14 days and may trigger expedited review of this license.
+
+---
+
+*Issued by the CGC Regulatory Affairs Division, Somatic Clinic Licensing Bureau*
+*Filing Reference: CGC-RAD-SCL-77-0229*
+*Date of Issue: 77-03-01 PCE (2119-03-01 CE)*
+*Classification: OPEN*

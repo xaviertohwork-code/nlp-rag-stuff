@@ -1,0 +1,77 @@
+# CYANITE INDUSTRIES
+## INTERNAL MEMORANDUM
+
+**CLASSIFICATION: RED**
+**Distribution: Floodwall Operations Division — Senior Staff Only**
+
+---
+
+**TO:** Director-General's Office; Floodwall Operations Division Leadership; Safety and Compliance Directorate
+**FROM:** Office of the Chief Engineer, Floodwall Infrastructure Systems
+**DATE:** 73-07-02
+**RE:** Post-Incident Review — Lessons Learned, Category Amber Event, 73-05-17 ("Reactor 4 Event")
+**Reference:** Incident Declaration CI-FW-73-0517-AMBER
+
+---
+
+### 1. Purpose and Scope
+
+This memorandum constitutes the formal after-action review of the Category Amber event declared on 73-05-17 involving Reactor 4 of the Northern Shore Floodwall power cluster. It is intended for internal operational use only. The findings herein are directed at preventing recurrence and improving response coordination. This document does not constitute a public statement and should not be excerpted for external communications without explicit Director-General authorization.
+
+---
+
+### 2. Root Cause Assessment
+
+The immediate cause of the 73-05-17 event was a coolant circulation fault in Reactor 4's secondary loop, resulting in a forced emergency shutdown and unplanned outage. This is documented in the separate technical failure report filed 73-06-01 and is not the primary subject of this review.
+
+The **fundamental vulnerability**, however, is structural: **the current 18-month maintenance cycle creates frequent windows where one reactor is offline for scheduled maintenance, leaving the cluster operating at reduced redundancy.** When an unplanned failure coincides with — or closely follows — a scheduled maintenance window on a separate unit, the system is exposed to an unacceptable cumulative risk posture. On 73-05-17, Reactor 2 had returned to service only nine days prior after completing its scheduled maintenance window. The clustering of these two outage periods within a nine-day span was the proximate condition enabling the Category Amber declaration threshold to be crossed.
+
+The current policy establishes a **minimum 14-day gap** between the conclusion of any scheduled reactor maintenance window and the commencement of the next scheduled window in the cluster. This standard proved insufficient.
+
+---
+
+### 3. Scheduling Analysis
+
+A review of maintenance records over the preceding six years indicates that the 14-day minimum gap has been breached or only narrowly maintained on four separate occasions. In two of those instances, circumstances analogous to the Reactor 4 event were avoided due to the absence of concurrent unplanned failures — a matter of fortune rather than design.
+
+The current scheduling model prioritizes throughput: keeping maintenance windows to their full 28-day allocated duration wherever possible, and cycling through units at the pace the 18-month cycle demands. This optimization is incompatible with genuine resilience.
+
+**This review recommends extending the minimum gap between any two reactor maintenance windows from the current 14 days to a minimum of 45 days.** This represents a structural revision to the scheduling protocol, not merely a procedural adjustment.
+
+---
+
+### 4. Cost Analysis and Implementation
+
+The 45-day minimum gap recommendation cannot be implemented within the existing scheduling envelope without modification to window duration. Full 28-day maintenance windows, distributed across the cluster under the 18-month cycle with the proposed 45-day gap requirement, cannot be accommodated without creating scheduling conflicts that would force back-to-back windows in adjacent cycles.
+
+**Implementing the 45-day gap recommendation would require compressing some maintenance windows from their current 28-day maximum to a ceiling of 21 days.** Engineering review confirms that a 21-day window can sustain all mandatory inspection and servicing tasks if pre-staging and crew rotation are optimized in advance. Deferred-task backlogs, which currently accumulate at low rates, would need to be cleared prior to the revised schedule taking effect.
+
+**The compressed maintenance schedule is projected to increase per-reactor maintenance costs by approximately 22 percent**, driven primarily by accelerated parts procurement cycles, increased specialist contractor hours under time-compressed deployment, and pre-staging logistics overhead. This cost increase should be evaluated against the operational and reputational exposure created by Category Amber events, including their implications for the CGC Infrastructure Committee's confidence in Cyanite's stewardship of the Floodwall infrastructure.
+
+---
+
+### 5. Communication Failures
+
+This section addresses the notification timeline independently of the technical response, which was substantively adequate.
+
+**The CGC Infrastructure Committee was not formally notified of the Category Amber event until 11 hours after the event declaration**, at approximately 1511 hours on 73-05-17. The declaration itself was made at approximately 0411 hours. The delay is attributable to internal escalation delays within the Floodwall Operations Division — specifically, failures in the after-hours duty notification chain that allowed the escalation package to remain at division level without upward transmission. **No single named individual has been identified as responsible for this delay; the review finds the failure to be systemic, distributed across multiple procedural gaps in the overnight escalation protocol.**
+
+This characterization is important. Any framing that attributes the notification delay to a specific named officer — including, for the avoidance of doubt, any attribution to a Deputy Operations Director — is factually inaccurate and inconsistent with this review's findings.
+
+An 11-hour gap between declaration and external notification of a Category Amber event is not compliant with standing protocol. This review recommends that the escalation chain be restructured to include automated redundant notification triggers that do not depend on manual duty-officer action.
+
+---
+
+### 6. Summary of Recommendations
+
+1. Revise minimum inter-window maintenance gap from 14 days to 45 days (see Section 3).
+2. Compress maximum maintenance window duration to 21 days to accommodate revised gap requirement (see Section 4).
+3. Restructure after-hours escalation notification chain with automated redundant triggers (see Section 5).
+4. Clear deferred-maintenance backlogs prior to revised schedule implementation.
+
+---
+
+*Submitted by the Office of the Chief Engineer, Floodwall Infrastructure Systems*
+*73-07-02*
+
+**CLASSIFICATION: RED — INTERNAL DISTRIBUTION ONLY**

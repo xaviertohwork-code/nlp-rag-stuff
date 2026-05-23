@@ -1,0 +1,86 @@
+# ONE NETWORK ENTERPRISES
+## FLEET SECURITY COMMAND — VESSEL INTERDICTION REPORT
+
+---
+
+**CLASSIFICATION: SECRET**
+**Document Reference:** ONE-FSC-IR-71-0720-KOR
+**Date of Report:** 71-07-23
+**Reporting Officer:** Fleet Security Officer, Western Approach Patrol Group, Designation FSO-W-14
+**Distribution:** ONE Fleet Security Command; CGC Secretariat (Security Division); ONE Legal Affairs
+
+---
+
+## INCIDENT SUMMARY
+
+On 71-07-20, ONE naval forces operating under standing CGC anti-smuggling interdiction authority intercepted and boarded the cargo vessel **MV Korinsale** at coordinates **34.7°N, 128.3°E**, approximately 190 nautical miles west-northwest of Haven Island in open maritime approaches. The interdiction was initiated following a tip from a ONE logistics intelligence asset flagging anomalous cargo routing inconsistent with the vessel's declared commercial manifest. The MV Korinsale was brought to a full stop, boarded, and its cargo subjected to physical inspection. Subsequent analysis of cargo composition and registration documentation yielded findings sufficient to warrant full asset seizure and crew detention. This report documents the full sequence of events, findings, and recommended disposition.
+
+---
+
+## VESSEL DETAILS AND REGISTRATION
+
+| Field | Details |
+|---|---|
+| Vessel Name | MV Korinsale |
+| Hull Classification | Mid-tonnage dry cargo freighter |
+| Flag of Record | Outer Bloc registry (Kashikari administrative zone) |
+| Declared Operator | Sulvane Maritime Holdings, Ltd. |
+| Port of Last Call | Cape Tidak (departure 71-07-17) |
+| Declared Destination | Independent outer-island distribution hub, unspecified manifest code |
+
+Verification of Sulvane Maritime Holdings, Ltd. through ONE's commercial registry cross-reference returned anomalous results. The company's filing history reflects no operational activity prior to 70 PCE, no verifiable physical offices, no independent trade documentation, and financial accounts traced through two intermediary holding structures to accounts flagged in CGC intelligence circulars as **Conclave-affiliated**. The vessel was therefore registered to a shell company traced to Conclave-affiliated accounts. This finding is assessed as material to the cargo analysis findings documented in the section below.
+
+---
+
+## BOARDING PROCEDURE
+
+All timestamps in PCE standard (Haven Time Zone):
+
+- **71-07-20 / 09:14** — MV Korinsale identified on approach radar. ONE patrol frigate ONS *Vantage* issues standard commercial hailing sequence.
+- **71-07-20 / 09:31** — MV Korinsale acknowledges hail. Master claims routine commercial passage.
+- **71-07-20 / 09:47** — Inconsistencies in declared cargo weight versus hull waterline assessment noted by ONS *Vantage* navigation officer. Formal interdiction declared under ONE standing maritime authority (CGC Mandate Reference 69-FSC-004).
+- **71-07-20 / 10:03** — MV Korinsale ordered to reduce speed and accept boarding party.
+- **71-07-20 / 10:22** — Boarding party of six Fleet Security personnel transfers to MV Korinsale via cutter. No resistance encountered during boarding. Vessel secured.
+- **71-07-20 / 10:35** — Crew mustered on deck. Physical inventory of cargo hold commenced.
+- **71-07-20 / 13:50** — Cargo inspection complete. Findings transmitted to FSO-W-14 aboard ONS *Vantage* for preliminary analysis.
+
+---
+
+## CARGO MANIFEST AND ANALYSIS
+
+The vessel's declared manifest listed the cargo as "miscellaneous industrial components — tier 3 unclassified." Physical inspection revealed the following undeclared or misdeclared contents:
+
+- **1,850 kilograms of high-purity silicon wafers** (undeclared; packaging marked with third-party industrial codes inconsistent with declared shipper)
+- **640 kilograms of lithium compounds** (declared in partial quantity only; actual weight approximately 3.2 times declared figure)
+- Standard industrial packaging materials and inert ballast material (declared)
+
+Independent field analysis conducted by FSO-W-14's technical specialist, cross-referenced against ONE intelligence databases, indicated that the seized cargo — specifically the high-purity silicon wafers and lithium compounds in the quantities present — was consistent with materials needed for satellite computing component fabrication. This assessment aligns with threat pattern intelligence circulated by the CGC following the designation of the Conclave as a terrorist organization in 70 PCE (CGC Intelligence Circular 70-CI-018). The technical composition and purity grades of the seized materials are not consistent with any declared terrestrial industrial application in the claimed supply chain documentation.
+
+---
+
+## CREW INTERROGATION SUMMARY
+
+The MV Korinsale was crewed by **12 individuals** at time of interdiction. All crew members were processed and questioned individually by Fleet Security personnel aboard ONS *Vantage*. Without exception, all 12 crew members claimed to be conducting legitimate commercial shipping operations on behalf of Sulvane Maritime Holdings, Ltd., citing the declared manifest and commercial routing documentation as evidence. No crew member provided additional information, deviated from this account, or offered any statement that distinguished their individual circumstances from this uniform position. No crew member indicated awareness of the cargo's actual contents, though this claim is assessed as implausible given the weight and packaging discrepancy between the declared and actual cargo. There was no distinction made between cooperating and non-cooperating crew members, as all 12 maintained identical positions throughout questioning.
+
+---
+
+## DISPOSITION OF VESSEL AND CARGO
+
+The MV Korinsale has been brought under ONE escort to Haven Island's West Haven secure anchorage pending CGC determination of asset forfeiture proceedings. All seized cargo — 1,850 kilograms of silicon wafers and 640 kilograms of lithium compounds — has been transferred to a CGC-designated secure storage facility. The entire crew of 12 was detained and transferred to CGC holding facilities for interrogation by CGC Security Division personnel with appropriate jurisdiction.
+
+---
+
+## RECOMMENDATIONS
+
+1. CGC Intelligence Division should undertake a full audit of Sulvane Maritime Holdings, Ltd.'s registration and financial network, with particular attention to other vessels potentially operating under related shell structures.
+2. ONE Fleet Security recommends elevated patrol density along the 34°N–36°N western approach corridor for a minimum of 60 days.
+3. Findings of this interdiction should be cross-referenced against outstanding CGC intelligence on Conclave logistics patterns for the 70–71 PCE period.
+4. FSO-W-14 requests formal guidance on jurisdictional handling of crew interrogations conducted under CGC holding authority versus ONE detention procedures, as current protocols produced ambiguity during transfer.
+
+---
+
+**Prepared by:** FSO-W-14, ONE Fleet Security Command, Western Approach Patrol Group
+**Date Submitted:** 71-07-23
+**Classification Authority:** ONE Fleet Security Command
+
+**— SECRET —**

@@ -1,0 +1,111 @@
+# CGC RESOLUTION 76-022
+## Amendment to Haven Island Immigration Quotas for 77 PCE
+
+**Issuing Body:** Clairos Governance Council
+**Resolution Reference:** CGC-76-022
+**Date of Passage:** 76-12-04
+**Classification:** OPEN
+**Distribution:** General Public, All CGC Member Megacorporations, Haven Island Civic Services Directorate
+
+---
+
+## PREAMBLE
+
+**WHEREAS** the Haven Island Special Economic Zone, established pursuant to the Blackshore Accords of 04-00-00 (Year 4 of the Post-Cascade Era), provides the legal and administrative framework governing residency entitlements and population management within Haven Island;
+
+**WHEREAS** the Blackshore Accords, Article 7(b), vest in the Clairos Governance Council the authority to establish, amend, and enforce annual immigration quotas commensurate with Haven Island's infrastructure capacity, labor requirements, and long-term population sustainability;
+
+**WHEREAS** current demographic assessments prepared by the CGC's Joint Population Monitoring Directorate confirm Haven Island's residential population to stand at approximately **100 million persons** as of 76 PCE, approaching the upper threshold of medium-term infrastructure capacity projections as maintained by Cyanite Industries in its Floodwall and civic utility management reports;
+
+**WHEREAS** the CGC has determined that controlled, measured population growth serves both the economic vitality and the infrastructure stability of Haven Island;
+
+**NOW, THEREFORE,** the Clairos Governance Council, in duly convened session, adopts the following resolution.
+
+---
+
+## SECTION I — RESOLUTION TEXT
+
+### 1.1 Annual Quota Establishment
+
+The total number of new residency permits issued under Haven Island immigration authority for the period commencing 77-01-01 and concluding 77-12-31 (the "77 PCE Quota Period") is hereby set at **45,000 new residency permits**.
+
+### 1.2 Per-Megacorporation Sponsorship Allocation
+
+Of the 45,000 total permits authorized under Section 1.1, sponsorship slots are allocated to CGC member megacorporations as follows:
+
+| CGC Member Megacorporation | Sponsorship Slots Allocated |
+|----------------------------|-----------------------------|
+| Cyanite Industries | 7,500 |
+| ONE Network Enterprises | 7,500 |
+| Phyrexis Group | 7,500 |
+| Genesis Labs | 7,500 |
+| The Edge Corporation (TEC) | 7,500 |
+| **Subtotal — Corporate Sponsorship** | **37,500** |
+
+Each member megacorporation receives an equal allocation of **7,500 sponsorship slots**, irrespective of that member's vote on this or any related resolution. Abstention from a CGC vote does not constitute forfeiture of, reduction to, or suspension of a member megacorporation's sponsorship slot allocation; all five CGC member megacorporations receive their full 7,500-slot allocation as established herein.
+
+### 1.3 General Application Pool
+
+The remaining **7,500 residency permits** not allocated under Section 1.2 are reserved for the General Application Pool, administered collectively by the CGC through the Haven Island Civic Services Directorate. Applications to the General Pool are open to all qualifying individuals not sponsored directly by a member megacorporation and shall be processed in accordance with the criteria established in Section II of this resolution.
+
+---
+
+## SECTION II — APPLICATION CRITERIA
+
+### 2.1 Mandatory Qualifying Conditions
+
+All applicants for residency permits under the 77 PCE Quota Period, whether applying through a corporate sponsorship channel or the General Application Pool, must satisfy the following conditions at the time of application submission:
+
+**(a) Employment or Contractual Relationship:** The applicant must demonstrate current employment by, or a documented contractual relationship with, a Haven-based entity. Acceptable forms of documentation include executed employment agreements, active service contracts, letters of sponsorship from a CGC member megacorporation, and proof of active commercial registration within Haven Island. Applications lacking qualifying employment or contractual documentation shall be deemed incomplete and returned without prejudice.
+
+**(b) Security Clearance:** Applicants must pass a standard CGC security and background review administered through the relevant sponsoring megacorporation or, for General Pool applicants, through the Haven Island Civic Services Directorate.
+
+**(c) Medical Certification:** Applicants must provide a current medical fitness declaration issued by a recognized medical provider within the preceding 90 days of application.
+
+### 2.2 Priority Categories — General Pool
+
+Within the General Application Pool, the CGC Secretariat is directed to prioritize applications from the following categories, in descending order of priority:
+
+1. Applicants presenting documented evidence of humanitarian hardship arising from ongoing post-Cascade infrastructure failure in their region of origin.
+2. Applicants with demonstrated professional qualifications in critical infrastructure sectors, as defined in Appendix A of this resolution.
+3. All other qualifying applicants, assessed on a first-complete, first-reviewed basis.
+
+---
+
+## SECTION III — IMPLEMENTATION TIMELINE
+
+| Milestone | Deadline |
+|-----------|----------|
+| Resolution published and distributed to all CGC member megacorporations | 76-12-07 |
+| Corporate sponsorship application portals open | 77-01-15 |
+| General Application Pool portal open | 77-02-01 |
+| First permit issuance date | 77-03-01 |
+| Midyear utilization review (CGC Secretariat) | 77-07-01 |
+| Final permit issuance deadline | 77-11-30 |
+| Unissued slots (if any) reported to CGC for 78 PCE planning | 77-12-15 |
+
+Corporate sponsorship slots not utilized by 77-10-15 are subject to reallocation to the General Application Pool at the discretion of the CGC Secretariat, following written notice to the relevant member megacorporation.
+
+---
+
+## SECTION IV — VOTING RECORD
+
+This resolution was put to a formal vote of the Clairos Governance Council in session on 76-12-04.
+
+| CGC Member | Vote |
+|------------|------|
+| Cyanite Industries | In Favor |
+| ONE Network Enterprises | In Favor |
+| Phyrexis Group | In Favor |
+| The Edge Corporation (TEC) | In Favor |
+| Genesis Labs | Abstain |
+
+**Final Vote:** 4 in favor, 0 opposed, 1 abstention.
+
+The resolution passed pursuant to CGC Procedural Rules governing the passage of administrative quota resolutions. The abstention of Genesis Labs is recorded without prejudice to that member's rights or allocations under this resolution.
+
+---
+
+*Certified as duly passed by the Clairos Governance Council.*
+*CGC Secretariat, 76-12-04.*
+*Classification: OPEN*

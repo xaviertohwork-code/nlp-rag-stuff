@@ -1,0 +1,65 @@
+# HAVEN'S HIDDEN THIRST: THE FLOODWALL'S DOUBLE LIFE AS WATER PROVIDER
+
+**Renhwa Media Investigative Desk | 76-07-19**
+
+---
+
+Every morning, roughly forty million Havenites turn on a tap. They fill kettles, they brush teeth, they make the ersatz coffee that the megacorporate canteens serve in paper cups stamped with corporate logos. Very few of them pause to consider what, precisely, is in the water — or who decided that it was safe to drink.
+
+Renhwa Media can now report that **approximately 40 percent of Haven's total potable water supply** is produced by the Floodwall desalination system — the same infrastructure that keeps Haven from sinking beneath the heavily industrialised seas surrounding it. The remaining 60 percent comes from rainwater capture and highland runoff imports, neither of which is managed or controlled by Cyanite Industries. That latter fact is worth sitting with: a full 60 percent of Haven's water arrives from sources entirely outside the company that controls the other 40 percent — and entirely outside any unified oversight framework.
+
+The Floodwalls themselves are, by almost any engineering measure, a remarkable achievement. Cyanite Industries constructed and maintains the nested series of walls, channels, retaining tanks, and nuclear-fission-powered water pumps that hold the ocean at bay. The same system runs reverse osmosis filtration to produce potable water from the seas beyond. It is, as Cyanite's public affairs office is fond of reminding journalists, the reason Haven exists at all.
+
+But the question this investigation set out to answer was not whether the Floodwalls work. It was whether the water they produce is safe.
+
+---
+
+## What Renhwa Found in the Water
+
+Over a period of three months, Renhwa Media independently commissioned water quality testing across fourteen sample collection points distributed throughout Haven's residential distribution network. The samples were processed by an accredited laboratory operating outside Cyanite's contractual oversight. The methodology and chain of custody are available in the supplemental documentation accompanying this article.
+
+The results are instructive. Heavy metal concentrations — including cadmium, lead, and manganese — were found at trace levels across all sampled points. Those concentrations, when measured against Cyanite's own internal standard, the WQ-7 framework, fell within compliance thresholds. Cyanite Industries will be quick to point this out, and they are not wrong that the numbers sit inside their own lines.
+
+The difficulty is that the same concentrations **exceed pre-Cascade World Health standards by a factor of 2.4**.
+
+Renhwa commissioned this testing. No government body, independent public authority, or inter-corporate regulatory office was involved in originating or funding the inquiry — a fact that is itself part of the story, and one we return to below.
+
+---
+
+## Cyanite Responds
+
+Presented with Renhwa's findings, a Cyanite Industries spokesperson issued a written response, which is reproduced here in relevant part:
+
+> *"The WQ-7 standard was developed specifically for post-Cascade conditions, reflecting the dramatically altered environmental chemistry of waters surrounding Haven Island. Pre-Cascade World Health standards were calibrated against freshwater and coastal water compositions that no longer exist in materially relevant form. Applying those standards to the current operating environment is scientifically irrelevant to current environmental realities."*
+
+Cyanite declined to make a technical representative available for further comment and did not respond to questions about the frequency of maintenance events affecting the reverse osmosis filtration stages.
+
+The company's position — that WQ-7 represents the appropriate and sufficient framework — is one that Haven's residents have no formal mechanism to contest. There is no independent public water quality authority in Haven. There is no citizen panel, no Havenite civic board, and no inter-corporate body with the mandate to audit Cyanite's self-defined standard. The CGC, for its part, has never commissioned an independent review of WQ-7.
+
+---
+
+## What an Engineer Told Us
+
+Several current and former Cyanite employees were contacted during the course of this investigation. Most declined to speak. One former water systems engineer, who agreed to be quoted on condition of strict anonymity citing concerns about professional retaliation, offered the following:
+
+*"The micro-fracture saltwater intrusions — the small breaches in the filtration membranes that allow trace seawater to bypass the osmosis stage — those happen more frequently than the official reports indicate. I am not saying the system is failing. I am saying the numbers you see published are not the numbers the people running the system are actually watching."*
+
+Cyanite, informed of this characterisation in general terms, stated that its maintenance and inspection protocols "exceed all applicable industry benchmarks" and that filtration system performance is "continuously monitored and logged in accordance with our internal engineering standards."
+
+Those logs are not public.
+
+---
+
+## The 60 Percent Problem
+
+The Floodwall desalination system is, at minimum, a known quantity — documented infrastructure, with documented standards, run by a single identifiable corporation. Whatever its limitations, there is a paper trail.
+
+The same cannot be said for the rainwater capture systems and highland runoff import networks that together account for the remaining 60 percent of Haven's potable water. These sources are managed by a patchwork of private operators, none of them Cyanite, and none of them subject to any unified quality standard equivalent even to WQ-7. Renhwa's reporting on these supply chains will follow in a subsequent investigation.
+
+For now, the question that 40 million Havenites might reasonably ask — who decided what is safe to drink, and why should we believe them? — has an answer that is, at best, uncomfortable: one company, auditing itself, against a standard it wrote, for conditions it defined.
+
+---
+
+*This article was produced by Renhwa Media's investigative desk without external funding or editorial direction. Source documentation, laboratory testing methodology, and chain-of-custody records are available to verified media and academic partners upon request.*
+
+*Since publication, this article has received **4.7 million Edge views within 48 hours**, making it Renhwa Media's most-accessed investigative piece of 76 PCE. Renhwa Media editorial correspondence may be directed to the desk address on file.*

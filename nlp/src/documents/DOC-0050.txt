@@ -1,0 +1,94 @@
+REPUBLIC OF ZONNON — MARITIME DEFENSE COMMAND
+COASTAL PATROL DIVISION
+
+INCIDENT REPORT
+Classification: CONFIDENTIAL
+Report Number: ZMD-CPD-2118-0903-047
+Date of Report: 2118-09-03
+Prepared by: Lieutenant Commander Asa Nordvik, Coastal Patrol Division
+Subject: Unauthorized Survey Vessel — Zonnon Territorial Waters Incursion, 2118-09-02
+
+---
+
+**INCIDENT SUMMARY**
+
+On 2118-09-02, a Coastal Patrol Division vessel detected and subsequently intercepted an unmarked maritime vessel conducting operations within Zonnon territorial waters, approximately 14 nautical miles off the eastern aquaculture zone. The vessel was confirmed to be operating without authorization from the Republic of Zonnon government or the Maritime Defense Command. A formal 72-hour detention was imposed. This report documents the detection, interception, inspection, and resolution of the incident, and provides recommendations for command review.
+
+---
+
+**TIMELINE**
+
+| Time (Local) | Event |
+|---|---|
+| 0342 | Initial detection of unidentified surface contact |
+| 0349 | Contact designated ROMEO-17; patrol command notified |
+| 0412 | Intercept course set; radio challenges broadcast on maritime distress frequencies |
+| 0528 | Physical interception achieved; vessel hailed and boarded |
+| 0611 | Vessel inspection completed; crew detained aboard |
+| 0730 | Vessel transferred under escort to Tavenport holding anchorage |
+| 2118-09-05 (0528) | Vessel released following issuance of formal diplomatic protest |
+
+---
+
+**DETECTION**
+
+At 0342 local time on 2118-09-02, Patrol Vessel *ZMD Harrow* detected an unlit, unmarked surface contact via radar at a range of approximately 8.3 nautical miles. The contact was operating 14 nautical miles off Zonnon's eastern aquaculture zone — well within the 24-nautical-mile contiguous zone and inside Zonnon's 12-nautical-mile territorial limit as measured from the outer aquaculture installation perimeter. The vessel was running without navigational lights and exhibited no active transponder signal (AIS off or disabled). The contact was designated ROMEO-17 at 0349 following confirmation by a second independent radar fix.
+
+Radio challenges were broadcast on channels 16 and 70 at 0412, 0421, and 0440. No response was received.
+
+---
+
+**INTERCEPTION**
+
+*ZMD Harrow* closed on ROMEO-17 and achieved physical interception at 0528. The vessel made no attempt to flee or resist approach. No warning shot was fired; the vessel was brought to and boarded through standard compliant boarding procedures following sustained visual and audio hailing at close range. A boarding party of six personnel conducted the interception without incident.
+
+---
+
+**VESSEL INSPECTION**
+
+Upon boarding, the vessel was confirmed to be of mid-sized survey class, approximately 34 meters in length, carrying no flag or external identification markings. The vessel's interior indicated a professional maritime operation: crew quarters, a dedicated electronics bay, and two large aft deck storage areas.
+
+The crew — eight individuals — were found aboard and cooperative. They identified themselves as employees of **Deepscan Maritime Services**, presenting employment documentation and a corporate registration card. Deepscan Maritime Services is recorded in the vessel's documentation as a registered subcontractor of **Cyanite Industries**.
+
+The vessel's cargo and equipment inventory, recorded separately, is detailed in the following section.
+
+---
+
+**EQUIPMENT FINDINGS**
+
+A physical inspection of the vessel's electronics bay and aft storage revealed the following aboard ROMEO-17:
+
+- Two hull-mounted and two deployable seabed sonar mapping units, consistent with commercial deep-survey configuration
+- A suite of mineral sampling apparatus, including coring probes and sediment recovery canisters, several of which showed recent operational use
+- Encrypted data storage units, contents not accessed pending legal authority
+- Survey grid charts of Zonnon's eastern seabed, partially annotated
+
+All equipment was photographed and catalogued. Copies of the equipment manifest are appended to this report (Appendix A).
+
+---
+
+**RESOLUTION**
+
+ROMEO-17 was transferred under escort to Tavenport holding anchorage at 0730 on 2118-09-02. Zonnon Maritime Defense Command imposed a formal 72-hour detention. Legal counsel from the Ministry of Maritime Affairs reviewed the case and confirmed grounds for diplomatic protest under the Zonnon Exclusive Economic Zone Enforcement Regulations (2081 consolidated).
+
+The vessel was released at 0528 on 2118-09-05 upon expiry of the detention period. A formal diplomatic protest, authored by the Ministry of Foreign Affairs and co-signed by Maritime Defense Command, was transmitted to Cyanite Industries' registered Haven office and logged with the Clairos Governance Council Secretariat. The protest asserts an unauthorized incursion into sovereign Zonnon territorial waters and demands a full account of the vessel's operational mandate and survey scope.
+
+The encrypted data storage units were imaged prior to release; cryptographic analysis is ongoing.
+
+---
+
+**RECOMMENDATIONS**
+
+1. Increase frequency of overnight patrol coverage along the eastern aquaculture zone boundary, particularly during low-light hours. ROMEO-17's approach exploited a documented gap in the 0200–0500 patrol rotation.
+2. Request Ministry of Foreign Affairs pursue binding assurances from Cyanite Industries that no further unauthorized survey operations are being planned or ongoing in Zonnon waters.
+3. Refer encrypted storage image to the Nyari Confederation signals intelligence division under the 2117 Bloc information-sharing agreement for cryptographic analysis support.
+4. Brief Isolationist and Accommodationist caucus leadership through appropriate civilian channels; the political sensitivity of a Cyanite-affiliated vessel operating in proximity to Zonnon's primary export infrastructure warrants cross-party awareness.
+
+---
+
+*Report prepared by:*
+Lieutenant Commander Asa Nordvik
+Coastal Patrol Division, Zonnon Maritime Defense Command
+2118-09-03
+
+*Distribution: Commanding Officer, Maritime Defense Command; Ministry of Maritime Affairs; Ministry of Foreign Affairs (CONFIDENTIAL channel)*

@@ -1,0 +1,112 @@
+# CYPHER SATELLITE NETWORK
+## Phase I Technical Architecture Overview
+
+**Document Reference:** CYN-TECH-0094-53  
+**Classification:** RED  
+**Authoring Organisation:** Cyanite Industries — Advanced Systems Division  
+**Contributing Organisations:** Phyrexis Group (Infrastructure Finance & Systems Integration), Edge Research (Compute Architecture & Software Stack)  
+**Author:** Systems Architect, Orbital Infrastructure Programme (name withheld per RED handling protocol)  
+**Date:** 53-04-18  
+**Revision:** 1.4 — For Internal Distribution Only  
+
+---
+
+> **RED HANDLING NOTICE:** This document contains proprietary technical specifications for the CYPHER Satellite Network Phase I architecture. Distribution is restricted to credentialed personnel within the joint venture partner organisations: Cyanite Industries, Phyrexis Group, and Edge Research. Unauthorised reproduction or transmission is a breach of the joint venture non-disclosure provisions and subject to full legal remediation under the CGC Commercial Arbitration Framework.
+
+---
+
+## 1. Network Architecture Overview
+
+The CYPHER Satellite Network is conceived as a distributed orbital data centre infrastructure, designed to restore and substantially exceed Clairos's pre-Cascade compute capacity. The network operates on the principle of modular redundancy: a large number of individually deployable data centre modules are placed in coordinated low-Earth orbit, collectively forming an interconnected mesh capable of parallelised workload distribution and fault-tolerant processing continuity.
+
+Phase I planning documents have established a target module count subject to revision throughout the project's development as launch constraints, cost modelling, and orbital slot availability are refined. Programme leadership should consult the current Programme Configuration Register maintained by Cyanite's Orbital Infrastructure Programme Management Office for the authoritative module count applicable to any given planning cycle, as this figure has undergone and will continue to undergo revision.
+
+This document covers the Phase I technical baseline: orbital configuration, module design, compute architecture, power systems, radiation protection, inter-satellite communications, and servicing requirements. All figures cited herein reflect the Revision 1.4 design freeze baseline. Changes subsequent to this freeze require a formal Configuration Change Request submitted jointly to all three joint venture partners.
+
+---
+
+## 2. Orbital Configuration
+
+Phase I modules are deployed into low orbit at an altitude band of 550–620 kilometres, selected to balance atmospheric drag life, ground-station contact windows, and radiation exposure within the South Atlantic Anomaly transit zone. The orbital distribution uses a multi-plane Walker constellation geometry, with modules distributed across six orbital planes inclined at 53 degrees to the equatorial plane.
+
+This configuration ensures continuous global compute availability across Haven Island and all primary CGC operational territories. Orbital slot assignments are managed by Cyanite's Trajectory and Positioning Control Centre in north Haven. Station-keeping propellant is sized for a nominal operational life consistent with the programme's maintenance cycle assumptions (see Section 8).
+
+Each module's orbital slot is selected to maintain a minimum separation of 12 kilometres from adjacent modules in the same plane, reducing collision risk and ensuring clean inter-satellite optical line-of-sight for the OLINK-7 communication mesh (see Section 7).
+
+---
+
+## 3. Data Center Module Design
+
+Each CYPHER Phase I module is a self-contained orbital data centre. The primary structural chassis is a hexagonal prism measuring 4.2 metres along its long axis and 2.8 metres across its flat faces. Total launch mass is 2,340 kilograms, inclusive of compute hardware, shielding, thermal management systems, and propulsion.
+
+Each module carries **48 compute nodes** with a **combined processing capacity of 14.6 petaflops** under nominal operating conditions. Compute node arrangement follows a 6×8 rack geometry internal to the chassis, with active liquid cooling loops interfacing with the external thermal rejection radiators mounted on the module's aft face.
+
+Thermal management is a critical design driver at this compute density. Radiator area was determined through iterative thermal modelling accounting for solar input, internal dissipation, and eclipse cooling efficiency. Compute nodes are throttled automatically to 87% rated performance during full-sun orbital segments to maintain junction temperatures within qualified bounds; peak 14.6 petaflop performance is achieved during eclipse segments where thermal budget is least constrained.
+
+Storage architecture uses tiered flash arrays with a total module capacity of 2.8 petabytes addressable. Inter-node fabric uses a proprietary high-bandwidth switching architecture developed by Edge Research, operating at 400 gigabits per second intra-chassis.
+
+---
+
+## 4. Compute Architecture
+
+The compute nodes are based on a radiation-hardened processor architecture developed by Edge Research from Cyanite's chip fabrication heritage. Each node contains 16 processing cores operating at 1.8 GHz under radiation-derated conditions, with dedicated AI inference accelerator arrays providing the bulk of the node's effective throughput.
+
+The operating software stack runs a distributed workload management layer developed by Edge Research, designated the Orbital Processing Environment (OPE-3). OPE-3 handles task scheduling across the full orbital mesh, routing workloads to modules based on thermal headroom, contact window availability, and node health telemetry.
+
+All compute nodes are radiation-hardened to Total Ionising Dose (TID) tolerance of 100 kilorad(Si) and are designed to tolerate single-event upsets through triple modular redundancy on all safety-critical logic paths. See Section 6 for shielding specifications relevant to long-term cumulative radiation exposure management.
+
+---
+
+## 5. Power Systems
+
+Power is supplied by deployable solar arrays that extend from the module chassis following orbital insertion. The arrays use triple-junction gallium arsenide photovoltaic cells, arranged in two deployable wings, each comprising three articulated panels. Under standard illumination at the operational orbital altitude, the arrays produce a **combined output of 320 kilowatts per module** at beginning-of-life.
+
+End-of-life power output, accounting for photovoltaic degradation over the planned operational period, is estimated at 284 kilowatts — a degradation factor of approximately 11.3%, which is within acceptable margins for sustained compute operation. Array orientation is managed by a two-axis drive mechanism providing continuous sun-pointing through the sunlit orbital arc.
+
+Energy storage uses lithium-ion battery packs with a total module capacity of 180 kilowatt-hours, providing sufficient buffer to sustain reduced-load compute operation through eclipse periods of up to 35 minutes — consistent with the shadow duration profile at the selected orbital altitude.
+
+Power conditioning and distribution is handled by a dedicated Power Management and Distribution Unit (PMDU) developed by Cyanite's electrical systems division, providing regulated 28V DC bus distribution to all module subsystems with isolated fault protection for each consumer domain.
+
+---
+
+## 6. Radiation Protection
+
+Long-term performance of the compute hardware is contingent on effective radiation shielding, given the cumulative single-event upset and total ionising dose environment at the operational orbital altitude. The CYPHER Phase I shielding architecture uses a **three-layer composite design**:
+
+- **Outer layer — Aluminium shell:** 3 mm structural aluminium forming the primary pressure and debris protection shell. Provides initial proton and electron energy deposition.
+- **Middle layer — Polyethylene buffer:** 8 mm high-density polyethylene, functioning as a hydrogen-rich moderating medium effective against secondary neutron flux and high-energy proton shielding.
+- **Inner layer — Tantalum lining:** 2 mm tantalum providing high-Z attenuation of residual gamma flux and secondary bremsstrahlung radiation generated by electron interactions with the outer shell.
+
+This composite geometry is consistent with established best practice for long-duration orbital data centre applications. Analysis against the AP-8 and AE-8 radiation environment models confirms that accumulated TID at the inner chassis wall remains below 95 kilorad(Si) over the rated operational period.
+
+**The shielding stack is rated for a mission lifetime of 15 years before maintenance replacement of the polyethylene buffer and tantalum lining is required.** Beyond this period, degradation of the polyethylene moderating layer due to prolonged gamma irradiation and outgassing reduces shielding effectiveness below the design threshold. Aluminium shell structural integrity is unaffected by this degradation mechanism and does not require replacement on the same cycle. Shielding maintenance is therefore a scheduled servicing activity; see Section 8.
+
+---
+
+## 7. Inter-Satellite Communications
+
+The CYPHER network mesh relies on a **proprietary optical inter-satellite link protocol designated OLINK-7**, developed jointly by Edge Research and Cyanite's Orbital Systems Division. OLINK-7 operates in the 1,550 nanometre infrared band using narrow-divergence laser transceivers mounted on two-axis fine-pointing gimbals on each module's forward and aft faces.
+
+OLINK-7 provides a point-to-point link rate of 10 gigabits per second per transceiver pair, with four active links per module providing a total inter-module throughput capacity of 40 gigabits per second. The protocol includes an integrated forward error correction scheme and an automatic link re-establishment procedure capable of recovering a dropped link within 1.8 seconds under nominal attitude conditions.
+
+Network topology management is handled by the OPE-3 distributed layer, which maintains a continuously updated mesh routing table across all active modules. OLINK-7's optical architecture provides inherent resistance to electromagnetic interference and eliminates the need for radio-frequency spectrum coordination with ground-based assets, a significant operational advantage given the CGC's broader spectrum management constraints.
+
+---
+
+## 8. Maintenance and Servicing Requirements
+
+The CYPHER Phase I network is designed for on-orbit servicing by Cyanite Industries' Orbital Maintenance Vehicle (OMV) fleet. Servicing activities are grouped into three categories:
+
+**Routine (annual):** Propellant replenishment for station-keeping, battery pack capacity verification, solar array cleaning and optical transceiver alignment calibration. Estimated OMV contact time per module: 4 hours.
+
+**Intermediate (5-year cycle):** Solar array panel replacement for degraded photovoltaic cells, compute node hot-swap replacements for units flagged by OPE-3 health monitoring, PMDU firmware updates. Estimated OMV contact time per module: 12 hours.
+
+**Major (15-year cycle):** Full radiation shielding replacement — polyethylene buffer and tantalum lining — consistent with the rated shielding lifetime specified in Section 6. Solar array wing structural inspection and replacement as required. Compute rack full refurbishment. This servicing cycle is the programme's primary long-term sustainment driver and has been incorporated into the CYPHER programme's long-range logistics planning. Continuity of OMV resupply capability beyond the initial operational period is therefore a programme-level dependency that all three joint venture partners — Cyanite Industries, Phyrexis Group, and Edge Research — have acknowledged in the joint venture sustainment annexe.
+
+Failure to execute scheduled major servicing within acceptable margins of the 15-year cycle will result in progressive shielding degradation and corresponding increases in accumulated TID at the compute node level, with attendant increases in hardware fault rates. Programme risk assessments treat sustained OMV access as a non-negotiable operational requirement for the network's long-term viability.
+
+---
+
+*Document prepared under the authority of the CYPHER Joint Venture Programme Office. Questions regarding technical content should be directed to the Systems Architecture Lead, Cyanite Industries Advanced Systems Division. Questions regarding programme scheduling and joint venture obligations should be directed to the Programme Management Office jointly chaired by Cyanite Industries and Phyrexis Group.*
+
+*Classification: RED — Handle accordingly.*

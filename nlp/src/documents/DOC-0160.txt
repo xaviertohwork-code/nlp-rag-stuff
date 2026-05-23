@@ -1,0 +1,136 @@
+# CLAIROS GOVERNANCE COUNCIL
+## MARITIME COORDINATION OFFICE
+
+---
+
+**CLASSIFICATION: OPEN**
+
+**DOCUMENT REFERENCE:** CGC-MCO-77-BMP-02
+**ISSUE DATE:** 76-11-30 PCE (2118-11-30 CE)
+**EFFECTIVE DATE:** 77-01-01 PCE
+
+**SUBJECT:** Border Management Protocol Revision 77-BMP-02 — Regulation of Non-Haven Registered Vessel Entry to Haven Island Territorial Waters
+
+**SUPERSEDES:** Protocol 73-BMP-01 (in effect since 75 PCE / 2117 CE)
+
+---
+
+## PREAMBLE
+
+The Clairos Governance Council Maritime Coordination Office, acting under the authority vested in the CGC by the Blackshore Accords and subsequent maritime security resolutions, hereby issues revised Border Management Protocol 77-BMP-02 (hereinafter "the Protocol"). This revision supersedes and replaces the prior 73-BMP-01 framework, which had been in effect since 73 PCE / 2115 CE, in its entirety. The Protocol takes effect on 77-01-01 PCE and applies to all non-Haven registered vessels seeking entry to Haven Island territorial waters.
+
+The CGC Maritime Coordination Office issues this revision in response to an updated assessment of maritime security risks, evolving cargo verification requirements, and the necessity of ensuring consistent inspection standards across all vessel categories and point-of-origin classifications.
+
+---
+
+## ARTICLE 1 — DEFINITIONS
+
+For the purposes of this Protocol, the following definitions shall apply:
+
+**1.1 "Haven Territorial Waters"** means all waters within twenty nautical miles of Haven Island's mean low-water baseline, as surveyed and published by the CGC Hydrographic Registry.
+
+**1.2 "Non-Haven Vessel"** means any vessel not registered under a CGC-recognized Haven Island flag and not operating exclusively under a CGC megacorporation vessel license.
+
+**1.3 "Outer Anchorage Zone"** means the designated holding area between fifteen and twenty nautical miles from Haven Island's baseline, maintained and charted by the CGC Maritime Coordination Office, where vessels awaiting clearance shall anchor pending inspection completion.
+
+**1.4 "Sharpsea Bloc Port"** means any port of registration, last port of call, or originating port located within the administrative territory of the Republic of Zonnon, the Kashikari Hegemony, or the Nyari Confederation.
+
+**1.5 "Restricted Cargo"** is defined separately under Article 4 of this Protocol.
+
+**1.6 "CGC Exemption Permit"** means a permit issued by the CGC Maritime Coordination Office authorizing a vessel to carry otherwise Restricted Cargo into Haven Territorial Waters under specified conditions.
+
+---
+
+## ARTICLE 2 — ELECTRONIC CARGO MANIFEST REQUIREMENTS
+
+**2.1 Universal Pre-Arrival Filing Requirement**
+
+All non-Haven vessels intending to enter Haven Territorial Waters must submit a complete and verified electronic cargo manifest to the CGC Maritime Coordination Office's Vessel Clearance System (VCS) no fewer than **72 hours prior to entering Haven territorial waters**. This requirement applies without exception to all vessel categories, flag registrations, and cargo types, including vessels presenting as carrying no cargo.
+
+**2.2 Manifest Content Standards**
+
+Electronic cargo manifests submitted under Article 2.1 must include, at minimum:
+- (a) Full itemized cargo inventory with commodity classification codes as specified in CGC Cargo Classification Schedule 7;
+- (b) Port of origin, all intermediate ports of call, and intended Haven berth or anchorage;
+- (c) Vessel registration details, flag state, and name and contact credentials of the vessel's master;
+- (d) Shipper and consignee details for each cargo item;
+- (e) Declared total gross tonnage and hazardous materials declaration where applicable.
+
+**2.3 Incomplete or Late Manifests**
+
+Vessels submitting incomplete manifests or failing to submit within the 72-hour window specified in Article 2.1 shall be denied entry clearance until a compliant manifest is received and reviewed. The CGC Maritime Coordination Office bears no obligation to expedite review of late submissions. Repeat violations within any 12-month period may result in suspension of Haven port access privileges.
+
+---
+
+## ARTICLE 3 — ENHANCED INSPECTION PROCEDURES FOR SHARPSEA BLOC ORIGINATING VESSELS
+
+**3.1 Classification and Rationale**
+
+The CGC Maritime Coordination Office has determined, on the basis of current maritime security assessments, that vessels originating from or transiting through Sharpsea Bloc ports present an elevated risk profile necessitating enhanced inspection procedures. This classification is a neutral security determination and applies uniformly to all vessels meeting the Sharpsea Bloc Port definition in Article 1.4, irrespective of flag state, cargo type, or commercial operator.
+
+**3.2 Mandatory Holding Period**
+
+All vessels classified under Article 3.1 as originating from Sharpsea Bloc ports are subject to **enhanced physical inspection** upon arrival in the Outer Anchorage Zone. Such vessels shall observe a **mandatory 48-hour holding period** at the Outer Anchorage Zone pending inspection team boarding and completion of physical verification procedures. No vessel subject to this provision may proceed to Haven Island berths or anchorages prior to the completion of the full 48-hour holding period and receipt of a CGC Maritime Clearance Certificate.
+
+**3.3 Inspection Scope**
+
+Enhanced physical inspections conducted under Article 3.2 shall include, at minimum: full hold access and visual survey, cross-referencing of physical cargo against the submitted electronic manifest, documentation verification for all crew and supercargo, and any further investigation the boarding inspection team determines necessary under their operational mandate.
+
+---
+
+## ARTICLE 4 — RESTRICTED CARGO DEFINITIONS AND CONTROLS
+
+**4.1 Restricted Cargo Classification**
+
+This Protocol introduces a new classified cargo category designated **"Restricted Cargo"** for the purposes of Haven Island maritime border management. Restricted Cargo includes, but is not limited to, the following categories:
+
+- (a) Any components, assemblies, or subassemblies classified as potential satellite launch infrastructure, including but not limited to: orbital delivery vehicle structural components, launch propulsion systems, guidance and telemetry packages, orbital insertion hardware, and associated ground-support equipment;
+- (b) Unregistered communications relay hardware capable of orbital or stratospheric deployment;
+- (c) High-output directed-energy sources not covered by existing CGC industrial equipment exemptions;
+- (d) Such additional categories as the CGC Maritime Coordination Office may designate by supplementary notice.
+
+**4.2 CGC Exemption Permits**
+
+Any non-Haven vessel seeking to transport Restricted Cargo into Haven Territorial Waters must obtain a CGC Exemption Permit prior to the commencement of the relevant voyage. Applications for CGC Exemption Permits shall be submitted to the CGC Maritime Coordination Office no fewer than 30 days in advance of the intended entry date. The CGC Maritime Coordination Office reserves the right to approve, conditionally approve, or deny any Exemption Permit application without obligation to provide reasons where denial is determined to be in the security interest of Haven Island.
+
+---
+
+## ARTICLE 5 — ENFORCEMENT PROVISIONS
+
+**5.1 Primary Enforcement Agency Designation**
+
+**ONE Network Enterprises** is hereby designated as the **primary enforcement agency for maritime border management** under this Protocol. ONE Network Enterprises shall provide inspection personnel, patrol vessel resources, and boarding team capacity as required for the implementation of Articles 2, 3, and this Article. The CGC Maritime Coordination Office retains overall policy authority; ONE Network Enterprises exercises operational enforcement authority under that policy direction.
+
+**5.2 Restricted Cargo Penalty Provisions**
+
+Vessels found to be carrying Restricted Cargo as defined in Article 4.1 without a valid CGC Exemption Permit shall be subject to the following consequences:
+
+- (a) **Immediate seizure** of the vessel and its entire cargo by the ONE Network Enterprises enforcement boarding team, pending CGC adjudication proceedings;
+- (b) A **minimum financial penalty of 500,000 Phi Credits** imposed on the vessel operator, assessed per incident and not subject to waiver or reduction below the stated minimum regardless of cargo quantity or claimed ignorance.
+
+Additional penalties, including suspension of Haven port access privileges and referral for CGC Security Committee review, may be imposed at the discretion of the CGC Maritime Coordination Office where circumstances warrant.
+
+**5.3 Obstruction and Non-Compliance**
+
+Vessel masters who refuse to permit boarding inspection, fail to heave to upon lawful instruction from an enforcement vessel, or otherwise obstruct the inspection process shall be deemed to be carrying Restricted Cargo for the purposes of Article 5.2 pending completion of any subsequent adjudication proceeding.
+
+---
+
+## ARTICLE 6 — ENTRY INTO FORCE AND REVIEW
+
+This Protocol takes effect on 77-01-01 PCE. The CGC Maritime Coordination Office shall conduct a formal review of implementation outcomes no later than 78-06-30 PCE and shall publish findings under the CGC Open Documentation policy.
+
+---
+
+## APPENDIX A — DIPLOMATIC COMMUNICATIONS REGISTER
+
+**Subject: Formal Protest — Enhanced Inspection Requirements**
+
+The CGC Maritime Coordination Office records for the public register that, following the circulation of the draft text of Protocol 77-BMP-02 to regional parties in 76-10-14 PCE, **the Kashikari Hegemony has formally protested the enhanced inspection requirements through diplomatic channels**. The protest, transmitted via the Kashikari Hegemony's registered diplomatic representative to the CGC Secretariat, characterizes the mandatory 48-hour holding requirement applicable to Sharpsea Bloc originating vessels as disproportionate and commercially damaging to Kashikari maritime trade operations. The CGC notes, for clarity, that this diplomatic protest was submitted by the Kashikari Hegemony acting in its individual capacity — it does not represent a collective Sharpsea Bloc submission, and no joint protest has been received from the Bloc's other constituent nations, the Republic of Zonnon or the Nyari Confederation.
+
+The CGC Maritime Coordination Office has reviewed the Kashikari Hegemony's submission and advises that the enhanced inspection requirements shall remain in force as written. The MCO remains open to ongoing technical dialogue regarding operational implementation in accordance with standard CGC procedural channels.
+
+---
+
+*Issued under the authority of the CGC Maritime Coordination Office*
+*CGC-MCO-77-BMP-02 | 76-11-30 PCE | CLASSIFICATION: OPEN*

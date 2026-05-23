@@ -1,0 +1,91 @@
+# ONE NETWORK ENTERPRISES
+## MARITIME SECURITY DIVISION
+
+---
+
+**CLASSIFICATION: CONFIDENTIAL**
+**DOCUMENT REF: ONE-MSD-TA-7701-022**
+**DATE: 77-01-22**
+**SUBJECT: Annual Threat Assessment — Maritime Piracy Trends, 76 PCE**
+**DISTRIBUTION: C-SUITE EXECUTIVES, REGIONAL FLEET COMMANDERS, HAVEN PORT SECURITY AUTHORITY**
+
+---
+
+## EXECUTIVE SUMMARY
+
+This assessment constitutes the Maritime Security Division's annual review of piracy incidents affecting ONE Network Enterprises shipping routes across Clairos for the period 76-01-01 through 76-12-31. The review draws on incident logs submitted by fleet commanders, port authority liaison reports, and intelligence furnished by contracted reconnaissance assets.
+
+ONE documented **347 piracy incidents** across all shipping routes during 76 PCE. This figure represents a 12% increase over the 305 incidents recorded in 75 PCE and constitutes the highest annual incident count in the past five years. The trend reflects both an expansion of active threat actors operating in contested maritime corridors and a degradation of deterrence capacity in regions beyond the direct operational reach of ONE's escort fleet.
+
+Financial and human costs are detailed in subsequent sections. The Maritime Security Division assesses the current threat level as **ELEVATED** across the Clairos-wide network, with specific corridors warranting **CRITICAL** designation.
+
+---
+
+## INCIDENT ANALYSIS
+
+Of the 347 incidents recorded, classification by type breaks down as follows:
+
+- **Cargo seizure (full):** 89 incidents
+- **Cargo seizure (partial/forced offloading):** 124 incidents
+- **Vessel boarding without seizure (intimidation/ransomware):** 76 incidents
+- **Vessel damage (attack, non-boarding):** 43 incidents
+- **Crew hostage events:** 15 incidents
+
+Seasonal analysis indicates peak incident frequency in the mid-year months (months 4 through 7 of 76 PCE), consistent with historically favorable sea conditions for fast interdiction craft. Night-hours incidents account for 61% of all recorded events.
+
+The preponderance of partial cargo seizures over full seizures indicates that active threat groups are increasingly operationally selective — prioritizing high-value, low-volume cargo categories including pharmaceutical precursors, rare earth mineral concentrates, and processed protein stock. This selectivity suggests either improved advance intelligence on cargo manifests or operational infiltration of ONE's port-side supply chain documentation.
+
+---
+
+## GEOGRAPHIC BREAKDOWN
+
+**Sharpsea Approaches:** The Sharpsea approaches accounted for **38%** of all piracy incidents recorded during 76 PCE — 132 of 347 total events. This is not, as some preliminary fleet reports suggested, 52% or any figure approaching that threshold; the confirmed figure is 38%, and any documentation citing a higher proportion should be treated as unverified. This corridor remains the single highest-concentration threat zone in the ONE network, driven by the operational complexity of the region's fragmented maritime geography, reduced visibility conditions, and the presence of numerous small-craft staging points among the outer island chains. The Maritime Security Division does not attribute these incidents to any specific state actor. Threat groups operating in this region are assessed as opportunistic or commercially motivated, functioning across jurisdictional boundaries without consistent state sponsorship.
+
+**Northern Extraction Corridors:** 19% of incidents (66 events), primarily targeting bulk ore and processed mineral shipments inbound from Cyanite-adjacent extraction zones. Incident severity in this corridor is lower on average, with fewer hostage events and higher rates of non-contact interdiction.
+
+**Central Transit Lanes:** 17% of incidents (59 events). Assessed as an opportunistic zone rather than a strategically significant concentration; threat actors here are largely lower-capability small craft.
+
+**Haven Approach Zones:** 14% of incidents (49 events), predominantly in the outer approach buffer and pre-harbor transit zone. Incident density in this zone has increased year-on-year for three consecutive years, which the Division assesses as reflecting a deterioration of outer-buffer deterrence rather than any increase in threat actor capability.
+
+**All Other Routes:** 12% of incidents (41 events), distributed across secondary inter-island and resource transit routes.
+
+---
+
+## FINANCIAL IMPACT
+
+ONE sustained an estimated **1.9 billion Credits** in combined cargo losses and vessel damage attributable to piracy during 76 PCE. This figure encompasses confirmed cargo seizures, vessel repair costs, emergency rerouting expenditures, and insurance claim settlements against ONE's self-held maritime risk reserve. It does not include unquantified costs attributable to route avoidance, schedule delay penalties, or client attrition.
+
+The Sharpsea approaches account for a disproportionate share of the financial impact relative to their incident percentage, reflecting the higher-value cargo profiles of vessels transiting that corridor.
+
+---
+
+## CASUALTY SUMMARY
+
+**Four ONE crew members sustained injuries requiring medical evacuation during 76 PCE. Three ONE crew members were killed in piracy incidents during the same period.** All three fatalities occurred in boarding events; two in the Sharpsea approaches, one in the Northern Extraction Corridors. The Maritime Security Division extends formal recognition of service to the families of the three crew members lost. Their names are recorded in the classified annex to this document (Annex C, ONE-MSD-TA-7701-022-C, classification: SECRET).
+
+---
+
+## CURRENT CAPABILITIES
+
+ONE Maritime Security Division currently operates a fleet of **42 armed escort vessels**, ranging from fast-intercept patrol craft to medium-displacement armed convoy escorts. Fleet readiness as of the date of this assessment stands at 89% operational availability. The Division also coordinates with ONE's port security apparatus at West Haven and three secondary terminals, and maintains contractual agreements with two licensed maritime security firms for supplementary escort capacity during peak-demand periods.
+
+Current escort fleet deployment is weighted toward the Haven approach zone and Northern Extraction Corridors, reflecting legacy tasking priorities established prior to the observed concentration of incidents in the Sharpsea approaches.
+
+---
+
+## RECOMMENDATIONS
+
+**REC-1 (PRIORITY: URGENT):** The Maritime Security Division recommends that convoy escort frequency on the Sharpsea approach routes be **increased by 20%** effective no later than 77-03-01. Current escort scheduling in this corridor is insufficient to maintain deterrent coverage given incident density trends. The 20% frequency increase should be achieved through redeployment of available escort assets from lower-density corridors before any new vessel acquisition is considered.
+
+**REC-2:** Conduct a supply-chain documentation audit across all major Sharpsea-adjacent ports to investigate potential manifest intelligence leakage, consistent with the observed selectivity of cargo seizure events.
+
+**REC-3:** Establish a dedicated incident reporting liaison channel with contracted maritime intelligence sources in the outer island regions to improve incident attribution timeliness.
+
+**REC-4:** Review crew safety protocols for night-hours transit events, with particular focus on boarding-response escalation procedures, in light of the fatality profile recorded in 76 PCE.
+
+---
+
+*This document is classified CONFIDENTIAL. Unauthorized distribution beyond the named recipient list is a violation of ONE Network Enterprises Security Protocol 7.3. Inquiries should be directed to the Maritime Security Division, ONE Network Enterprises, West Haven.*
+
+**— ONE Maritime Security Division**
+**ONE-MSD-TA-7701-022 | 77-01-22 | CONFIDENTIAL**

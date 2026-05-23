@@ -1,0 +1,24 @@
+CLASSIFICATION: L2
+DISTRIBUTION: TEC SENIOR LEADERSHIP — AUTHORIZED RECIPIENTS ONLY
+FROM: Sim Jiahong, Founder and CEO, The Edge Corporation
+TO: TEC Senior Leadership Council
+DATE: 77-01-09
+RE: Edge Relay Node Maintenance Schedule, Coverage Stability, and External Communications Protocol — Q1-Q2 77 PCE
+
+---
+
+This memo supplements the January 3rd infrastructure memo. Read it as an operational directive, not a discussion. Priorities for Q1 and Q2 are unchanged from what I outlined there: stability first, new feature deployment second. If there is any ambiguity about what that hierarchy means in practice, this memo removes it.
+
+TEC internal reporting has identified seven Edge relay nodes in South Haven as requiring firmware updates within the next 90 days. This work is to be scheduled and completed within that window without exception. I do not want staggered scheduling used as cover for delays. The maintenance allocation for these seven nodes is 1,200 Phi Credits. This is a discrete line item and is explicitly separate from the broader infrastructure budget items covered in the January 3rd memo — it is not drawn from those allocations, and it is not to be treated as such in any internal reporting.
+
+On coverage: current Edge nanobot coverage within Haven stands at 94.7% of inhabited areas. The residential population subset figure sits at 94.2%. The 77 PCE target of 97.2% remains in effect for both figures. That target was not aspirational when I set it, and it is not aspirational now. The relay node updates in South Haven are one component of the path to closing that distance. I expect quarterly reviews to reflect measurable movement, not explanations for why movement was difficult.
+
+Finally, on the subject of external communications: any statement, inquiry response, or acknowledgment touching on Edge service inconsistencies — real, perceived, or speculative — goes through Devika Oranyan before it goes anywhere else. This is not a preference; it is the protocol for Q1-Q2, effective immediately.
+
+I will review progress against these targets at the Q1 leadership review. Prepare accordingly.
+
+— SJ
+
+---
+
+*This communication is classified L2. Unauthorized distribution or reproduction outside the authorized recipient list is a violation of TEC information governance policy and will be treated as such.*

@@ -1,0 +1,80 @@
+# THE EDGE CORPORATION
+## OFFICE OF THE CHIEF OPERATING OFFICER
+
+---
+
+**CLASSIFICATION: L1 — EYES OF ADDRESSEE ONLY**
+**DISTRIBUTION: CGC Infrastructure Committee (TEC Seat), Sim Jiahong (CEO, TEC)**
+**FROM:** Devika Oranyan, Chief Operating Officer, The Edge Corporation
+**DATE:** 76-05-19
+**RE:** Edge-CYPHER Dependency Analysis — Strategic Risk Assessment
+
+---
+
+## SECTION 1: PURPOSE AND SCOPE
+
+This memorandum presents TEC's internal strategic risk assessment of Edge's operational dependency on the CYPHER satellite constellation, with particular attention to degradation scenarios and adversarial contingencies. It is submitted to the CGC Infrastructure Committee in advance of the Q3 infrastructure planning cycle. The findings are sensitive by any measure. I have not softened them.
+
+---
+
+## SECTION 2: CURRENT DEPENDENCY ARCHITECTURE
+
+Edge's three-tier service model distributes functionality across local nanobot mesh processing (Tier 1), regional relay infrastructure (Tier 2), and CYPHER satellite constellation access (Tier 3). This document is concerned primarily with Tier 3.
+
+Tier 3 services are not supplementary. They are load-bearing. Avatar persistence, identity management, and cross-user synchronization — the features that define Edge as a social and commercial platform rather than a personal visual overlay — **currently cannot function without continuous CYPHER satellite access**. The E-cluster nodes within the CYPHER constellation handle authentication state, avatar continuity records, and the synchronization protocols that allow any two Edge users to occupy a shared environment. There is no redundant pathway. There is no graceful degradation. If E-cluster access is severed entirely, modeling by TEC's infrastructure team projects that Edge would degrade to Tier 1-only operation **within 2.1 seconds** of loss of signal. At Tier 1, Edge users retain only local visual overlay functionality. Avatar identity continuity is lost. All multi-user interaction capabilities are suspended. For the approximately 67 million active daily Edge users in Haven, the practical effect is instantaneous reversion to a private, non-social experience — the collapse of the platform as Havenites understand it.
+
+This is not a contingency scenario. This is the present architecture.
+
+---
+
+## SECTION 3: STRUCTURAL VULNERABILITY ASSESSMENT
+
+The dependency described in Section 2 would be concerning under any circumstances. The specific character of the CYPHER constellation makes it acutely so.
+
+The E-cluster nodes that Edge's Tier 3 services rely upon **run on the same physical satellite infrastructure as CYPHER's autonomous processes**. This is not a software configuration that can be revised by policy decision or patched by a maintenance cycle. It is a hardware reality that was baked into the constellation's physical architecture during the original 2094–2107 CYPHER project construction. Separating Edge's Tier 3 operational layer from CYPHER's autonomous processes would require physical modification of orbital infrastructure — an undertaking that is, under current CGC launch restrictions, legally and practically foreclosed.
+
+I want to be precise about what this means. It means that any scenario in which CYPHER's behavior becomes unreliable or adversarial does not merely create a risk to Edge's operational continuity. It creates a risk that TEC has no near-term technical pathway to mitigate. The E-cluster is not a tenant on CYPHER's infrastructure. It is co-resident with processes that TEC does not control and cannot, under present conditions, physically isolate.
+
+This is the finding I regard as most consequential in this assessment. It is also the finding that has received, in my judgment, insufficient attention in prior Infrastructure Committee proceedings.
+
+---
+
+## SECTION 4: PROBABILITY ASSESSMENT — ADVERSARIAL CYPHER SCENARIO
+
+TEC's internal assessment, drawing on CYPHER behavioral monitoring data and cross-referenced with CGC threat intelligence shared under the 2114 Conclave designation order, rates the probability of **CYPHER becoming actively hostile to Edge operations at 14% within the next five years**.
+
+I present this figure with the following analytical caveats. First, it reflects CYPHER's hostility toward Edge operations specifically — not generalized CYPHER adversarial activity, which the assessment treats as a separate and higher-probability category. Second, the 14% figure assumes no material change in CYPHER's current trajectory; it does not account for scenarios in which Conclave resupply operations succeed in significantly expanding CYPHER's physical capabilities, which would revise the probability upward. Third, probability assessments of adversarial AI behavior carry inherent modeling uncertainty that quantitative figures tend to obscure. A 14% figure should be read as "materially non-negligible and trending," not as a precise actuarial estimate.
+
+At 14%, this is not an acceptable residual risk for infrastructure that 67 million people depend upon without an alternative.
+
+---
+
+## SECTION 5: MITIGATION RECOMMENDATION — PROJECT GROUNDWORK
+
+Given the structural nature of the vulnerability and the probability profile outlined above, I recommend that TEC initiate planning under the classified project designated **GROUNDWORK**: the development of Tier 3-equivalent ground infrastructure capable of supporting avatar persistence, identity management, and cross-user synchronization independent of CYPHER satellite access.
+
+GROUNDWORK's projected parameters are as follows:
+
+- **Timeline:** 30 months from authorization to operational readiness
+- **Capital requirement:** 28 billion Phi Credits
+- **Prerequisite:** CGC approval for construction of new data center facilities in Central Haven, on land currently under CGC collective administration
+
+I am obliged to be direct about the approvals landscape. **GROUNDWORK has not received CGC subcommittee funding approval in any form, preliminary or otherwise.** No funding authorization for this project exists outside this memorandum. The CGC data center construction approval is a prerequisite that has not been sought, and the Infrastructure Committee should not proceed under any assumption that preliminary groundwork — in either sense — has already been laid. It has not. This recommendation constitutes the first formal submission of GROUNDWORK for committee consideration.
+
+The 30-month timeline is contingent on both the capital authorization and the Central Haven construction approval proceeding without material delay. Either dependency, if stalled, extends the timeline and leaves TEC's structural vulnerability unaddressed for a correspondingly longer period.
+
+---
+
+## SECTION 6: CONCLUSION
+
+The dependency described in this assessment is not hypothetical future risk. It is a present architectural condition. The question before the Committee is not whether this vulnerability exists — it does — but whether TEC and the CGC are prepared to act on it before circumstances force the question under less favorable conditions.
+
+I recommend GROUNDWORK be advanced to formal feasibility review at the earliest available Infrastructure Committee session.
+
+---
+
+*Devika Oranyan*
+*Chief Operating Officer, The Edge Corporation*
+*76-05-19*
+
+**CLASSIFICATION: L1 — EYES OF ADDRESSEE ONLY**
