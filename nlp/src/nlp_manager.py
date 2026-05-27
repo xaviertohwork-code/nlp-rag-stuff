@@ -1,5 +1,6 @@
 """Manages the NLP model."""
 import math
+import re
 import os
 import nltk
 import tiktoken
@@ -119,16 +120,11 @@ class NLPManager:
 
     def __init__(self):
         device = "cuda" if torch.cuda.is_available() else "cpu"
-
-        # Cross-encoder reranker
         self.reranker = CrossEncoder(RERANKER_MODEL, device=device)
-
-        # Extractive QA reader
         self.reader_tokenizer = AutoTokenizer.from_pretrained(READER_MODEL)
         self.reader_model = AutoModelForQuestionAnswering.from_pretrained(READER_MODEL).to(device)
         self.reader_model.eval()
         self.reader_device = device
-
         self.rrf = None
         self.all_chunks = []
 
@@ -145,12 +141,11 @@ class NLPManager:
         self.all_chunks = all_chunks
         self.loaded = True
 
-    def _get_context(self, question, rrf_top_k=20, rerank_top_k=5, score_threshold=0.0):
+    def _get_context(self, question, rrf_top_k=20, rerank_top_k=5, score_threshold=-1.0):
         rrf_results = self.rrf.search(question, top_k=rrf_top_k)
         pairs = [(question, r["text"]) for r in rrf_results]
         scores = self.reranker.predict(pairs)
         ranked = sorted(zip(scores, rrf_results), key=lambda x: x[0], reverse=True)
-        # Filter low-confidence chunks, fall back to top-1 if all below threshold
         top = ranked[:rerank_top_k]
         filtered = [r for s, r in top if s > score_threshold]
         return filtered if filtered else [ranked[0][1]]
@@ -178,8 +173,12 @@ class NLPManager:
                 answer = self.reader_tokenizer.convert_tokens_to_string(
                     self.reader_tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][start:end])
                 )
+                # Trim to ~64 tokens to match evaluator limit
+                words = answer.split()
+                if len(words) > 50:
+                    answer = " ".join(words[:50])
                 if not answer.strip():
-                    answer = retrieved[0]["text"][:200] if retrieved else ""
+                    answer = " ".join(retrieved[0]["text"].split()[:50]) if retrieved else ""
             except Exception:
                 answer = retrieved[0]["text"][:200] if retrieved else ""
             results.append({"documents": doc_ids, "answer": answer})
