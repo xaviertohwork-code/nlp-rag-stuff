@@ -11,12 +11,17 @@ from nltk.tokenize import sent_tokenize
 from sentence_transformers import SentenceTransformer, CrossEncoder
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer
 
-os.environ["TIKTOKEN_CACHE_DIR"] = "/workspace/models/tiktoken"
-nltk.data.path.insert(0, "/workspace/models/nltk")
+# Auto-detect model path — works both in Docker (/workspace) and locally
+import pathlib
+_SRC = pathlib.Path(__file__).parent
+_MODELS = pathlib.Path("/workspace/models") if pathlib.Path("/workspace/models").exists() else _SRC.parent / "models"
 
-EMBEDDING_MODEL = "/workspace/models/bge-small/models--BAAI--bge-small-en-v1.5/snapshots/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a"
-RERANKER_MODEL  = "/workspace/models/gte-reranker/models--Alibaba-NLP--gte-reranker-modernbert-base/snapshots/f7481e6055501a30fb19d090657df9ec1f79ab2c"
-READER_MODEL    = "/workspace/models/modernbert-squad2/models--kiddothe2b--ModernBERT-base-squad2/snapshots/327d7b52f1023f23dc6962672f91257b2878fc88"
+os.environ["TIKTOKEN_CACHE_DIR"] = str(_MODELS / "tiktoken")
+nltk.data.path.insert(0, str(_MODELS / "nltk"))
+
+EMBEDDING_MODEL = str(_MODELS / "bge-small/models--BAAI--bge-small-en-v1.5/snapshots/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a")
+RERANKER_MODEL  = str(_MODELS / "gte-reranker/models--Alibaba-NLP--gte-reranker-modernbert-base/snapshots/f7481e6055501a30fb19d090657df9ec1f79ab2c")
+READER_MODEL    = str(_MODELS / "modernbert-squad2/models--kiddothe2b--ModernBERT-base-squad2/snapshots/327d7b52f1023f23dc6962672f91257b2878fc88")
 
 enc = tiktoken.get_encoding("cl100k_base")
 
