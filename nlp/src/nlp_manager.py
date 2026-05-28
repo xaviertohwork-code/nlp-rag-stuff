@@ -146,7 +146,7 @@ class NLPManager:
         self.all_chunks = all_chunks
         self.loaded = True
 
-    def _get_context(self, question, rrf_top_k=20, rerank_top_k=5, score_threshold=-1.0):
+    def _get_context(self, question, rrf_top_k=20, rerank_top_k=3, score_threshold=-1.0):
         rrf_results = self.rrf.search(question, top_k=rrf_top_k)
         pairs = [(question, r["text"]) for r in rrf_results]
         scores = self.reranker.predict(pairs)
