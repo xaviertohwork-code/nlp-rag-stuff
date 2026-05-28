@@ -175,15 +175,15 @@ class NLPManager:
                     outputs = self.reader_model(**inputs)
                 start = outputs.start_logits.argmax()
                 end = outputs.end_logits.argmax() + 1
-                answer = self.reader_tokenizer.convert_tokens_to_string(
-                    self.reader_tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][start:end])
-                )
+                tokens = self.reader_tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][start:end])
+                answer = self.reader_tokenizer.convert_tokens_to_string(tokens)
+                
                 # Trim to ~64 tokens to match evaluator limit
-                words = answer.split()
-                if len(words) > 50:
-                    answer = " ".join(words[:50])
+                answer = answer.replace("[SEP]", "").replace("[CLS]", "").replace("[PAD]", "")
+                answer = answer.lstrip("?").lstrip(".").strip()
+                answer = " ".join(answer.split()).strip()
                 if not answer.strip():
-                    answer = " ".join(retrieved[0]["text"].split()[:50]) if retrieved else ""
+                    answer = retrieved[0]["text"][:200] if retrieved else ""
             except Exception:
                 answer = retrieved[0]["text"][:200] if retrieved else ""
             results.append({"documents": doc_ids, "answer": answer})
