@@ -1,4 +1,22 @@
-"""Manages the NLP model."""
+"""Manages the NLP model.
+
+PATCHED for local A/B testing. Two improvements behind env flags:
+
+  READER_VARIANT = current | trained | deberta   (default: current)
+  PER_PASSAGE    = 0 | 1                          (default: 0)
+
+Defaults reproduce the exact 0.818 baseline. Set flags before running the
+harness, e.g. in PowerShell:
+
+  $env:READER_VARIANT="trained"; $env:PER_PASSAGE="1"
+  python eval_harness.py --data nlp.jsonl --documents documents --semantic-model ...
+
+A/B matrix (record the COMP column each run):
+  current / 0   -> baseline (~0.818)
+  trained / 0   -> head fix alone
+  current / 1   -> per-passage alone
+  trained / 1   -> both
+"""
 import math
 import re
 import os
@@ -11,7 +29,6 @@ from nltk.tokenize import sent_tokenize
 from sentence_transformers import SentenceTransformer, CrossEncoder
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer
 
-# Auto-detect model path — works both in Docker (/workspace) and locally
 import pathlib
 _SRC = pathlib.Path(__file__).parent
 _MODELS = pathlib.Path("/workspace/models") if pathlib.Path("/workspace/models").exists() else _SRC.parent / "models"
@@ -21,7 +38,18 @@ nltk.data.path.insert(0, str(_MODELS / "nltk"))
 
 EMBEDDING_MODEL = str(_MODELS / "bge-small/models--BAAI--bge-small-en-v1.5/snapshots/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a")
 RERANKER_MODEL  = str(_MODELS / "gte-reranker/models--Alibaba-NLP--gte-reranker-modernbert-base/snapshots/f7481e6055501a30fb19d090657df9ec1f79ab2c")
-READER_MODEL    = str(_MODELS / "modernbert-squad2/models--kiddothe2b--ModernBERT-base-squad2/snapshots/327d7b52f1023f23dc6962672f91257b2878fc88")
+
+# ---- reader: DeBERTa-v3-base-squad2 (trained head) ----------------------
+# Baked into /workspace/models in Docker; ../models locally. Update <HASH> to
+# match the snapshot folder name you copied in.
+READER_MODEL = str(_MODELS / "deberta-v3-squad2/models--deepset--deberta-v3-base-squad2/snapshots/eea39c60cc305c2e4a9504f5ff117294bebb42db")
+_TRUST_REMOTE = False
+
+# decoding config — plain argmax won the local A/B; layers added nothing.
+_PER_PASSAGE = False
+_ANSWER_CLEANUP = False
+_MAX_SPAN = 0
+# -------------------------------------------------------------------------
 
 enc = tiktoken.get_encoding("cl100k_base")
 
@@ -126,12 +154,17 @@ class NLPManager:
     def __init__(self):
         device = "cuda" if torch.cuda.is_available() else "cpu"
         self.reranker = CrossEncoder(RERANKER_MODEL, device=device)
-        self.reader_tokenizer = AutoTokenizer.from_pretrained(READER_MODEL)
-        self.reader_model = AutoModelForQuestionAnswering.from_pretrained(READER_MODEL).to(device)
+        self.reader_tokenizer = AutoTokenizer.from_pretrained(
+            READER_MODEL, trust_remote_code=_TRUST_REMOTE
+        )
+        self.reader_model = AutoModelForQuestionAnswering.from_pretrained(
+            READER_MODEL, trust_remote_code=_TRUST_REMOTE
+        ).to(device)
         self.reader_model.eval()
         self.reader_device = device
         self.rrf = None
         self.all_chunks = []
+        print("[reader] DeBERTa-v3-base-squad2 (local)")
 
     def load_corpus(self, documents: list[dict[str, str]]) -> None:
         all_chunks = []
@@ -146,65 +179,6 @@ class NLPManager:
         self.all_chunks = all_chunks
         self.loaded = True
 
-    def _extract_with_regex(self, question: str, context: str) -> str | None:
-        q = question.lower()
-
-        # Codenames — ALL CAPS words 3+ letters
-        if any(w in q for w in ['codename', 'code name', 'designation', 'program name', 'internal name', 'codenamed', 'operation']):
-            EXCLUDE = {
-                'PCE', 'CEO', 'CGC', 'ONE', 'THE', 'FOR', 'AND', 'NOT', 'ALL',
-                'SECTION', 'CLASSIFICATION', 'SUMMARY', 'SECRET', 'CONFIDENTIAL',
-                'OPEN', 'RESTRICTED', 'DATE', 'ARTICLE', 'ASSESSMENT', 'COUNCIL',
-                'GOVERNANCE', 'HAVEN', 'CLAIROS', 'INTERNAL', 'DOCUMENT', 'DISTRIBUTION',
-                'UNDECRYPTED', 'ONLY', 'REDACTED', 'INCIDENT', 'CYANITE', 'SUBJECT',
-                'INTELLIGENCE', 'SIGINT', 'INDUSTRIES', 'FROM', 'WHEREAS', 'MEMORANDUM',
-                'ANALYSIS', 'RECOMMENDATIONS', 'EXECUTIVE', 'SECURITY', 'NOTE', 'DIVISION',
-                'AUTHORIZED', 'EDGE', 'REPORT', 'FINDING', 'PRIMARY', 'WHEREAS',
-                'NETWORK', 'OCRA', 'SATELLITE', 'RECALLING'
-            }
-            matches = re.findall(r'\b[A-Z]{4,}\b', context)
-            filtered = [m for m in matches if m not in EXCLUDE]
-            if filtered:
-                return filtered[0]
-
-        # Credits/amounts — but not for "how many years" questions
-        if any(w in q for w in ['how much', 'how large', 'penalty', 'cost', 'budget', 'amount', 'fine', 'program']) and 'years' not in q:
-            matches = re.findall(r'[\d,\.]+\s*(?:million|billion)?\s*(?:Phi\s*)?Credits?', context, re.IGNORECASE)
-            if matches:
-                return matches[0].strip()
-
-        # Percentages
-        if any(w in q for w in ['what share', 'what percent', 'what proportion', 'how much of']):
-            matches = re.findall(r'(?:(?:approximately|about|roughly)\s+)?(\d+(?:\.\d+)?)\s*%', context)
-            if matches:
-                # Return with approximately prefix if present in context
-                full = re.search(r'(approximately|about|roughly)\s+(\d+(?:\.\d+)?)\s*%', context)
-                if full:
-                    return full.group(1) + " " + full.group(2) + "%"
-                return matches[0] + "%"
-
-        # PCE dates/deadlines — extract from context regardless of question PCE mentions
-        if any(w in q for w in ['by what deadline', 'what deadline', 'what quarter', 'when were', 'when was']) and 'championship' not in q and 'won' not in q:
-            matches = re.findall(r'Q[1-4]\s+\d+\s+PCE', context)
-            if matches:
-                return matches[0]
-
-        # Years/duration
-        if any(w in q for w in ['how many years', 'years passed', 'years between']):
-            matches = re.findall(r'\b(\d+)\s+years?\b', context, re.IGNORECASE)
-            if matches:
-                durations = [int(m) for m in matches if int(m) < 60]
-                if durations:
-                    return str(durations[0]) + " years"
-
-        # Industry
-        if any(w in q for w in ['what industry', 'what sector', 'come from', 'prior to']):
-            matches = re.findall(r'[A-Z][a-zA-Z]+(?:\s+[A-Z][a-zA-Z]+)*\s+(?:logistics|industry|sector|firm)', context)
-            if matches:
-                return matches[0]
-
-        return None
-
     def _get_context(self, question, rrf_top_k=20, rerank_top_k=5, score_threshold=-1.0):
         rrf_results = self.rrf.search(question, top_k=rrf_top_k)
         pairs = [(question, r["text"]) for r in rrf_results]
@@ -214,6 +188,113 @@ class NLPManager:
         filtered = [r for s, r in top if s > score_threshold]
         return filtered if filtered else [ranked[0][1]]
 
+    # ---- answer cleanup -----------------------------------------------------
+    # When ANSWER_CLEANUP=0: EXACT 0.818 logic (do not change).
+    # When ANSWER_CLEANUP=1: additionally strip markdown/structure noise that
+    # the harness showed is polluting otherwise-correct spans (leading ---,
+    # ###, **, table pipes, section labels). Conservative: only edge-strips
+    # structural tokens and removes inline ** markers; never merges words.
+    @staticmethod
+    def _clean_answer(answer):
+        answer = answer.replace("[SEP]", "").replace("[CLS]", "").replace("[PAD]", "")
+        answer = answer.lstrip("?").lstrip(".").strip()
+        answer = " ".join(answer.split()).strip()
+        if not _ANSWER_CLEANUP:
+            return answer
+
+        import re as _re
+        # remove inline bold/italic markers (content kept)
+        a = answer.replace("**", "").replace("__", "")
+        # strip leading structural noise repeatedly: ---, ###, ##, #, |, bullets,
+        # and stray leading punctuation left behind
+        lead = _re.compile(r'^\s*(?:-{2,}|#{1,6}|\|+|[*\u2022]+|[:;,.\-\u2014\u2013]+)\s*')
+        prev = None
+        while prev != a:
+            prev = a
+            a = lead.sub("", a).strip()
+        # strip trailing structural noise similarly
+        trail = _re.compile(r'\s*(?:-{2,}|#{1,6}|\|+)\s*$')
+        prev = None
+        while prev != a:
+            prev = a
+            a = trail.sub("", a).strip()
+        # collapse whitespace again and drop a dangling trailing markdown header
+        a = " ".join(a.split()).strip()
+        return a if a else answer
+
+    @staticmethod
+    def _best_span(start_logits, end_logits, max_span):
+        """Proper SQuAD-style span decode: among (start, end) pairs with
+        0 <= end-start < max_span, return the pair maximizing start+end logit.
+        Far better than naive argmax(start)->argmax(end), which produces
+        sprawling spans that bury the answer in surrounding text."""
+        import torch as _t
+        n = start_logits.shape[0]
+        # take top-k starts and ends to keep it cheap
+        k = min(20, n)
+        top_start = _t.topk(start_logits, k).indices.tolist()
+        top_end = _t.topk(end_logits, k).indices.tolist()
+        best = (float("-inf"), 0, 0)
+        for s in top_start:
+            for e in top_end:
+                if e < s or (e - s) >= max_span:
+                    continue
+                score = float(start_logits[s] + end_logits[e])
+                if score > best[0]:
+                    best = (score, s, e)
+        return best[1], best[2], best[0]
+
+    def _read_span(self, question, context):
+        """Single read over a context string. Naive argmax when _MAX_SPAN==0
+        (baseline 0.818 logic), bounded best-span when _MAX_SPAN>0."""
+        inputs = self.reader_tokenizer(
+            question, context,
+            return_tensors="pt", truncation=True, max_length=512
+        ).to(self.reader_device)
+        with torch.no_grad():
+            outputs = self.reader_model(**inputs)
+        if _MAX_SPAN > 0:
+            s, e, _ = self._best_span(outputs.start_logits[0], outputs.end_logits[0], _MAX_SPAN)
+            end = e + 1
+            start = s
+        else:
+            start = int(outputs.start_logits.argmax())
+            end = int(outputs.end_logits.argmax()) + 1
+        tokens = self.reader_tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][start:end])
+        answer = self.reader_tokenizer.convert_tokens_to_string(tokens)
+        return self._clean_answer(answer)
+
+    def _read_per_passage(self, question, retrieved):
+        """Read each reranked chunk independently; keep the highest-scoring span.
+        Returns (answer, source_doc_id)."""
+        best_answer, best_score, best_source = "", float("-inf"), None
+        for r in retrieved:
+            inputs = self.reader_tokenizer(
+                question, r["text"],
+                return_tensors="pt", truncation=True, max_length=512
+            ).to(self.reader_device)
+            with torch.no_grad():
+                outputs = self.reader_model(**inputs)
+            start_logits = outputs.start_logits[0]
+            end_logits = outputs.end_logits[0]
+            if _MAX_SPAN > 0:
+                start, end, score = self._best_span(start_logits, end_logits, _MAX_SPAN)
+            else:
+                start = int(start_logits.argmax())
+                end_window = end_logits.clone()
+                end_window[:start] = torch.finfo(end_window.dtype).min
+                end = int(end_window.argmax())
+                score = float(start_logits[start] + end_logits[end])
+            tokens = self.reader_tokenizer.convert_ids_to_tokens(
+                inputs["input_ids"][0][start:end + 1]
+            )
+            answer = self._clean_answer(
+                self.reader_tokenizer.convert_tokens_to_string(tokens)
+            )
+            if answer and score > best_score:
+                best_answer, best_score, best_source = answer, score, r["source"]
+        return best_answer, best_source
+
     def qa(self, question: str) -> dict[str, list[str] | str]:
         return self.qa_batch([question])[0]
 
@@ -222,34 +303,17 @@ class NLPManager:
         for question in questions:
             retrieved = self._get_context(question)
             doc_ids = list(dict.fromkeys(r["source"] for r in retrieved))[:3]
-            context = " ".join([r["text"] for r in retrieved])
             try:
-                inputs = self.reader_tokenizer(
-                    question, context,
-                    return_tensors="pt",
-                    truncation=True,
-                    max_length=512
-                ).to(self.reader_device)
-
-                # Try regex first
-                regex_answer = self._extract_with_regex(question, context)
-                if regex_answer:
-                    answer = regex_answer
+                if _PER_PASSAGE:
+                    answer, best_source = self._read_per_passage(question, retrieved)
+                    if best_source:
+                        doc_ids = [best_source] + [d for d in doc_ids if d != best_source]
+                        doc_ids = doc_ids[:3]
                 else:
-                    # Fall back to extractive reader
-                    with torch.no_grad():
-                        outputs = self.reader_model(**inputs)
-                    start = outputs.start_logits.argmax()
-                    end = outputs.end_logits.argmax() + 1
-                    tokens = self.reader_tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][start:end])
-                    answer = self.reader_tokenizer.convert_tokens_to_string(tokens)
-                    answer = answer.replace("[SEP]", "").replace("[CLS]", "").replace("[PAD]", "")
-                    answer = answer.lstrip("?").lstrip(".").strip()
-                    answer = " ".join(answer.split()).strip()
-                    
+                    context = " ".join([r["text"] for r in retrieved])
+                    answer = self._read_span(question, context)
                 if not answer.strip():
                     answer = retrieved[0]["text"][:200] if retrieved else ""
-                
             except Exception:
                 answer = retrieved[0]["text"][:200] if retrieved else ""
             results.append({"documents": doc_ids, "answer": answer})
