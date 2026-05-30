@@ -173,11 +173,27 @@ class NLPManager:
                 ).to(self.reader_device)
                 with torch.no_grad():
                     outputs = self.reader_model(**inputs)
+
+                # Find where context starts (after [SEP] token)
+                input_ids = inputs["input_ids"][0]
+                sep_token_id = self.reader_tokenizer.sep_token_id
+                sep_positions = (input_ids == sep_token_id).nonzero(as_tuple=True)[0]
+                context_start = sep_positions[0].item() + 1 if len(sep_positions) > 0 else 0
+
+                # Mask out question tokens from logits
+                start_logits = outputs.start_logits[0].clone()
+                end_logits = outputs.end_logits[0].clone()
+                start_logits[:context_start] = -float('inf')
+                end_logits[:context_start] = -float('inf')
+
                 start = outputs.start_logits.argmax()
                 end = outputs.end_logits.argmax() + 1
-                tokens = self.reader_tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][start:end])
+                tokens = self.reader_tokenizer.convert_ids_to_tokens(input_ids[start:end])
                 answer = self.reader_tokenizer.convert_tokens_to_string(tokens)
-                
+                answer = answer.replace("[SEP]", "").replace("[CLS]", "").replace("[PAD]", "")
+                answer = answer.lstrip("?").lstrip(".").strip()
+                answer = " ".join(answer.split()).strip()
+   
                 # Trim to ~64 tokens to match evaluator limit
                 answer = answer.replace("[SEP]", "").replace("[CLS]", "").replace("[PAD]", "")
                 answer = answer.lstrip("?").lstrip(".").strip()
