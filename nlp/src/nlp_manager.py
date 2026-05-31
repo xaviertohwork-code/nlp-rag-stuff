@@ -1,9 +1,9 @@
-"""Manages the NLP model. 0.818 extractive config + optional reranker skip.
+"""Manages the NLP model. 0.818 extractive config + BATCHED reranker.
 
-NO_RERANK=1 (default for this experiment): skip the cross-encoder, take RRF
-top-5 directly. Retrieval ~120ms/q instead of ~800ms/q. Tradeoff measured:
-retrieval recall 0.959 (no rerank) vs 0.982 (rerank) -> ~2.3% recall for ~6.7x speed.
-NO_RERANK=0: original 0.818 behavior (rerank RRF top-20 -> top-5).
+The reranker is essential for chunk quality (dropping it -> 0.477 acc) but slow
+when called per-question (~682ms/q on T4, unbatched). This version collects ALL
+questions' candidate pairs and reranks them in ONE batched GPU call, then reads.
+Same accuracy as 0.818, far better speed.
 """
 import math
 import re
@@ -28,7 +28,8 @@ EMBEDDING_MODEL = str(_MODELS / "bge-small/models--BAAI--bge-small-en-v1.5/snaps
 RERANKER_MODEL  = str(_MODELS / "gte-reranker/models--Alibaba-NLP--gte-reranker-modernbert-base/snapshots/f7481e6055501a30fb19d090657df9ec1f79ab2c")
 READER_MODEL    = str(_MODELS / "modernbert-squad2/models--kiddothe2b--ModernBERT-base-squad2/snapshots/327d7b52f1023f23dc6962672f91257b2878fc88")
 
-_NO_RERANK = os.environ.get("NO_RERANK", "1") == "1"  # default: skip reranker (the experiment)
+# reranker batch size for the big cross-encoder call (tune for T4 VRAM)
+_RERANK_BATCH = int(os.environ.get("RERANK_BATCH", "128"))
 
 enc = tiktoken.get_encoding("cl100k_base")
 
@@ -99,6 +100,18 @@ class DenseRetriever:
         return [{"source": self.chunks[i]["source"], "chunk_id": self.chunks[i]["chunk_id"],
                  "score": float(scores[i]), "text": self.chunks[i]["text"]} for i in top_indices]
 
+    def search_batch(self, queries, top_k=50):
+        """Encode all queries at once, then score each. Faster than per-query."""
+        q_emb = self.model.encode(queries, normalize_embeddings=True, convert_to_numpy=True,
+                                  batch_size=128, show_progress_bar=False)
+        out = []
+        for qe in q_emb:
+            scores = self.embeddings @ qe
+            top = np.argsort(scores)[::-1][:top_k]
+            out.append([{"source": self.chunks[i]["source"], "chunk_id": self.chunks[i]["chunk_id"],
+                         "score": float(scores[i]), "text": self.chunks[i]["text"]} for i in top])
+        return out
+
 
 class RRF:
     def __init__(self, bm25, dense, k=60):
@@ -106,9 +119,7 @@ class RRF:
         self.dense = dense
         self.k = k
 
-    def search(self, query, top_k=20):
-        bm25_results = self.bm25.search(query, top_k=50)
-        dense_results = self.dense.search(query, top_k=50)
+    def _fuse(self, bm25_results, dense_results, top_k):
         rrf_scores = {}
         chunk_map = {}
         for rank, r in enumerate(bm25_results):
@@ -123,20 +134,32 @@ class RRF:
         return [{"source": key[0], "chunk_id": key[1], "score": score,
                  "text": chunk_map[key]["text"]} for key, score in ranked]
 
+    def search(self, query, top_k=20):
+        return self._fuse(self.bm25.search(query, top_k=50),
+                          self.dense.search(query, top_k=50), top_k)
+
+    def search_batch(self, queries, top_k=20):
+        dense_all = self.dense.search_batch(queries, top_k=50)
+        out = []
+        for q, dn in zip(queries, dense_all):
+            bm = self.bm25.search(q, top_k=50)
+            out.append(self._fuse(bm, dn, top_k))
+        return out
+
 
 class NLPManager:
     loaded = False
 
     def __init__(self):
         device = "cuda" if torch.cuda.is_available() else "cpu"
-        self.reranker = None if _NO_RERANK else CrossEncoder(RERANKER_MODEL, device=device)
+        self.reranker = CrossEncoder(RERANKER_MODEL, device=device)
         self.reader_tokenizer = AutoTokenizer.from_pretrained(READER_MODEL)
         self.reader_model = AutoModelForQuestionAnswering.from_pretrained(READER_MODEL).to(device)
         self.reader_model.eval()
         self.reader_device = device
         self.rrf = None
         self.all_chunks = []
-        print(f"[retrieval] no_rerank={_NO_RERANK}")
+        print(f"[retrieval] batched reranker, batch={_RERANK_BATCH}")
 
     def load_corpus(self, documents: list[dict[str, str]]) -> None:
         all_chunks = []
@@ -151,44 +174,58 @@ class NLPManager:
         self.all_chunks = all_chunks
         self.loaded = True
 
-    def _get_context(self, question, rrf_top_k=20, rerank_top_k=5, score_threshold=-1.0):
-        if _NO_RERANK:
-            # skip cross-encoder: take RRF top-5 directly (RRF already fuses bm25+dense rank)
-            return self.rrf.search(question, top_k=rerank_top_k)
-        rrf_results = self.rrf.search(question, top_k=rrf_top_k)
-        pairs = [(question, r["text"]) for r in rrf_results]
-        scores = self.reranker.predict(pairs)
-        ranked = sorted(zip(scores, rrf_results), key=lambda x: x[0], reverse=True)
-        top = ranked[:rerank_top_k]
-        filtered = [r for s, r in top if s > score_threshold]
-        return filtered if filtered else [ranked[0][1]]
+    def _read_one(self, question, retrieved):
+        context = " ".join([r["text"] for r in retrieved])
+        try:
+            inputs = self.reader_tokenizer(
+                question, context, return_tensors="pt", truncation=True, max_length=512
+            ).to(self.reader_device)
+            with torch.no_grad():
+                outputs = self.reader_model(**inputs)
+            start = outputs.start_logits.argmax()
+            end = outputs.end_logits.argmax() + 1
+            tokens = self.reader_tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][start:end])
+            answer = self.reader_tokenizer.convert_tokens_to_string(tokens)
+            answer = answer.replace("[SEP]", "").replace("[CLS]", "").replace("[PAD]", "")
+            answer = answer.lstrip("?").lstrip(".").strip()
+            answer = " ".join(answer.split()).strip()
+            if not answer.strip():
+                answer = retrieved[0]["text"][:200] if retrieved else ""
+        except Exception:
+            answer = retrieved[0]["text"][:200] if retrieved else ""
+        return answer
 
     def qa(self, question: str) -> dict[str, list[str] | str]:
         return self.qa_batch([question])[0]
 
-    def qa_batch(self, questions: list[str]) -> list[dict[str, list[str] | str]]:
+    def qa_batch(self, questions: list[str], rrf_top_k=20, rerank_top_k=5, score_threshold=-1.0):
+        # 1. retrieval for all questions (dense encoded in one batch)
+        rrf_lists = self.rrf.search_batch(questions, top_k=rrf_top_k)
+
+        # 2. collect ALL (question, chunk) pairs into one list, remember spans
+        all_pairs = []
+        spans = []  # (start_idx, end_idx) into all_pairs for each question
+        for q, rrf_results in zip(questions, rrf_lists):
+            s = len(all_pairs)
+            for r in rrf_results:
+                all_pairs.append((q, r["text"]))
+            spans.append((s, len(all_pairs)))
+
+        # 3. ONE batched reranker call over every pair
+        if all_pairs:
+            all_scores = self.reranker.predict(all_pairs, batch_size=_RERANK_BATCH)
+        else:
+            all_scores = []
+
+        # 4. per question: pick top reranked chunks, then read
         results = []
-        for question in questions:
-            retrieved = self._get_context(question)
+        for (q, rrf_results, (s, e)) in zip(questions, rrf_lists, spans):
+            scores = all_scores[s:e]
+            ranked = sorted(zip(scores, rrf_results), key=lambda x: x[0], reverse=True)
+            top = ranked[:rerank_top_k]
+            filtered = [r for sc, r in top if sc > score_threshold]
+            retrieved = filtered if filtered else ([ranked[0][1]] if ranked else [])
             doc_ids = list(dict.fromkeys(r["source"] for r in retrieved))[:3]
-            context = " ".join([r["text"] for r in retrieved])
-            try:
-                inputs = self.reader_tokenizer(
-                    question, context,
-                    return_tensors="pt", truncation=True, max_length=512
-                ).to(self.reader_device)
-                with torch.no_grad():
-                    outputs = self.reader_model(**inputs)
-                start = outputs.start_logits.argmax()
-                end = outputs.end_logits.argmax() + 1
-                tokens = self.reader_tokenizer.convert_ids_to_tokens(inputs["input_ids"][0][start:end])
-                answer = self.reader_tokenizer.convert_tokens_to_string(tokens)
-                answer = answer.replace("[SEP]", "").replace("[CLS]", "").replace("[PAD]", "")
-                answer = answer.lstrip("?").lstrip(".").strip()
-                answer = " ".join(answer.split()).strip()
-                if not answer.strip():
-                    answer = retrieved[0]["text"][:200] if retrieved else ""
-            except Exception:
-                answer = retrieved[0]["text"][:200] if retrieved else ""
+            answer = self._read_one(q, retrieved) if retrieved else ""
             results.append({"documents": doc_ids, "answer": answer})
         return results
