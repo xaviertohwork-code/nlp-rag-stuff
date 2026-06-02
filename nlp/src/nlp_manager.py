@@ -163,28 +163,47 @@ class NLPManager:
         return self.qa_batch([question])[0]
 
     def qa_batch(self, questions):
-        # 1. retrieve context per question (unchanged proven stack)
-        contexts, doc_id_lists = [], []
+        # 1. retrieve per question. Keep chunks BEST-FIRST (already reranked order)
+        # so the most relevant chunk is never the one truncated away.
+        retrieved_lists, doc_id_lists = [], []
         for q in questions:
             retrieved = self._get_context(q)
             doc_id_lists.append(list(dict.fromkeys(r["source"] for r in retrieved))[:3])
-            contexts.append(" ".join(r["text"] for r in retrieved))
+            retrieved_lists.append(retrieved)
 
-        # 2. build prompts (cap CONTEXT so the question + "Answer:" always survive
-        # truncation -- otherwise the model only sees context and parrots it).
-        CTX_CHARS = 2000
-        prompts = [PROMPT_TMPL.format(context=c[:CTX_CHARS], question=q)
-                   for q, c in zip(questions, contexts)]
+        # 2. build prompts with a TOKEN budget for context, guaranteeing the
+        # question + "Answer:" suffix always survive (the earlier truncation bug
+        # cut the question, making the model parrot context). We tokenize context
+        # to a budget, leaving headroom for the question + template.
+        tok = self.reader_tokenizer
+        CTX_TOKEN_BUDGET = 700   # generous; was effectively ~480 chars before
+        prompts = []
+        for q, retrieved in zip(questions, retrieved_lists):
+            # concatenate chunks best-first until budget hit
+            ctx_parts, used = [], 0
+            for r in retrieved:
+                t = tok(r["text"], add_special_tokens=False)["input_ids"]
+                if used + len(t) > CTX_TOKEN_BUDGET:
+                    t = t[: max(0, CTX_TOKEN_BUDGET - used)]
+                if t:
+                    ctx_parts.append(tok.decode(t))
+                    used += len(t)
+                if used >= CTX_TOKEN_BUDGET:
+                    break
+            context = " ".join(ctx_parts)
+            prompts.append(PROMPT_TMPL.format(context=context, question=q))
+
         answers = []
         B = 16
         for i in range(0, len(prompts), B):
             chunk = prompts[i:i+B]
-            enc_in = self.reader_tokenizer(chunk, return_tensors="pt", padding=True,
-                                           truncation=True, max_length=1024).to(self.device)
+            # high max_length so the (budgeted) context + question both fit
+            enc_in = tok(chunk, return_tensors="pt", padding=True,
+                         truncation=True, max_length=1280).to(self.device)
             with torch.no_grad():
                 out = self.reader_model.generate(**enc_in, max_new_tokens=_MAX_NEW, do_sample=False,
-                                                 pad_token_id=self.reader_tokenizer.pad_token_id)
+                                                 pad_token_id=tok.pad_token_id)
             gen = out[:, enc_in["input_ids"].shape[1]:]
-            answers.extend(self.reader_tokenizer.batch_decode(gen, skip_special_tokens=True))
+            answers.extend(tok.batch_decode(gen, skip_special_tokens=True))
 
         return [{"documents": d, "answer": a.strip()} for d, a in zip(doc_id_lists, answers)]
