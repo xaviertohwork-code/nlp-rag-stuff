@@ -45,6 +45,7 @@ def _find_student():
 
 READER_MODEL = _find_student()
 _MAX_NEW = int(os.environ.get("MAX_NEW", "48"))
+_NO_RERANK = os.environ.get("NO_RERANK", "1") == "1"  # drop reranker for speed (student is robust)
 
 PROMPT_TMPL = (
     "Answer the question using only the context. Reply with the answer only, "
@@ -132,7 +133,7 @@ class NLPManager:
     def __init__(self):
         device = "cuda" if torch.cuda.is_available() else "cpu"
         self.device = device
-        self.reranker = CrossEncoder(RERANKER_MODEL, device=device)
+        self.reranker = None if _NO_RERANK else CrossEncoder(RERANKER_MODEL, device=device)
         self.reader_tokenizer = AutoTokenizer.from_pretrained(READER_MODEL)
         if self.reader_tokenizer.pad_token is None:
             self.reader_tokenizer.pad_token = self.reader_tokenizer.eos_token
@@ -150,7 +151,12 @@ class NLPManager:
         self.rrf = RRF(BM25(all_chunks), DenseRetriever(all_chunks))
         self.all_chunks = all_chunks; self.loaded = True
 
-    def _get_context(self, question, rrf_top_k=20, rerank_top_k=5, score_threshold=-1.0):
+    def _get_context(self, question, rrf_top_k=10, rerank_top_k=5, score_threshold=-1.0):
+        # Reranker DROPPED for speed: the generative student is robust to RRF-only
+        # context (local A/B: only -6% vs reranked, far better than the extractive
+        # reader's -34% collapse). Retrieval ~120ms/q instead of ~927ms/q.
+        if _NO_RERANK:
+            return self.rrf.search(question, top_k=rerank_top_k)
         rrf_results = self.rrf.search(question, top_k=rrf_top_k)
         pairs = [(question, r["text"]) for r in rrf_results]
         scores = self.reranker.predict(pairs)
@@ -163,6 +169,7 @@ class NLPManager:
         return self.qa_batch([question])[0]
 
     def qa_batch(self, questions):
+        print(f"[qa_batch] received {len(questions)} question(s)", flush=True)
         # 1. retrieve per question. Keep chunks BEST-FIRST (already reranked order)
         # so the most relevant chunk is never the one truncated away.
         retrieved_lists, doc_id_lists = [], []
