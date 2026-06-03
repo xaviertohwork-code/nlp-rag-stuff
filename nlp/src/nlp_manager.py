@@ -31,7 +31,7 @@ RERANKER_MODEL  = str(_MODELS / "gte-reranker/models--Alibaba-NLP--gte-reranker-
 
 def _find_student():
     """Auto-detect the merged student model dir under models/."""
-    for cand in ["student_1.5b_merged", "student_merged", "student"]:
+    for cand in ["student_1.5b_clean", "student_1.5b_merged", "student_merged", "student"]:
         p = _MODELS / cand
         if p.exists():
             # could be the dir itself or a HF cache layout
